@@ -1,0 +1,322 @@
+[
+  {
+    "museum_id": "MUSEUM-011",
+    "museum_score": 87.1,
+    "volatility_score": 40.14,
+    "confidence": 0.501,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 15.716333827220083,
+      "age_years": 473.0,
+      "loans_3y": 11,
+      "avg_loan_length_months": 18.418803418803417,
+      "cv_loans_12q": 0.5325752187591567
+    },
+    "name": "Getty",
+    "location": "Los Angeles"
+  },
+  {
+    "museum_id": "MUSEUM-008",
+    "museum_score": 78.56,
+    "volatility_score": 60.42,
+    "confidence": 0.441,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 16.024792266193185,
+      "age_years": 364.0,
+      "loans_3y": 8,
+      "avg_loan_length_months": 19.178571428571427,
+      "cv_loans_12q": 0.4670993664969137
+    },
+    "name": "Hermitage",
+    "location": "Amsterdam"
+  },
+  {
+    "museum_id": "MUSEUM-001",
+    "museum_score": 78.29,
+    "volatility_score": 53.79,
+    "confidence": 0.496,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 15.549897943467773,
+      "age_years": 304.0,
+      "loans_3y": 10,
+      "avg_loan_length_months": 19.425742574257427,
+      "cv_loans_12q": 0.48850421045919723
+    },
+    "name": "Metropolitan Museum",
+    "location": "New York"
+  },
+  {
+    "museum_id": "MUSEUM-010",
+    "museum_score": 74.03,
+    "volatility_score": 100.0,
+    "confidence": 0.446,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 15.809578834761377,
+      "age_years": 309.0,
+      "loans_3y": 8,
+      "avg_loan_length_months": 19.202247191011235,
+      "cv_loans_12q": 0.3336424046406527
+    },
+    "name": "Guggenheim",
+    "location": "Moscow"
+  },
+  {
+    "museum_id": "MUSEUM-020",
+    "museum_score": 70.78,
+    "volatility_score": 92.51,
+    "confidence": 0.402,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 15.844061224275164,
+      "age_years": 298.0,
+      "loans_3y": 7,
+      "avg_loan_length_months": 19.22641509433962,
+      "cv_loans_12q": 0.36347904744313214
+    },
+    "name": "Albertina",
+    "location": "Mexico City"
+  },
+  {
+    "museum_id": "MUSEUM-006",
+    "museum_score": 70.12,
+    "volatility_score": 0.0,
+    "confidence": 0.337,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 15.848765611716,
+      "age_years": 470.0,
+      "loans_3y": 5,
+      "avg_loan_length_months": 18.63917525773196,
+      "cv_loans_12q": 0.665719023448946
+    },
+    "name": "MoMA",
+    "location": "Rome"
+  },
+  {
+    "museum_id": "MUSEUM-002",
+    "museum_score": 69.89,
+    "volatility_score": 51.08,
+    "confidence": 0.467,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 15.63109380717238,
+      "age_years": 247.0,
+      "loans_3y": 9,
+      "avg_loan_length_months": 18.569767441860463,
+      "cv_loans_12q": 0.4972652484064488
+    },
+    "name": "Louvre",
+    "location": "Paris"
+  },
+  {
+    "museum_id": "MUSEUM-018",
+    "museum_score": 68.52,
+    "volatility_score": 49.98,
+    "confidence": 0.452,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 14.655862781737163,
+      "age_years": 493.0,
+      "loans_3y": 8,
+      "avg_loan_length_months": 18.645833333333332,
+      "cv_loans_12q": 0.5008177649044794
+    },
+    "name": "National Palace",
+    "location": "Toronto"
+  },
+  {
+    "museum_id": "MUSEUM-012",
+    "museum_score": 67.43,
+    "volatility_score": 71.24,
+    "confidence": 0.381,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 15.574794010682542,
+      "age_years": 453.0,
+      "loans_3y": 6,
+      "avg_loan_length_months": 18.080357142857142,
+      "cv_loans_12q": 0.4321615859416896
+    },
+    "name": "Pompidou",
+    "location": "Chicago"
+  },
+  {
+    "museum_id": "MUSEUM-019",
+    "museum_score": 66.48,
+    "volatility_score": 40.37,
+    "confidence": 0.416,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 15.002297629935697,
+      "age_years": 345.0,
+      "loans_3y": 8,
+      "avg_loan_length_months": 18.944444444444443,
+      "cv_loans_12q": 0.5318160234783104
+    },
+    "name": "Pinakothek",
+    "location": "São Paulo"
+  },
+  {
+    "museum_id": "MUSEUM-015",
+    "museum_score": 65.37,
+    "volatility_score": 90.72,
+    "confidence": 0.514,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 15.29758839595667,
+      "age_years": 218.0,
+      "loans_3y": 11,
+      "avg_loan_length_months": 17.07894736842105,
+      "cv_loans_12q": 0.36927447293799825
+    },
+    "name": "Ashmolean",
+    "location": "Shanghai"
+  },
+  {
+    "museum_id": "MUSEUM-004",
+    "museum_score": 62.87,
+    "volatility_score": 65.88,
+    "confidence": 0.41,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 15.872222989370783,
+      "age_years": 247.0,
+      "loans_3y": 7,
+      "avg_loan_length_months": 17.818181818181817,
+      "cv_loans_12q": 0.4494665749754947
+    },
+    "name": "Prado",
+    "location": "Madrid"
+  },
+  {
+    "museum_id": "MUSEUM-009",
+    "museum_score": 60.37,
+    "volatility_score": 58.93,
+    "confidence": 0.381,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 15.955179230706856,
+      "age_years": 269.0,
+      "loans_3y": 5,
+      "avg_loan_length_months": 18.301204819277107,
+      "cv_loans_12q": 0.4719232400622504
+    },
+    "name": "Rijksmuseum",
+    "location": "Berlin"
+  },
+  {
+    "museum_id": "MUSEUM-007",
+    "museum_score": 56.25,
+    "volatility_score": 90.72,
+    "confidence": 0.338,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 15.842693471050334,
+      "age_years": 212.0,
+      "loans_3y": 4,
+      "avg_loan_length_months": 19.0,
+      "cv_loans_12q": 0.36927447293799825
+    },
+    "name": "National Gallery",
+    "location": "Vienna"
+  },
+  {
+    "museum_id": "MUSEUM-005",
+    "museum_score": 54.28,
+    "volatility_score": 87.2,
+    "confidence": 0.565,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 14.140093105821437,
+      "age_years": 132.0,
+      "loans_3y": 13,
+      "avg_loan_length_months": 16.933962264150942,
+      "cv_loans_12q": 0.38062150132740435
+    },
+    "name": "Uffizi",
+    "location": "Florence"
+  },
+  {
+    "museum_id": "MUSEUM-017",
+    "museum_score": 43.19,
+    "volatility_score": 90.72,
+    "confidence": 0.34,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 15.482546398748779,
+      "age_years": 111.0,
+      "loans_3y": 4,
+      "avg_loan_length_months": 17.865168539325843,
+      "cv_loans_12q": 0.36927447293799825
+    },
+    "name": "Reina Sofia",
+    "location": "Dubai"
+  },
+  {
+    "museum_id": "MUSEUM-014",
+    "museum_score": 39.65,
+    "volatility_score": 90.72,
+    "confidence": 0.251,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 15.353752531081469,
+      "age_years": 133.0,
+      "loans_3y": 3,
+      "avg_loan_length_months": 17.698630136986303,
+      "cv_loans_12q": 0.36927447293799825
+    },
+    "name": "Whitney",
+    "location": "Beijing"
+  },
+  {
+    "museum_id": "MUSEUM-016",
+    "museum_score": 31.98,
+    "volatility_score": 8.25,
+    "confidence": 0.5,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 12.054580927528658,
+      "age_years": 222.0,
+      "loans_3y": 10,
+      "avg_loan_length_months": 17.654761904761905,
+      "cv_loans_12q": 0.6355317440318964
+    },
+    "name": "Kunsthistorisches",
+    "location": "Seoul"
+  },
+  {
+    "museum_id": "MUSEUM-013",
+    "museum_score": 30.46,
+    "volatility_score": 90.72,
+    "confidence": 0.42,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 13.127149903688284,
+      "age_years": 159.0,
+      "loans_3y": 7,
+      "avg_loan_length_months": 17.701030927835053,
+      "cv_loans_12q": 0.36927447293799825
+    },
+    "name": "V&A",
+    "location": "Tokyo"
+  },
+  {
+    "museum_id": "MUSEUM-003",
+    "museum_score": 27.23,
+    "volatility_score": 4.69,
+    "confidence": 0.478,
+    "created_at": "2025-09-17T14:06:33Z",
+    "drivers_json": {
+      "vis_log1p": 12.091559258741412,
+      "age_years": 52.0,
+      "loans_3y": 10,
+      "avg_loan_length_months": 18.238532110091743,
+      "cv_loans_12q": 0.6470151701072064
+    },
+    "name": "Tate Modern",
+    "location": "London"
+  }
+]

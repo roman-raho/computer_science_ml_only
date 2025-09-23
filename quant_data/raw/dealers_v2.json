@@ -1,0 +1,362 @@
+[
+  {
+    "dealer_id": "DEALER-001",
+    "gallery_id": "GALLERY-004",
+    "dealer_name": "Skyler Williams",
+    "number_of_artists": 7
+  },
+  {
+    "dealer_id": "DEALER-002",
+    "gallery_id": "GALLERY-027",
+    "dealer_name": "Skyler Brown",
+    "number_of_artists": 14
+  },
+  {
+    "dealer_id": "DEALER-003",
+    "gallery_id": "GALLERY-003",
+    "dealer_name": "Mason Moore",
+    "number_of_artists": 10
+  },
+  {
+    "dealer_id": "DEALER-004",
+    "gallery_id": "GALLERY-036",
+    "dealer_name": "Noah Hernandez",
+    "number_of_artists": 14
+  },
+  {
+    "dealer_id": "DEALER-005",
+    "gallery_id": "GALLERY-004",
+    "dealer_name": "Riley Jones",
+    "number_of_artists": 9
+  },
+  {
+    "dealer_id": "DEALER-006",
+    "gallery_id": "GALLERY-022",
+    "dealer_name": "Elijah Hernandez",
+    "number_of_artists": 16
+  },
+  {
+    "dealer_id": "DEALER-007",
+    "gallery_id": "GALLERY-016",
+    "dealer_name": "Riley Smith",
+    "number_of_artists": 16
+  },
+  {
+    "dealer_id": "DEALER-008",
+    "gallery_id": "GALLERY-028",
+    "dealer_name": "Isabella Williams",
+    "number_of_artists": 10
+  },
+  {
+    "dealer_id": "DEALER-009",
+    "gallery_id": "GALLERY-039",
+    "dealer_name": "Mason Williams",
+    "number_of_artists": 23
+  },
+  {
+    "dealer_id": "DEALER-010",
+    "gallery_id": "GALLERY-001",
+    "dealer_name": "Noah Anderson",
+    "number_of_artists": 12
+  },
+  {
+    "dealer_id": "DEALER-011",
+    "gallery_id": "GALLERY-007",
+    "dealer_name": "Harper Johnson",
+    "number_of_artists": 14
+  },
+  {
+    "dealer_id": "DEALER-012",
+    "gallery_id": "GALLERY-006",
+    "dealer_name": "Olivia Jones",
+    "number_of_artists": 21
+  },
+  {
+    "dealer_id": "DEALER-013",
+    "gallery_id": "GALLERY-009",
+    "dealer_name": "Mia Smith",
+    "number_of_artists": 15
+  },
+  {
+    "dealer_id": "DEALER-014",
+    "gallery_id": "GALLERY-019",
+    "dealer_name": "Evelyn Wilson",
+    "number_of_artists": 7
+  },
+  {
+    "dealer_id": "DEALER-015",
+    "gallery_id": "GALLERY-037",
+    "dealer_name": "Lucas Rodriguez",
+    "number_of_artists": 15
+  },
+  {
+    "dealer_id": "DEALER-016",
+    "gallery_id": "GALLERY-031",
+    "dealer_name": "Charlotte Johnson",
+    "number_of_artists": 14
+  },
+  {
+    "dealer_id": "DEALER-017",
+    "gallery_id": "GALLERY-020",
+    "dealer_name": "Noah Taylor",
+    "number_of_artists": 10
+  },
+  {
+    "dealer_id": "DEALER-018",
+    "gallery_id": "GALLERY-031",
+    "dealer_name": "Avery Martin",
+    "number_of_artists": 12
+  },
+  {
+    "dealer_id": "DEALER-019",
+    "gallery_id": "GALLERY-034",
+    "dealer_name": "Aiden Hernandez",
+    "number_of_artists": 16
+  },
+  {
+    "dealer_id": "DEALER-020",
+    "gallery_id": "GALLERY-001",
+    "dealer_name": "Mason Taylor",
+    "number_of_artists": 14
+  },
+  {
+    "dealer_id": "DEALER-021",
+    "gallery_id": "GALLERY-028",
+    "dealer_name": "Olivia Moore",
+    "number_of_artists": 22
+  },
+  {
+    "dealer_id": "DEALER-022",
+    "gallery_id": "GALLERY-039",
+    "dealer_name": "Harper Thomas",
+    "number_of_artists": 14
+  },
+  {
+    "dealer_id": "DEALER-023",
+    "gallery_id": "GALLERY-034",
+    "dealer_name": "Olivia Wilson",
+    "number_of_artists": 16
+  },
+  {
+    "dealer_id": "DEALER-024",
+    "gallery_id": "GALLERY-024",
+    "dealer_name": "Oliver Johnson",
+    "number_of_artists": 18
+  },
+  {
+    "dealer_id": "DEALER-025",
+    "gallery_id": "GALLERY-012",
+    "dealer_name": "Sophia Williams",
+    "number_of_artists": 13
+  },
+  {
+    "dealer_id": "DEALER-026",
+    "gallery_id": "GALLERY-032",
+    "dealer_name": "Olivia Rodriguez",
+    "number_of_artists": 13
+  },
+  {
+    "dealer_id": "DEALER-027",
+    "gallery_id": "GALLERY-011",
+    "dealer_name": "Noah Hernandez",
+    "number_of_artists": 15
+  },
+  {
+    "dealer_id": "DEALER-028",
+    "gallery_id": "GALLERY-036",
+    "dealer_name": "Mason Williams",
+    "number_of_artists": 18
+  },
+  {
+    "dealer_id": "DEALER-029",
+    "gallery_id": "GALLERY-030",
+    "dealer_name": "Mason Jackson",
+    "number_of_artists": 16
+  },
+  {
+    "dealer_id": "DEALER-030",
+    "gallery_id": "GALLERY-022",
+    "dealer_name": "Alex Miller",
+    "number_of_artists": 11
+  },
+  {
+    "dealer_id": "DEALER-031",
+    "gallery_id": "GALLERY-038",
+    "dealer_name": "Taylor Lopez",
+    "number_of_artists": 12
+  },
+  {
+    "dealer_id": "DEALER-032",
+    "gallery_id": "GALLERY-001",
+    "dealer_name": "Harper Lopez",
+    "number_of_artists": 13
+  },
+  {
+    "dealer_id": "DEALER-033",
+    "gallery_id": "GALLERY-015",
+    "dealer_name": "Mason Moore",
+    "number_of_artists": 16
+  },
+  {
+    "dealer_id": "DEALER-034",
+    "gallery_id": "GALLERY-033",
+    "dealer_name": "Sophia Johnson",
+    "number_of_artists": 10
+  },
+  {
+    "dealer_id": "DEALER-035",
+    "gallery_id": "GALLERY-019",
+    "dealer_name": "Lucas Davis",
+    "number_of_artists": 14
+  },
+  {
+    "dealer_id": "DEALER-036",
+    "gallery_id": "GALLERY-035",
+    "dealer_name": "Lucas Garcia",
+    "number_of_artists": 12
+  },
+  {
+    "dealer_id": "DEALER-037",
+    "gallery_id": "GALLERY-010",
+    "dealer_name": "Elijah Anderson",
+    "number_of_artists": 7
+  },
+  {
+    "dealer_id": "DEALER-038",
+    "gallery_id": "GALLERY-025",
+    "dealer_name": "Isabella Anderson",
+    "number_of_artists": 8
+  },
+  {
+    "dealer_id": "DEALER-039",
+    "gallery_id": "GALLERY-003",
+    "dealer_name": "Alex Jones",
+    "number_of_artists": 9
+  },
+  {
+    "dealer_id": "DEALER-040",
+    "gallery_id": "GALLERY-030",
+    "dealer_name": "Avery Smith",
+    "number_of_artists": 13
+  },
+  {
+    "dealer_id": "DEALER-041",
+    "gallery_id": "GALLERY-017",
+    "dealer_name": "Mia Lopez",
+    "number_of_artists": 12
+  },
+  {
+    "dealer_id": "DEALER-042",
+    "gallery_id": "GALLERY-018",
+    "dealer_name": "Ethan Wilson",
+    "number_of_artists": 15
+  },
+  {
+    "dealer_id": "DEALER-043",
+    "gallery_id": "GALLERY-001",
+    "dealer_name": "Morgan Martin",
+    "number_of_artists": 18
+  },
+  {
+    "dealer_id": "DEALER-044",
+    "gallery_id": "GALLERY-005",
+    "dealer_name": "Oliver Lopez",
+    "number_of_artists": 16
+  },
+  {
+    "dealer_id": "DEALER-045",
+    "gallery_id": "GALLERY-006",
+    "dealer_name": "Taylor Wilson",
+    "number_of_artists": 18
+  },
+  {
+    "dealer_id": "DEALER-046",
+    "gallery_id": "GALLERY-001",
+    "dealer_name": "Mia Moore",
+    "number_of_artists": 16
+  },
+  {
+    "dealer_id": "DEALER-047",
+    "gallery_id": "GALLERY-025",
+    "dealer_name": "Taylor Moore",
+    "number_of_artists": 12
+  },
+  {
+    "dealer_id": "DEALER-048",
+    "gallery_id": "GALLERY-026",
+    "dealer_name": "Alex Hernandez",
+    "number_of_artists": 13
+  },
+  {
+    "dealer_id": "DEALER-049",
+    "gallery_id": "GALLERY-017",
+    "dealer_name": "Lucas Johnson",
+    "number_of_artists": 11
+  },
+  {
+    "dealer_id": "DEALER-050",
+    "gallery_id": "GALLERY-036",
+    "dealer_name": "Noah Wilson",
+    "number_of_artists": 12
+  },
+  {
+    "dealer_id": "DEALER-051",
+    "gallery_id": "GALLERY-023",
+    "dealer_name": "Alex Garcia",
+    "number_of_artists": 17
+  },
+  {
+    "dealer_id": "DEALER-052",
+    "gallery_id": "GALLERY-027",
+    "dealer_name": "Taylor Jones",
+    "number_of_artists": 20
+  },
+  {
+    "dealer_id": "DEALER-053",
+    "gallery_id": "GALLERY-024",
+    "dealer_name": "Olivia Davis",
+    "number_of_artists": 10
+  },
+  {
+    "dealer_id": "DEALER-054",
+    "gallery_id": "GALLERY-006",
+    "dealer_name": "Charlotte Johnson",
+    "number_of_artists": 16
+  },
+  {
+    "dealer_id": "DEALER-055",
+    "gallery_id": "GALLERY-034",
+    "dealer_name": "Mason Moore",
+    "number_of_artists": 12
+  },
+  {
+    "dealer_id": "DEALER-056",
+    "gallery_id": "GALLERY-020",
+    "dealer_name": "Casey Martinez",
+    "number_of_artists": 14
+  },
+  {
+    "dealer_id": "DEALER-057",
+    "gallery_id": "GALLERY-025",
+    "dealer_name": "Liam Jones",
+    "number_of_artists": 8
+  },
+  {
+    "dealer_id": "DEALER-058",
+    "gallery_id": "GALLERY-035",
+    "dealer_name": "Noah Taylor",
+    "number_of_artists": 11
+  },
+  {
+    "dealer_id": "DEALER-059",
+    "gallery_id": "GALLERY-008",
+    "dealer_name": "Emma Garcia",
+    "number_of_artists": 16
+  },
+  {
+    "dealer_id": "DEALER-060",
+    "gallery_id": "GALLERY-038",
+    "dealer_name": "Mason Wilson",
+    "number_of_artists": 15
+  }
+]

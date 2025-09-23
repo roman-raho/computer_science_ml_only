@@ -1,0 +1,36 @@
+feature,coef
+reserve_gt0,0.01880689027553633
+region_chicago,0.0
+region_seoul,-0.0
+region_hong kong,-0.0
+region_london,-0.0
+region_madrid,0.0
+region_milan,0.0
+region_new york,0.0
+region_paris,-0.0
+region_shanghai,0.0
+region_dubai,0.0
+region_sydney,-0.0
+region_tokyo,0.0
+region_zurich,-0.0
+season_q_1,-0.0
+season_q_2,0.0
+season_q_3,0.0
+region_geneva,-0.0
+season_q_4,0.0
+age,-0.0
+medium_watercolour,0.0
+medium_sculpture,-0.0
+medium_photography,0.0
+medium_oil on canvas,-0.0
+medium_mixed media,0.0
+medium_digital,0.0
+medium_acrylic,-0.0
+house_volatility,0.0
+auction_house_score,-0.0
+prov_volatility,-0.0
+artist_volatility,0.0
+artist_rep_score,-0.0
+signed_flag,0.0
+log_area,-0.0018536821923458308
+prov_score,-0.008920701220335975

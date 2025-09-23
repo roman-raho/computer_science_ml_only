@@ -1,0 +1,2102 @@
+[
+  {
+    "artist_id": "ddcb7b8d-d974-41af-a592-37d9d88e5c23",
+    "name": "Emma Brown",
+    "nationality": "Ukrainian",
+    "dealer_id": "a7d0a026-dd6c-4fdc-81ce-85aa6ffbd06c",
+    "created_at": "2024-06-02T22:52:23"
+  },
+  {
+    "artist_id": "4de49807-5577-4558-ba5e-b7f8d7006e69",
+    "name": "Liam Hernandez",
+    "nationality": "Chilean",
+    "dealer_id": "ca11cd2c-f5c1-4a70-b68c-9b03edc8f88a",
+    "created_at": "2024-09-28T19:03:03"
+  },
+  {
+    "artist_id": "fabc8848-c540-4749-a558-763b1cea5cba",
+    "name": "Olivia Moore-Ramirez",
+    "nationality": "Sri Lankan",
+    "dealer_id": "75d40cbd-c4a6-4d07-bd74-c3e35d494b1e",
+    "created_at": "2024-07-26T17:53:12"
+  },
+  {
+    "artist_id": "1b47926d-a9de-4c93-bf4d-3796fc3cad0c",
+    "name": "Noah Harris",
+    "nationality": "Israeli",
+    "dealer_id": "b359c61a-9802-470c-99ab-c587f03c5d07",
+    "created_at": "2024-09-21T03:45:45"
+  },
+  {
+    "artist_id": "f6ec810e-213c-46a6-97f0-f2935e2f5be9",
+    "name": "Ava Young-Roberts",
+    "nationality": "Belgian",
+    "dealer_id": "0e2baa18-4d16-42d0-91dc-32ccf68c50fb",
+    "created_at": "2024-08-20T18:20:51"
+  },
+  {
+    "artist_id": "c5a197d9-771e-4c00-b6eb-a6b0658ece06",
+    "name": "Elijah Hill",
+    "nationality": "Portuguese",
+    "dealer_id": "8af94658-01c0-409d-ba60-c81fb4dd3daf",
+    "created_at": "2024-06-25T00:55:17"
+  },
+  {
+    "artist_id": "fbcd6bbc-46ba-4c64-8988-422c24ff501b",
+    "name": "Sophia Rivera",
+    "nationality": "South African",
+    "dealer_id": "8a1c9f8b-b177-40cf-b847-e5480c4ee8df",
+    "created_at": "2024-09-02T15:19:26"
+  },
+  {
+    "artist_id": "4bb6a006-6987-4175-a9e4-6fe4bacf7ee3",
+    "name": "Lucas Williams",
+    "nationality": "Thai",
+    "dealer_id": "57ce0ad3-a53b-446e-9a0e-862d1be18533",
+    "created_at": "2024-09-04T03:00:17"
+  },
+  {
+    "artist_id": "54367a10-65ef-4e41-a8d3-112375fead2e",
+    "name": "Isabella Martinez",
+    "nationality": "British",
+    "dealer_id": "65224324-ba62-4534-8ec6-b9ffc0bcbe32",
+    "created_at": "2024-06-22T17:23:37"
+  },
+  {
+    "artist_id": "45e7d57a-917a-44b4-a391-8694b3821bd9",
+    "name": "Mason Taylor-Jones",
+    "nationality": "Norwegian",
+    "dealer_id": "7d78e26d-e5e4-4057-8879-56d13eddb0eb",
+    "created_at": "2024-06-10T18:54:59"
+  },
+  {
+    "artist_id": "df193ee5-1630-4ef6-a60d-a9f99a530fba",
+    "name": "Mia White",
+    "nationality": "Mexican",
+    "dealer_id": "71d14ebd-c8e3-4097-8310-aa9848903318",
+    "created_at": "2024-07-12T12:51:22"
+  },
+  {
+    "artist_id": "b8af46d3-0f2a-47db-baae-e57aebf029c1",
+    "name": "Ethan Walker",
+    "nationality": "Indian",
+    "dealer_id": "482d1e08-9af7-4120-9805-6a2657d8d36c",
+    "created_at": "2024-06-05T06:35:39"
+  },
+  {
+    "artist_id": "144fddf6-5030-402f-a17a-66ce99df3ddf",
+    "name": "Charlotte Nguyen",
+    "nationality": "Iraqi",
+    "dealer_id": "ffc353af-28c2-4ed1-a1de-25102c61eb7c",
+    "created_at": "2024-09-05T03:07:37"
+  },
+  {
+    "artist_id": "81ce8e74-7a78-4ace-bab5-a795d96508c1",
+    "name": "Logan Hall-Carter",
+    "nationality": "Dutch",
+    "dealer_id": "430df120-6760-4653-9d8b-597f9ccff0f1",
+    "created_at": "2024-09-29T17:57:50"
+  },
+  {
+    "artist_id": "2ee43eca-e664-41ca-946e-c465b49ef824",
+    "name": "Amelia Johnson",
+    "nationality": "Romanian",
+    "dealer_id": "636d2265-481c-4e79-953d-2bd152c184ed",
+    "created_at": "2024-06-23T22:26:01"
+  },
+  {
+    "artist_id": "7d368f2e-9d15-4ae5-ae90-e66c094b2faa",
+    "name": "James Rodriguez-Lee",
+    "nationality": "Peruvian",
+    "dealer_id": "550cdec5-6be4-44b6-9001-8a88b527f678",
+    "created_at": "2024-07-24T15:51:19"
+  },
+  {
+    "artist_id": "ecf68a78-2742-4a7c-aa6b-20362f0f6588",
+    "name": "Harper Thomas",
+    "nationality": "Japanese",
+    "dealer_id": "c3a751ec-0759-4b09-bda5-13f0f00287c2",
+    "created_at": "2024-08-13T18:36:49"
+  },
+  {
+    "artist_id": "cc7ee3c5-533d-4321-8eb4-495a836df0fb",
+    "name": "Benjamin Thompson",
+    "nationality": "Jordanian",
+    "dealer_id": "6db14a2f-c8d7-4d4d-9fed-8a9def9f0932",
+    "created_at": "2024-07-01T07:03:48"
+  },
+  {
+    "artist_id": "83e01d8e-b503-4826-9b04-e66ff153a007",
+    "name": "Evelyn Robinson",
+    "nationality": "Czech",
+    "dealer_id": "6bbec296-7840-4ba8-a337-9109b46827fa",
+    "created_at": "2024-09-26T00:00:39"
+  },
+  {
+    "artist_id": "54790199-a59c-40b0-b48e-90894c48874d",
+    "name": "Henry Torres",
+    "nationality": "Scottish",
+    "dealer_id": "3a675e7f-606f-4c49-8e76-c2d61a3361ee",
+    "created_at": "2024-06-30T16:21:42"
+  },
+  {
+    "artist_id": "985353d0-f08c-4a10-91f1-e86b8e1ce506",
+    "name": "Alexander Baker",
+    "nationality": "Kenyan",
+    "dealer_id": "4b5562a3-35cc-4acf-909a-ad4427146fef",
+    "created_at": "2024-06-29T08:12:36"
+  },
+  {
+    "artist_id": "1f1bf847-6ced-47af-9370-d302e95ed195",
+    "name": "Abigail Smith",
+    "nationality": "Australian",
+    "dealer_id": "06af684a-98f8-4b98-82c7-f51eb8128d9f",
+    "created_at": "2024-07-04T09:25:50"
+  },
+  {
+    "artist_id": "d7bb6db9-aa1c-4ae0-8a1c-8c544dad96e4",
+    "name": "Sebastian Davis",
+    "nationality": "Italian",
+    "dealer_id": "07b55e95-d436-4c40-a5c7-9c0971b51f86",
+    "created_at": "2024-09-26T16:43:42"
+  },
+  {
+    "artist_id": "3fc7eb7b-ec1e-4cf1-a37b-73848afa82c4",
+    "name": "Emily Anderson-Rodriguez",
+    "nationality": "Russian",
+    "dealer_id": "40ab5f97-3122-40c1-bbcd-a00ef60a9aea",
+    "created_at": "2024-06-22T22:58:15"
+  },
+  {
+    "artist_id": "0f585f20-4914-4760-bb00-5fde9726b355",
+    "name": "Jack Perez",
+    "nationality": "Argentine",
+    "dealer_id": "aa5cbce2-ba3f-4b8c-a4c6-dea9916d4a96",
+    "created_at": "2024-09-15T12:20:26"
+  },
+  {
+    "artist_id": "f9306646-ebb7-4e99-bce5-231807c5c667",
+    "name": "Avery Lewis-Walker",
+    "nationality": "Bangladeshi",
+    "dealer_id": "e9f0b319-b7fe-4e0c-ab12-475f37d5d381",
+    "created_at": "2024-07-01T00:43:59"
+  },
+  {
+    "artist_id": "83e71790-f58f-4eb7-8599-2fa269a9e19a",
+    "name": "Daniel Scott",
+    "nationality": "Emirati",
+    "dealer_id": "152891ad-8c64-4a32-b5b1-465aeb337a83",
+    "created_at": "2024-06-22T02:03:15"
+  },
+  {
+    "artist_id": "261347c1-1965-47ac-b405-89fa0eba7339",
+    "name": "Sofia Nelson-Williams",
+    "nationality": "Austrian",
+    "dealer_id": "c517b02f-a18f-452b-a858-914e59ae140a",
+    "created_at": "2024-06-07T14:13:00"
+  },
+  {
+    "artist_id": "4f38c1de-2f04-47bf-b1e8-89bd7de2b299",
+    "name": "Michael Roberts",
+    "nationality": "Greek",
+    "dealer_id": "d0ce207c-a038-4b48-9573-c7f203be94e3",
+    "created_at": "2024-06-12T02:07:49"
+  },
+  {
+    "artist_id": "4d276729-37d6-425c-b5a2-ddd4dce34a5b",
+    "name": "Ella Miller",
+    "nationality": "Egyptian",
+    "dealer_id": "ad47a24e-d328-47fb-b86d-0290b090034e",
+    "created_at": "2024-09-26T18:32:05"
+  },
+  {
+    "artist_id": "65a421fd-d744-415c-a919-001ba552b4bb",
+    "name": "Samuel Wilson",
+    "nationality": "Vietnamese",
+    "dealer_id": "a5a794e1-5641-4dd9-a7ee-591e0e506fa5",
+    "created_at": "2024-09-08T01:23:22"
+  },
+  {
+    "artist_id": "b8d1be72-0b92-4970-946e-d3e5e8b87f66",
+    "name": "Scarlett Lee-Campbell",
+    "nationality": "American",
+    "dealer_id": "5bcfe752-f754-4d0d-94c4-4ed0368f61f7",
+    "created_at": "2024-08-05T16:25:25"
+  },
+  {
+    "artist_id": "887ba837-9379-4183-a767-8b6c6aaee76e",
+    "name": "Jacob Ramirez",
+    "nationality": "Finnish",
+    "dealer_id": "4f5a79d1-90e4-4cc5-b5fb-362b39f892c5",
+    "created_at": "2024-06-08T12:30:11"
+  },
+  {
+    "artist_id": "ebb101a3-8381-42fd-aaca-809283d8d035",
+    "name": "Grace Wright",
+    "nationality": "Canadian",
+    "dealer_id": "0e401a22-6ebb-44e7-a371-960f7b2312a7",
+    "created_at": "2024-07-13T10:12:45"
+  },
+  {
+    "artist_id": "bab55397-4fc6-4c00-8371-0aef83ccc827",
+    "name": "David Adams",
+    "nationality": "Ghanaian",
+    "dealer_id": "5f6a21b5-8b6e-4e34-82b4-e8cfb58b7b08",
+    "created_at": "2024-09-28T08:01:04"
+  },
+  {
+    "artist_id": "5478d3e7-18c6-4615-835d-782af87e65ba",
+    "name": "Chloe Carter-Green",
+    "nationality": "Iranian",
+    "dealer_id": "9f18ddda-933e-476d-8b15-550739cbafad",
+    "created_at": "2024-09-07T16:20:47"
+  },
+  {
+    "artist_id": "a14b7eb3-201e-423f-ba50-52074f8bb20d",
+    "name": "Carter Garcia",
+    "nationality": "German",
+    "dealer_id": "0f3efb66-365a-4189-a849-55f720cd9fbb",
+    "created_at": "2024-06-12T06:01:06"
+  },
+  {
+    "artist_id": "ced6937f-c931-4da1-8ad9-dfe763d856cf",
+    "name": "Victoria Gonzalez-Gonzalez",
+    "nationality": "Hungarian",
+    "dealer_id": "5255de9b-5e3d-4443-a16f-4c8ad0ddaa9d",
+    "created_at": "2024-07-13T20:23:50"
+  },
+  {
+    "artist_id": "196ad2a9-9220-4af5-9075-b5aa4c77feb3",
+    "name": "Wyatt Martin-White",
+    "nationality": "Colombian",
+    "dealer_id": "7d8e5f9b-a1c1-441e-bd56-b4df0e4efaa3",
+    "created_at": "2024-06-21T22:29:47"
+  },
+  {
+    "artist_id": "36be13a7-9887-451a-80c5-e3a7103acd4c",
+    "name": "Riley Clark-Wright",
+    "nationality": "Chinese",
+    "dealer_id": "064a8cf9-1151-4c1a-9776-154707c74053",
+    "created_at": "2024-06-13T06:55:06"
+  },
+  {
+    "artist_id": "71837327-7850-4f14-ab04-1c869c3a5b96",
+    "name": "Joseph King",
+    "nationality": "Lebanese",
+    "dealer_id": "5cbb3929-9cd5-45e8-8c20-30d2867d0ea9",
+    "created_at": "2024-06-19T12:06:57"
+  },
+  {
+    "artist_id": "48232ccf-97a3-4600-9196-bb6ec956b8d5",
+    "name": "Nora Green",
+    "nationality": "Polish",
+    "dealer_id": "f21e306d-541f-4080-ac53-fcdad7f4e135",
+    "created_at": "2024-09-22T18:43:49"
+  },
+  {
+    "artist_id": "8b60e648-1348-430c-97df-547304f46700",
+    "name": "Owen Mitchell",
+    "nationality": "Irish",
+    "dealer_id": "941a2b15-a6bd-4c39-a878-be1b1b997ede",
+    "created_at": "2024-09-28T15:29:26"
+  },
+  {
+    "artist_id": "15af5863-b24c-42d4-9233-13d41587edca",
+    "name": "Lily Jones-Lewis",
+    "nationality": "Nigerian",
+    "dealer_id": "3d8ae8c8-b2fd-46fb-8522-e544756dd011",
+    "created_at": "2024-09-06T02:47:13"
+  },
+  {
+    "artist_id": "b0649cd3-0666-46f6-b1e8-d41bc3fc970f",
+    "name": "John Lopez-Flores",
+    "nationality": "Indonesian",
+    "dealer_id": "773a74a9-4767-41fe-94d7-c13920aefcc5",
+    "created_at": "2024-09-06T04:46:46"
+  },
+  {
+    "artist_id": "2cc80b2d-bd8e-41ab-b892-30c64ad9f107",
+    "name": "Hannah Jackson",
+    "nationality": "French",
+    "dealer_id": "5b8a17d2-1a7f-47fc-86c8-0a71aecfdb7c",
+    "created_at": "2024-07-02T18:42:39"
+  },
+  {
+    "artist_id": "6d035cce-adcb-4ee2-8cbd-66b3adc1fd53",
+    "name": "Luke Sanchez-Lopez",
+    "nationality": "Swedish",
+    "dealer_id": "5453ebda-da78-4734-ba91-aeea940b18d3",
+    "created_at": "2024-07-13T18:24:23"
+  },
+  {
+    "artist_id": "9f46a75f-dbe4-4926-85fd-2f9b9466489c",
+    "name": "Zoey Allen",
+    "nationality": "Brazilian",
+    "dealer_id": "26608b5c-0ce5-41f5-a2bd-f05556c71e0e",
+    "created_at": "2024-06-24T08:48:46"
+  },
+  {
+    "artist_id": "34d42ce0-8bfe-4945-b83c-a4cbfdc02137",
+    "name": "Gabriel Flores",
+    "nationality": "Pakistani",
+    "dealer_id": "f84aabcd-3232-4574-ba70-9494c44d8751",
+    "created_at": "2024-08-06T21:03:49"
+  },
+  {
+    "artist_id": "efe68b71-084f-4d5f-93de-315006eb4159",
+    "name": "Penelope Campbell",
+    "nationality": "Saudi",
+    "dealer_id": "1edfb8b8-d127-4ee2-ae26-e5dd75eafa40",
+    "created_at": "2024-08-06T03:12:06"
+  },
+  {
+    "artist_id": "e5ad01e2-c389-4343-b4d5-7bca55682a9b",
+    "name": "Emma Brown-Garcia",
+    "nationality": "Swiss",
+    "dealer_id": "353e6c78-4451-4067-a200-8afddd3b1f95",
+    "created_at": "2024-06-10T11:26:16"
+  },
+  {
+    "artist_id": "ba676e1e-395b-40aa-a41f-2029e6178d1d",
+    "name": "Liam Hernandez",
+    "nationality": "Turkish",
+    "dealer_id": "e066e000-5c9f-4a0d-b3c9-f1fe9c01fbf0",
+    "created_at": "2024-06-26T10:52:12"
+  },
+  {
+    "artist_id": "1b1f95a3-57f9-4653-9a94-731f3b1289e8",
+    "name": "Olivia Moore",
+    "nationality": "Moroccan",
+    "dealer_id": "763949bb-9c3b-42c7-9cdb-a71506666f2f",
+    "created_at": "2024-06-26T16:54:58"
+  },
+  {
+    "artist_id": "32f854bd-8630-498f-8747-dbaa28aaa74d",
+    "name": "Noah Harris",
+    "nationality": "Korean",
+    "dealer_id": "d0faeafa-c0c8-4365-a8f6-c7264eef8f2f",
+    "created_at": "2024-07-01T00:01:31"
+  },
+  {
+    "artist_id": "bdf6aed7-9b66-4037-b413-15f7530c1bf2",
+    "name": "Ava Young",
+    "nationality": "Qatari",
+    "dealer_id": "4aa884a7-a441-49e7-bca4-1a537019d7ec",
+    "created_at": "2024-06-18T07:35:50"
+  },
+  {
+    "artist_id": "84139df3-cf1c-490d-b769-63bf843563c2",
+    "name": "Elijah Hill",
+    "nationality": "Danish",
+    "dealer_id": "2825d042-276f-47c1-a824-b957ef9d3f90",
+    "created_at": "2024-09-07T14:09:19"
+  },
+  {
+    "artist_id": "63e85def-39ae-4ad6-be7e-4812fa2e54cc",
+    "name": "Sophia Rivera-Perez",
+    "nationality": "Welsh",
+    "dealer_id": "6049315e-636c-49d2-adde-ba22bd97a22f",
+    "created_at": "2024-07-25T13:36:12"
+  },
+  {
+    "artist_id": "165b333c-ecb6-4ee4-9478-c79701d89093",
+    "name": "Lucas Williams",
+    "nationality": "Ethiopian",
+    "dealer_id": "403ef5a8-18c0-495f-8a0f-c366b4bd0b6d",
+    "created_at": "2024-08-07T07:30:41"
+  },
+  {
+    "artist_id": "58ab2301-3ced-4c4d-9f78-7948a8f30e53",
+    "name": "Isabella Martinez",
+    "nationality": "New Zealander",
+    "dealer_id": "4d0cc3b3-779f-42de-9494-cd0f12e4f964",
+    "created_at": "2024-08-20T14:28:26"
+  },
+  {
+    "artist_id": "04b310bd-7f1d-4656-87c8-8b748f203a19",
+    "name": "Mason Taylor-Jones",
+    "nationality": "Spanish",
+    "dealer_id": "236ee382-dc81-4a04-8372-93cfecfcbcba",
+    "created_at": "2024-09-22T11:06:45"
+  },
+  {
+    "artist_id": "2322f344-d796-4c02-9bb9-b3f530b64243",
+    "name": "Mia White-Thomas",
+    "nationality": "Ukrainian",
+    "dealer_id": "24a0d733-4b88-43b1-96c9-d4e868b8fb7a",
+    "created_at": "2024-09-05T04:10:07"
+  },
+  {
+    "artist_id": "18de32c5-d05a-4165-8f02-c40c5b8f8fdc",
+    "name": "Ethan Walker",
+    "nationality": "Chilean",
+    "dealer_id": "2237831c-5959-4784-a97f-89e7382fe97b",
+    "created_at": "2024-07-22T23:11:12"
+  },
+  {
+    "artist_id": "87e6cd07-884e-455f-b0c5-96da0acb1a04",
+    "name": "Charlotte Nguyen",
+    "nationality": "Sri Lankan",
+    "dealer_id": "c59cd38f-3067-45ec-8cc0-a12f314a83e8",
+    "created_at": "2024-07-04T23:21:14"
+  },
+  {
+    "artist_id": "37396d1a-f036-4167-9ca7-7545d0040944",
+    "name": "Logan Hall",
+    "nationality": "Israeli",
+    "dealer_id": "7724ec60-080d-4d1b-9e76-64e7a760e7f3",
+    "created_at": "2024-08-01T13:50:01"
+  },
+  {
+    "artist_id": "464a0bfc-4df7-4250-806b-317286849dec",
+    "name": "Amelia Johnson-Martinez",
+    "nationality": "Belgian",
+    "dealer_id": "e26bc59f-c408-411f-86af-5345f13db901",
+    "created_at": "2024-06-04T19:59:48"
+  },
+  {
+    "artist_id": "6ffc4dbf-621f-4642-9cc6-d55f42ba92a8",
+    "name": "James Rodriguez-Lee",
+    "nationality": "Portuguese",
+    "dealer_id": "9f597f30-d12e-4e99-a596-a1abfc0f80a0",
+    "created_at": "2024-09-26T12:04:26"
+  },
+  {
+    "artist_id": "a9144b33-511e-480b-9ad2-f7955e61484c",
+    "name": "Harper Thomas",
+    "nationality": "South African",
+    "dealer_id": "9019f3ef-4beb-4736-897d-cc2bab079d78",
+    "created_at": "2024-08-20T15:01:37"
+  },
+  {
+    "artist_id": "0a6d284f-ea5c-4079-99a0-dbcdb560b78a",
+    "name": "Benjamin Thompson-Nelson",
+    "nationality": "Thai",
+    "dealer_id": "0ecc325e-36fe-4785-9df9-3545db1505e8",
+    "created_at": "2024-08-17T18:50:35"
+  },
+  {
+    "artist_id": "57f4ccd6-269c-4d20-bfa2-2a498bf9e938",
+    "name": "Evelyn Robinson",
+    "nationality": "British",
+    "dealer_id": "3e536ed2-1c40-4f5f-87a0-d30c6680e634",
+    "created_at": "2024-08-02T18:37:13"
+  },
+  {
+    "artist_id": "e39a0045-4e16-4ed0-bfbe-ec070c01fa4f",
+    "name": "Henry Torres-Anderson",
+    "nationality": "Norwegian",
+    "dealer_id": "c884692a-e00a-408e-b186-b4794c7a09b7",
+    "created_at": "2024-06-27T22:55:41"
+  },
+  {
+    "artist_id": "22681135-6119-401f-b0c0-a04f72c11d00",
+    "name": "Alexander Baker",
+    "nationality": "Mexican",
+    "dealer_id": "93cc47a1-eaa8-4c7e-ac04-247549936dba",
+    "created_at": "2024-09-18T02:08:12"
+  },
+  {
+    "artist_id": "77b4a2e2-8e41-4c33-b49d-2b11517e3752",
+    "name": "Abigail Smith-Torres",
+    "nationality": "Indian",
+    "dealer_id": "6b7bbb7d-fee9-44e7-96d4-a0b8bdc5d609",
+    "created_at": "2024-07-10T01:24:47"
+  },
+  {
+    "artist_id": "cc1ee5de-33d6-4abd-aa1d-371784e6763a",
+    "name": "Sebastian Davis",
+    "nationality": "Iraqi",
+    "dealer_id": "02fda51e-5d06-4a76-820b-fc4daac33f71",
+    "created_at": "2024-06-07T03:15:52"
+  },
+  {
+    "artist_id": "f72592f0-315a-429b-94cc-739e58a8bb5e",
+    "name": "Emily Anderson-Rodriguez",
+    "nationality": "Dutch",
+    "dealer_id": "abad0a17-e3f5-45e3-8fdf-38a0c99292c9",
+    "created_at": "2024-06-11T17:12:02"
+  },
+  {
+    "artist_id": "c8e63732-bca9-4512-9baf-6253c18b4830",
+    "name": "Jack Perez",
+    "nationality": "Romanian",
+    "dealer_id": "d71adf03-6157-435e-acb4-9d84260aa742",
+    "created_at": "2024-07-01T00:07:05"
+  },
+  {
+    "artist_id": "82d16ea2-f1b9-4830-a174-e1107c60ef79",
+    "name": "Avery Lewis",
+    "nationality": "Peruvian",
+    "dealer_id": "baefb65c-ca0b-48d6-b3f1-1468597bfced",
+    "created_at": "2024-06-02T17:27:27"
+  },
+  {
+    "artist_id": "9908bd70-a78e-4cf1-b611-03f698730c35",
+    "name": "Daniel Scott-Adams",
+    "nationality": "Japanese",
+    "dealer_id": "8d60d898-da62-48ef-b7d3-f38168bcf959",
+    "created_at": "2024-08-05T13:08:52"
+  },
+  {
+    "artist_id": "156b6293-f99a-476f-ab23-cea991a1120c",
+    "name": "Sofia Nelson",
+    "nationality": "Jordanian",
+    "dealer_id": "1ffb2305-fc87-4934-b41d-4b08f6b255c0",
+    "created_at": "2024-07-15T02:16:38"
+  },
+  {
+    "artist_id": "3c0bf614-9813-4b52-b0c1-880e44c2335a",
+    "name": "Michael Roberts-Wilson",
+    "nationality": "Czech",
+    "dealer_id": "4e2edbb0-f967-4cc0-80c4-4292c4bbb291",
+    "created_at": "2024-06-06T20:47:15"
+  },
+  {
+    "artist_id": "aea923ca-0feb-443f-8a9c-56f1d61fdb82",
+    "name": "Ella Miller-Harris",
+    "nationality": "Scottish",
+    "dealer_id": "d7720998-487f-4e2f-bd8b-6e519344d486",
+    "created_at": "2024-06-21T09:03:30"
+  },
+  {
+    "artist_id": "91c1c233-e4ba-4cb7-913d-e99bf6963e23",
+    "name": "Samuel Wilson-Scott",
+    "nationality": "Kenyan",
+    "dealer_id": "ca2e23a0-05de-4320-a660-d197395722a5",
+    "created_at": "2024-08-13T07:22:57"
+  },
+  {
+    "artist_id": "ebce0c58-fe89-46ed-91b3-0a9dbd113b9d",
+    "name": "Scarlett Lee",
+    "nationality": "Australian",
+    "dealer_id": "ce9dd6fc-348d-459d-90ec-42af76a8fb2a",
+    "created_at": "2024-09-03T22:20:38"
+  },
+  {
+    "artist_id": "f60fa8c3-64f3-4d43-a88f-aa318981b9a8",
+    "name": "Jacob Ramirez-Davis",
+    "nationality": "Italian",
+    "dealer_id": "62244684-8ec3-4ee8-b3a1-80e31f20b762",
+    "created_at": "2024-09-20T15:20:29"
+  },
+  {
+    "artist_id": "81125721-e356-445f-9588-8ea72f2df235",
+    "name": "Grace Wright-Jackson",
+    "nationality": "Russian",
+    "dealer_id": "bf579cd8-dafb-4d1a-9f0a-887b0370cfbc",
+    "created_at": "2024-06-28T08:00:20"
+  },
+  {
+    "artist_id": "b390358b-34b5-4278-b0f5-440c9357dcb7",
+    "name": "David Adams",
+    "nationality": "Argentine",
+    "dealer_id": "149b62cd-62fb-4423-968b-2bc0a72eb570",
+    "created_at": "2024-07-24T07:04:40"
+  },
+  {
+    "artist_id": "99263262-9f96-440b-8ede-d80d60089da6",
+    "name": "Chloe Carter-Green",
+    "nationality": "Bangladeshi",
+    "dealer_id": "ea8738d0-9f2b-49e1-b8aa-dbf35fe172e5",
+    "created_at": "2024-08-06T17:31:10"
+  },
+  {
+    "artist_id": "ed37cab6-e1d7-4187-8f78-9f2ec82e6021",
+    "name": "Carter Garcia",
+    "nationality": "Emirati",
+    "dealer_id": "d8b8cae5-53a5-4911-966c-1e5238d4d370",
+    "created_at": "2024-07-13T09:24:41"
+  },
+  {
+    "artist_id": "20ffec22-a3fb-40f5-927d-c24cd4318012",
+    "name": "Victoria Gonzalez",
+    "nationality": "Austrian",
+    "dealer_id": "62c57e85-70d4-44e4-9536-b31caef9e946",
+    "created_at": "2024-09-24T17:57:37"
+  },
+  {
+    "artist_id": "3a7a7543-ad27-4c4d-87b4-127190abf510",
+    "name": "Wyatt Martin",
+    "nationality": "Greek",
+    "dealer_id": "44083d98-d730-4c96-b8f7-f3ecdef31987",
+    "created_at": "2024-07-27T12:53:40"
+  },
+  {
+    "artist_id": "213a2bdb-578b-4aed-b452-240f379f5ea0",
+    "name": "Riley Clark",
+    "nationality": "Egyptian",
+    "dealer_id": "feb54505-4e18-44cf-b0dc-5221bd619971",
+    "created_at": "2024-06-05T02:08:32"
+  },
+  {
+    "artist_id": "13dfb523-3316-46d6-998d-1d1893145872",
+    "name": "Joseph King",
+    "nationality": "Vietnamese",
+    "dealer_id": "5d2eaf22-f45a-49b3-82df-a11f73dc7220",
+    "created_at": "2024-09-14T07:41:38"
+  },
+  {
+    "artist_id": "40118f91-155c-40b2-8e65-b49e53e72cea",
+    "name": "Nora Green",
+    "nationality": "American",
+    "dealer_id": "44149cc4-e9b9-4406-b4f9-4f6a8cd502fb",
+    "created_at": "2024-06-03T23:37:23"
+  },
+  {
+    "artist_id": "092679e2-31a0-42bd-a871-22a4c1ab3b4b",
+    "name": "Owen Mitchell",
+    "nationality": "Finnish",
+    "dealer_id": "857eafe3-b5c7-49a4-89b3-260b15bc53da",
+    "created_at": "2024-06-06T23:36:53"
+  },
+  {
+    "artist_id": "11038cf6-d729-46d8-a1ee-2c3ce653ea24",
+    "name": "Lily Jones-Lewis",
+    "nationality": "Canadian",
+    "dealer_id": "a0d14fdc-234b-4e3c-8a22-e51d66bf34ee",
+    "created_at": "2024-09-11T22:52:00"
+  },
+  {
+    "artist_id": "cec550ab-868e-40fc-9d31-f4d0b2886ffd",
+    "name": "John Lopez-Flores",
+    "nationality": "Ghanaian",
+    "dealer_id": "d4861f57-e24d-4eb5-94f8-ce09a8212319",
+    "created_at": "2024-08-13T10:39:56"
+  },
+  {
+    "artist_id": "68a8e739-dc22-4774-bba6-287847e544f1",
+    "name": "Hannah Jackson-Smith",
+    "nationality": "Iranian",
+    "dealer_id": "4343c985-23e7-4141-ad96-f6155c7d194b",
+    "created_at": "2024-06-16T05:42:03"
+  },
+  {
+    "artist_id": "76074dad-64ce-4383-a571-a89d89fc4b0a",
+    "name": "Luke Sanchez",
+    "nationality": "German",
+    "dealer_id": "bca5bb48-a8cf-45bb-96c7-55453ba0a625",
+    "created_at": "2024-06-14T10:23:01"
+  },
+  {
+    "artist_id": "85bb80b1-e30c-4903-a8f2-ee8525f93e21",
+    "name": "Zoey Allen-Thompson",
+    "nationality": "Hungarian",
+    "dealer_id": "fa464562-b212-4e77-b3e6-8b8e894cee2b",
+    "created_at": "2024-09-29T13:51:52"
+  },
+  {
+    "artist_id": "0b47a26f-87fa-47a4-9234-472638380430",
+    "name": "Gabriel Flores-King",
+    "nationality": "Colombian",
+    "dealer_id": "63206636-84ae-49d8-8897-b9553739f409",
+    "created_at": "2024-06-29T07:07:02"
+  },
+  {
+    "artist_id": "41888c2c-dfe2-4ace-9a2a-6a86de646511",
+    "name": "Penelope Campbell-Hall",
+    "nationality": "Chinese",
+    "dealer_id": "8b7d2be5-2480-49cd-83d6-b7560a652dc1",
+    "created_at": "2024-08-04T05:04:45"
+  },
+  {
+    "artist_id": "70769378-c941-48a6-9508-d4913db8df6d",
+    "name": "Emma Brown-Garcia",
+    "nationality": "Lebanese",
+    "dealer_id": "00c86b1f-3ef1-4bd4-a8e0-fcff021331f5",
+    "created_at": "2024-06-29T20:05:13"
+  },
+  {
+    "artist_id": "b67bd1d7-370a-400e-87fe-bc39b5762a35",
+    "name": "Liam Hernandez-Taylor",
+    "nationality": "Polish",
+    "dealer_id": "5cfa8139-a992-49e4-8fa5-9bafb234fc50",
+    "created_at": "2024-09-09T17:54:10"
+  },
+  {
+    "artist_id": "595ec6a6-4eac-4943-9752-66c1863c5918",
+    "name": "Olivia Moore",
+    "nationality": "Irish",
+    "dealer_id": "71db6181-94ef-4ac3-8b97-4d875b8b672d",
+    "created_at": "2024-08-09T20:47:58"
+  },
+  {
+    "artist_id": "240a7b33-10fd-47ca-9d18-4ba873a4e83e",
+    "name": "Noah Harris",
+    "nationality": "Nigerian",
+    "dealer_id": "934751bd-907e-42ca-8338-03cce0819a8e",
+    "created_at": "2024-08-28T05:10:09"
+  },
+  {
+    "artist_id": "798b34af-9156-4dd8-bd6d-6caea3409758",
+    "name": "Ava Young",
+    "nationality": "Indonesian",
+    "dealer_id": "b6cee735-082f-42aa-a86e-07e7c685b5de",
+    "created_at": "2024-09-24T19:35:24"
+  },
+  {
+    "artist_id": "d20467d0-d4af-45b3-9923-7428cda7d875",
+    "name": "Elijah Hill",
+    "nationality": "French",
+    "dealer_id": "7f29133b-143b-42f8-a0f0-0c7ed6b5b80b",
+    "created_at": "2024-09-29T08:04:01"
+  },
+  {
+    "artist_id": "0c050c1c-5f5e-4a65-8dbe-6d7324ecfe71",
+    "name": "Sophia Rivera",
+    "nationality": "Swedish",
+    "dealer_id": "23805f1b-007f-4374-ad48-c7c58569c911",
+    "created_at": "2024-06-22T04:34:56"
+  },
+  {
+    "artist_id": "44889444-ce65-42fc-8c2a-083e8b3b8c23",
+    "name": "Lucas Williams",
+    "nationality": "Brazilian",
+    "dealer_id": "88edf679-88e7-4b24-bd51-49f29f725db3",
+    "created_at": "2024-06-03T11:41:16"
+  },
+  {
+    "artist_id": "bffc0109-74b2-4fd9-b112-1d92b8dd103a",
+    "name": "Isabella Martinez-Baker",
+    "nationality": "Pakistani",
+    "dealer_id": "d66e7a91-cd7d-4df9-aa0d-56e19f736870",
+    "created_at": "2024-09-09T14:32:22"
+  },
+  {
+    "artist_id": "bba590ab-5b6e-4aff-be51-eb19cfac0851",
+    "name": "Mason Taylor",
+    "nationality": "Saudi",
+    "dealer_id": "e7832d68-d3cd-4035-ad69-d5b223e44ff3",
+    "created_at": "2024-06-16T15:26:21"
+  },
+  {
+    "artist_id": "ad8e6006-faec-4664-9927-3ecb3aff4514",
+    "name": "Mia White-Thomas",
+    "nationality": "Swiss",
+    "dealer_id": "c9c8a127-1bc2-4fc3-aae3-070e94e76db1",
+    "created_at": "2024-07-01T19:46:35"
+  },
+  {
+    "artist_id": "1f8873a9-7dbf-495f-9a7e-d5cfbdb6fc34",
+    "name": "Ethan Walker",
+    "nationality": "Turkish",
+    "dealer_id": "999d71e7-e77b-408d-99bd-925e62ccc653",
+    "created_at": "2024-06-30T06:07:10"
+  },
+  {
+    "artist_id": "ce16b1ad-a3ba-49a2-a29d-0370392bbea0",
+    "name": "Charlotte Nguyen",
+    "nationality": "Moroccan",
+    "dealer_id": "dc407fb0-7ed9-45e7-a33c-3a191cddeace",
+    "created_at": "2024-08-29T04:15:54"
+  },
+  {
+    "artist_id": "6add9bb3-6ac3-4aff-a6d1-3de83ea947f4",
+    "name": "Logan Hall",
+    "nationality": "Korean",
+    "dealer_id": "46f176ba-85bc-442e-bffa-e9e52a301ddc",
+    "created_at": "2024-08-11T21:04:14"
+  },
+  {
+    "artist_id": "cf6dc6c8-0d96-41ea-8250-8216d0c23b92",
+    "name": "Amelia Johnson",
+    "nationality": "Qatari",
+    "dealer_id": "3f236c06-d2a5-42ab-852b-056552ed51e9",
+    "created_at": "2024-09-20T06:21:57"
+  },
+  {
+    "artist_id": "99f994b1-74f2-4be0-91b5-b542e2c72ae2",
+    "name": "James Rodriguez-Lee",
+    "nationality": "Danish",
+    "dealer_id": "acf49cb4-642e-4fc1-87fc-a23827fe133e",
+    "created_at": "2024-06-05T06:40:23"
+  },
+  {
+    "artist_id": "a3575309-6b51-4e3e-8bfd-2446e52c81d3",
+    "name": "Harper Thomas",
+    "nationality": "Welsh",
+    "dealer_id": "0001af63-8b40-4160-b089-c0ee1de8ad19",
+    "created_at": "2024-09-26T01:23:51"
+  },
+  {
+    "artist_id": "07c4db75-4c20-4a56-a472-07af57525955",
+    "name": "Benjamin Thompson-Nelson",
+    "nationality": "Ethiopian",
+    "dealer_id": "4d71698e-88a3-48e4-a6ec-e4d9f1c3ff39",
+    "created_at": "2024-08-03T15:00:02"
+  },
+  {
+    "artist_id": "b43959be-a4fd-40fa-b868-f45985052a26",
+    "name": "Evelyn Robinson",
+    "nationality": "New Zealander",
+    "dealer_id": "882ff73d-bac0-410c-8006-ddcfe65e3d6e",
+    "created_at": "2024-06-15T23:55:59"
+  },
+  {
+    "artist_id": "5834c13f-4c52-4848-9fc3-68cae76ff4ae",
+    "name": "Henry Torres-Anderson",
+    "nationality": "Spanish",
+    "dealer_id": "9fa156fe-d684-409e-b598-c284f4cf817e",
+    "created_at": "2024-07-10T03:27:37"
+  },
+  {
+    "artist_id": "1d5f405c-1e9b-4f3f-8b8f-326a434591e9",
+    "name": "Alexander Baker",
+    "nationality": "Ukrainian",
+    "dealer_id": "bbfb54f6-5c94-415a-a1c4-604a0ccce83e",
+    "created_at": "2024-06-22T19:56:09"
+  },
+  {
+    "artist_id": "6d66e2d4-c6c0-41e1-ab9b-be62c6bfda17",
+    "name": "Abigail Smith",
+    "nationality": "Chilean",
+    "dealer_id": "0c8d8f59-def7-4435-9308-a6e379989896",
+    "created_at": "2024-09-27T02:00:42"
+  },
+  {
+    "artist_id": "7655f0d7-70e4-4699-8fd7-9c004fa95b40",
+    "name": "Sebastian Davis-Mitchell",
+    "nationality": "Sri Lankan",
+    "dealer_id": "2a701e1e-bb1c-4d89-b0a3-1b6b75baa409",
+    "created_at": "2024-09-22T11:09:54"
+  },
+  {
+    "artist_id": "edd85299-354d-4148-911c-e2fb8a4c3485",
+    "name": "Emily Anderson",
+    "nationality": "Israeli",
+    "dealer_id": "04aeb67e-d918-4e33-b8f3-f0d020c4795b",
+    "created_at": "2024-06-24T10:54:19"
+  },
+  {
+    "artist_id": "0e1e00d5-7821-4f3c-8894-7c41cd1d9cd3",
+    "name": "Jack Perez-Martin",
+    "nationality": "Belgian",
+    "dealer_id": "6ff6f8ae-25ff-4143-998d-1a3d25fa445c",
+    "created_at": "2024-09-02T22:03:32"
+  },
+  {
+    "artist_id": "340b7393-5206-4397-bd9f-5b2faddb6428",
+    "name": "Avery Lewis-Walker",
+    "nationality": "Portuguese",
+    "dealer_id": "4948fe9b-ce7e-40ce-973a-9b416f56accf",
+    "created_at": "2024-09-30T05:27:04"
+  },
+  {
+    "artist_id": "d68ed818-d282-4269-834a-71b97c98ff0d",
+    "name": "Daniel Scott",
+    "nationality": "South African",
+    "dealer_id": "7786cebb-2484-4866-94f0-5a8cbc54b3c0",
+    "created_at": "2024-08-29T10:58:51"
+  },
+  {
+    "artist_id": "809ad7e4-9271-41d7-86d6-9b687a6d5ede",
+    "name": "Sofia Nelson-Williams",
+    "nationality": "Thai",
+    "dealer_id": "1b21986e-4a3e-474a-9161-4cc3b9c43bce",
+    "created_at": "2024-08-20T23:00:11"
+  },
+  {
+    "artist_id": "39caccb3-1599-4a1a-b030-d694ef62ef64",
+    "name": "Michael Roberts-Wilson",
+    "nationality": "British",
+    "dealer_id": "f6a075b0-157a-46a9-8699-f13131ea4878",
+    "created_at": "2024-07-22T01:21:46"
+  },
+  {
+    "artist_id": "8463893f-3616-490c-8e60-e231b501671b",
+    "name": "Ella Miller-Harris",
+    "nationality": "Norwegian",
+    "dealer_id": "f68265a8-4029-46b0-9926-332465a9e7e8",
+    "created_at": "2024-08-11T21:07:04"
+  },
+  {
+    "artist_id": "4b660ba3-6fd5-4af0-a066-7e6fa1a5c357",
+    "name": "Samuel Wilson-Scott",
+    "nationality": "Mexican",
+    "dealer_id": "8b4cf891-edb8-4341-9930-1b1c1798e1cc",
+    "created_at": "2024-09-26T19:25:42"
+  },
+  {
+    "artist_id": "5197256c-18ef-46a6-8b9a-74e3c2a7cd9c",
+    "name": "Scarlett Lee-Campbell",
+    "nationality": "Indian",
+    "dealer_id": "9eb05855-3b35-43c4-a384-3834ecdd38c4",
+    "created_at": "2024-08-11T12:12:46"
+  },
+  {
+    "artist_id": "0db3e23c-2202-41f3-8321-bb63f91c6531",
+    "name": "Jacob Ramirez-Davis",
+    "nationality": "Iraqi",
+    "dealer_id": "ee070cec-54f4-4fc3-b880-63111d8b8f80",
+    "created_at": "2024-08-13T09:11:28"
+  },
+  {
+    "artist_id": "87fd079d-0361-4823-8f22-d31971e3035a",
+    "name": "Grace Wright",
+    "nationality": "Dutch",
+    "dealer_id": "6c269310-9e1f-46c6-95a7-fb985f79f5e9",
+    "created_at": "2024-09-09T16:51:12"
+  },
+  {
+    "artist_id": "dd8fb8d5-ed2e-4fac-b4f7-ca535e481ab9",
+    "name": "David Adams-Robinson",
+    "nationality": "Romanian",
+    "dealer_id": "e14c980e-aac2-482b-bcd1-dd1711a9e1cd",
+    "created_at": "2024-06-18T10:11:25"
+  },
+  {
+    "artist_id": "639fca64-83a1-4962-b575-0aace986fc75",
+    "name": "Chloe Carter",
+    "nationality": "Peruvian",
+    "dealer_id": "526bcc53-57f9-4660-b286-dcf8e8af2693",
+    "created_at": "2024-08-05T22:24:22"
+  },
+  {
+    "artist_id": "f41a1e71-0226-4007-b536-6ff830fed8e4",
+    "name": "Carter Garcia-Johnson",
+    "nationality": "Japanese",
+    "dealer_id": "8575f9a3-0363-44db-8f6a-7c5831941f75",
+    "created_at": "2024-07-26T02:19:13"
+  },
+  {
+    "artist_id": "f5b85073-7b4b-4cd2-81ff-6bb58b3f9b66",
+    "name": "Victoria Gonzalez",
+    "nationality": "Jordanian",
+    "dealer_id": "11b7cfad-be61-45ea-b6cf-85e037f9abda",
+    "created_at": "2024-08-15T02:37:11"
+  },
+  {
+    "artist_id": "ca8121b7-25f7-4ab9-b536-c8a2916cf73a",
+    "name": "Wyatt Martin",
+    "nationality": "Czech",
+    "dealer_id": "5e67ee83-13f8-4f87-88b7-ff9a57ea3b52",
+    "created_at": "2024-08-22T04:01:32"
+  },
+  {
+    "artist_id": "417a373b-59e4-4650-992c-b73244de893c",
+    "name": "Riley Clark",
+    "nationality": "Scottish",
+    "dealer_id": "7d3e17fd-e191-47d8-80fc-050e0e25a0a0",
+    "created_at": "2024-07-07T06:16:47"
+  },
+  {
+    "artist_id": "f2e9acfd-56be-46b5-8ae3-5956f5a1ff1f",
+    "name": "Joseph King-Rivera",
+    "nationality": "Kenyan",
+    "dealer_id": "c01f6ff9-fe11-448d-86a5-01f5adc46711",
+    "created_at": "2024-06-11T11:58:07"
+  },
+  {
+    "artist_id": "0bfd9304-f4ec-484b-82cd-88a957f9bb4d",
+    "name": "Nora Green",
+    "nationality": "Australian",
+    "dealer_id": "9b3a2b8d-f15c-4b70-8326-0c4c947463bf",
+    "created_at": "2024-09-18T05:34:08"
+  },
+  {
+    "artist_id": "73b4db1b-7154-4725-8d0d-e7c558c5cbed",
+    "name": "Owen Mitchell",
+    "nationality": "Italian",
+    "dealer_id": "85b87d2c-7dde-4eda-80ea-f7f88e10a489",
+    "created_at": "2024-06-22T03:21:52"
+  },
+  {
+    "artist_id": "207672ad-7fee-4b5a-9d4e-87d4520ab03d",
+    "name": "Lily Jones-Lewis",
+    "nationality": "Russian",
+    "dealer_id": "aa39d40a-fa9e-45a5-a2ab-a4ea1cffbfa2",
+    "created_at": "2024-06-13T16:20:28"
+  },
+  {
+    "artist_id": "73efe68e-e559-4945-a6bc-c33fc6ddd422",
+    "name": "John Lopez-Flores",
+    "nationality": "Argentine",
+    "dealer_id": "f9d5579a-cf85-469e-9280-4266d99aa087",
+    "created_at": "2024-07-12T03:01:36"
+  },
+  {
+    "artist_id": "5ba9f676-96d1-43ce-a2b7-5a032284d807",
+    "name": "Hannah Jackson",
+    "nationality": "Bangladeshi",
+    "dealer_id": "e5ee73fd-ac84-4847-b76f-a47db5b6648c",
+    "created_at": "2024-08-01T15:22:30"
+  },
+  {
+    "artist_id": "4a5d2b6f-97c6-4dc2-bf6e-59a166234e4b",
+    "name": "Luke Sanchez",
+    "nationality": "Emirati",
+    "dealer_id": "0d50734c-3148-4976-a697-7bb57c27ba2c",
+    "created_at": "2024-08-29T11:23:19"
+  },
+  {
+    "artist_id": "f58a26dd-8a07-46c2-956d-ac7f3bf43521",
+    "name": "Zoey Allen-Thompson",
+    "nationality": "Austrian",
+    "dealer_id": "f2277cb2-f810-407f-914b-e2f962392b0e",
+    "created_at": "2024-07-26T20:22:10"
+  },
+  {
+    "artist_id": "0a9c2cd6-f377-48b2-8106-d0f07bbcfc7d",
+    "name": "Gabriel Flores",
+    "nationality": "Greek",
+    "dealer_id": "f9b44dc9-4552-405f-9444-d01784ea2b4f",
+    "created_at": "2024-06-02T04:42:22"
+  },
+  {
+    "artist_id": "a84ecec0-9734-4a0c-bc5c-ba31c258de8e",
+    "name": "Penelope Campbell-Hall",
+    "nationality": "Egyptian",
+    "dealer_id": "a8ca852a-dfb2-45ca-bbfb-6e43fd04802b",
+    "created_at": "2024-06-03T00:57:35"
+  },
+  {
+    "artist_id": "6b17776f-67f4-43ae-abe5-a9414a943a46",
+    "name": "Emma Brown-Garcia",
+    "nationality": "Vietnamese",
+    "dealer_id": "2761aa92-39e1-48fb-bb18-8699a7520778",
+    "created_at": "2024-08-26T21:49:31"
+  },
+  {
+    "artist_id": "105e01a5-942b-4886-98b0-d16ec55251a2",
+    "name": "Liam Hernandez",
+    "nationality": "American",
+    "dealer_id": "011353df-6393-4485-8ac5-0b4e7d5cbb8a",
+    "created_at": "2024-07-20T17:50:23"
+  },
+  {
+    "artist_id": "bb4028fb-f591-41f2-8e70-8c00453f0405",
+    "name": "Olivia Moore-Ramirez",
+    "nationality": "Finnish",
+    "dealer_id": "3069f5d3-2120-4133-ac61-4cc6b75797ea",
+    "created_at": "2024-08-21T09:52:31"
+  },
+  {
+    "artist_id": "75e25fd8-e80c-4bb1-b7e6-07b4932199a8",
+    "name": "Noah Harris-Hill",
+    "nationality": "Canadian",
+    "dealer_id": "b4dc4af7-8f28-4d8a-9ac0-57eebff2cf44",
+    "created_at": "2024-06-07T00:53:43"
+  },
+  {
+    "artist_id": "34879b1c-6d56-4450-8540-838fc8a8c271",
+    "name": "Ava Young-Roberts",
+    "nationality": "Ghanaian",
+    "dealer_id": "cd3275c6-2fa7-40a5-a00d-3fca297a8226",
+    "created_at": "2024-08-17T04:40:04"
+  },
+  {
+    "artist_id": "1119abb0-798f-49bb-a209-71f6307212ec",
+    "name": "Elijah Hill-Hernandez",
+    "nationality": "Iranian",
+    "dealer_id": "a6cdcda9-8f5f-463b-8d23-0ae4619a5935",
+    "created_at": "2024-08-26T02:16:41"
+  },
+  {
+    "artist_id": "00626a78-90cf-499a-83ee-93d638d84414",
+    "name": "Sophia Rivera",
+    "nationality": "German",
+    "dealer_id": "c8e5f5d1-a03a-4b0d-9640-c69fcd417b2b",
+    "created_at": "2024-08-18T01:37:05"
+  },
+  {
+    "artist_id": "4c1ffa92-b7e8-4930-a78d-74f34407c099",
+    "name": "Lucas Williams",
+    "nationality": "Hungarian",
+    "dealer_id": "64939eeb-7a99-4095-8995-367f751bb0c7",
+    "created_at": "2024-09-16T08:40:21"
+  },
+  {
+    "artist_id": "aad2b3c6-b773-4513-b7ff-9a9ff9907e40",
+    "name": "Isabella Martinez",
+    "nationality": "Colombian",
+    "dealer_id": "9e9f681c-cb31-4cdd-8d64-32b0d2466e24",
+    "created_at": "2024-07-10T07:55:59"
+  },
+  {
+    "artist_id": "d3d75bfa-1692-4a82-bc29-a22e0e08f6df",
+    "name": "Mason Taylor-Jones",
+    "nationality": "Chinese",
+    "dealer_id": "5949d738-ba23-4f4d-927e-db3c81f82bdb",
+    "created_at": "2024-07-28T12:24:21"
+  },
+  {
+    "artist_id": "8ce7d754-72f2-4920-aa01-c9ef9af7c61d",
+    "name": "Mia White",
+    "nationality": "Lebanese",
+    "dealer_id": "a95d06b6-6647-46ae-96c8-ea1224568e19",
+    "created_at": "2024-07-18T20:24:05"
+  },
+  {
+    "artist_id": "d551c104-fede-40e9-a4c9-ad0620127cf3",
+    "name": "Ethan Walker",
+    "nationality": "Polish",
+    "dealer_id": "107e2ccf-bd3b-438e-8a1e-5c6e6145dcd3",
+    "created_at": "2024-07-31T20:12:27"
+  },
+  {
+    "artist_id": "fa6206e1-4747-4c70-ae62-55f00fed94a3",
+    "name": "Charlotte Nguyen",
+    "nationality": "Irish",
+    "dealer_id": "043b2568-3a64-465b-a5a3-caebb856f8c7",
+    "created_at": "2024-07-15T05:53:53"
+  },
+  {
+    "artist_id": "c09ab728-fc45-460e-af34-95ff43f97565",
+    "name": "Logan Hall-Carter",
+    "nationality": "Nigerian",
+    "dealer_id": "910446cf-ae33-45d0-b1fa-04e6e2b54238",
+    "created_at": "2024-08-16T20:19:22"
+  },
+  {
+    "artist_id": "91b7722a-2c4f-4cd5-83cd-3d518f232de1",
+    "name": "Amelia Johnson",
+    "nationality": "Indonesian",
+    "dealer_id": "b6fe8886-72bd-44e1-84be-da9d0d42953d",
+    "created_at": "2024-07-11T15:32:57"
+  },
+  {
+    "artist_id": "858d578d-91fb-4aee-a6ee-0e3ae5ca3335",
+    "name": "James Rodriguez-Lee",
+    "nationality": "French",
+    "dealer_id": "7fc82835-8d33-403a-992b-a1d69dfe4b51",
+    "created_at": "2024-08-08T13:41:06"
+  },
+  {
+    "artist_id": "9e303f52-5829-4cd3-9fce-c7633e265920",
+    "name": "Harper Thomas",
+    "nationality": "Swedish",
+    "dealer_id": "53ca0a07-65d7-46da-92ab-c39325f47d43",
+    "created_at": "2024-08-27T16:28:34"
+  },
+  {
+    "artist_id": "d172fe07-22bb-4e04-84ab-bd0153cfc700",
+    "name": "Benjamin Thompson",
+    "nationality": "Brazilian",
+    "dealer_id": "d1c6982e-91a3-4b5c-92d8-41f23d470be3",
+    "created_at": "2024-06-18T01:29:23"
+  },
+  {
+    "artist_id": "ba8db9fe-788e-4cdd-b6e8-f3b53f62910f",
+    "name": "Evelyn Robinson-Brown",
+    "nationality": "Pakistani",
+    "dealer_id": "6949319b-bcd9-460e-8018-9571c3e9ec9f",
+    "created_at": "2024-08-24T19:49:49"
+  },
+  {
+    "artist_id": "34c36fdf-c1bd-4068-85a6-54301298d7b7",
+    "name": "Henry Torres-Anderson",
+    "nationality": "Saudi",
+    "dealer_id": "1d9b4727-d215-47e6-ac68-175a407ed084",
+    "created_at": "2024-07-14T21:29:48"
+  },
+  {
+    "artist_id": "f8d09279-76dc-436d-9b9a-6d7c3080c815",
+    "name": "Alexander Baker",
+    "nationality": "Swiss",
+    "dealer_id": "20879b1c-321e-4917-b06c-e253f7411152",
+    "created_at": "2024-08-24T07:35:51"
+  },
+  {
+    "artist_id": "e53b8d3e-74c6-4ba6-b60c-a8253c653abe",
+    "name": "Abigail Smith",
+    "nationality": "Turkish",
+    "dealer_id": "94bb6fa0-5344-4695-8567-3028f5e20325",
+    "created_at": "2024-08-19T08:51:51"
+  },
+  {
+    "artist_id": "f76f1fd7-32ee-41bf-a93f-5e059f1e905b",
+    "name": "Sebastian Davis-Mitchell",
+    "nationality": "Moroccan",
+    "dealer_id": "c57a0d8a-17e8-4563-9aa4-8329b80d20b1",
+    "created_at": "2024-07-12T02:15:41"
+  },
+  {
+    "artist_id": "3c9422f7-0232-4ac2-9d96-2479ef78d2a0",
+    "name": "Emily Anderson-Rodriguez",
+    "nationality": "Korean",
+    "dealer_id": "e8d4dfef-4b88-4001-8a7b-8f3546acf4d6",
+    "created_at": "2024-06-17T09:26:03"
+  },
+  {
+    "artist_id": "6dfc3b40-8179-4586-a854-0b46d87cea47",
+    "name": "Jack Perez",
+    "nationality": "Qatari",
+    "dealer_id": "e2acccba-d8a6-42f4-8c89-d0fed8565be1",
+    "created_at": "2024-08-22T23:29:16"
+  },
+  {
+    "artist_id": "f36b09b2-70d1-47f5-844a-d3cd495121ed",
+    "name": "Avery Lewis-Walker",
+    "nationality": "Danish",
+    "dealer_id": "7e7c8528-3201-44a2-a0fb-fff0a6d0b1bb",
+    "created_at": "2024-06-13T18:14:00"
+  },
+  {
+    "artist_id": "508f631e-13d0-4913-a669-73540a1e26cf",
+    "name": "Daniel Scott",
+    "nationality": "Welsh",
+    "dealer_id": "4a79d2b8-e57b-493f-a222-9edd9889bdaf",
+    "created_at": "2024-08-26T14:12:53"
+  },
+  {
+    "artist_id": "789c9fd0-0f0f-4498-a42e-5524691dfc66",
+    "name": "Sofia Nelson",
+    "nationality": "Ethiopian",
+    "dealer_id": "39d65012-3b02-4c44-b87b-006907c8dc2d",
+    "created_at": "2024-06-20T07:13:02"
+  },
+  {
+    "artist_id": "7a7b5946-bf63-4818-b53d-5e4aef00c7e9",
+    "name": "Michael Roberts-Wilson",
+    "nationality": "New Zealander",
+    "dealer_id": "346d1c9d-7542-4d9f-9b50-e7b64508191c",
+    "created_at": "2024-07-05T19:40:55"
+  },
+  {
+    "artist_id": "297406b7-fe46-4116-a3ca-66df90a0ca30",
+    "name": "Ella Miller",
+    "nationality": "Spanish",
+    "dealer_id": "07765da7-8b40-4233-bc4f-d8a8d02b65d0",
+    "created_at": "2024-09-28T01:03:02"
+  },
+  {
+    "artist_id": "0a595c6a-0262-4b2c-b550-21908f7107d4",
+    "name": "Samuel Wilson-Scott",
+    "nationality": "Ukrainian",
+    "dealer_id": "140e9f15-d74a-477a-9d75-205beea8c9c9",
+    "created_at": "2024-09-28T17:08:46"
+  },
+  {
+    "artist_id": "586d429a-242c-4873-a78b-cd6c71c52d6d",
+    "name": "Scarlett Lee",
+    "nationality": "Chilean",
+    "dealer_id": "44b58f27-b14a-44a7-89a6-bc90b37dd89c",
+    "created_at": "2024-06-30T13:37:29"
+  },
+  {
+    "artist_id": "03c607a2-8cdf-45c5-84a3-e547a7a299f7",
+    "name": "Jacob Ramirez",
+    "nationality": "Sri Lankan",
+    "dealer_id": "e0ffcfce-9bb8-4ae8-bb4e-9027bfaf052a",
+    "created_at": "2024-06-18T12:42:58"
+  },
+  {
+    "artist_id": "22bb5861-9805-4fa6-a6b6-a15eda83bdd3",
+    "name": "Grace Wright-Jackson",
+    "nationality": "Israeli",
+    "dealer_id": "7e8c3a50-8085-4f10-ab5f-49ede186ac13",
+    "created_at": "2024-07-20T03:27:03"
+  },
+  {
+    "artist_id": "3729d9b3-afc1-44f9-a182-48ec6cf98e95",
+    "name": "David Adams",
+    "nationality": "Belgian",
+    "dealer_id": "9071f0a5-273d-4d36-8778-d50693361d71",
+    "created_at": "2024-06-04T18:18:19"
+  },
+  {
+    "artist_id": "cf3b5ec6-1a11-4fd5-8fe2-17a0b8f09535",
+    "name": "Chloe Carter",
+    "nationality": "Portuguese",
+    "dealer_id": "41dfe7ca-5ffd-46bc-ba06-c3125100f8c3",
+    "created_at": "2024-08-27T06:34:10"
+  },
+  {
+    "artist_id": "c934e07f-b365-4d19-be81-e44fd83bc383",
+    "name": "Carter Garcia",
+    "nationality": "South African",
+    "dealer_id": "4e11888d-12c5-4668-8398-4dbea2538f19",
+    "created_at": "2024-08-02T15:48:49"
+  },
+  {
+    "artist_id": "62fcf722-3c0f-4cae-903c-c5e5ac93afea",
+    "name": "Victoria Gonzalez",
+    "nationality": "Thai",
+    "dealer_id": "6c24f697-5cee-450e-8a7f-5c7a37c510b8",
+    "created_at": "2024-06-10T17:40:41"
+  },
+  {
+    "artist_id": "6df846cf-a1cb-40b9-9bb2-a3937c2b5df9",
+    "name": "Wyatt Martin-White",
+    "nationality": "British",
+    "dealer_id": "6a61110c-875f-4aa6-aba4-c7ec221052e0",
+    "created_at": "2024-09-13T00:54:02"
+  },
+  {
+    "artist_id": "2e495167-09ac-4fd0-9d46-2721204cffb8",
+    "name": "Riley Clark-Wright",
+    "nationality": "Norwegian",
+    "dealer_id": "202c2aa4-8e6d-4053-9aae-e2ecf98b71ad",
+    "created_at": "2024-07-18T00:27:15"
+  },
+  {
+    "artist_id": "46b1d08e-fc3a-4fd2-a558-3bdba2179049",
+    "name": "Joseph King",
+    "nationality": "Mexican",
+    "dealer_id": "965a8eb5-bb39-47ce-bb8c-7343b7bef584",
+    "created_at": "2024-07-08T19:07:46"
+  },
+  {
+    "artist_id": "5da59159-0773-49d1-b45b-d3202aaeecec",
+    "name": "Nora Green",
+    "nationality": "Indian",
+    "dealer_id": "56a53ffb-7450-462d-a318-56d54fe7f7a4",
+    "created_at": "2024-07-22T14:34:31"
+  },
+  {
+    "artist_id": "a641c34a-87d5-47c2-ab89-59a13a296e85",
+    "name": "Owen Mitchell-Moore",
+    "nationality": "Iraqi",
+    "dealer_id": "dc9364d8-8de3-47f3-89d5-5449a0f1ea9a",
+    "created_at": "2024-07-04T05:12:14"
+  },
+  {
+    "artist_id": "6bcac454-2e6e-4b34-b43e-21e4a79cabe4",
+    "name": "Lily Jones",
+    "nationality": "Dutch",
+    "dealer_id": "b8572c5b-585b-4001-9486-44d7ed84eedc",
+    "created_at": "2024-06-23T08:17:56"
+  },
+  {
+    "artist_id": "ad04c72b-cbb5-4e77-b3b1-4adfc67329c7",
+    "name": "John Lopez",
+    "nationality": "Romanian",
+    "dealer_id": "022be53e-1407-4b0e-be74-4bd0ba42eea8",
+    "created_at": "2024-07-20T12:53:45"
+  },
+  {
+    "artist_id": "268977e8-5848-4bd4-824e-037bc3ac441f",
+    "name": "Hannah Jackson",
+    "nationality": "Peruvian",
+    "dealer_id": "fef63c34-c247-4940-b1b7-428770197de9",
+    "created_at": "2024-09-22T21:19:37"
+  },
+  {
+    "artist_id": "a2607ba3-fb43-47fd-80aa-b07a83b51fec",
+    "name": "Luke Sanchez-Lopez",
+    "nationality": "Japanese",
+    "dealer_id": "c93487c0-12d9-4c29-b67e-bf0a289fab9e",
+    "created_at": "2024-08-27T17:37:29"
+  },
+  {
+    "artist_id": "eabfbc6d-289f-4b16-96f7-af761f28f6d4",
+    "name": "Zoey Allen",
+    "nationality": "Jordanian",
+    "dealer_id": "6bd24f49-a40a-4c51-ba46-de40df5201c3",
+    "created_at": "2024-08-16T21:12:22"
+  },
+  {
+    "artist_id": "76e06a4e-83c3-4ddc-b112-e43f08aa2eab",
+    "name": "Gabriel Flores",
+    "nationality": "Czech",
+    "dealer_id": "53f8c4bf-3c2e-4618-8726-386676bda944",
+    "created_at": "2024-07-03T22:33:06"
+  },
+  {
+    "artist_id": "c22b88df-7f85-42c6-b357-11e9d3ea1f6f",
+    "name": "Penelope Campbell",
+    "nationality": "Scottish",
+    "dealer_id": "91170097-cbd6-494f-ac50-954516834789",
+    "created_at": "2024-08-07T08:33:25"
+  },
+  {
+    "artist_id": "37588eaf-8dba-4dfb-9513-ff0a10430be6",
+    "name": "Emma Brown",
+    "nationality": "Kenyan",
+    "dealer_id": "94112527-a501-4e37-9706-efbf48ae0ccb",
+    "created_at": "2024-07-23T08:08:14"
+  },
+  {
+    "artist_id": "1bc442c3-9c1f-4382-adf5-de6c565285ae",
+    "name": "Liam Hernandez-Taylor",
+    "nationality": "Australian",
+    "dealer_id": "4d51a9f4-9a93-4ea2-ac77-b1bb5e7d1937",
+    "created_at": "2024-06-13T15:58:05"
+  },
+  {
+    "artist_id": "1fde9dfc-5555-45ff-9377-a831a9255752",
+    "name": "Olivia Moore",
+    "nationality": "Italian",
+    "dealer_id": "6867dc33-7ab6-45eb-9e45-b7bf3c240f85",
+    "created_at": "2024-06-23T04:53:27"
+  },
+  {
+    "artist_id": "ca98eee7-e9ee-4382-86f6-e76544b5c163",
+    "name": "Noah Harris",
+    "nationality": "Russian",
+    "dealer_id": "aeedaa6b-9633-4da9-87c5-1226a8ff5f7a",
+    "created_at": "2024-06-24T14:43:51"
+  },
+  {
+    "artist_id": "604138cc-0fde-4e75-8a8c-3c771ebb4790",
+    "name": "Ava Young",
+    "nationality": "Argentine",
+    "dealer_id": "a3557ad4-f53f-4bd4-94c2-642e8b776e31",
+    "created_at": "2024-08-15T15:58:15"
+  },
+  {
+    "artist_id": "8956a9b7-31bb-4bca-b36b-28143b945aac",
+    "name": "Elijah Hill",
+    "nationality": "Bangladeshi",
+    "dealer_id": "ea76bbc3-7536-4af9-a170-23baff0bbfd7",
+    "created_at": "2024-07-23T17:32:13"
+  },
+  {
+    "artist_id": "22e115f1-ca21-4b85-8062-b765881e3694",
+    "name": "Sophia Rivera",
+    "nationality": "Emirati",
+    "dealer_id": "4711c250-91c3-40a8-8253-1dcbcd8f27dd",
+    "created_at": "2024-09-01T13:39:15"
+  },
+  {
+    "artist_id": "4d0ffb34-d9b8-484c-95ab-060ca2f5fd71",
+    "name": "Lucas Williams",
+    "nationality": "Austrian",
+    "dealer_id": "20c017a0-a36f-40b9-9b86-ca4216ca4a2b",
+    "created_at": "2024-06-17T02:42:55"
+  },
+  {
+    "artist_id": "be3a1845-64c3-47c2-90f4-72411c42aed6",
+    "name": "Isabella Martinez-Baker",
+    "nationality": "Greek",
+    "dealer_id": "2ff4e42e-9b15-4ff6-a635-2c09a44f43d8",
+    "created_at": "2024-06-18T07:04:40"
+  },
+  {
+    "artist_id": "13c222d7-ed78-461d-bba5-b125a2df3db2",
+    "name": "Mason Taylor",
+    "nationality": "Egyptian",
+    "dealer_id": "c26f3dd7-68e2-44d7-aa41-00930f67b260",
+    "created_at": "2024-09-12T18:25:10"
+  },
+  {
+    "artist_id": "5594db84-040b-4fac-a812-a243829f51e0",
+    "name": "Mia White",
+    "nationality": "Vietnamese",
+    "dealer_id": "a3aa562f-d4fc-43df-8f0b-572a18ab97d9",
+    "created_at": "2024-07-25T17:21:45"
+  },
+  {
+    "artist_id": "87a826da-97f7-467c-b78f-2c9559ae1625",
+    "name": "Ethan Walker-Clark",
+    "nationality": "American",
+    "dealer_id": "e8b0dc88-2aae-407a-9d79-56ec5bd97e9a",
+    "created_at": "2024-09-11T16:21:33"
+  },
+  {
+    "artist_id": "1cf259df-9578-4923-8a07-69db5f415fd5",
+    "name": "Charlotte Nguyen",
+    "nationality": "Finnish",
+    "dealer_id": "9d690530-05a1-45ce-b617-b79fc9924830",
+    "created_at": "2024-08-25T02:25:18"
+  },
+  {
+    "artist_id": "9cbcf860-b8d5-4716-8e7a-1bc15b651a33",
+    "name": "Logan Hall",
+    "nationality": "Canadian",
+    "dealer_id": "7dd72af7-364f-44a0-b4e2-8d0cd23c6ae2",
+    "created_at": "2024-09-11T09:26:25"
+  },
+  {
+    "artist_id": "6a13dc75-c6cb-430f-9610-f2e345c8a0a5",
+    "name": "Amelia Johnson",
+    "nationality": "Ghanaian",
+    "dealer_id": "e1351db0-fd39-4744-9b15-5cce90d5b6bc",
+    "created_at": "2024-06-29T01:36:00"
+  },
+  {
+    "artist_id": "70d82cc5-3554-41e6-bb62-9723b4b0dcb9",
+    "name": "James Rodriguez",
+    "nationality": "Iranian",
+    "dealer_id": "612ba207-9fcb-4a2d-948e-bcb457f40a47",
+    "created_at": "2024-06-01T22:37:09"
+  },
+  {
+    "artist_id": "d38e6d33-0628-4e5e-88d0-9bdc48da7e4b",
+    "name": "Harper Thomas",
+    "nationality": "German",
+    "dealer_id": "f6f16e75-2aae-4d01-a842-fc2501430e9d",
+    "created_at": "2024-09-24T10:20:29"
+  },
+  {
+    "artist_id": "9edcf711-b143-4e7e-9c45-6aec76b3743b",
+    "name": "Benjamin Thompson",
+    "nationality": "Hungarian",
+    "dealer_id": "edecee09-bc8c-4ba8-a4ee-bcadd03bf451",
+    "created_at": "2024-07-25T05:40:20"
+  },
+  {
+    "artist_id": "42460e7f-07e6-44b9-af01-71e236ccfe2c",
+    "name": "Evelyn Robinson",
+    "nationality": "Colombian",
+    "dealer_id": "52bc74c3-e078-48c8-81f2-bcad24d4dfb8",
+    "created_at": "2024-08-01T05:16:40"
+  },
+  {
+    "artist_id": "3ed4e004-918f-4cc6-a26e-2ee4f2300fad",
+    "name": "Henry Torres-Anderson",
+    "nationality": "Chinese",
+    "dealer_id": "fabc9bf7-96d8-42f7-84a9-47a98e627cbb",
+    "created_at": "2024-06-07T00:45:10"
+  },
+  {
+    "artist_id": "62cf4f1c-87a3-4755-a6a8-6b134d7fb01e",
+    "name": "Alexander Baker-Sanchez",
+    "nationality": "Lebanese",
+    "dealer_id": "617a5fcf-3105-4404-8ad2-108bad4cb7e2",
+    "created_at": "2024-06-25T19:57:58"
+  },
+  {
+    "artist_id": "0c8f0d04-0450-42d7-ae74-eced2c91873f",
+    "name": "Abigail Smith",
+    "nationality": "Polish",
+    "dealer_id": "91ff34aa-d06f-4af3-81d7-5545d6c94660",
+    "created_at": "2024-06-11T09:13:07"
+  },
+  {
+    "artist_id": "6f3c58cd-6254-4bd4-9b6c-78a16b6363e2",
+    "name": "Sebastian Davis",
+    "nationality": "Irish",
+    "dealer_id": "58b021da-327b-4055-8b7b-f8c852e57113",
+    "created_at": "2024-09-12T08:11:39"
+  },
+  {
+    "artist_id": "2f0388f8-bc90-4b26-a3b8-da30c309b31e",
+    "name": "Emily Anderson-Rodriguez",
+    "nationality": "Nigerian",
+    "dealer_id": "3008c58a-cd20-4cc3-8f53-d5a5f57a5399",
+    "created_at": "2024-06-17T18:23:05"
+  },
+  {
+    "artist_id": "687546af-98e9-4aa3-a0bc-32c138868c05",
+    "name": "Jack Perez",
+    "nationality": "Indonesian",
+    "dealer_id": "e926f61e-5cf2-418b-ad15-250d1f3bd121",
+    "created_at": "2024-09-14T15:42:46"
+  },
+  {
+    "artist_id": "9074a978-316c-40b0-9d79-dc425925c54d",
+    "name": "Avery Lewis-Walker",
+    "nationality": "French",
+    "dealer_id": "18fa1b11-6f12-4fa2-a711-16a96505ef10",
+    "created_at": "2024-09-25T14:08:13"
+  },
+  {
+    "artist_id": "068ed2f0-2c2b-4700-95d4-adc4eea6c2f9",
+    "name": "Daniel Scott-Adams",
+    "nationality": "Swedish",
+    "dealer_id": "78f447ba-82db-4263-a312-58e29b1a4b15",
+    "created_at": "2024-09-16T07:24:36"
+  },
+  {
+    "artist_id": "ea7ae225-c0c4-473b-a3ab-cba4b9d1fafe",
+    "name": "Sofia Nelson-Williams",
+    "nationality": "Brazilian",
+    "dealer_id": "5695fed4-7904-41c0-880f-df7aa3095b5c",
+    "created_at": "2024-09-16T12:28:20"
+  },
+  {
+    "artist_id": "a9c85470-f6ea-44d7-a679-840c562608cb",
+    "name": "Michael Roberts",
+    "nationality": "Pakistani",
+    "dealer_id": "d24fda99-75e7-4287-8e24-67b83aba2751",
+    "created_at": "2024-08-14T20:10:59"
+  },
+  {
+    "artist_id": "7163cb31-fa93-44d9-8b60-5b3b9bb299b4",
+    "name": "Ella Miller-Harris",
+    "nationality": "Saudi",
+    "dealer_id": "030a4f62-8025-40e0-87a5-5147b6099d96",
+    "created_at": "2024-06-12T12:54:45"
+  },
+  {
+    "artist_id": "826e7c2a-22f7-4e27-aa2e-3e2ac092ca14",
+    "name": "Samuel Wilson-Scott",
+    "nationality": "Swiss",
+    "dealer_id": "7e61419c-1f4c-4e6b-a84b-c1c8f5c48337",
+    "created_at": "2024-07-23T15:37:59"
+  },
+  {
+    "artist_id": "3fb48767-56c3-4a00-8ca3-33057b87b173",
+    "name": "Scarlett Lee-Campbell",
+    "nationality": "Turkish",
+    "dealer_id": "75c5fc7a-a11a-4b84-b3d8-1b8120fa1023",
+    "created_at": "2024-06-09T14:40:29"
+  },
+  {
+    "artist_id": "bfb81453-aaa4-4a33-8d42-bcb8b4502dfe",
+    "name": "Jacob Ramirez",
+    "nationality": "Moroccan",
+    "dealer_id": "aea2bca3-c311-4511-9c30-56b550354944",
+    "created_at": "2024-06-21T04:25:37"
+  },
+  {
+    "artist_id": "53cf8fbf-6bd4-4d3e-a299-37b400aa9cf3",
+    "name": "Grace Wright-Jackson",
+    "nationality": "Korean",
+    "dealer_id": "c4c79efe-f16c-409e-8ffa-b05413b25268",
+    "created_at": "2024-08-01T11:59:51"
+  },
+  {
+    "artist_id": "fbefdcc0-9048-4765-ad44-6ad477dceacc",
+    "name": "David Adams-Robinson",
+    "nationality": "Qatari",
+    "dealer_id": "a5696ba2-52f3-4db5-8735-52a24bbea95c",
+    "created_at": "2024-09-16T07:03:41"
+  },
+  {
+    "artist_id": "9acca578-9958-486f-bf1c-d8bf039ed7a4",
+    "name": "Chloe Carter",
+    "nationality": "Danish",
+    "dealer_id": "026f809c-494e-4fbc-94a8-79f4c1617b9a",
+    "created_at": "2024-07-03T02:57:26"
+  },
+  {
+    "artist_id": "d9b51c3e-a14f-468b-afba-750dd04da4de",
+    "name": "Carter Garcia",
+    "nationality": "Welsh",
+    "dealer_id": "a698aa7d-a8fd-4a5a-8c39-f6e64c3a962c",
+    "created_at": "2024-07-27T01:00:15"
+  },
+  {
+    "artist_id": "16d2dddd-5011-45cc-8ee7-8096027dbac1",
+    "name": "Victoria Gonzalez",
+    "nationality": "Ethiopian",
+    "dealer_id": "90cf8e0b-e415-4490-a791-5246dce0fdfd",
+    "created_at": "2024-06-30T02:12:22"
+  },
+  {
+    "artist_id": "ce880d16-37ea-4249-b1d6-5bd1bf87f9a9",
+    "name": "Wyatt Martin",
+    "nationality": "New Zealander",
+    "dealer_id": "3977958e-b70d-4608-922c-c27c44856697",
+    "created_at": "2024-07-31T00:31:09"
+  },
+  {
+    "artist_id": "aa609dbf-6cd8-4588-849c-5e0371b070b1",
+    "name": "Riley Clark-Wright",
+    "nationality": "Spanish",
+    "dealer_id": "b69f7925-d09c-4326-874f-3a6ddbe3bcfb",
+    "created_at": "2024-08-30T05:24:10"
+  },
+  {
+    "artist_id": "7d9cc10d-75ca-43b1-8df8-abd4e39d7233",
+    "name": "Joseph King",
+    "nationality": "Ukrainian",
+    "dealer_id": "9c23bb41-1746-47fa-8f4d-04eadfbc0fcd",
+    "created_at": "2024-09-24T01:23:48"
+  },
+  {
+    "artist_id": "63b8f430-2d5e-46bf-a0d8-0b20e5369858",
+    "name": "Nora Green-Miller",
+    "nationality": "Chilean",
+    "dealer_id": "b4211b0d-85eb-47d7-b529-dd81e63254c7",
+    "created_at": "2024-07-05T14:45:50"
+  },
+  {
+    "artist_id": "4d9a6c5d-bab1-4a99-9646-ad20d1c7990c",
+    "name": "Owen Mitchell",
+    "nationality": "Sri Lankan",
+    "dealer_id": "ac8ea982-827d-4432-9934-919049e99364",
+    "created_at": "2024-06-04T15:47:15"
+  },
+  {
+    "artist_id": "852a1b00-9b03-4b91-bccb-ce7bd4145c33",
+    "name": "Lily Jones",
+    "nationality": "Israeli",
+    "dealer_id": "9fe209c1-f4e7-4d94-9139-72685a43756e",
+    "created_at": "2024-08-23T23:46:32"
+  },
+  {
+    "artist_id": "17b82945-2d34-4002-b689-09b77c2cb18d",
+    "name": "John Lopez",
+    "nationality": "Belgian",
+    "dealer_id": "bde92e49-5831-419a-b6c7-4bf1c8789800",
+    "created_at": "2024-08-04T11:37:15"
+  },
+  {
+    "artist_id": "9b527881-65c9-4966-a15d-2381aa950010",
+    "name": "Hannah Jackson-Smith",
+    "nationality": "Portuguese",
+    "dealer_id": "48cd1642-34c2-40b3-a30c-01d5c3865386",
+    "created_at": "2024-09-04T21:45:47"
+  },
+  {
+    "artist_id": "760c6e58-986c-48f7-bfc7-821873a5f148",
+    "name": "Luke Sanchez",
+    "nationality": "South African",
+    "dealer_id": "76f7d3de-96e2-4de5-827e-a36982ccd533",
+    "created_at": "2024-06-19T16:25:46"
+  },
+  {
+    "artist_id": "defbbb93-1409-44c7-a798-d99f4e1f5de2",
+    "name": "Zoey Allen-Thompson",
+    "nationality": "Thai",
+    "dealer_id": "4cf337f2-61c0-4b20-b107-a26f657d77c9",
+    "created_at": "2024-06-30T15:58:01"
+  },
+  {
+    "artist_id": "10e7b405-dc3b-487a-9860-542a0ab42015",
+    "name": "Gabriel Flores-King",
+    "nationality": "British",
+    "dealer_id": "eac270a9-599b-4b9a-90b6-cac0781a1f01",
+    "created_at": "2024-07-24T11:55:32"
+  },
+  {
+    "artist_id": "3aeccaad-4179-4f04-a7e9-0d470747ddd3",
+    "name": "Penelope Campbell-Hall",
+    "nationality": "Norwegian",
+    "dealer_id": "86c991bc-54d7-4945-860e-03354728812b",
+    "created_at": "2024-08-16T04:16:09"
+  },
+  {
+    "artist_id": "6f4aedc8-2805-46ee-9048-6efb5a1f4711",
+    "name": "Emma Brown",
+    "nationality": "Mexican",
+    "dealer_id": "f197f86d-9b8a-4113-adcb-cef573d8a6aa",
+    "created_at": "2024-07-14T08:31:02"
+  },
+  {
+    "artist_id": "03d6e6da-91d2-449c-8f75-9e8e82555e41",
+    "name": "Liam Hernandez",
+    "nationality": "Indian",
+    "dealer_id": "45da0056-82f0-47d0-8792-55fd33057e98",
+    "created_at": "2024-07-06T02:51:28"
+  },
+  {
+    "artist_id": "638f9f86-84b0-441b-8bb4-83640721251f",
+    "name": "Olivia Moore-Ramirez",
+    "nationality": "Iraqi",
+    "dealer_id": "6b72dc25-3899-4d72-9a09-c3647c9574b4",
+    "created_at": "2024-08-23T15:31:58"
+  },
+  {
+    "artist_id": "eebd8be6-6952-4929-bfb1-de563ee02ac9",
+    "name": "Noah Harris",
+    "nationality": "Dutch",
+    "dealer_id": "c9aef530-6824-459f-88c5-b8a26a0df1d5",
+    "created_at": "2024-06-02T23:11:50"
+  },
+  {
+    "artist_id": "f3924517-96c9-49f7-9afe-b547d4678f0b",
+    "name": "Ava Young",
+    "nationality": "Romanian",
+    "dealer_id": "7367272c-d597-483b-b27e-bec9c2622ae5",
+    "created_at": "2024-07-31T07:51:06"
+  },
+  {
+    "artist_id": "e1fc5384-4346-45b9-8888-30688a95073f",
+    "name": "Elijah Hill",
+    "nationality": "Peruvian",
+    "dealer_id": "cd5b346e-23dd-42f0-9b72-8846a79e27d8",
+    "created_at": "2024-06-15T06:51:27"
+  },
+  {
+    "artist_id": "b56f3fce-0961-4639-afc6-03d56ca5755d",
+    "name": "Sophia Rivera",
+    "nationality": "Japanese",
+    "dealer_id": "1f6f88ca-a7e0-43cf-b5c4-daeb52928f16",
+    "created_at": "2024-09-12T16:47:10"
+  },
+  {
+    "artist_id": "52ffd5ce-99c0-4925-967c-7950805a91a1",
+    "name": "Lucas Williams",
+    "nationality": "Jordanian",
+    "dealer_id": "e0b0de7a-b0c8-4d05-9c3f-e41292f65683",
+    "created_at": "2024-06-11T18:01:20"
+  },
+  {
+    "artist_id": "9ee64a9e-e990-474f-b878-606c55fe3ed7",
+    "name": "Isabella Martinez",
+    "nationality": "Czech",
+    "dealer_id": "245c5297-f8f1-4eea-b636-02843285e343",
+    "created_at": "2024-07-28T08:38:18"
+  },
+  {
+    "artist_id": "9040e95b-35ef-4c49-86c6-2e7f64e58f4a",
+    "name": "Mason Taylor",
+    "nationality": "Scottish",
+    "dealer_id": "e8f646f5-48c0-4a8b-9387-7e1546176772",
+    "created_at": "2024-07-12T02:59:59"
+  },
+  {
+    "artist_id": "34d2987e-64c9-47bf-ac28-e87f4bbcd63f",
+    "name": "Mia White-Thomas",
+    "nationality": "Kenyan",
+    "dealer_id": "a8a9bb8c-c138-4132-8160-a5e05d4ef969",
+    "created_at": "2024-07-15T03:02:48"
+  },
+  {
+    "artist_id": "ceda6a79-7a74-49af-9e55-a83068ba377e",
+    "name": "Ethan Walker",
+    "nationality": "Australian",
+    "dealer_id": "635e3116-e7c8-4083-8362-5c7ad2f5fafe",
+    "created_at": "2024-08-02T21:36:49"
+  },
+  {
+    "artist_id": "6f834fb9-d149-4edf-a5e0-5906d5415bd8",
+    "name": "Charlotte Nguyen",
+    "nationality": "Italian",
+    "dealer_id": "245fad40-6abe-4cad-bf53-09aaaf2a7e4f",
+    "created_at": "2024-07-25T14:54:12"
+  },
+  {
+    "artist_id": "3035f15c-4f69-4aaf-902f-62a3387f7beb",
+    "name": "Logan Hall-Carter",
+    "nationality": "Russian",
+    "dealer_id": "f48fee95-75b9-4ccf-96b3-95c465f3ba15",
+    "created_at": "2024-07-03T05:48:10"
+  },
+  {
+    "artist_id": "2812462a-dc32-4e5b-9827-8992b59d4f69",
+    "name": "Amelia Johnson",
+    "nationality": "Argentine",
+    "dealer_id": "57a04b49-3fbc-4d39-8119-8e8547544f7b",
+    "created_at": "2024-09-07T08:49:54"
+  },
+  {
+    "artist_id": "11784e66-444c-405d-87eb-c8b9e4e74110",
+    "name": "James Rodriguez",
+    "nationality": "Bangladeshi",
+    "dealer_id": "b9cbfe77-f32b-4488-a3ed-f08f0c41fb25",
+    "created_at": "2024-07-14T21:47:17"
+  },
+  {
+    "artist_id": "8aa42bae-bebc-4d35-adab-9ed8f59ebe29",
+    "name": "Harper Thomas",
+    "nationality": "Emirati",
+    "dealer_id": "926cca66-82fd-49e6-a05b-9cf1d3cc0366",
+    "created_at": "2024-09-13T05:34:17"
+  },
+  {
+    "artist_id": "d700fe97-5fbf-489f-8679-13691884b84d",
+    "name": "Benjamin Thompson-Nelson",
+    "nationality": "Austrian",
+    "dealer_id": "f2028abb-f52c-4da3-b711-64bf97e30437",
+    "created_at": "2024-08-10T23:16:52"
+  },
+  {
+    "artist_id": "7c6d0316-29c5-4b8a-8be8-9d32d41186ec",
+    "name": "Evelyn Robinson",
+    "nationality": "Greek",
+    "dealer_id": "b3b424be-a392-42e5-a99e-f897135ce19c",
+    "created_at": "2024-08-09T00:51:19"
+  },
+  {
+    "artist_id": "dc71cee2-9e1c-4800-9eb2-dcdbe94dfd80",
+    "name": "Henry Torres",
+    "nationality": "Egyptian",
+    "dealer_id": "f73237a5-04b6-447d-be3f-abab17ba0a2b",
+    "created_at": "2024-07-14T14:43:00"
+  },
+  {
+    "artist_id": "d8b1b5bb-9ebb-43fd-840c-cff6fedf92b6",
+    "name": "Alexander Baker-Sanchez",
+    "nationality": "Vietnamese",
+    "dealer_id": "1872483a-d860-4cf6-a6b5-68baee7dcc2a",
+    "created_at": "2024-09-19T03:47:20"
+  },
+  {
+    "artist_id": "95cd0e67-45bb-4306-9879-397bfeb41300",
+    "name": "Abigail Smith",
+    "nationality": "American",
+    "dealer_id": "6a42aa88-655d-460e-8850-dd3e2039d4ea",
+    "created_at": "2024-07-29T08:54:44"
+  },
+  {
+    "artist_id": "691f6ac3-415d-4f9d-afca-01b288e711a9",
+    "name": "Sebastian Davis-Mitchell",
+    "nationality": "Finnish",
+    "dealer_id": "908e54b7-9c36-4ffc-aa53-3b4832217652",
+    "created_at": "2024-06-29T20:49:28"
+  },
+  {
+    "artist_id": "8e36396e-590d-438a-844f-98ba492739a0",
+    "name": "Emily Anderson",
+    "nationality": "Canadian",
+    "dealer_id": "1d795bdb-f668-4fa3-8bbd-613a3a04e3d9",
+    "created_at": "2024-07-29T23:38:15"
+  },
+  {
+    "artist_id": "32e36901-9496-464a-a4ea-eb6a473c8673",
+    "name": "Jack Perez",
+    "nationality": "Ghanaian",
+    "dealer_id": "9058e047-5bfa-4462-b7df-592a89990f7e",
+    "created_at": "2024-07-24T07:07:18"
+  },
+  {
+    "artist_id": "c398f726-6341-4c07-830e-4b8fe748c4b7",
+    "name": "Avery Lewis-Walker",
+    "nationality": "Iranian",
+    "dealer_id": "c09e8e0a-b181-42d5-91cc-d601712df89c",
+    "created_at": "2024-06-05T00:50:28"
+  },
+  {
+    "artist_id": "3daff6f5-a611-4428-86dc-d20766e40c89",
+    "name": "Daniel Scott",
+    "nationality": "German",
+    "dealer_id": "d152083b-b5be-494d-b033-e44b484c00df",
+    "created_at": "2024-09-27T03:56:16"
+  },
+  {
+    "artist_id": "377d3c14-fd9d-408b-858f-64866fc6a687",
+    "name": "Sofia Nelson",
+    "nationality": "Hungarian",
+    "dealer_id": "7cb4fc55-6e63-439e-aab0-a33434932b9d",
+    "created_at": "2024-06-03T20:50:24"
+  },
+  {
+    "artist_id": "9399d116-7473-4322-bd20-aba4e72fa830",
+    "name": "Michael Roberts",
+    "nationality": "Colombian",
+    "dealer_id": "90c9073a-7e4f-4e16-b6fa-1da1cd663463",
+    "created_at": "2024-06-20T01:35:20"
+  },
+  {
+    "artist_id": "794a3f0b-fb1a-4af1-89b5-2d230dfb6a56",
+    "name": "Ella Miller",
+    "nationality": "Chinese",
+    "dealer_id": "46b070bd-b69b-4388-a276-795895fc96cd",
+    "created_at": "2024-08-20T12:00:25"
+  },
+  {
+    "artist_id": "a6c82aa7-79b4-4840-aedd-aa37ed0185fd",
+    "name": "Samuel Wilson-Scott",
+    "nationality": "Lebanese",
+    "dealer_id": "2660eb5f-a2b0-449f-9e74-50d4d760995f",
+    "created_at": "2024-06-04T22:35:17"
+  },
+  {
+    "artist_id": "073e9997-d464-472a-af19-e47d226a993c",
+    "name": "Scarlett Lee",
+    "nationality": "Polish",
+    "dealer_id": "37f431ca-9e2e-45ee-ae93-bdccb6619433",
+    "created_at": "2024-08-05T11:32:40"
+  },
+  {
+    "artist_id": "e7f1a7c4-5efd-4bb1-a254-e03ee1a168c5",
+    "name": "Jacob Ramirez-Davis",
+    "nationality": "Irish",
+    "dealer_id": "bde206be-39a7-4c48-ac84-02f42f99a560",
+    "created_at": "2024-08-29T00:03:58"
+  },
+  {
+    "artist_id": "6851b6dc-5e50-41bb-90fd-19675d32f0c0",
+    "name": "Grace Wright-Jackson",
+    "nationality": "Nigerian",
+    "dealer_id": "ea5f4332-49d9-4453-b9a2-62d3742d567b",
+    "created_at": "2024-07-15T03:22:28"
+  },
+  {
+    "artist_id": "fcd82e8c-a1f2-4e11-b9cf-c86ac218f7d8",
+    "name": "David Adams",
+    "nationality": "Indonesian",
+    "dealer_id": "835953c1-e093-44d9-8c0a-feb1e1c15fec",
+    "created_at": "2024-09-10T19:02:22"
+  },
+  {
+    "artist_id": "7c701dbf-115e-4e8c-9fbe-4efd632f4daf",
+    "name": "Chloe Carter",
+    "nationality": "French",
+    "dealer_id": "14922923-204a-4b66-926e-46b991929561",
+    "created_at": "2024-09-22T12:05:09"
+  },
+  {
+    "artist_id": "25467110-ebf6-401f-96f8-473a0fdd4ad7",
+    "name": "Carter Garcia-Johnson",
+    "nationality": "Swedish",
+    "dealer_id": "ebe31cd3-2697-4a30-bf5c-2eef02834957",
+    "created_at": "2024-09-23T09:13:16"
+  },
+  {
+    "artist_id": "4643ddd2-272f-4ac4-9eb3-695394945dd6",
+    "name": "Victoria Gonzalez",
+    "nationality": "Brazilian",
+    "dealer_id": "67e37f10-46c6-40d3-b0b7-929df2a28070",
+    "created_at": "2024-09-11T04:08:33"
+  },
+  {
+    "artist_id": "61f1ed3d-0b93-4789-9bd9-c8186f33153d",
+    "name": "Wyatt Martin",
+    "nationality": "Pakistani",
+    "dealer_id": "84c0299f-33c1-4d66-83fe-068b22131bda",
+    "created_at": "2024-09-05T13:29:35"
+  },
+  {
+    "artist_id": "99edbb79-dde3-4c93-9469-a18807b9461d",
+    "name": "Riley Clark",
+    "nationality": "Saudi",
+    "dealer_id": "6bae822e-5d62-478c-b785-27d119e86f6d",
+    "created_at": "2024-08-31T04:59:04"
+  },
+  {
+    "artist_id": "235c7835-ccb3-47b6-b1f3-af9fa2af51b7",
+    "name": "Joseph King-Rivera",
+    "nationality": "Swiss",
+    "dealer_id": "52c9fc09-9695-48f6-ad6c-deb91546a3db",
+    "created_at": "2024-07-31T06:48:32"
+  },
+  {
+    "artist_id": "337b914b-660a-40b2-90c6-58095860d4b5",
+    "name": "Nora Green",
+    "nationality": "Turkish",
+    "dealer_id": "ea81d6e6-86b1-46db-af98-5e6d9bf1c15b",
+    "created_at": "2024-07-17T10:21:47"
+  },
+  {
+    "artist_id": "f1136fa6-bffc-4086-ad8a-1269ca00bad7",
+    "name": "Owen Mitchell-Moore",
+    "nationality": "Moroccan",
+    "dealer_id": "ce5cc67b-e632-4918-ab7b-ee52a0d4d418",
+    "created_at": "2024-06-04T15:35:11"
+  },
+  {
+    "artist_id": "73151587-c2c4-45a9-9afd-102cd5c45073",
+    "name": "Lily Jones-Lewis",
+    "nationality": "Korean",
+    "dealer_id": "57603d38-dc93-43b6-855c-9f99457217c1",
+    "created_at": "2024-09-20T16:27:51"
+  },
+  {
+    "artist_id": "c866cabc-8609-48d2-8bfd-0f33a2f54faa",
+    "name": "John Lopez",
+    "nationality": "Qatari",
+    "dealer_id": "04f36aa8-429f-4159-ad6b-49a96cc93a4b",
+    "created_at": "2024-06-16T23:57:27"
+  },
+  {
+    "artist_id": "d44d9cfe-7a0e-45cf-ae8c-92f5cd4a2a25",
+    "name": "Hannah Jackson",
+    "nationality": "Danish",
+    "dealer_id": "7e66a7c1-0922-4abf-bc74-ed6b4a634d94",
+    "created_at": "2024-08-15T00:05:33"
+  },
+  {
+    "artist_id": "5f595dbc-c6ad-40fa-a0d6-b84ddbebac88",
+    "name": "Luke Sanchez",
+    "nationality": "Welsh",
+    "dealer_id": "66d78ab6-3146-4e0e-bb3e-1c2cc86ef109",
+    "created_at": "2024-08-06T00:42:31"
+  },
+  {
+    "artist_id": "e59ba568-b5ea-48dc-bc6f-42cbebeb3570",
+    "name": "Zoey Allen-Thompson",
+    "nationality": "Ethiopian",
+    "dealer_id": "2379e282-c940-4a24-9dba-cbb23cbfadb2",
+    "created_at": "2024-06-13T03:31:41"
+  },
+  {
+    "artist_id": "4e3241b9-b383-47c5-aebf-df3ca062d16e",
+    "name": "Gabriel Flores-King",
+    "nationality": "New Zealander",
+    "dealer_id": "7419a59b-7859-4cc0-98eb-b94b87cdc3fd",
+    "created_at": "2024-06-27T16:15:20"
+  },
+  {
+    "artist_id": "60156562-d62e-46d6-a5f9-b02347c4539c",
+    "name": "Penelope Campbell-Hall",
+    "nationality": "Spanish",
+    "dealer_id": "6f08a14e-a856-4691-ab08-ad22c0facc0f",
+    "created_at": "2024-06-24T08:15:06"
+  }
+]

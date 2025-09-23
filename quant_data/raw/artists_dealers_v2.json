@@ -1,0 +1,4107 @@
+[
+  {
+    "artists_dealers_id": "AD-000001",
+    "artist_id": "ART-00001",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artists_dealers_id": "AD-000002",
+    "artist_id": "ART-00002",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artists_dealers_id": "AD-000003",
+    "artist_id": "ART-00003",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artists_dealers_id": "AD-000004",
+    "artist_id": "ART-00003",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artists_dealers_id": "AD-000005",
+    "artist_id": "ART-00003",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artists_dealers_id": "AD-000006",
+    "artist_id": "ART-00004",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artists_dealers_id": "AD-000007",
+    "artist_id": "ART-00004",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artists_dealers_id": "AD-000008",
+    "artist_id": "ART-00004",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artists_dealers_id": "AD-000009",
+    "artist_id": "ART-00005",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artists_dealers_id": "AD-000010",
+    "artist_id": "ART-00005",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artists_dealers_id": "AD-000011",
+    "artist_id": "ART-00005",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artists_dealers_id": "AD-000012",
+    "artist_id": "ART-00006",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artists_dealers_id": "AD-000013",
+    "artist_id": "ART-00007",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000014",
+    "artist_id": "ART-00007",
+    "dealer_id": "DEALER-056"
+  },
+  {
+    "artists_dealers_id": "AD-000015",
+    "artist_id": "ART-00008",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artists_dealers_id": "AD-000016",
+    "artist_id": "ART-00008",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artists_dealers_id": "AD-000017",
+    "artist_id": "ART-00009",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artists_dealers_id": "AD-000018",
+    "artist_id": "ART-00010",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artists_dealers_id": "AD-000019",
+    "artist_id": "ART-00010",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artists_dealers_id": "AD-000020",
+    "artist_id": "ART-00011",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artists_dealers_id": "AD-000021",
+    "artist_id": "ART-00011",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artists_dealers_id": "AD-000022",
+    "artist_id": "ART-00011",
+    "dealer_id": "DEALER-058"
+  },
+  {
+    "artists_dealers_id": "AD-000023",
+    "artist_id": "ART-00012",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artists_dealers_id": "AD-000024",
+    "artist_id": "ART-00012",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artists_dealers_id": "AD-000025",
+    "artist_id": "ART-00013",
+    "dealer_id": "DEALER-060"
+  },
+  {
+    "artists_dealers_id": "AD-000026",
+    "artist_id": "ART-00014",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artists_dealers_id": "AD-000027",
+    "artist_id": "ART-00014",
+    "dealer_id": "DEALER-014"
+  },
+  {
+    "artists_dealers_id": "AD-000028",
+    "artist_id": "ART-00015",
+    "dealer_id": "DEALER-017"
+  },
+  {
+    "artists_dealers_id": "AD-000029",
+    "artist_id": "ART-00016",
+    "dealer_id": "DEALER-003"
+  },
+  {
+    "artists_dealers_id": "AD-000030",
+    "artist_id": "ART-00016",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artists_dealers_id": "AD-000031",
+    "artist_id": "ART-00017",
+    "dealer_id": "DEALER-013"
+  },
+  {
+    "artists_dealers_id": "AD-000032",
+    "artist_id": "ART-00018",
+    "dealer_id": "DEALER-013"
+  },
+  {
+    "artists_dealers_id": "AD-000033",
+    "artist_id": "ART-00018",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artists_dealers_id": "AD-000034",
+    "artist_id": "ART-00019",
+    "dealer_id": "DEALER-013"
+  },
+  {
+    "artists_dealers_id": "AD-000035",
+    "artist_id": "ART-00020",
+    "dealer_id": "DEALER-037"
+  },
+  {
+    "artists_dealers_id": "AD-000036",
+    "artist_id": "ART-00021",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artists_dealers_id": "AD-000037",
+    "artist_id": "ART-00022",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000038",
+    "artist_id": "ART-00022",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artists_dealers_id": "AD-000039",
+    "artist_id": "ART-00023",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artists_dealers_id": "AD-000040",
+    "artist_id": "ART-00024",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000041",
+    "artist_id": "ART-00024",
+    "dealer_id": "DEALER-060"
+  },
+  {
+    "artists_dealers_id": "AD-000042",
+    "artist_id": "ART-00025",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000043",
+    "artist_id": "ART-00025",
+    "dealer_id": "DEALER-051"
+  },
+  {
+    "artists_dealers_id": "AD-000044",
+    "artist_id": "ART-00026",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artists_dealers_id": "AD-000045",
+    "artist_id": "ART-00026",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artists_dealers_id": "AD-000046",
+    "artist_id": "ART-00027",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artists_dealers_id": "AD-000047",
+    "artist_id": "ART-00027",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artists_dealers_id": "AD-000048",
+    "artist_id": "ART-00028",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artists_dealers_id": "AD-000049",
+    "artist_id": "ART-00029",
+    "dealer_id": "DEALER-056"
+  },
+  {
+    "artists_dealers_id": "AD-000050",
+    "artist_id": "ART-00029",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artists_dealers_id": "AD-000051",
+    "artist_id": "ART-00030",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artists_dealers_id": "AD-000052",
+    "artist_id": "ART-00031",
+    "dealer_id": "DEALER-054"
+  },
+  {
+    "artists_dealers_id": "AD-000053",
+    "artist_id": "ART-00032",
+    "dealer_id": "DEALER-060"
+  },
+  {
+    "artists_dealers_id": "AD-000054",
+    "artist_id": "ART-00032",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000055",
+    "artist_id": "ART-00033",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artists_dealers_id": "AD-000056",
+    "artist_id": "ART-00033",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artists_dealers_id": "AD-000057",
+    "artist_id": "ART-00034",
+    "dealer_id": "DEALER-039"
+  },
+  {
+    "artists_dealers_id": "AD-000058",
+    "artist_id": "ART-00034",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artists_dealers_id": "AD-000059",
+    "artist_id": "ART-00035",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artists_dealers_id": "AD-000060",
+    "artist_id": "ART-00036",
+    "dealer_id": "DEALER-008"
+  },
+  {
+    "artists_dealers_id": "AD-000061",
+    "artist_id": "ART-00036",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artists_dealers_id": "AD-000062",
+    "artist_id": "ART-00037",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artists_dealers_id": "AD-000063",
+    "artist_id": "ART-00038",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artists_dealers_id": "AD-000064",
+    "artist_id": "ART-00038",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artists_dealers_id": "AD-000065",
+    "artist_id": "ART-00039",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000066",
+    "artist_id": "ART-00039",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artists_dealers_id": "AD-000067",
+    "artist_id": "ART-00040",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artists_dealers_id": "AD-000068",
+    "artist_id": "ART-00041",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artists_dealers_id": "AD-000069",
+    "artist_id": "ART-00041",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000070",
+    "artist_id": "ART-00042",
+    "dealer_id": "DEALER-053"
+  },
+  {
+    "artists_dealers_id": "AD-000071",
+    "artist_id": "ART-00043",
+    "dealer_id": "DEALER-025"
+  },
+  {
+    "artists_dealers_id": "AD-000072",
+    "artist_id": "ART-00044",
+    "dealer_id": "DEALER-054"
+  },
+  {
+    "artists_dealers_id": "AD-000073",
+    "artist_id": "ART-00045",
+    "dealer_id": "DEALER-025"
+  },
+  {
+    "artists_dealers_id": "AD-000074",
+    "artist_id": "ART-00045",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artists_dealers_id": "AD-000075",
+    "artist_id": "ART-00046",
+    "dealer_id": "DEALER-054"
+  },
+  {
+    "artists_dealers_id": "AD-000076",
+    "artist_id": "ART-00047",
+    "dealer_id": "DEALER-055"
+  },
+  {
+    "artists_dealers_id": "AD-000077",
+    "artist_id": "ART-00048",
+    "dealer_id": "DEALER-025"
+  },
+  {
+    "artists_dealers_id": "AD-000078",
+    "artist_id": "ART-00048",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artists_dealers_id": "AD-000079",
+    "artist_id": "ART-00049",
+    "dealer_id": "DEALER-059"
+  },
+  {
+    "artists_dealers_id": "AD-000080",
+    "artist_id": "ART-00050",
+    "dealer_id": "DEALER-008"
+  },
+  {
+    "artists_dealers_id": "AD-000081",
+    "artist_id": "ART-00051",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artists_dealers_id": "AD-000082",
+    "artist_id": "ART-00052",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000083",
+    "artist_id": "ART-00052",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artists_dealers_id": "AD-000084",
+    "artist_id": "ART-00053",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artists_dealers_id": "AD-000085",
+    "artist_id": "ART-00053",
+    "dealer_id": "DEALER-038"
+  },
+  {
+    "artists_dealers_id": "AD-000086",
+    "artist_id": "ART-00054",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artists_dealers_id": "AD-000087",
+    "artist_id": "ART-00054",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artists_dealers_id": "AD-000088",
+    "artist_id": "ART-00055",
+    "dealer_id": "DEALER-037"
+  },
+  {
+    "artists_dealers_id": "AD-000089",
+    "artist_id": "ART-00055",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artists_dealers_id": "AD-000090",
+    "artist_id": "ART-00056",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000091",
+    "artist_id": "ART-00056",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artists_dealers_id": "AD-000092",
+    "artist_id": "ART-00056",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artists_dealers_id": "AD-000093",
+    "artist_id": "ART-00057",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artists_dealers_id": "AD-000094",
+    "artist_id": "ART-00057",
+    "dealer_id": "DEALER-054"
+  },
+  {
+    "artists_dealers_id": "AD-000095",
+    "artist_id": "ART-00058",
+    "dealer_id": "DEALER-037"
+  },
+  {
+    "artists_dealers_id": "AD-000096",
+    "artist_id": "ART-00058",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artists_dealers_id": "AD-000097",
+    "artist_id": "ART-00059",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artists_dealers_id": "AD-000098",
+    "artist_id": "ART-00060",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artists_dealers_id": "AD-000099",
+    "artist_id": "ART-00060",
+    "dealer_id": "DEALER-037"
+  },
+  {
+    "artists_dealers_id": "AD-000100",
+    "artist_id": "ART-00061",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artists_dealers_id": "AD-000101",
+    "artist_id": "ART-00062",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000102",
+    "artist_id": "ART-00063",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artists_dealers_id": "AD-000103",
+    "artist_id": "ART-00064",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artists_dealers_id": "AD-000104",
+    "artist_id": "ART-00064",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artists_dealers_id": "AD-000105",
+    "artist_id": "ART-00065",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000106",
+    "artist_id": "ART-00065",
+    "dealer_id": "DEALER-031"
+  },
+  {
+    "artists_dealers_id": "AD-000107",
+    "artist_id": "ART-00065",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artists_dealers_id": "AD-000108",
+    "artist_id": "ART-00066",
+    "dealer_id": "DEALER-031"
+  },
+  {
+    "artists_dealers_id": "AD-000109",
+    "artist_id": "ART-00067",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artists_dealers_id": "AD-000110",
+    "artist_id": "ART-00067",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000111",
+    "artist_id": "ART-00068",
+    "dealer_id": "DEALER-058"
+  },
+  {
+    "artists_dealers_id": "AD-000112",
+    "artist_id": "ART-00069",
+    "dealer_id": "DEALER-039"
+  },
+  {
+    "artists_dealers_id": "AD-000113",
+    "artist_id": "ART-00070",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artists_dealers_id": "AD-000114",
+    "artist_id": "ART-00071",
+    "dealer_id": "DEALER-058"
+  },
+  {
+    "artists_dealers_id": "AD-000115",
+    "artist_id": "ART-00071",
+    "dealer_id": "DEALER-059"
+  },
+  {
+    "artists_dealers_id": "AD-000116",
+    "artist_id": "ART-00072",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artists_dealers_id": "AD-000117",
+    "artist_id": "ART-00072",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artists_dealers_id": "AD-000118",
+    "artist_id": "ART-00073",
+    "dealer_id": "DEALER-038"
+  },
+  {
+    "artists_dealers_id": "AD-000119",
+    "artist_id": "ART-00073",
+    "dealer_id": "DEALER-058"
+  },
+  {
+    "artists_dealers_id": "AD-000120",
+    "artist_id": "ART-00073",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artists_dealers_id": "AD-000121",
+    "artist_id": "ART-00074",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artists_dealers_id": "AD-000122",
+    "artist_id": "ART-00075",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artists_dealers_id": "AD-000123",
+    "artist_id": "ART-00075",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artists_dealers_id": "AD-000124",
+    "artist_id": "ART-00076",
+    "dealer_id": "DEALER-056"
+  },
+  {
+    "artists_dealers_id": "AD-000125",
+    "artist_id": "ART-00077",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artists_dealers_id": "AD-000126",
+    "artist_id": "ART-00078",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artists_dealers_id": "AD-000127",
+    "artist_id": "ART-00079",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artists_dealers_id": "AD-000128",
+    "artist_id": "ART-00080",
+    "dealer_id": "DEALER-039"
+  },
+  {
+    "artists_dealers_id": "AD-000129",
+    "artist_id": "ART-00081",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artists_dealers_id": "AD-000130",
+    "artist_id": "ART-00082",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artists_dealers_id": "AD-000131",
+    "artist_id": "ART-00082",
+    "dealer_id": "DEALER-013"
+  },
+  {
+    "artists_dealers_id": "AD-000132",
+    "artist_id": "ART-00082",
+    "dealer_id": "DEALER-003"
+  },
+  {
+    "artists_dealers_id": "AD-000133",
+    "artist_id": "ART-00083",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artists_dealers_id": "AD-000134",
+    "artist_id": "ART-00084",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artists_dealers_id": "AD-000135",
+    "artist_id": "ART-00085",
+    "dealer_id": "DEALER-060"
+  },
+  {
+    "artists_dealers_id": "AD-000136",
+    "artist_id": "ART-00085",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artists_dealers_id": "AD-000137",
+    "artist_id": "ART-00085",
+    "dealer_id": "DEALER-054"
+  },
+  {
+    "artists_dealers_id": "AD-000138",
+    "artist_id": "ART-00086",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artists_dealers_id": "AD-000139",
+    "artist_id": "ART-00087",
+    "dealer_id": "DEALER-056"
+  },
+  {
+    "artists_dealers_id": "AD-000140",
+    "artist_id": "ART-00087",
+    "dealer_id": "DEALER-057"
+  },
+  {
+    "artists_dealers_id": "AD-000141",
+    "artist_id": "ART-00088",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artists_dealers_id": "AD-000142",
+    "artist_id": "ART-00088",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artists_dealers_id": "AD-000143",
+    "artist_id": "ART-00089",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artists_dealers_id": "AD-000144",
+    "artist_id": "ART-00089",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artists_dealers_id": "AD-000145",
+    "artist_id": "ART-00090",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artists_dealers_id": "AD-000146",
+    "artist_id": "ART-00090",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artists_dealers_id": "AD-000147",
+    "artist_id": "ART-00091",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artists_dealers_id": "AD-000148",
+    "artist_id": "ART-00091",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000149",
+    "artist_id": "ART-00092",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artists_dealers_id": "AD-000150",
+    "artist_id": "ART-00093",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artists_dealers_id": "AD-000151",
+    "artist_id": "ART-00094",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artists_dealers_id": "AD-000152",
+    "artist_id": "ART-00094",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000153",
+    "artist_id": "ART-00095",
+    "dealer_id": "DEALER-008"
+  },
+  {
+    "artists_dealers_id": "AD-000154",
+    "artist_id": "ART-00095",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artists_dealers_id": "AD-000155",
+    "artist_id": "ART-00096",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artists_dealers_id": "AD-000156",
+    "artist_id": "ART-00096",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artists_dealers_id": "AD-000157",
+    "artist_id": "ART-00097",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artists_dealers_id": "AD-000158",
+    "artist_id": "ART-00097",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artists_dealers_id": "AD-000159",
+    "artist_id": "ART-00097",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artists_dealers_id": "AD-000160",
+    "artist_id": "ART-00098",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artists_dealers_id": "AD-000161",
+    "artist_id": "ART-00099",
+    "dealer_id": "DEALER-013"
+  },
+  {
+    "artists_dealers_id": "AD-000162",
+    "artist_id": "ART-00100",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artists_dealers_id": "AD-000163",
+    "artist_id": "ART-00101",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artists_dealers_id": "AD-000164",
+    "artist_id": "ART-00102",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artists_dealers_id": "AD-000165",
+    "artist_id": "ART-00103",
+    "dealer_id": "DEALER-060"
+  },
+  {
+    "artists_dealers_id": "AD-000166",
+    "artist_id": "ART-00103",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artists_dealers_id": "AD-000167",
+    "artist_id": "ART-00104",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artists_dealers_id": "AD-000168",
+    "artist_id": "ART-00105",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000169",
+    "artist_id": "ART-00105",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artists_dealers_id": "AD-000170",
+    "artist_id": "ART-00105",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artists_dealers_id": "AD-000171",
+    "artist_id": "ART-00106",
+    "dealer_id": "DEALER-060"
+  },
+  {
+    "artists_dealers_id": "AD-000172",
+    "artist_id": "ART-00107",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artists_dealers_id": "AD-000173",
+    "artist_id": "ART-00108",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artists_dealers_id": "AD-000174",
+    "artist_id": "ART-00108",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artists_dealers_id": "AD-000175",
+    "artist_id": "ART-00109",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artists_dealers_id": "AD-000176",
+    "artist_id": "ART-00110",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artists_dealers_id": "AD-000177",
+    "artist_id": "ART-00111",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artists_dealers_id": "AD-000178",
+    "artist_id": "ART-00111",
+    "dealer_id": "DEALER-053"
+  },
+  {
+    "artists_dealers_id": "AD-000179",
+    "artist_id": "ART-00111",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000180",
+    "artist_id": "ART-00112",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artists_dealers_id": "AD-000181",
+    "artist_id": "ART-00113",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artists_dealers_id": "AD-000182",
+    "artist_id": "ART-00114",
+    "dealer_id": "DEALER-051"
+  },
+  {
+    "artists_dealers_id": "AD-000183",
+    "artist_id": "ART-00115",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artists_dealers_id": "AD-000184",
+    "artist_id": "ART-00116",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artists_dealers_id": "AD-000185",
+    "artist_id": "ART-00117",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artists_dealers_id": "AD-000186",
+    "artist_id": "ART-00118",
+    "dealer_id": "DEALER-059"
+  },
+  {
+    "artists_dealers_id": "AD-000187",
+    "artist_id": "ART-00118",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artists_dealers_id": "AD-000188",
+    "artist_id": "ART-00118",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artists_dealers_id": "AD-000189",
+    "artist_id": "ART-00119",
+    "dealer_id": "DEALER-013"
+  },
+  {
+    "artists_dealers_id": "AD-000190",
+    "artist_id": "ART-00119",
+    "dealer_id": "DEALER-025"
+  },
+  {
+    "artists_dealers_id": "AD-000191",
+    "artist_id": "ART-00120",
+    "dealer_id": "DEALER-058"
+  },
+  {
+    "artists_dealers_id": "AD-000192",
+    "artist_id": "ART-00121",
+    "dealer_id": "DEALER-056"
+  },
+  {
+    "artists_dealers_id": "AD-000193",
+    "artist_id": "ART-00121",
+    "dealer_id": "DEALER-003"
+  },
+  {
+    "artists_dealers_id": "AD-000194",
+    "artist_id": "ART-00122",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000195",
+    "artist_id": "ART-00123",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artists_dealers_id": "AD-000196",
+    "artist_id": "ART-00123",
+    "dealer_id": "DEALER-059"
+  },
+  {
+    "artists_dealers_id": "AD-000197",
+    "artist_id": "ART-00124",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000198",
+    "artist_id": "ART-00125",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artists_dealers_id": "AD-000199",
+    "artist_id": "ART-00126",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artists_dealers_id": "AD-000200",
+    "artist_id": "ART-00127",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artists_dealers_id": "AD-000201",
+    "artist_id": "ART-00127",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artists_dealers_id": "AD-000202",
+    "artist_id": "ART-00128",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artists_dealers_id": "AD-000203",
+    "artist_id": "ART-00128",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artists_dealers_id": "AD-000204",
+    "artist_id": "ART-00129",
+    "dealer_id": "DEALER-014"
+  },
+  {
+    "artists_dealers_id": "AD-000205",
+    "artist_id": "ART-00130",
+    "dealer_id": "DEALER-060"
+  },
+  {
+    "artists_dealers_id": "AD-000206",
+    "artist_id": "ART-00130",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artists_dealers_id": "AD-000207",
+    "artist_id": "ART-00131",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artists_dealers_id": "AD-000208",
+    "artist_id": "ART-00132",
+    "dealer_id": "DEALER-038"
+  },
+  {
+    "artists_dealers_id": "AD-000209",
+    "artist_id": "ART-00133",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000210",
+    "artist_id": "ART-00133",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artists_dealers_id": "AD-000211",
+    "artist_id": "ART-00133",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artists_dealers_id": "AD-000212",
+    "artist_id": "ART-00134",
+    "dealer_id": "DEALER-014"
+  },
+  {
+    "artists_dealers_id": "AD-000213",
+    "artist_id": "ART-00134",
+    "dealer_id": "DEALER-025"
+  },
+  {
+    "artists_dealers_id": "AD-000214",
+    "artist_id": "ART-00134",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000215",
+    "artist_id": "ART-00135",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000216",
+    "artist_id": "ART-00135",
+    "dealer_id": "DEALER-057"
+  },
+  {
+    "artists_dealers_id": "AD-000217",
+    "artist_id": "ART-00136",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000218",
+    "artist_id": "ART-00136",
+    "dealer_id": "DEALER-055"
+  },
+  {
+    "artists_dealers_id": "AD-000219",
+    "artist_id": "ART-00137",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artists_dealers_id": "AD-000220",
+    "artist_id": "ART-00138",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artists_dealers_id": "AD-000221",
+    "artist_id": "ART-00139",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artists_dealers_id": "AD-000222",
+    "artist_id": "ART-00140",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artists_dealers_id": "AD-000223",
+    "artist_id": "ART-00141",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artists_dealers_id": "AD-000224",
+    "artist_id": "ART-00141",
+    "dealer_id": "DEALER-060"
+  },
+  {
+    "artists_dealers_id": "AD-000225",
+    "artist_id": "ART-00142",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artists_dealers_id": "AD-000226",
+    "artist_id": "ART-00143",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artists_dealers_id": "AD-000227",
+    "artist_id": "ART-00143",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artists_dealers_id": "AD-000228",
+    "artist_id": "ART-00144",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artists_dealers_id": "AD-000229",
+    "artist_id": "ART-00145",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artists_dealers_id": "AD-000230",
+    "artist_id": "ART-00145",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000231",
+    "artist_id": "ART-00145",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artists_dealers_id": "AD-000232",
+    "artist_id": "ART-00146",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artists_dealers_id": "AD-000233",
+    "artist_id": "ART-00147",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000234",
+    "artist_id": "ART-00147",
+    "dealer_id": "DEALER-053"
+  },
+  {
+    "artists_dealers_id": "AD-000235",
+    "artist_id": "ART-00148",
+    "dealer_id": "DEALER-053"
+  },
+  {
+    "artists_dealers_id": "AD-000236",
+    "artist_id": "ART-00149",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artists_dealers_id": "AD-000237",
+    "artist_id": "ART-00150",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artists_dealers_id": "AD-000238",
+    "artist_id": "ART-00150",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artists_dealers_id": "AD-000239",
+    "artist_id": "ART-00151",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artists_dealers_id": "AD-000240",
+    "artist_id": "ART-00152",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artists_dealers_id": "AD-000241",
+    "artist_id": "ART-00152",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artists_dealers_id": "AD-000242",
+    "artist_id": "ART-00152",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000243",
+    "artist_id": "ART-00153",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artists_dealers_id": "AD-000244",
+    "artist_id": "ART-00153",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artists_dealers_id": "AD-000245",
+    "artist_id": "ART-00153",
+    "dealer_id": "DEALER-051"
+  },
+  {
+    "artists_dealers_id": "AD-000246",
+    "artist_id": "ART-00154",
+    "dealer_id": "DEALER-053"
+  },
+  {
+    "artists_dealers_id": "AD-000247",
+    "artist_id": "ART-00155",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artists_dealers_id": "AD-000248",
+    "artist_id": "ART-00156",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artists_dealers_id": "AD-000249",
+    "artist_id": "ART-00156",
+    "dealer_id": "DEALER-008"
+  },
+  {
+    "artists_dealers_id": "AD-000250",
+    "artist_id": "ART-00157",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artists_dealers_id": "AD-000251",
+    "artist_id": "ART-00158",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000252",
+    "artist_id": "ART-00159",
+    "dealer_id": "DEALER-051"
+  },
+  {
+    "artists_dealers_id": "AD-000253",
+    "artist_id": "ART-00159",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artists_dealers_id": "AD-000254",
+    "artist_id": "ART-00160",
+    "dealer_id": "DEALER-058"
+  },
+  {
+    "artists_dealers_id": "AD-000255",
+    "artist_id": "ART-00160",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artists_dealers_id": "AD-000256",
+    "artist_id": "ART-00161",
+    "dealer_id": "DEALER-056"
+  },
+  {
+    "artists_dealers_id": "AD-000257",
+    "artist_id": "ART-00161",
+    "dealer_id": "DEALER-057"
+  },
+  {
+    "artists_dealers_id": "AD-000258",
+    "artist_id": "ART-00161",
+    "dealer_id": "DEALER-055"
+  },
+  {
+    "artists_dealers_id": "AD-000259",
+    "artist_id": "ART-00162",
+    "dealer_id": "DEALER-017"
+  },
+  {
+    "artists_dealers_id": "AD-000260",
+    "artist_id": "ART-00162",
+    "dealer_id": "DEALER-059"
+  },
+  {
+    "artists_dealers_id": "AD-000261",
+    "artist_id": "ART-00163",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artists_dealers_id": "AD-000262",
+    "artist_id": "ART-00163",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artists_dealers_id": "AD-000263",
+    "artist_id": "ART-00164",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artists_dealers_id": "AD-000264",
+    "artist_id": "ART-00165",
+    "dealer_id": "DEALER-055"
+  },
+  {
+    "artists_dealers_id": "AD-000265",
+    "artist_id": "ART-00166",
+    "dealer_id": "DEALER-057"
+  },
+  {
+    "artists_dealers_id": "AD-000266",
+    "artist_id": "ART-00166",
+    "dealer_id": "DEALER-003"
+  },
+  {
+    "artists_dealers_id": "AD-000267",
+    "artist_id": "ART-00167",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artists_dealers_id": "AD-000268",
+    "artist_id": "ART-00167",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artists_dealers_id": "AD-000269",
+    "artist_id": "ART-00168",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artists_dealers_id": "AD-000270",
+    "artist_id": "ART-00169",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000271",
+    "artist_id": "ART-00170",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artists_dealers_id": "AD-000272",
+    "artist_id": "ART-00171",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artists_dealers_id": "AD-000273",
+    "artist_id": "ART-00172",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artists_dealers_id": "AD-000274",
+    "artist_id": "ART-00173",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artists_dealers_id": "AD-000275",
+    "artist_id": "ART-00173",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000276",
+    "artist_id": "ART-00174",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000277",
+    "artist_id": "ART-00174",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artists_dealers_id": "AD-000278",
+    "artist_id": "ART-00175",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artists_dealers_id": "AD-000279",
+    "artist_id": "ART-00176",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artists_dealers_id": "AD-000280",
+    "artist_id": "ART-00176",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artists_dealers_id": "AD-000281",
+    "artist_id": "ART-00177",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artists_dealers_id": "AD-000282",
+    "artist_id": "ART-00178",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artists_dealers_id": "AD-000283",
+    "artist_id": "ART-00178",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artists_dealers_id": "AD-000284",
+    "artist_id": "ART-00178",
+    "dealer_id": "DEALER-013"
+  },
+  {
+    "artists_dealers_id": "AD-000285",
+    "artist_id": "ART-00179",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artists_dealers_id": "AD-000286",
+    "artist_id": "ART-00180",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artists_dealers_id": "AD-000287",
+    "artist_id": "ART-00181",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artists_dealers_id": "AD-000288",
+    "artist_id": "ART-00181",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artists_dealers_id": "AD-000289",
+    "artist_id": "ART-00182",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artists_dealers_id": "AD-000290",
+    "artist_id": "ART-00182",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artists_dealers_id": "AD-000291",
+    "artist_id": "ART-00183",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artists_dealers_id": "AD-000292",
+    "artist_id": "ART-00183",
+    "dealer_id": "DEALER-017"
+  },
+  {
+    "artists_dealers_id": "AD-000293",
+    "artist_id": "ART-00184",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artists_dealers_id": "AD-000294",
+    "artist_id": "ART-00184",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artists_dealers_id": "AD-000295",
+    "artist_id": "ART-00184",
+    "dealer_id": "DEALER-059"
+  },
+  {
+    "artists_dealers_id": "AD-000296",
+    "artist_id": "ART-00185",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artists_dealers_id": "AD-000297",
+    "artist_id": "ART-00185",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artists_dealers_id": "AD-000298",
+    "artist_id": "ART-00185",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artists_dealers_id": "AD-000299",
+    "artist_id": "ART-00186",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artists_dealers_id": "AD-000300",
+    "artist_id": "ART-00187",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artists_dealers_id": "AD-000301",
+    "artist_id": "ART-00188",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artists_dealers_id": "AD-000302",
+    "artist_id": "ART-00189",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artists_dealers_id": "AD-000303",
+    "artist_id": "ART-00189",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artists_dealers_id": "AD-000304",
+    "artist_id": "ART-00190",
+    "dealer_id": "DEALER-058"
+  },
+  {
+    "artists_dealers_id": "AD-000305",
+    "artist_id": "ART-00191",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artists_dealers_id": "AD-000306",
+    "artist_id": "ART-00192",
+    "dealer_id": "DEALER-059"
+  },
+  {
+    "artists_dealers_id": "AD-000307",
+    "artist_id": "ART-00193",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artists_dealers_id": "AD-000308",
+    "artist_id": "ART-00194",
+    "dealer_id": "DEALER-017"
+  },
+  {
+    "artists_dealers_id": "AD-000309",
+    "artist_id": "ART-00195",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artists_dealers_id": "AD-000310",
+    "artist_id": "ART-00195",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artists_dealers_id": "AD-000311",
+    "artist_id": "ART-00196",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artists_dealers_id": "AD-000312",
+    "artist_id": "ART-00197",
+    "dealer_id": "DEALER-056"
+  },
+  {
+    "artists_dealers_id": "AD-000313",
+    "artist_id": "ART-00197",
+    "dealer_id": "DEALER-008"
+  },
+  {
+    "artists_dealers_id": "AD-000314",
+    "artist_id": "ART-00198",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artists_dealers_id": "AD-000315",
+    "artist_id": "ART-00198",
+    "dealer_id": "DEALER-008"
+  },
+  {
+    "artists_dealers_id": "AD-000316",
+    "artist_id": "ART-00198",
+    "dealer_id": "DEALER-059"
+  },
+  {
+    "artists_dealers_id": "AD-000317",
+    "artist_id": "ART-00199",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artists_dealers_id": "AD-000318",
+    "artist_id": "ART-00200",
+    "dealer_id": "DEALER-056"
+  },
+  {
+    "artists_dealers_id": "AD-000319",
+    "artist_id": "ART-00200",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artists_dealers_id": "AD-000320",
+    "artist_id": "ART-00200",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artists_dealers_id": "AD-000321",
+    "artist_id": "ART-00201",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artists_dealers_id": "AD-000322",
+    "artist_id": "ART-00202",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artists_dealers_id": "AD-000323",
+    "artist_id": "ART-00203",
+    "dealer_id": "DEALER-054"
+  },
+  {
+    "artists_dealers_id": "AD-000324",
+    "artist_id": "ART-00204",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artists_dealers_id": "AD-000325",
+    "artist_id": "ART-00205",
+    "dealer_id": "DEALER-060"
+  },
+  {
+    "artists_dealers_id": "AD-000326",
+    "artist_id": "ART-00206",
+    "dealer_id": "DEALER-054"
+  },
+  {
+    "artists_dealers_id": "AD-000327",
+    "artist_id": "ART-00206",
+    "dealer_id": "DEALER-025"
+  },
+  {
+    "artists_dealers_id": "AD-000328",
+    "artist_id": "ART-00207",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artists_dealers_id": "AD-000329",
+    "artist_id": "ART-00208",
+    "dealer_id": "DEALER-053"
+  },
+  {
+    "artists_dealers_id": "AD-000330",
+    "artist_id": "ART-00209",
+    "dealer_id": "DEALER-025"
+  },
+  {
+    "artists_dealers_id": "AD-000331",
+    "artist_id": "ART-00210",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artists_dealers_id": "AD-000332",
+    "artist_id": "ART-00211",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artists_dealers_id": "AD-000333",
+    "artist_id": "ART-00212",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000334",
+    "artist_id": "ART-00213",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000335",
+    "artist_id": "ART-00213",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000336",
+    "artist_id": "ART-00214",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000337",
+    "artist_id": "ART-00215",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artists_dealers_id": "AD-000338",
+    "artist_id": "ART-00215",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artists_dealers_id": "AD-000339",
+    "artist_id": "ART-00216",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artists_dealers_id": "AD-000340",
+    "artist_id": "ART-00217",
+    "dealer_id": "DEALER-053"
+  },
+  {
+    "artists_dealers_id": "AD-000341",
+    "artist_id": "ART-00217",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artists_dealers_id": "AD-000342",
+    "artist_id": "ART-00218",
+    "dealer_id": "DEALER-056"
+  },
+  {
+    "artists_dealers_id": "AD-000343",
+    "artist_id": "ART-00219",
+    "dealer_id": "DEALER-008"
+  },
+  {
+    "artists_dealers_id": "AD-000344",
+    "artist_id": "ART-00220",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artists_dealers_id": "AD-000345",
+    "artist_id": "ART-00220",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artists_dealers_id": "AD-000346",
+    "artist_id": "ART-00221",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artists_dealers_id": "AD-000347",
+    "artist_id": "ART-00221",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artists_dealers_id": "AD-000348",
+    "artist_id": "ART-00222",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artists_dealers_id": "AD-000349",
+    "artist_id": "ART-00222",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artists_dealers_id": "AD-000350",
+    "artist_id": "ART-00222",
+    "dealer_id": "DEALER-013"
+  },
+  {
+    "artists_dealers_id": "AD-000351",
+    "artist_id": "ART-00223",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artists_dealers_id": "AD-000352",
+    "artist_id": "ART-00224",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artists_dealers_id": "AD-000353",
+    "artist_id": "ART-00224",
+    "dealer_id": "DEALER-051"
+  },
+  {
+    "artists_dealers_id": "AD-000354",
+    "artist_id": "ART-00225",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artists_dealers_id": "AD-000355",
+    "artist_id": "ART-00225",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artists_dealers_id": "AD-000356",
+    "artist_id": "ART-00225",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artists_dealers_id": "AD-000357",
+    "artist_id": "ART-00226",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artists_dealers_id": "AD-000358",
+    "artist_id": "ART-00227",
+    "dealer_id": "DEALER-057"
+  },
+  {
+    "artists_dealers_id": "AD-000359",
+    "artist_id": "ART-00228",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artists_dealers_id": "AD-000360",
+    "artist_id": "ART-00229",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artists_dealers_id": "AD-000361",
+    "artist_id": "ART-00230",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artists_dealers_id": "AD-000362",
+    "artist_id": "ART-00231",
+    "dealer_id": "DEALER-056"
+  },
+  {
+    "artists_dealers_id": "AD-000363",
+    "artist_id": "ART-00232",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artists_dealers_id": "AD-000364",
+    "artist_id": "ART-00233",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artists_dealers_id": "AD-000365",
+    "artist_id": "ART-00233",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artists_dealers_id": "AD-000366",
+    "artist_id": "ART-00233",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artists_dealers_id": "AD-000367",
+    "artist_id": "ART-00234",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artists_dealers_id": "AD-000368",
+    "artist_id": "ART-00235",
+    "dealer_id": "DEALER-013"
+  },
+  {
+    "artists_dealers_id": "AD-000369",
+    "artist_id": "ART-00235",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artists_dealers_id": "AD-000370",
+    "artist_id": "ART-00236",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artists_dealers_id": "AD-000371",
+    "artist_id": "ART-00236",
+    "dealer_id": "DEALER-053"
+  },
+  {
+    "artists_dealers_id": "AD-000372",
+    "artist_id": "ART-00237",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artists_dealers_id": "AD-000373",
+    "artist_id": "ART-00237",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artists_dealers_id": "AD-000374",
+    "artist_id": "ART-00238",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artists_dealers_id": "AD-000375",
+    "artist_id": "ART-00239",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artists_dealers_id": "AD-000376",
+    "artist_id": "ART-00240",
+    "dealer_id": "DEALER-003"
+  },
+  {
+    "artists_dealers_id": "AD-000377",
+    "artist_id": "ART-00240",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artists_dealers_id": "AD-000378",
+    "artist_id": "ART-00241",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artists_dealers_id": "AD-000379",
+    "artist_id": "ART-00242",
+    "dealer_id": "DEALER-014"
+  },
+  {
+    "artists_dealers_id": "AD-000380",
+    "artist_id": "ART-00243",
+    "dealer_id": "DEALER-003"
+  },
+  {
+    "artists_dealers_id": "AD-000381",
+    "artist_id": "ART-00243",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artists_dealers_id": "AD-000382",
+    "artist_id": "ART-00243",
+    "dealer_id": "DEALER-055"
+  },
+  {
+    "artists_dealers_id": "AD-000383",
+    "artist_id": "ART-00244",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artists_dealers_id": "AD-000384",
+    "artist_id": "ART-00244",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artists_dealers_id": "AD-000385",
+    "artist_id": "ART-00244",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artists_dealers_id": "AD-000386",
+    "artist_id": "ART-00245",
+    "dealer_id": "DEALER-054"
+  },
+  {
+    "artists_dealers_id": "AD-000387",
+    "artist_id": "ART-00246",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000388",
+    "artist_id": "ART-00246",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artists_dealers_id": "AD-000389",
+    "artist_id": "ART-00247",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artists_dealers_id": "AD-000390",
+    "artist_id": "ART-00247",
+    "dealer_id": "DEALER-025"
+  },
+  {
+    "artists_dealers_id": "AD-000391",
+    "artist_id": "ART-00248",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artists_dealers_id": "AD-000392",
+    "artist_id": "ART-00249",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artists_dealers_id": "AD-000393",
+    "artist_id": "ART-00250",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artists_dealers_id": "AD-000394",
+    "artist_id": "ART-00250",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artists_dealers_id": "AD-000395",
+    "artist_id": "ART-00250",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artists_dealers_id": "AD-000396",
+    "artist_id": "ART-00251",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artists_dealers_id": "AD-000397",
+    "artist_id": "ART-00251",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artists_dealers_id": "AD-000398",
+    "artist_id": "ART-00251",
+    "dealer_id": "DEALER-003"
+  },
+  {
+    "artists_dealers_id": "AD-000399",
+    "artist_id": "ART-00252",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artists_dealers_id": "AD-000400",
+    "artist_id": "ART-00253",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000401",
+    "artist_id": "ART-00253",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artists_dealers_id": "AD-000402",
+    "artist_id": "ART-00253",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000403",
+    "artist_id": "ART-00254",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artists_dealers_id": "AD-000404",
+    "artist_id": "ART-00254",
+    "dealer_id": "DEALER-038"
+  },
+  {
+    "artists_dealers_id": "AD-000405",
+    "artist_id": "ART-00254",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artists_dealers_id": "AD-000406",
+    "artist_id": "ART-00255",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artists_dealers_id": "AD-000407",
+    "artist_id": "ART-00256",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artists_dealers_id": "AD-000408",
+    "artist_id": "ART-00256",
+    "dealer_id": "DEALER-017"
+  },
+  {
+    "artists_dealers_id": "AD-000409",
+    "artist_id": "ART-00257",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artists_dealers_id": "AD-000410",
+    "artist_id": "ART-00258",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artists_dealers_id": "AD-000411",
+    "artist_id": "ART-00259",
+    "dealer_id": "DEALER-055"
+  },
+  {
+    "artists_dealers_id": "AD-000412",
+    "artist_id": "ART-00259",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artists_dealers_id": "AD-000413",
+    "artist_id": "ART-00260",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artists_dealers_id": "AD-000414",
+    "artist_id": "ART-00260",
+    "dealer_id": "DEALER-055"
+  },
+  {
+    "artists_dealers_id": "AD-000415",
+    "artist_id": "ART-00261",
+    "dealer_id": "DEALER-057"
+  },
+  {
+    "artists_dealers_id": "AD-000416",
+    "artist_id": "ART-00262",
+    "dealer_id": "DEALER-039"
+  },
+  {
+    "artists_dealers_id": "AD-000417",
+    "artist_id": "ART-00262",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artists_dealers_id": "AD-000418",
+    "artist_id": "ART-00263",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artists_dealers_id": "AD-000419",
+    "artist_id": "ART-00264",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artists_dealers_id": "AD-000420",
+    "artist_id": "ART-00264",
+    "dealer_id": "DEALER-039"
+  },
+  {
+    "artists_dealers_id": "AD-000421",
+    "artist_id": "ART-00265",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artists_dealers_id": "AD-000422",
+    "artist_id": "ART-00266",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artists_dealers_id": "AD-000423",
+    "artist_id": "ART-00266",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artists_dealers_id": "AD-000424",
+    "artist_id": "ART-00266",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000425",
+    "artist_id": "ART-00267",
+    "dealer_id": "DEALER-031"
+  },
+  {
+    "artists_dealers_id": "AD-000426",
+    "artist_id": "ART-00267",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artists_dealers_id": "AD-000427",
+    "artist_id": "ART-00268",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artists_dealers_id": "AD-000428",
+    "artist_id": "ART-00269",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artists_dealers_id": "AD-000429",
+    "artist_id": "ART-00269",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artists_dealers_id": "AD-000430",
+    "artist_id": "ART-00270",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artists_dealers_id": "AD-000431",
+    "artist_id": "ART-00270",
+    "dealer_id": "DEALER-054"
+  },
+  {
+    "artists_dealers_id": "AD-000432",
+    "artist_id": "ART-00270",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artists_dealers_id": "AD-000433",
+    "artist_id": "ART-00271",
+    "dealer_id": "DEALER-038"
+  },
+  {
+    "artists_dealers_id": "AD-000434",
+    "artist_id": "ART-00271",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artists_dealers_id": "AD-000435",
+    "artist_id": "ART-00272",
+    "dealer_id": "DEALER-013"
+  },
+  {
+    "artists_dealers_id": "AD-000436",
+    "artist_id": "ART-00273",
+    "dealer_id": "DEALER-003"
+  },
+  {
+    "artists_dealers_id": "AD-000437",
+    "artist_id": "ART-00274",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artists_dealers_id": "AD-000438",
+    "artist_id": "ART-00275",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artists_dealers_id": "AD-000439",
+    "artist_id": "ART-00275",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artists_dealers_id": "AD-000440",
+    "artist_id": "ART-00276",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artists_dealers_id": "AD-000441",
+    "artist_id": "ART-00277",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artists_dealers_id": "AD-000442",
+    "artist_id": "ART-00277",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000443",
+    "artist_id": "ART-00278",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artists_dealers_id": "AD-000444",
+    "artist_id": "ART-00279",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artists_dealers_id": "AD-000445",
+    "artist_id": "ART-00279",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artists_dealers_id": "AD-000446",
+    "artist_id": "ART-00280",
+    "dealer_id": "DEALER-025"
+  },
+  {
+    "artists_dealers_id": "AD-000447",
+    "artist_id": "ART-00280",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000448",
+    "artist_id": "ART-00281",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artists_dealers_id": "AD-000449",
+    "artist_id": "ART-00281",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artists_dealers_id": "AD-000450",
+    "artist_id": "ART-00282",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artists_dealers_id": "AD-000451",
+    "artist_id": "ART-00283",
+    "dealer_id": "DEALER-060"
+  },
+  {
+    "artists_dealers_id": "AD-000452",
+    "artist_id": "ART-00283",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artists_dealers_id": "AD-000453",
+    "artist_id": "ART-00284",
+    "dealer_id": "DEALER-057"
+  },
+  {
+    "artists_dealers_id": "AD-000454",
+    "artist_id": "ART-00285",
+    "dealer_id": "DEALER-051"
+  },
+  {
+    "artists_dealers_id": "AD-000455",
+    "artist_id": "ART-00285",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artists_dealers_id": "AD-000456",
+    "artist_id": "ART-00285",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artists_dealers_id": "AD-000457",
+    "artist_id": "ART-00286",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000458",
+    "artist_id": "ART-00287",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artists_dealers_id": "AD-000459",
+    "artist_id": "ART-00287",
+    "dealer_id": "DEALER-055"
+  },
+  {
+    "artists_dealers_id": "AD-000460",
+    "artist_id": "ART-00288",
+    "dealer_id": "DEALER-051"
+  },
+  {
+    "artists_dealers_id": "AD-000461",
+    "artist_id": "ART-00288",
+    "dealer_id": "DEALER-058"
+  },
+  {
+    "artists_dealers_id": "AD-000462",
+    "artist_id": "ART-00289",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artists_dealers_id": "AD-000463",
+    "artist_id": "ART-00289",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artists_dealers_id": "AD-000464",
+    "artist_id": "ART-00289",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artists_dealers_id": "AD-000465",
+    "artist_id": "ART-00290",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000466",
+    "artist_id": "ART-00290",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artists_dealers_id": "AD-000467",
+    "artist_id": "ART-00291",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artists_dealers_id": "AD-000468",
+    "artist_id": "ART-00292",
+    "dealer_id": "DEALER-054"
+  },
+  {
+    "artists_dealers_id": "AD-000469",
+    "artist_id": "ART-00292",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artists_dealers_id": "AD-000470",
+    "artist_id": "ART-00292",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artists_dealers_id": "AD-000471",
+    "artist_id": "ART-00293",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artists_dealers_id": "AD-000472",
+    "artist_id": "ART-00293",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artists_dealers_id": "AD-000473",
+    "artist_id": "ART-00294",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artists_dealers_id": "AD-000474",
+    "artist_id": "ART-00295",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000475",
+    "artist_id": "ART-00296",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000476",
+    "artist_id": "ART-00297",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artists_dealers_id": "AD-000477",
+    "artist_id": "ART-00297",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artists_dealers_id": "AD-000478",
+    "artist_id": "ART-00297",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artists_dealers_id": "AD-000479",
+    "artist_id": "ART-00298",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000480",
+    "artist_id": "ART-00298",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000481",
+    "artist_id": "ART-00298",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artists_dealers_id": "AD-000482",
+    "artist_id": "ART-00299",
+    "dealer_id": "DEALER-057"
+  },
+  {
+    "artists_dealers_id": "AD-000483",
+    "artist_id": "ART-00299",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artists_dealers_id": "AD-000484",
+    "artist_id": "ART-00300",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artists_dealers_id": "AD-000485",
+    "artist_id": "ART-00300",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000486",
+    "artist_id": "ART-00301",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artists_dealers_id": "AD-000487",
+    "artist_id": "ART-00301",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artists_dealers_id": "AD-000488",
+    "artist_id": "ART-00302",
+    "dealer_id": "DEALER-031"
+  },
+  {
+    "artists_dealers_id": "AD-000489",
+    "artist_id": "ART-00303",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artists_dealers_id": "AD-000490",
+    "artist_id": "ART-00304",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artists_dealers_id": "AD-000491",
+    "artist_id": "ART-00305",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artists_dealers_id": "AD-000492",
+    "artist_id": "ART-00305",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artists_dealers_id": "AD-000493",
+    "artist_id": "ART-00306",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artists_dealers_id": "AD-000494",
+    "artist_id": "ART-00307",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artists_dealers_id": "AD-000495",
+    "artist_id": "ART-00307",
+    "dealer_id": "DEALER-055"
+  },
+  {
+    "artists_dealers_id": "AD-000496",
+    "artist_id": "ART-00308",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artists_dealers_id": "AD-000497",
+    "artist_id": "ART-00308",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000498",
+    "artist_id": "ART-00309",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artists_dealers_id": "AD-000499",
+    "artist_id": "ART-00310",
+    "dealer_id": "DEALER-056"
+  },
+  {
+    "artists_dealers_id": "AD-000500",
+    "artist_id": "ART-00310",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artists_dealers_id": "AD-000501",
+    "artist_id": "ART-00311",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artists_dealers_id": "AD-000502",
+    "artist_id": "ART-00311",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000503",
+    "artist_id": "ART-00311",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artists_dealers_id": "AD-000504",
+    "artist_id": "ART-00312",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artists_dealers_id": "AD-000505",
+    "artist_id": "ART-00312",
+    "dealer_id": "DEALER-008"
+  },
+  {
+    "artists_dealers_id": "AD-000506",
+    "artist_id": "ART-00313",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artists_dealers_id": "AD-000507",
+    "artist_id": "ART-00314",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artists_dealers_id": "AD-000508",
+    "artist_id": "ART-00315",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artists_dealers_id": "AD-000509",
+    "artist_id": "ART-00316",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artists_dealers_id": "AD-000510",
+    "artist_id": "ART-00317",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artists_dealers_id": "AD-000511",
+    "artist_id": "ART-00317",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artists_dealers_id": "AD-000512",
+    "artist_id": "ART-00318",
+    "dealer_id": "DEALER-031"
+  },
+  {
+    "artists_dealers_id": "AD-000513",
+    "artist_id": "ART-00318",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artists_dealers_id": "AD-000514",
+    "artist_id": "ART-00319",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artists_dealers_id": "AD-000515",
+    "artist_id": "ART-00319",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artists_dealers_id": "AD-000516",
+    "artist_id": "ART-00320",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artists_dealers_id": "AD-000517",
+    "artist_id": "ART-00320",
+    "dealer_id": "DEALER-003"
+  },
+  {
+    "artists_dealers_id": "AD-000518",
+    "artist_id": "ART-00320",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000519",
+    "artist_id": "ART-00321",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artists_dealers_id": "AD-000520",
+    "artist_id": "ART-00322",
+    "dealer_id": "DEALER-013"
+  },
+  {
+    "artists_dealers_id": "AD-000521",
+    "artist_id": "ART-00322",
+    "dealer_id": "DEALER-053"
+  },
+  {
+    "artists_dealers_id": "AD-000522",
+    "artist_id": "ART-00323",
+    "dealer_id": "DEALER-054"
+  },
+  {
+    "artists_dealers_id": "AD-000523",
+    "artist_id": "ART-00323",
+    "dealer_id": "DEALER-031"
+  },
+  {
+    "artists_dealers_id": "AD-000524",
+    "artist_id": "ART-00323",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artists_dealers_id": "AD-000525",
+    "artist_id": "ART-00324",
+    "dealer_id": "DEALER-054"
+  },
+  {
+    "artists_dealers_id": "AD-000526",
+    "artist_id": "ART-00324",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artists_dealers_id": "AD-000527",
+    "artist_id": "ART-00324",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artists_dealers_id": "AD-000528",
+    "artist_id": "ART-00325",
+    "dealer_id": "DEALER-060"
+  },
+  {
+    "artists_dealers_id": "AD-000529",
+    "artist_id": "ART-00325",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000530",
+    "artist_id": "ART-00325",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artists_dealers_id": "AD-000531",
+    "artist_id": "ART-00326",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artists_dealers_id": "AD-000532",
+    "artist_id": "ART-00327",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artists_dealers_id": "AD-000533",
+    "artist_id": "ART-00328",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artists_dealers_id": "AD-000534",
+    "artist_id": "ART-00329",
+    "dealer_id": "DEALER-051"
+  },
+  {
+    "artists_dealers_id": "AD-000535",
+    "artist_id": "ART-00330",
+    "dealer_id": "DEALER-008"
+  },
+  {
+    "artists_dealers_id": "AD-000536",
+    "artist_id": "ART-00331",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000537",
+    "artist_id": "ART-00331",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artists_dealers_id": "AD-000538",
+    "artist_id": "ART-00332",
+    "dealer_id": "DEALER-039"
+  },
+  {
+    "artists_dealers_id": "AD-000539",
+    "artist_id": "ART-00333",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artists_dealers_id": "AD-000540",
+    "artist_id": "ART-00333",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artists_dealers_id": "AD-000541",
+    "artist_id": "ART-00334",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artists_dealers_id": "AD-000542",
+    "artist_id": "ART-00334",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artists_dealers_id": "AD-000543",
+    "artist_id": "ART-00335",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000544",
+    "artist_id": "ART-00336",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000545",
+    "artist_id": "ART-00337",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artists_dealers_id": "AD-000546",
+    "artist_id": "ART-00338",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artists_dealers_id": "AD-000547",
+    "artist_id": "ART-00339",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artists_dealers_id": "AD-000548",
+    "artist_id": "ART-00339",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artists_dealers_id": "AD-000549",
+    "artist_id": "ART-00340",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artists_dealers_id": "AD-000550",
+    "artist_id": "ART-00341",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artists_dealers_id": "AD-000551",
+    "artist_id": "ART-00342",
+    "dealer_id": "DEALER-025"
+  },
+  {
+    "artists_dealers_id": "AD-000552",
+    "artist_id": "ART-00342",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artists_dealers_id": "AD-000553",
+    "artist_id": "ART-00343",
+    "dealer_id": "DEALER-017"
+  },
+  {
+    "artists_dealers_id": "AD-000554",
+    "artist_id": "ART-00344",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artists_dealers_id": "AD-000555",
+    "artist_id": "ART-00345",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artists_dealers_id": "AD-000556",
+    "artist_id": "ART-00346",
+    "dealer_id": "DEALER-013"
+  },
+  {
+    "artists_dealers_id": "AD-000557",
+    "artist_id": "ART-00347",
+    "dealer_id": "DEALER-056"
+  },
+  {
+    "artists_dealers_id": "AD-000558",
+    "artist_id": "ART-00348",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artists_dealers_id": "AD-000559",
+    "artist_id": "ART-00349",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artists_dealers_id": "AD-000560",
+    "artist_id": "ART-00349",
+    "dealer_id": "DEALER-059"
+  },
+  {
+    "artists_dealers_id": "AD-000561",
+    "artist_id": "ART-00349",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artists_dealers_id": "AD-000562",
+    "artist_id": "ART-00350",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artists_dealers_id": "AD-000563",
+    "artist_id": "ART-00350",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artists_dealers_id": "AD-000564",
+    "artist_id": "ART-00350",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artists_dealers_id": "AD-000565",
+    "artist_id": "ART-00351",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artists_dealers_id": "AD-000566",
+    "artist_id": "ART-00352",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artists_dealers_id": "AD-000567",
+    "artist_id": "ART-00353",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artists_dealers_id": "AD-000568",
+    "artist_id": "ART-00354",
+    "dealer_id": "DEALER-025"
+  },
+  {
+    "artists_dealers_id": "AD-000569",
+    "artist_id": "ART-00354",
+    "dealer_id": "DEALER-054"
+  },
+  {
+    "artists_dealers_id": "AD-000570",
+    "artist_id": "ART-00355",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artists_dealers_id": "AD-000571",
+    "artist_id": "ART-00355",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artists_dealers_id": "AD-000572",
+    "artist_id": "ART-00355",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artists_dealers_id": "AD-000573",
+    "artist_id": "ART-00356",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artists_dealers_id": "AD-000574",
+    "artist_id": "ART-00357",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000575",
+    "artist_id": "ART-00357",
+    "dealer_id": "DEALER-008"
+  },
+  {
+    "artists_dealers_id": "AD-000576",
+    "artist_id": "ART-00358",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artists_dealers_id": "AD-000577",
+    "artist_id": "ART-00359",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artists_dealers_id": "AD-000578",
+    "artist_id": "ART-00359",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000579",
+    "artist_id": "ART-00360",
+    "dealer_id": "DEALER-053"
+  },
+  {
+    "artists_dealers_id": "AD-000580",
+    "artist_id": "ART-00361",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000581",
+    "artist_id": "ART-00362",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000582",
+    "artist_id": "ART-00363",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artists_dealers_id": "AD-000583",
+    "artist_id": "ART-00363",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artists_dealers_id": "AD-000584",
+    "artist_id": "ART-00363",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000585",
+    "artist_id": "ART-00364",
+    "dealer_id": "DEALER-031"
+  },
+  {
+    "artists_dealers_id": "AD-000586",
+    "artist_id": "ART-00364",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artists_dealers_id": "AD-000587",
+    "artist_id": "ART-00365",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artists_dealers_id": "AD-000588",
+    "artist_id": "ART-00366",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artists_dealers_id": "AD-000589",
+    "artist_id": "ART-00367",
+    "dealer_id": "DEALER-054"
+  },
+  {
+    "artists_dealers_id": "AD-000590",
+    "artist_id": "ART-00367",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artists_dealers_id": "AD-000591",
+    "artist_id": "ART-00368",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artists_dealers_id": "AD-000592",
+    "artist_id": "ART-00369",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artists_dealers_id": "AD-000593",
+    "artist_id": "ART-00370",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artists_dealers_id": "AD-000594",
+    "artist_id": "ART-00370",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artists_dealers_id": "AD-000595",
+    "artist_id": "ART-00371",
+    "dealer_id": "DEALER-059"
+  },
+  {
+    "artists_dealers_id": "AD-000596",
+    "artist_id": "ART-00372",
+    "dealer_id": "DEALER-013"
+  },
+  {
+    "artists_dealers_id": "AD-000597",
+    "artist_id": "ART-00373",
+    "dealer_id": "DEALER-031"
+  },
+  {
+    "artists_dealers_id": "AD-000598",
+    "artist_id": "ART-00373",
+    "dealer_id": "DEALER-051"
+  },
+  {
+    "artists_dealers_id": "AD-000599",
+    "artist_id": "ART-00374",
+    "dealer_id": "DEALER-031"
+  },
+  {
+    "artists_dealers_id": "AD-000600",
+    "artist_id": "ART-00375",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artists_dealers_id": "AD-000601",
+    "artist_id": "ART-00375",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artists_dealers_id": "AD-000602",
+    "artist_id": "ART-00375",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000603",
+    "artist_id": "ART-00376",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artists_dealers_id": "AD-000604",
+    "artist_id": "ART-00377",
+    "dealer_id": "DEALER-059"
+  },
+  {
+    "artists_dealers_id": "AD-000605",
+    "artist_id": "ART-00377",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artists_dealers_id": "AD-000606",
+    "artist_id": "ART-00377",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artists_dealers_id": "AD-000607",
+    "artist_id": "ART-00378",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artists_dealers_id": "AD-000608",
+    "artist_id": "ART-00378",
+    "dealer_id": "DEALER-056"
+  },
+  {
+    "artists_dealers_id": "AD-000609",
+    "artist_id": "ART-00378",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artists_dealers_id": "AD-000610",
+    "artist_id": "ART-00379",
+    "dealer_id": "DEALER-059"
+  },
+  {
+    "artists_dealers_id": "AD-000611",
+    "artist_id": "ART-00380",
+    "dealer_id": "DEALER-055"
+  },
+  {
+    "artists_dealers_id": "AD-000612",
+    "artist_id": "ART-00380",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000613",
+    "artist_id": "ART-00381",
+    "dealer_id": "DEALER-037"
+  },
+  {
+    "artists_dealers_id": "AD-000614",
+    "artist_id": "ART-00381",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artists_dealers_id": "AD-000615",
+    "artist_id": "ART-00382",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000616",
+    "artist_id": "ART-00382",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artists_dealers_id": "AD-000617",
+    "artist_id": "ART-00383",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artists_dealers_id": "AD-000618",
+    "artist_id": "ART-00384",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artists_dealers_id": "AD-000619",
+    "artist_id": "ART-00384",
+    "dealer_id": "DEALER-051"
+  },
+  {
+    "artists_dealers_id": "AD-000620",
+    "artist_id": "ART-00384",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artists_dealers_id": "AD-000621",
+    "artist_id": "ART-00385",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artists_dealers_id": "AD-000622",
+    "artist_id": "ART-00385",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artists_dealers_id": "AD-000623",
+    "artist_id": "ART-00386",
+    "dealer_id": "DEALER-039"
+  },
+  {
+    "artists_dealers_id": "AD-000624",
+    "artist_id": "ART-00387",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artists_dealers_id": "AD-000625",
+    "artist_id": "ART-00388",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000626",
+    "artist_id": "ART-00389",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artists_dealers_id": "AD-000627",
+    "artist_id": "ART-00389",
+    "dealer_id": "DEALER-059"
+  },
+  {
+    "artists_dealers_id": "AD-000628",
+    "artist_id": "ART-00390",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artists_dealers_id": "AD-000629",
+    "artist_id": "ART-00390",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000630",
+    "artist_id": "ART-00390",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artists_dealers_id": "AD-000631",
+    "artist_id": "ART-00391",
+    "dealer_id": "DEALER-038"
+  },
+  {
+    "artists_dealers_id": "AD-000632",
+    "artist_id": "ART-00392",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artists_dealers_id": "AD-000633",
+    "artist_id": "ART-00392",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artists_dealers_id": "AD-000634",
+    "artist_id": "ART-00393",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artists_dealers_id": "AD-000635",
+    "artist_id": "ART-00394",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artists_dealers_id": "AD-000636",
+    "artist_id": "ART-00394",
+    "dealer_id": "DEALER-060"
+  },
+  {
+    "artists_dealers_id": "AD-000637",
+    "artist_id": "ART-00394",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000638",
+    "artist_id": "ART-00395",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artists_dealers_id": "AD-000639",
+    "artist_id": "ART-00396",
+    "dealer_id": "DEALER-038"
+  },
+  {
+    "artists_dealers_id": "AD-000640",
+    "artist_id": "ART-00396",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000641",
+    "artist_id": "ART-00396",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000642",
+    "artist_id": "ART-00397",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artists_dealers_id": "AD-000643",
+    "artist_id": "ART-00398",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artists_dealers_id": "AD-000644",
+    "artist_id": "ART-00399",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artists_dealers_id": "AD-000645",
+    "artist_id": "ART-00399",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artists_dealers_id": "AD-000646",
+    "artist_id": "ART-00400",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artists_dealers_id": "AD-000647",
+    "artist_id": "ART-00401",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artists_dealers_id": "AD-000648",
+    "artist_id": "ART-00402",
+    "dealer_id": "DEALER-038"
+  },
+  {
+    "artists_dealers_id": "AD-000649",
+    "artist_id": "ART-00403",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artists_dealers_id": "AD-000650",
+    "artist_id": "ART-00403",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artists_dealers_id": "AD-000651",
+    "artist_id": "ART-00404",
+    "dealer_id": "DEALER-060"
+  },
+  {
+    "artists_dealers_id": "AD-000652",
+    "artist_id": "ART-00405",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artists_dealers_id": "AD-000653",
+    "artist_id": "ART-00406",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artists_dealers_id": "AD-000654",
+    "artist_id": "ART-00406",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000655",
+    "artist_id": "ART-00407",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artists_dealers_id": "AD-000656",
+    "artist_id": "ART-00408",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artists_dealers_id": "AD-000657",
+    "artist_id": "ART-00409",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000658",
+    "artist_id": "ART-00409",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artists_dealers_id": "AD-000659",
+    "artist_id": "ART-00409",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000660",
+    "artist_id": "ART-00410",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artists_dealers_id": "AD-000661",
+    "artist_id": "ART-00411",
+    "dealer_id": "DEALER-003"
+  },
+  {
+    "artists_dealers_id": "AD-000662",
+    "artist_id": "ART-00412",
+    "dealer_id": "DEALER-014"
+  },
+  {
+    "artists_dealers_id": "AD-000663",
+    "artist_id": "ART-00413",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000664",
+    "artist_id": "ART-00414",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artists_dealers_id": "AD-000665",
+    "artist_id": "ART-00414",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000666",
+    "artist_id": "ART-00415",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artists_dealers_id": "AD-000667",
+    "artist_id": "ART-00416",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artists_dealers_id": "AD-000668",
+    "artist_id": "ART-00416",
+    "dealer_id": "DEALER-039"
+  },
+  {
+    "artists_dealers_id": "AD-000669",
+    "artist_id": "ART-00417",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artists_dealers_id": "AD-000670",
+    "artist_id": "ART-00417",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artists_dealers_id": "AD-000671",
+    "artist_id": "ART-00417",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artists_dealers_id": "AD-000672",
+    "artist_id": "ART-00418",
+    "dealer_id": "DEALER-058"
+  },
+  {
+    "artists_dealers_id": "AD-000673",
+    "artist_id": "ART-00418",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artists_dealers_id": "AD-000674",
+    "artist_id": "ART-00419",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artists_dealers_id": "AD-000675",
+    "artist_id": "ART-00420",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artists_dealers_id": "AD-000676",
+    "artist_id": "ART-00421",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artists_dealers_id": "AD-000677",
+    "artist_id": "ART-00421",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000678",
+    "artist_id": "ART-00422",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artists_dealers_id": "AD-000679",
+    "artist_id": "ART-00422",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artists_dealers_id": "AD-000680",
+    "artist_id": "ART-00423",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artists_dealers_id": "AD-000681",
+    "artist_id": "ART-00423",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artists_dealers_id": "AD-000682",
+    "artist_id": "ART-00424",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artists_dealers_id": "AD-000683",
+    "artist_id": "ART-00424",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artists_dealers_id": "AD-000684",
+    "artist_id": "ART-00425",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artists_dealers_id": "AD-000685",
+    "artist_id": "ART-00425",
+    "dealer_id": "DEALER-039"
+  },
+  {
+    "artists_dealers_id": "AD-000686",
+    "artist_id": "ART-00426",
+    "dealer_id": "DEALER-059"
+  },
+  {
+    "artists_dealers_id": "AD-000687",
+    "artist_id": "ART-00427",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artists_dealers_id": "AD-000688",
+    "artist_id": "ART-00427",
+    "dealer_id": "DEALER-013"
+  },
+  {
+    "artists_dealers_id": "AD-000689",
+    "artist_id": "ART-00428",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artists_dealers_id": "AD-000690",
+    "artist_id": "ART-00429",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artists_dealers_id": "AD-000691",
+    "artist_id": "ART-00429",
+    "dealer_id": "DEALER-051"
+  },
+  {
+    "artists_dealers_id": "AD-000692",
+    "artist_id": "ART-00429",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artists_dealers_id": "AD-000693",
+    "artist_id": "ART-00430",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artists_dealers_id": "AD-000694",
+    "artist_id": "ART-00430",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artists_dealers_id": "AD-000695",
+    "artist_id": "ART-00431",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artists_dealers_id": "AD-000696",
+    "artist_id": "ART-00431",
+    "dealer_id": "DEALER-051"
+  },
+  {
+    "artists_dealers_id": "AD-000697",
+    "artist_id": "ART-00432",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artists_dealers_id": "AD-000698",
+    "artist_id": "ART-00433",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artists_dealers_id": "AD-000699",
+    "artist_id": "ART-00433",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artists_dealers_id": "AD-000700",
+    "artist_id": "ART-00434",
+    "dealer_id": "DEALER-058"
+  },
+  {
+    "artists_dealers_id": "AD-000701",
+    "artist_id": "ART-00434",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artists_dealers_id": "AD-000702",
+    "artist_id": "ART-00435",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artists_dealers_id": "AD-000703",
+    "artist_id": "ART-00436",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artists_dealers_id": "AD-000704",
+    "artist_id": "ART-00437",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artists_dealers_id": "AD-000705",
+    "artist_id": "ART-00438",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artists_dealers_id": "AD-000706",
+    "artist_id": "ART-00439",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artists_dealers_id": "AD-000707",
+    "artist_id": "ART-00439",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artists_dealers_id": "AD-000708",
+    "artist_id": "ART-00439",
+    "dealer_id": "DEALER-060"
+  },
+  {
+    "artists_dealers_id": "AD-000709",
+    "artist_id": "ART-00440",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artists_dealers_id": "AD-000710",
+    "artist_id": "ART-00440",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artists_dealers_id": "AD-000711",
+    "artist_id": "ART-00440",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artists_dealers_id": "AD-000712",
+    "artist_id": "ART-00441",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000713",
+    "artist_id": "ART-00441",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artists_dealers_id": "AD-000714",
+    "artist_id": "ART-00441",
+    "dealer_id": "DEALER-051"
+  },
+  {
+    "artists_dealers_id": "AD-000715",
+    "artist_id": "ART-00442",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artists_dealers_id": "AD-000716",
+    "artist_id": "ART-00442",
+    "dealer_id": "DEALER-059"
+  },
+  {
+    "artists_dealers_id": "AD-000717",
+    "artist_id": "ART-00443",
+    "dealer_id": "DEALER-056"
+  },
+  {
+    "artists_dealers_id": "AD-000718",
+    "artist_id": "ART-00443",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artists_dealers_id": "AD-000719",
+    "artist_id": "ART-00443",
+    "dealer_id": "DEALER-051"
+  },
+  {
+    "artists_dealers_id": "AD-000720",
+    "artist_id": "ART-00444",
+    "dealer_id": "DEALER-017"
+  },
+  {
+    "artists_dealers_id": "AD-000721",
+    "artist_id": "ART-00445",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artists_dealers_id": "AD-000722",
+    "artist_id": "ART-00445",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artists_dealers_id": "AD-000723",
+    "artist_id": "ART-00446",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artists_dealers_id": "AD-000724",
+    "artist_id": "ART-00447",
+    "dealer_id": "DEALER-014"
+  },
+  {
+    "artists_dealers_id": "AD-000725",
+    "artist_id": "ART-00447",
+    "dealer_id": "DEALER-013"
+  },
+  {
+    "artists_dealers_id": "AD-000726",
+    "artist_id": "ART-00448",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artists_dealers_id": "AD-000727",
+    "artist_id": "ART-00449",
+    "dealer_id": "DEALER-058"
+  },
+  {
+    "artists_dealers_id": "AD-000728",
+    "artist_id": "ART-00449",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artists_dealers_id": "AD-000729",
+    "artist_id": "ART-00449",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artists_dealers_id": "AD-000730",
+    "artist_id": "ART-00450",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artists_dealers_id": "AD-000731",
+    "artist_id": "ART-00450",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artists_dealers_id": "AD-000732",
+    "artist_id": "ART-00451",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000733",
+    "artist_id": "ART-00452",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000734",
+    "artist_id": "ART-00452",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artists_dealers_id": "AD-000735",
+    "artist_id": "ART-00453",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artists_dealers_id": "AD-000736",
+    "artist_id": "ART-00454",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artists_dealers_id": "AD-000737",
+    "artist_id": "ART-00454",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artists_dealers_id": "AD-000738",
+    "artist_id": "ART-00455",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artists_dealers_id": "AD-000739",
+    "artist_id": "ART-00455",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artists_dealers_id": "AD-000740",
+    "artist_id": "ART-00456",
+    "dealer_id": "DEALER-017"
+  },
+  {
+    "artists_dealers_id": "AD-000741",
+    "artist_id": "ART-00457",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000742",
+    "artist_id": "ART-00458",
+    "dealer_id": "DEALER-052"
+  },
+  {
+    "artists_dealers_id": "AD-000743",
+    "artist_id": "ART-00458",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artists_dealers_id": "AD-000744",
+    "artist_id": "ART-00459",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artists_dealers_id": "AD-000745",
+    "artist_id": "ART-00459",
+    "dealer_id": "DEALER-055"
+  },
+  {
+    "artists_dealers_id": "AD-000746",
+    "artist_id": "ART-00459",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artists_dealers_id": "AD-000747",
+    "artist_id": "ART-00460",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artists_dealers_id": "AD-000748",
+    "artist_id": "ART-00461",
+    "dealer_id": "DEALER-031"
+  },
+  {
+    "artists_dealers_id": "AD-000749",
+    "artist_id": "ART-00461",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artists_dealers_id": "AD-000750",
+    "artist_id": "ART-00462",
+    "dealer_id": "DEALER-055"
+  },
+  {
+    "artists_dealers_id": "AD-000751",
+    "artist_id": "ART-00463",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artists_dealers_id": "AD-000752",
+    "artist_id": "ART-00464",
+    "dealer_id": "DEALER-060"
+  },
+  {
+    "artists_dealers_id": "AD-000753",
+    "artist_id": "ART-00465",
+    "dealer_id": "DEALER-017"
+  },
+  {
+    "artists_dealers_id": "AD-000754",
+    "artist_id": "ART-00465",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artists_dealers_id": "AD-000755",
+    "artist_id": "ART-00465",
+    "dealer_id": "DEALER-037"
+  },
+  {
+    "artists_dealers_id": "AD-000756",
+    "artist_id": "ART-00466",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artists_dealers_id": "AD-000757",
+    "artist_id": "ART-00466",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artists_dealers_id": "AD-000758",
+    "artist_id": "ART-00467",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artists_dealers_id": "AD-000759",
+    "artist_id": "ART-00468",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artists_dealers_id": "AD-000760",
+    "artist_id": "ART-00468",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artists_dealers_id": "AD-000761",
+    "artist_id": "ART-00468",
+    "dealer_id": "DEALER-054"
+  },
+  {
+    "artists_dealers_id": "AD-000762",
+    "artist_id": "ART-00469",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artists_dealers_id": "AD-000763",
+    "artist_id": "ART-00469",
+    "dealer_id": "DEALER-025"
+  },
+  {
+    "artists_dealers_id": "AD-000764",
+    "artist_id": "ART-00470",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000765",
+    "artist_id": "ART-00471",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000766",
+    "artist_id": "ART-00472",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artists_dealers_id": "AD-000767",
+    "artist_id": "ART-00472",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artists_dealers_id": "AD-000768",
+    "artist_id": "ART-00472",
+    "dealer_id": "DEALER-014"
+  },
+  {
+    "artists_dealers_id": "AD-000769",
+    "artist_id": "ART-00473",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artists_dealers_id": "AD-000770",
+    "artist_id": "ART-00473",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artists_dealers_id": "AD-000771",
+    "artist_id": "ART-00473",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artists_dealers_id": "AD-000772",
+    "artist_id": "ART-00474",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artists_dealers_id": "AD-000773",
+    "artist_id": "ART-00474",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artists_dealers_id": "AD-000774",
+    "artist_id": "ART-00474",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artists_dealers_id": "AD-000775",
+    "artist_id": "ART-00475",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artists_dealers_id": "AD-000776",
+    "artist_id": "ART-00475",
+    "dealer_id": "DEALER-025"
+  },
+  {
+    "artists_dealers_id": "AD-000777",
+    "artist_id": "ART-00476",
+    "dealer_id": "DEALER-017"
+  },
+  {
+    "artists_dealers_id": "AD-000778",
+    "artist_id": "ART-00477",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artists_dealers_id": "AD-000779",
+    "artist_id": "ART-00477",
+    "dealer_id": "DEALER-054"
+  },
+  {
+    "artists_dealers_id": "AD-000780",
+    "artist_id": "ART-00478",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artists_dealers_id": "AD-000781",
+    "artist_id": "ART-00478",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artists_dealers_id": "AD-000782",
+    "artist_id": "ART-00479",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artists_dealers_id": "AD-000783",
+    "artist_id": "ART-00479",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artists_dealers_id": "AD-000784",
+    "artist_id": "ART-00480",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artists_dealers_id": "AD-000785",
+    "artist_id": "ART-00481",
+    "dealer_id": "DEALER-031"
+  },
+  {
+    "artists_dealers_id": "AD-000786",
+    "artist_id": "ART-00482",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artists_dealers_id": "AD-000787",
+    "artist_id": "ART-00483",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artists_dealers_id": "AD-000788",
+    "artist_id": "ART-00483",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artists_dealers_id": "AD-000789",
+    "artist_id": "ART-00484",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artists_dealers_id": "AD-000790",
+    "artist_id": "ART-00484",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artists_dealers_id": "AD-000791",
+    "artist_id": "ART-00485",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artists_dealers_id": "AD-000792",
+    "artist_id": "ART-00485",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000793",
+    "artist_id": "ART-00485",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artists_dealers_id": "AD-000794",
+    "artist_id": "ART-00486",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artists_dealers_id": "AD-000795",
+    "artist_id": "ART-00487",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artists_dealers_id": "AD-000796",
+    "artist_id": "ART-00487",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artists_dealers_id": "AD-000797",
+    "artist_id": "ART-00488",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artists_dealers_id": "AD-000798",
+    "artist_id": "ART-00488",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artists_dealers_id": "AD-000799",
+    "artist_id": "ART-00488",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artists_dealers_id": "AD-000800",
+    "artist_id": "ART-00489",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000801",
+    "artist_id": "ART-00490",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000802",
+    "artist_id": "ART-00491",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000803",
+    "artist_id": "ART-00491",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artists_dealers_id": "AD-000804",
+    "artist_id": "ART-00492",
+    "dealer_id": "DEALER-059"
+  },
+  {
+    "artists_dealers_id": "AD-000805",
+    "artist_id": "ART-00492",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artists_dealers_id": "AD-000806",
+    "artist_id": "ART-00492",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artists_dealers_id": "AD-000807",
+    "artist_id": "ART-00493",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artists_dealers_id": "AD-000808",
+    "artist_id": "ART-00493",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artists_dealers_id": "AD-000809",
+    "artist_id": "ART-00494",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artists_dealers_id": "AD-000810",
+    "artist_id": "ART-00494",
+    "dealer_id": "DEALER-051"
+  },
+  {
+    "artists_dealers_id": "AD-000811",
+    "artist_id": "ART-00494",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artists_dealers_id": "AD-000812",
+    "artist_id": "ART-00495",
+    "dealer_id": "DEALER-031"
+  },
+  {
+    "artists_dealers_id": "AD-000813",
+    "artist_id": "ART-00495",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artists_dealers_id": "AD-000814",
+    "artist_id": "ART-00496",
+    "dealer_id": "DEALER-037"
+  },
+  {
+    "artists_dealers_id": "AD-000815",
+    "artist_id": "ART-00496",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artists_dealers_id": "AD-000816",
+    "artist_id": "ART-00497",
+    "dealer_id": "DEALER-051"
+  },
+  {
+    "artists_dealers_id": "AD-000817",
+    "artist_id": "ART-00498",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artists_dealers_id": "AD-000818",
+    "artist_id": "ART-00498",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artists_dealers_id": "AD-000819",
+    "artist_id": "ART-00498",
+    "dealer_id": "DEALER-051"
+  },
+  {
+    "artists_dealers_id": "AD-000820",
+    "artist_id": "ART-00499",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artists_dealers_id": "AD-000821",
+    "artist_id": "ART-00500",
+    "dealer_id": "DEALER-048"
+  }
+]

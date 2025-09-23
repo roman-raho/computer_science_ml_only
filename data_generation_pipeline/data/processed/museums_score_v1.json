@@ -1,0 +1,3002 @@
+[
+  {
+    "museum_id": "0135aee1-9dfe-4108-9db6-a94a223f0f2b",
+    "museum_score": 49,
+    "drivers_json": {
+      "age": 155,
+      "annual_visitors": 1355972,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "04662d8f-ffc4-4564-8101-2560bdd3adf7",
+    "museum_score": 85,
+    "drivers_json": {
+      "age": 271,
+      "annual_visitors": 7614941,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "04d163b9-d9e1-4dea-b4bf-fe79f5671ee7",
+    "museum_score": 75,
+    "drivers_json": {
+      "age": 306,
+      "annual_visitors": 3149180,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "05acbfab-b6eb-44e6-bc8f-b95b53561b7f",
+    "museum_score": 48,
+    "drivers_json": {
+      "age": 88,
+      "annual_visitors": 1870058,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "060f672f-b8a5-4d0a-a689-207e519be01d",
+    "museum_score": 82,
+    "drivers_json": {
+      "age": 217,
+      "annual_visitors": 8538337,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "061527e0-2028-4431-93b2-a2ccfea8e09f",
+    "museum_score": 80,
+    "drivers_json": {
+      "age": 238,
+      "annual_visitors": 6790940,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "06f01240-26e7-46c2-8e70-748cba3dfe98",
+    "museum_score": 56,
+    "drivers_json": {
+      "age": 64,
+      "annual_visitors": 3575134,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "071b5faa-c6a8-4254-bb58-a0e26c3a6998",
+    "museum_score": 41,
+    "drivers_json": {
+      "age": 314,
+      "annual_visitors": 315628,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "078f08dc-7702-4b11-a75e-18f4e69f6634",
+    "museum_score": 86,
+    "drivers_json": {
+      "age": 279,
+      "annual_visitors": 7815739,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "07c56b9c-784c-43be-a605-74186dfaf017",
+    "museum_score": 73,
+    "drivers_json": {
+      "age": 185,
+      "annual_visitors": 5471437,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "07d9ed1b-0134-4c44-825b-01f532cc471c",
+    "museum_score": 70,
+    "drivers_json": {
+      "age": 273,
+      "annual_visitors": 2762671,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "090fe26a-67da-4dde-a706-c0a376e52bb4",
+    "museum_score": 88,
+    "drivers_json": {
+      "age": 288,
+      "annual_visitors": 8717140,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "0a3ddfef-33f8-4cf8-865c-a820d61558c5",
+    "museum_score": 68,
+    "drivers_json": {
+      "age": 57,
+      "annual_visitors": 8300880,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "0acfcbfe-c0d5-4b41-a7ae-d4de0e132634",
+    "museum_score": 70,
+    "drivers_json": {
+      "age": 96,
+      "annual_visitors": 7650957,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "0b24069e-aec6-4714-9aae-2bc02a90065d",
+    "museum_score": 100,
+    "drivers_json": {
+      "age": 399,
+      "annual_visitors": 9798314,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "0b81d564-f1df-4645-b217-52af0feefd39",
+    "museum_score": 81,
+    "drivers_json": {
+      "age": 349,
+      "annual_visitors": 3820770,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "0be5527b-0cfa-40bd-a0d7-2152d6cf46de",
+    "museum_score": 66,
+    "drivers_json": {
+      "age": 393,
+      "annual_visitors": 1043253,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "0ddfe313-fd56-4958-8d7a-14b141c89cf7",
+    "museum_score": 42,
+    "drivers_json": {
+      "age": 240,
+      "annual_visitors": 508899,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "0e49dee6-b4ba-4c0c-be3a-30dc723c34a4",
+    "museum_score": 87,
+    "drivers_json": {
+      "age": 261,
+      "annual_visitors": 9469118,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "0f2bb81f-19fe-4367-80aa-4f91811d4304",
+    "museum_score": 71,
+    "drivers_json": {
+      "age": 233,
+      "annual_visitors": 3823456,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "0f2d903f-780d-4796-a5b4-87ba3491aa10",
+    "museum_score": 79,
+    "drivers_json": {
+      "age": 382,
+      "annual_visitors": 2711918,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "0f7324c4-c71a-45c7-b0c4-33c456444491",
+    "museum_score": 83,
+    "drivers_json": {
+      "age": 288,
+      "annual_visitors": 6217268,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "10e3c4ab-1b16-4253-8b4b-984d33aead94",
+    "museum_score": 61,
+    "drivers_json": {
+      "age": 216,
+      "annual_visitors": 2065707,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "11e4ac92-688e-4764-93d2-ad5f050708b8",
+    "museum_score": 64,
+    "drivers_json": {
+      "age": 168,
+      "annual_visitors": 3460006,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "1218afa2-159e-426e-928f-e06126220e0e",
+    "museum_score": 67,
+    "drivers_json": {
+      "age": 260,
+      "annual_visitors": 2468433,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "12483c63-9d65-41a8-bc03-83b051993bdf",
+    "museum_score": 94,
+    "drivers_json": {
+      "age": 342,
+      "annual_visitors": 9038260,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "12828436-d4d1-4d8f-99a3-1c916e0bd741",
+    "museum_score": 76,
+    "drivers_json": {
+      "age": 208,
+      "annual_visitors": 5866832,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "1287a1b6-886c-461d-adda-f1a84894641c",
+    "museum_score": 67,
+    "drivers_json": {
+      "age": 200,
+      "annual_visitors": 3335362,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "14efcb9d-f0ea-4940-b4e2-10a3cd959d1d",
+    "museum_score": 53,
+    "drivers_json": {
+      "age": 125,
+      "annual_visitors": 2091210,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "15321f30-f975-4a21-bb44-0ae2b3e59660",
+    "museum_score": 63,
+    "drivers_json": {
+      "age": 138,
+      "annual_visitors": 3720415,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "15a94baa-fe94-4b58-b2aa-671124aed889",
+    "museum_score": 77,
+    "drivers_json": {
+      "age": 271,
+      "annual_visitors": 4430363,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "164daf21-57bc-42c2-a789-7384b4098af6",
+    "museum_score": 71,
+    "drivers_json": {
+      "age": 86,
+      "annual_visitors": 8872386,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "17a1a73e-2541-435d-b122-bb165c91c55b",
+    "museum_score": 78,
+    "drivers_json": {
+      "age": 178,
+      "annual_visitors": 7977577,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "183bb1db-8403-4121-9e86-5a3de3782d04",
+    "museum_score": 49,
+    "drivers_json": {
+      "age": 233,
+      "annual_visitors": 841248,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "188795fa-7611-4f19-9edb-001e48c93bed",
+    "museum_score": 69,
+    "drivers_json": {
+      "age": 63,
+      "annual_visitors": 8618288,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "19e0c704-0f0b-4ed9-bdcd-8da8e188d1cc",
+    "museum_score": 70,
+    "drivers_json": {
+      "age": 238,
+      "annual_visitors": 3299098,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "1a23a903-24af-48f2-9ff8-694c29245e33",
+    "museum_score": 94,
+    "drivers_json": {
+      "age": 335,
+      "annual_visitors": 9929724,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "1bbb8e4f-d315-4c4a-92ab-7fc561e15c3e",
+    "museum_score": 20,
+    "drivers_json": {
+      "age": 167,
+      "annual_visitors": 172393,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "1ca6071d-87d2-4346-9f5d-c7d2745c9e37",
+    "museum_score": 37,
+    "drivers_json": {
+      "age": 297,
+      "annual_visitors": 250203,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "1ca7d9f8-8cdd-48ed-bfe4-d280791e713e",
+    "museum_score": 57,
+    "drivers_json": {
+      "age": 65,
+      "annual_visitors": 3734867,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "1d3d8fb4-e629-495e-bd10-720bf1aa5a19",
+    "museum_score": 74,
+    "drivers_json": {
+      "age": 266,
+      "annual_visitors": 3741883,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "1d88b16d-524d-47d5-b41c-561e79e2d8a5",
+    "museum_score": 96,
+    "drivers_json": {
+      "age": 386,
+      "annual_visitors": 8372614,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "1dd0eedf-ebc1-4349-bada-996de1d3df42",
+    "museum_score": 67,
+    "drivers_json": {
+      "age": 178,
+      "annual_visitors": 3916248,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "1e54633d-4333-48d3-acf8-12cfe500ca95",
+    "museum_score": 72,
+    "drivers_json": {
+      "age": 96,
+      "annual_visitors": 8959418,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "1f0e830f-5147-474c-b41d-80b537299e2b",
+    "museum_score": 86,
+    "drivers_json": {
+      "age": 365,
+      "annual_visitors": 4695439,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "1f224f78-d8b4-4a3c-9fd2-4c79ae373900",
+    "museum_score": 57,
+    "drivers_json": {
+      "age": 168,
+      "annual_visitors": 2059948,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "1f88dbb4-2f4e-40ba-aac4-b2c4203252fa",
+    "museum_score": 78,
+    "drivers_json": {
+      "age": 347,
+      "annual_visitors": 3051003,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "2248d21a-7e4c-4af6-8670-48f424c28b30",
+    "museum_score": 77,
+    "drivers_json": {
+      "age": 139,
+      "annual_visitors": 9331509,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "23ba42e3-7849-435b-bcdd-c39f9a6763d5",
+    "museum_score": 69,
+    "drivers_json": {
+      "age": 103,
+      "annual_visitors": 6803013,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "249ac0c4-f66f-4571-9d7e-d830aa94d53b",
+    "museum_score": 80,
+    "drivers_json": {
+      "age": 212,
+      "annual_visitors": 7693878,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "249c4503-8845-4858-a142-8563dcdc653b",
+    "museum_score": 77,
+    "drivers_json": {
+      "age": 140,
+      "annual_visitors": 9382062,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "258187c0-135f-49e4-928b-142b6e84c453",
+    "museum_score": 76,
+    "drivers_json": {
+      "age": 168,
+      "annual_visitors": 7488580,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "25ee69ff-9a51-4d39-b5b6-03857cd2d3b4",
+    "museum_score": 55,
+    "drivers_json": {
+      "age": 232,
+      "annual_visitors": 1306106,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "26faf6d1-2ea0-4a23-9cf1-2b25855c52cc",
+    "museum_score": 61,
+    "drivers_json": {
+      "age": 242,
+      "annual_visitors": 1741724,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "27638d51-9312-4ee9-9981-776f0e8ffb5f",
+    "museum_score": 66,
+    "drivers_json": {
+      "age": 297,
+      "annual_visitors": 1874880,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "27865c97-2dd0-4573-b867-e60392b795a8",
+    "museum_score": 95,
+    "drivers_json": {
+      "age": 348,
+      "annual_visitors": 9355541,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "28ca2c1b-9c32-4acd-9a9b-38ea6af1b2ff",
+    "museum_score": 88,
+    "drivers_json": {
+      "age": 285,
+      "annual_visitors": 8426199,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "29ddb84c-8231-4a95-8a0e-55199d930abb",
+    "museum_score": 63,
+    "drivers_json": {
+      "age": 368,
+      "annual_visitors": 1001583,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "2b01b370-1214-40ab-be4b-7dc892f08ffe",
+    "museum_score": 47,
+    "drivers_json": {
+      "age": 238,
+      "annual_visitors": 728659,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "2baeb122-119f-4c8a-9cbb-0b8193a5b242",
+    "museum_score": 85,
+    "drivers_json": {
+      "age": 284,
+      "annual_visitors": 7005604,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "2c7af1bb-00fb-4291-a653-93bb5d7180d6",
+    "museum_score": 58,
+    "drivers_json": {
+      "age": 138,
+      "annual_visitors": 2640577,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "2d9d9991-e4ba-48b7-ae7f-825daaff021f",
+    "museum_score": 70,
+    "drivers_json": {
+      "age": 222,
+      "annual_visitors": 3665894,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "2dcaf3f7-2f9b-45b2-983a-17290e0de1b6",
+    "museum_score": 71,
+    "drivers_json": {
+      "age": 103,
+      "annual_visitors": 8009879,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "2dd4af8e-3d06-47b4-b17a-303afeccdff0",
+    "museum_score": 76,
+    "drivers_json": {
+      "age": 291,
+      "annual_visitors": 3832047,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "2fd699d9-74bc-40a0-8d11-4dbed515d897",
+    "museum_score": 63,
+    "drivers_json": {
+      "age": 302,
+      "annual_visitors": 1432748,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "309a7da0-ee13-465f-8dfb-a6f9578711af",
+    "museum_score": 69,
+    "drivers_json": {
+      "age": 94,
+      "annual_visitors": 7205367,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "310c0c3c-59b1-4cb7-b71f-74de3a7ac9a6",
+    "museum_score": 54,
+    "drivers_json": {
+      "age": 57,
+      "annual_visitors": 3320200,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "314ab58c-76ba-429c-810a-ed446aeaa27e",
+    "museum_score": 68,
+    "drivers_json": {
+      "age": 62,
+      "annual_visitors": 8091580,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "31643757-ca27-41c5-81f1-f8ac09a08033",
+    "museum_score": 30,
+    "drivers_json": {
+      "age": 60,
+      "annual_visitors": 650360,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "32f74f52-5975-4628-b3a7-ce09c97e0039",
+    "museum_score": 50,
+    "drivers_json": {
+      "age": 57,
+      "annual_visitors": 2564940,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "34862c21-9a86-4d69-9c4c-1702435e745f",
+    "museum_score": 79,
+    "drivers_json": {
+      "age": 342,
+      "annual_visitors": 3437142,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "355d31c5-71b3-4ea7-bbc0-cc9a25f0a2e2",
+    "museum_score": 70,
+    "drivers_json": {
+      "age": 87,
+      "annual_visitors": 8057673,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "359c251d-2b18-4fae-b702-0b12a0376df6",
+    "museum_score": 84,
+    "drivers_json": {
+      "age": 273,
+      "annual_visitors": 6876046,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "36bbe055-ce33-41f2-84a2-525ee61a0648",
+    "museum_score": 86,
+    "drivers_json": {
+      "age": 322,
+      "annual_visitors": 5973779,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "377a4d03-e7a1-4c62-aae6-117b04273d7e",
+    "museum_score": 87,
+    "drivers_json": {
+      "age": 265,
+      "annual_visitors": 9274277,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "388f350f-3f5f-4e5c-9e8c-f470473c5915",
+    "museum_score": 37,
+    "drivers_json": {
+      "age": 135,
+      "annual_visitors": 651819,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "3a904e7a-6242-48bb-b1f6-72a75796cd01",
+    "museum_score": 65,
+    "drivers_json": {
+      "age": 96,
+      "annual_visitors": 5345996,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "3b59012c-741c-41ac-88b4-a1a3d71e67b3",
+    "museum_score": 68,
+    "drivers_json": {
+      "age": 339,
+      "annual_visitors": 1596906,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "3ba7a0b2-9dd4-4622-abf0-04f4384c2161",
+    "museum_score": 82,
+    "drivers_json": {
+      "age": 373,
+      "annual_visitors": 3432606,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "3c353925-bf94-44c8-bdf2-97cfb885a8e3",
+    "museum_score": 24,
+    "drivers_json": {
+      "age": 129,
+      "annual_visitors": 290295,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "3e02cd1c-31c4-453d-bdf5-7e236f46a431",
+    "museum_score": 70,
+    "drivers_json": {
+      "age": 361,
+      "annual_visitors": 1658486,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "40057701-8b59-4c9f-bdef-855ffdc436c6",
+    "museum_score": 63,
+    "drivers_json": {
+      "age": 142,
+      "annual_visitors": 3547525,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "404271e5-be79-4fd7-86f8-b847b3757ce7",
+    "museum_score": 60,
+    "drivers_json": {
+      "age": 277,
+      "annual_visitors": 1368064,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "41ad8d6a-f55e-47e7-a9d7-ebbb7c258732",
+    "museum_score": 85,
+    "drivers_json": {
+      "age": 310,
+      "annual_visitors": 5906208,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "425b76e0-e613-43cc-82d5-b65013769f53",
+    "museum_score": 53,
+    "drivers_json": {
+      "age": 84,
+      "annual_visitors": 2670154,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "42836b42-7aad-45d7-99a0-4b73e063db0d",
+    "museum_score": 87,
+    "drivers_json": {
+      "age": 346,
+      "annual_visitors": 5622228,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "42dc7bab-013d-4adf-bb4a-812d8255fe9a",
+    "museum_score": 71,
+    "drivers_json": {
+      "age": 60,
+      "annual_visitors": 9797805,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "439f4b32-0b7d-413b-a4f3-37e25166aeaa",
+    "museum_score": 73,
+    "drivers_json": {
+      "age": 105,
+      "annual_visitors": 8742811,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "43a4835b-a2cb-4aa3-aef2-14c455b02ab4",
+    "museum_score": 62,
+    "drivers_json": {
+      "age": 142,
+      "annual_visitors": 3418467,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "45327c18-6441-4a84-aaf4-bc83c20d08d0",
+    "museum_score": 57,
+    "drivers_json": {
+      "age": 257,
+      "annual_visitors": 1236728,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "455727f3-6de1-4ab1-94db-8216d412430a",
+    "museum_score": 57,
+    "drivers_json": {
+      "age": 248,
+      "annual_visitors": 1316406,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "45aefdc5-985d-40c1-942f-fd02cf0c0adf",
+    "museum_score": 45,
+    "drivers_json": {
+      "age": 386,
+      "annual_visitors": 265128,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "480b79e0-62f3-4a99-be28-173ed3185406",
+    "museum_score": 72,
+    "drivers_json": {
+      "age": 357,
+      "annual_visitors": 1900461,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "48b59ee8-7c60-4348-91f8-77d0be002db4",
+    "museum_score": 88,
+    "drivers_json": {
+      "age": 267,
+      "annual_visitors": 9773348,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "4930d679-979e-482e-ab2a-f6c18b64fc7e",
+    "museum_score": 74,
+    "drivers_json": {
+      "age": 123,
+      "annual_visitors": 8833506,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "49bde3a5-bdb1-481a-b6f0-314452d86b71",
+    "museum_score": 70,
+    "drivers_json": {
+      "age": 126,
+      "annual_visitors": 6249615,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "49dc69ae-75fd-4940-885e-8cd7d351044c",
+    "museum_score": 91,
+    "drivers_json": {
+      "age": 318,
+      "annual_visitors": 8793655,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "4beb0ba5-6df7-41b9-bd2d-37db4294774d",
+    "museum_score": 93,
+    "drivers_json": {
+      "age": 341,
+      "annual_visitors": 8981468,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "4c8b918f-a021-47b9-b2be-752076b04e96",
+    "museum_score": 43,
+    "drivers_json": {
+      "age": 50,
+      "annual_visitors": 1654693,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "4cd4dae6-abb4-4eb1-b4d9-4d988d6a5cd1",
+    "museum_score": 78,
+    "drivers_json": {
+      "age": 334,
+      "annual_visitors": 3421222,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "4e071ca0-a703-4a5c-a7f2-f3b7b335e28d",
+    "museum_score": 72,
+    "drivers_json": {
+      "age": 88,
+      "annual_visitors": 8875120,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "4e1f0926-8084-40f9-b9b7-557c92679319",
+    "museum_score": 97,
+    "drivers_json": {
+      "age": 377,
+      "annual_visitors": 9097187,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "4f4ca101-da9b-4667-845b-2efeff6820f7",
+    "museum_score": 54,
+    "drivers_json": {
+      "age": 50,
+      "annual_visitors": 3325113,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "4f71f53d-1c65-4499-92b1-1aa89893917d",
+    "museum_score": 63,
+    "drivers_json": {
+      "age": 238,
+      "annual_visitors": 2059786,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "50bbf1d6-b179-4e65-9849-f36c8e7cfc7a",
+    "museum_score": 52,
+    "drivers_json": {
+      "age": 195,
+      "annual_visitors": 1263636,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "512791cc-638b-4f1b-8a57-22f4eeced045",
+    "museum_score": 74,
+    "drivers_json": {
+      "age": 301,
+      "annual_visitors": 3100691,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "51e12d8b-d24e-4064-90ee-04b080670846",
+    "museum_score": 71,
+    "drivers_json": {
+      "age": 263,
+      "annual_visitors": 3102406,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "545fbd63-49ae-4b1c-afc7-9ef3d0200ee9",
+    "museum_score": 74,
+    "drivers_json": {
+      "age": 285,
+      "annual_visitors": 3322638,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "54a13dd0-bb5e-4911-84cb-be6763986b2a",
+    "museum_score": 91,
+    "drivers_json": {
+      "age": 399,
+      "annual_visitors": 5301875,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "55713b0a-0905-406a-9c3d-55082e275697",
+    "museum_score": 54,
+    "drivers_json": {
+      "age": 120,
+      "annual_visitors": 2291762,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "578a6998-7b06-48d1-9f76-f01e19b798be",
+    "museum_score": 48,
+    "drivers_json": {
+      "age": 132,
+      "annual_visitors": 1423329,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "57904a65-0834-4cbe-97e0-6e4b549caba9",
+    "museum_score": 76,
+    "drivers_json": {
+      "age": 389,
+      "annual_visitors": 2052891,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "57cc2001-a757-4526-8c12-83573771501c",
+    "museum_score": 75,
+    "drivers_json": {
+      "age": 378,
+      "annual_visitors": 2082918,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "5a270263-a31b-4431-92fc-29082937c6d0",
+    "museum_score": 38,
+    "drivers_json": {
+      "age": 61,
+      "annual_visitors": 1106453,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "5aa27b14-d73c-4366-9ebb-6d324479195d",
+    "museum_score": 63,
+    "drivers_json": {
+      "age": 137,
+      "annual_visitors": 3706835,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "5b4c4fc5-30f4-4271-b6bc-6b5c974ab0f0",
+    "museum_score": 59,
+    "drivers_json": {
+      "age": 70,
+      "annual_visitors": 4099312,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "5b78d8f0-9830-4c9b-8c37-310ade51e896",
+    "museum_score": 84,
+    "drivers_json": {
+      "age": 227,
+      "annual_visitors": 9298770,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "5b87eb55-d444-4e40-b19d-fde0edaa85b3",
+    "museum_score": 55,
+    "drivers_json": {
+      "age": 295,
+      "annual_visitors": 894973,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "5c43a114-9f3c-4189-af71-611f605b9640",
+    "museum_score": 88,
+    "drivers_json": {
+      "age": 368,
+      "annual_visitors": 5192342,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "5c6cc1ca-2aa4-46a9-aceb-f85b1e41baf9",
+    "museum_score": 80,
+    "drivers_json": {
+      "age": 344,
+      "annual_visitors": 3472831,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "5d4d278f-eae8-4202-bd0c-8a66bc0e546e",
+    "museum_score": 43,
+    "drivers_json": {
+      "age": 195,
+      "annual_visitors": 687750,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "5e81f835-da81-4e42-8e3a-167f316bf4d1",
+    "museum_score": 68,
+    "drivers_json": {
+      "age": 144,
+      "annual_visitors": 5216375,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "5f8e3a3f-1644-479b-8b73-a2759597a1dd",
+    "museum_score": 75,
+    "drivers_json": {
+      "age": 247,
+      "annual_visitors": 4449366,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "60242742-e261-4741-b6db-fea76b03f187",
+    "museum_score": 74,
+    "drivers_json": {
+      "age": 97,
+      "annual_visitors": 9753371,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "60826e33-173f-42a1-8897-4f8853eb76e8",
+    "museum_score": 59,
+    "drivers_json": {
+      "age": 350,
+      "annual_visitors": 822371,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "60ff175c-686c-4a6f-955c-7111a724b1a5",
+    "museum_score": 82,
+    "drivers_json": {
+      "age": 303,
+      "annual_visitors": 5114878,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "621da039-cee0-4f71-ab2f-2f7d4f89595e",
+    "museum_score": 60,
+    "drivers_json": {
+      "age": 68,
+      "annual_visitors": 4662560,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "62cb5c38-e355-48ea-b53e-cedec5f6b723",
+    "museum_score": 80,
+    "drivers_json": {
+      "age": 321,
+      "annual_visitors": 3963122,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "63850f41-465b-4685-9ba5-8ce210ebd85c",
+    "museum_score": 72,
+    "drivers_json": {
+      "age": 98,
+      "annual_visitors": 8901738,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "639add3a-9606-4186-a790-7c58be77575d",
+    "museum_score": 60,
+    "drivers_json": {
+      "age": 199,
+      "annual_visitors": 2153206,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "63a135bb-71cf-43cb-8c1c-c8ce8928019f",
+    "museum_score": 54,
+    "drivers_json": {
+      "age": 50,
+      "annual_visitors": 3376227,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "63f1b748-4e94-4225-a1da-caff380a127c",
+    "museum_score": 74,
+    "drivers_json": {
+      "age": 223,
+      "annual_visitors": 4663478,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "64122658-15c5-488a-9ca1-3b5c28850c41",
+    "museum_score": 67,
+    "drivers_json": {
+      "age": 111,
+      "annual_visitors": 5560047,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "653016f6-2056-44de-815d-b33b697bfeaf",
+    "museum_score": 81,
+    "drivers_json": {
+      "age": 340,
+      "annual_visitors": 4004646,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "66f8a8c0-2002-4dd0-92b1-6b243fc0d647",
+    "museum_score": 87,
+    "drivers_json": {
+      "age": 308,
+      "annual_visitors": 6930944,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "68366235-1303-44f2-b788-6106ea4f7ba7",
+    "museum_score": 15,
+    "drivers_json": {
+      "age": 140,
+      "annual_visitors": 143938,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "6838da35-13df-4107-8960-06f764ef9fb6",
+    "museum_score": 50,
+    "drivers_json": {
+      "age": 105,
+      "annual_visitors": 1858535,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "69df440a-2517-42cc-9a6e-98922fe5ab1c",
+    "museum_score": 77,
+    "drivers_json": {
+      "age": 310,
+      "annual_visitors": 3594712,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "6a18f8d2-e890-4e60-8fd2-e0615e91c077",
+    "museum_score": 82,
+    "drivers_json": {
+      "age": 334,
+      "annual_visitors": 4292262,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "6cbe0390-763c-4153-a058-1594ada91d9d",
+    "museum_score": 69,
+    "drivers_json": {
+      "age": 156,
+      "annual_visitors": 5085658,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "6dd3eab7-07aa-46f9-9cbd-a8cba12c0f26",
+    "museum_score": 55,
+    "drivers_json": {
+      "age": 169,
+      "annual_visitors": 1877970,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "6e4cba51-925d-431b-a5d7-6a94dd236964",
+    "museum_score": 83,
+    "drivers_json": {
+      "age": 299,
+      "annual_visitors": 5630023,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "71703c0a-f202-4971-98f7-5fbbfa7ed56f",
+    "museum_score": 53,
+    "drivers_json": {
+      "age": 258,
+      "annual_visitors": 954697,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "725c3736-979e-4d05-9d4e-3fea53b5e2f9",
+    "museum_score": 73,
+    "drivers_json": {
+      "age": 117,
+      "annual_visitors": 8420097,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "729f6e95-57bc-44fb-b08b-ac3e60d4a54e",
+    "museum_score": 76,
+    "drivers_json": {
+      "age": 309,
+      "annual_visitors": 3232111,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "73770ca0-3706-410f-8b38-40e945c32c8e",
+    "museum_score": 86,
+    "drivers_json": {
+      "age": 261,
+      "annual_visitors": 8660160,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "7402a1fc-8c81-46ab-897f-a46a39a36890",
+    "museum_score": 70,
+    "drivers_json": {
+      "age": 252,
+      "annual_visitors": 3033866,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "7785b3dc-9844-4747-84e7-ccf01a11df85",
+    "museum_score": 72,
+    "drivers_json": {
+      "age": 376,
+      "annual_visitors": 1692542,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "793c51fd-3318-4fe8-bbe5-7b260ef634d0",
+    "museum_score": 82,
+    "drivers_json": {
+      "age": 224,
+      "annual_visitors": 8297480,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "79d04309-cf88-4ca1-a41f-dcd99a1f9965",
+    "museum_score": 68,
+    "drivers_json": {
+      "age": 73,
+      "annual_visitors": 7586087,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "7a36c376-cbad-439d-bafc-9e87021810e4",
+    "museum_score": 76,
+    "drivers_json": {
+      "age": 126,
+      "annual_visitors": 9753780,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "7a48616b-2dfc-4a21-9514-73bcec622459",
+    "museum_score": 89,
+    "drivers_json": {
+      "age": 274,
+      "annual_visitors": 9560197,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "7b045663-7768-4fde-b501-d8adc229218b",
+    "museum_score": 78,
+    "drivers_json": {
+      "age": 160,
+      "annual_visitors": 9362785,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "7c59397a-773a-4d91-a258-408791e489d7",
+    "museum_score": 72,
+    "drivers_json": {
+      "age": 186,
+      "annual_visitors": 5330064,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "7c9a86b1-66bd-4872-bfae-fed343bf2fc1",
+    "museum_score": 92,
+    "drivers_json": {
+      "age": 335,
+      "annual_visitors": 8345702,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "7fdc36fe-151d-475f-b6db-e84c3bc0d11d",
+    "museum_score": 65,
+    "drivers_json": {
+      "age": 141,
+      "annual_visitors": 4220927,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "80550100-110c-4542-9261-e64cb3a8cc96",
+    "museum_score": 78,
+    "drivers_json": {
+      "age": 205,
+      "annual_visitors": 7174164,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "805c3762-9be8-4d0d-b803-9c6f9abed4cf",
+    "museum_score": 80,
+    "drivers_json": {
+      "age": 178,
+      "annual_visitors": 9440380,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "826dfeb3-c566-4b9b-b6a5-994e64ba6bb8",
+    "museum_score": 46,
+    "drivers_json": {
+      "age": 284,
+      "annual_visitors": 498596,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "83a5d291-6799-459d-9245-f62ade85af88",
+    "museum_score": 70,
+    "drivers_json": {
+      "age": 306,
+      "annual_visitors": 2208773,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "83ddcc07-5d53-4ad0-bf58-173bc465b147",
+    "museum_score": 83,
+    "drivers_json": {
+      "age": 364,
+      "annual_visitors": 3862320,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "83e6ec84-5a8f-49c7-95b7-d8043504e225",
+    "museum_score": 36,
+    "drivers_json": {
+      "age": 139,
+      "annual_visitors": 608013,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "854fa24e-a7d5-41a6-8f93-51ea700f9ce5",
+    "museum_score": 65,
+    "drivers_json": {
+      "age": 218,
+      "annual_visitors": 2770095,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "866df085-caeb-4078-9a4d-e0f0962ffa12",
+    "museum_score": 75,
+    "drivers_json": {
+      "age": 256,
+      "annual_visitors": 4380238,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "8685a0d6-fad2-496c-b360-76a86221afbd",
+    "museum_score": 75,
+    "drivers_json": {
+      "age": 148,
+      "annual_visitors": 7883440,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "86fc92d2-1abd-40e1-a120-2ba3e11d5875",
+    "museum_score": 85,
+    "drivers_json": {
+      "age": 362,
+      "annual_visitors": 4484901,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "87086d8a-76ca-47aa-a73e-8c86a7adac89",
+    "museum_score": 80,
+    "drivers_json": {
+      "age": 187,
+      "annual_visitors": 9173993,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "874b7e40-40fd-4621-8f27-12d60fac6ea1",
+    "museum_score": 66,
+    "drivers_json": {
+      "age": 169,
+      "annual_visitors": 3887650,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "87c3c7fe-5e47-431e-ac5a-ad576f93a542",
+    "museum_score": 84,
+    "drivers_json": {
+      "age": 216,
+      "annual_visitors": 9916368,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "88754083-e62c-425f-b519-62f8da8c6e1c",
+    "museum_score": 85,
+    "drivers_json": {
+      "age": 278,
+      "annual_visitors": 7338400,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "88b1a8eb-e347-4ae0-9212-9d7a23a45ec9",
+    "museum_score": 38,
+    "drivers_json": {
+      "age": 214,
+      "annual_visitors": 444620,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "89771477-3915-4d41-84c2-20f79ff93fa5",
+    "museum_score": 50,
+    "drivers_json": {
+      "age": 210,
+      "annual_visitors": 1005603,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "8a0d7d39-2666-4b56-b321-b0021cc976ab",
+    "museum_score": 88,
+    "drivers_json": {
+      "age": 355,
+      "annual_visitors": 5584682,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "8a54351f-7f4d-4f4c-91e3-5be4579d0566",
+    "museum_score": 85,
+    "drivers_json": {
+      "age": 340,
+      "annual_visitors": 5060921,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "8a886e27-6a2c-46da-941a-b83ffe0dda93",
+    "museum_score": 58,
+    "drivers_json": {
+      "age": 117,
+      "annual_visitors": 2992110,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "8b705eba-6cc9-4867-9ed8-8447b8e45fe7",
+    "museum_score": 79,
+    "drivers_json": {
+      "age": 212,
+      "annual_visitors": 6961937,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "8c5f3c84-1bcc-46ac-ab6f-a2acb6bd7d57",
+    "museum_score": 47,
+    "drivers_json": {
+      "age": 207,
+      "annual_visitors": 869448,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "8c8f9da3-15ba-4733-a36c-73cc73a4c107",
+    "museum_score": 93,
+    "drivers_json": {
+      "age": 384,
+      "annual_visitors": 7004700,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "8da6fc62-0c3d-4fdb-9ae9-149931402882",
+    "museum_score": 40,
+    "drivers_json": {
+      "age": 204,
+      "annual_visitors": 521841,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "8df16928-09cb-454f-b138-55fdb67b5928",
+    "museum_score": 81,
+    "drivers_json": {
+      "age": 264,
+      "annual_visitors": 6255903,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "8ee2eded-aee3-4d9c-95ef-bba484dcc939",
+    "museum_score": 88,
+    "drivers_json": {
+      "age": 397,
+      "annual_visitors": 4577530,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "8fdfe763-b23e-49c4-a3d0-20e859905e48",
+    "museum_score": 57,
+    "drivers_json": {
+      "age": 82,
+      "annual_visitors": 3412288,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "90aa459d-0ff9-4ae9-a251-1dda4bb0e6fa",
+    "museum_score": 74,
+    "drivers_json": {
+      "age": 165,
+      "annual_visitors": 6596284,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "90f67621-9a1d-4335-a0d4-4810b8d25ee8",
+    "museum_score": 93,
+    "drivers_json": {
+      "age": 324,
+      "annual_visitors": 9680898,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "91074f5a-84f7-46a2-b772-30a5453f5bac",
+    "museum_score": 44,
+    "drivers_json": {
+      "age": 71,
+      "annual_visitors": 1484460,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "9265d59d-e258-46ff-b413-2fb82692b914",
+    "museum_score": 65,
+    "drivers_json": {
+      "age": 72,
+      "annual_visitors": 6156240,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "92ec9ae3-b41d-4ee4-b8e1-1b9bd9dc4903",
+    "museum_score": 75,
+    "drivers_json": {
+      "age": 149,
+      "annual_visitors": 7914154,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "940fc46c-24a0-4ace-bf60-59f5505c5fd4",
+    "museum_score": 72,
+    "drivers_json": {
+      "age": 168,
+      "annual_visitors": 5634001,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "9527befa-8f6f-417f-a1e3-cd488c6fe1f0",
+    "museum_score": 66,
+    "drivers_json": {
+      "age": 106,
+      "annual_visitors": 5548846,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "9617bff4-fca7-4ff4-89ac-09e49dcaf3e6",
+    "museum_score": 69,
+    "drivers_json": {
+      "age": 218,
+      "annual_visitors": 3626731,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "97b5faeb-c3f0-4dc7-8527-7ce2ee851d45",
+    "museum_score": 77,
+    "drivers_json": {
+      "age": 165,
+      "annual_visitors": 8399522,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "9886227a-d727-4dc5-9617-122f4664ca47",
+    "museum_score": 72,
+    "drivers_json": {
+      "age": 314,
+      "annual_visitors": 2470735,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "9b99572a-0968-49a8-9ece-076f633f60cb",
+    "museum_score": 55,
+    "drivers_json": {
+      "age": 100,
+      "annual_visitors": 2710102,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "9e4c134d-8305-4494-ad03-e5c5247ad716",
+    "museum_score": 69,
+    "drivers_json": {
+      "age": 208,
+      "annual_visitors": 3682108,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "9e50bfdc-9a6d-4df4-a658-457a84295ef0",
+    "museum_score": 80,
+    "drivers_json": {
+      "age": 238,
+      "annual_visitors": 6779272,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "9e83e580-b653-4e13-8d7e-b9e81dbad572",
+    "museum_score": 70,
+    "drivers_json": {
+      "age": 304,
+      "annual_visitors": 2350472,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "9ebb1e27-d9d2-4363-b1b8-57ea2d868223",
+    "museum_score": 94,
+    "drivers_json": {
+      "age": 377,
+      "annual_visitors": 7434636,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "9f3df884-148b-4321-8f27-e7eac3eb7c41",
+    "museum_score": 73,
+    "drivers_json": {
+      "age": 159,
+      "annual_visitors": 6316967,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "a015a350-b4b8-4721-9b66-994caf34284f",
+    "museum_score": 85,
+    "drivers_json": {
+      "age": 274,
+      "annual_visitors": 7436265,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "a0373d27-b2e6-4398-abb4-cac5a3a1d32a",
+    "museum_score": 64,
+    "drivers_json": {
+      "age": 85,
+      "annual_visitors": 5569128,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "a13b9004-3be9-40d0-979e-060efd215879",
+    "museum_score": 67,
+    "drivers_json": {
+      "age": 150,
+      "annual_visitors": 4547973,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "a1a7ca20-aa4d-410f-900e-7ed6b244e1a4",
+    "museum_score": 87,
+    "drivers_json": {
+      "age": 326,
+      "annual_visitors": 6223672,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "a255239c-7b54-4c2e-8124-955566e1904c",
+    "museum_score": 85,
+    "drivers_json": {
+      "age": 278,
+      "annual_visitors": 7109988,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "a2d46150-ae6e-4053-92db-8b1108ba9a83",
+    "museum_score": 69,
+    "drivers_json": {
+      "age": 112,
+      "annual_visitors": 6542579,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "a4e1c6f7-73f1-45a1-a747-a02bd2aec515",
+    "museum_score": 96,
+    "drivers_json": {
+      "age": 378,
+      "annual_visitors": 8643015,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "a4e360c1-f0f8-4b5d-bc69-697e94b3eed6",
+    "museum_score": 79,
+    "drivers_json": {
+      "age": 332,
+      "annual_visitors": 3638293,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "a5e0a8bc-8950-4478-aebe-4213f4331ef3",
+    "museum_score": 68,
+    "drivers_json": {
+      "age": 70,
+      "annual_visitors": 7876546,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "a5e755e7-a792-4def-9cc2-aa519e866402",
+    "museum_score": 77,
+    "drivers_json": {
+      "age": 163,
+      "annual_visitors": 8542444,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "a61cf0f5-e5a0-4e64-b818-0a8f9768664d",
+    "museum_score": 68,
+    "drivers_json": {
+      "age": 117,
+      "annual_visitors": 6104105,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "a671289f-94ea-4d86-8967-d6314c1f8cde",
+    "museum_score": 76,
+    "drivers_json": {
+      "age": 252,
+      "annual_visitors": 4784998,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "a9b5e196-60f7-4799-ab20-9bf3fd19f1f8",
+    "museum_score": 80,
+    "drivers_json": {
+      "age": 161,
+      "annual_visitors": 9983735,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "ab378f50-457f-478f-9f43-708aadb8a716",
+    "museum_score": 80,
+    "drivers_json": {
+      "age": 193,
+      "annual_visitors": 8473396,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "ac93221b-7bdf-4beb-844d-a26dce49fc87",
+    "museum_score": 73,
+    "drivers_json": {
+      "age": 385,
+      "annual_visitors": 1793934,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "acaca83b-32c7-48c3-9e3d-92221e7999ee",
+    "museum_score": 60,
+    "drivers_json": {
+      "age": 270,
+      "annual_visitors": 1461368,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "adcac1f8-3568-44f2-bc7a-dde7e7c5f59e",
+    "museum_score": 66,
+    "drivers_json": {
+      "age": 53,
+      "annual_visitors": 7490730,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "ae75859d-d78f-4112-aaf1-71e79a36654d",
+    "museum_score": 91,
+    "drivers_json": {
+      "age": 378,
+      "annual_visitors": 6336334,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "ae897ae6-b487-4a88-a8d3-d6a2f8fc2fef",
+    "museum_score": 64,
+    "drivers_json": {
+      "age": 63,
+      "annual_visitors": 6306452,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "afda9a2c-824d-40d7-8c3f-b8591541b563",
+    "museum_score": 84,
+    "drivers_json": {
+      "age": 231,
+      "annual_visitors": 9124945,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "b09f36c5-2c0f-4db9-a9aa-cda34e936a16",
+    "museum_score": 72,
+    "drivers_json": {
+      "age": 112,
+      "annual_visitors": 8116087,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "b4dd6193-d9f8-4f5d-9560-f70f924befcf",
+    "museum_score": 69,
+    "drivers_json": {
+      "age": 123,
+      "annual_visitors": 6311828,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "b64edfff-b816-4e75-bf3e-c70efa23f572",
+    "museum_score": 71,
+    "drivers_json": {
+      "age": 143,
+      "annual_visitors": 6341495,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "b69a979c-8244-4d74-a1ed-f89034ad11be",
+    "museum_score": 52,
+    "drivers_json": {
+      "age": 102,
+      "annual_visitors": 2214104,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "b721c0c1-0b6f-4fd5-a9f8-b8ade3e78580",
+    "museum_score": 73,
+    "drivers_json": {
+      "age": 316,
+      "annual_visitors": 2593457,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "b755f575-9514-4be8-a326-143f87c548e2",
+    "museum_score": 75,
+    "drivers_json": {
+      "age": 220,
+      "annual_visitors": 5080303,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "b89d76f3-5b58-4d72-a838-5ea02e24ef4f",
+    "museum_score": 68,
+    "drivers_json": {
+      "age": 298,
+      "annual_visitors": 2041408,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "b8beaa52-0368-4f43-8058-2b3be87482ac",
+    "museum_score": 40,
+    "drivers_json": {
+      "age": 61,
+      "annual_visitors": 1255583,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "b9905b05-5565-4873-bed1-c1888a7d69c5",
+    "museum_score": 93,
+    "drivers_json": {
+      "age": 389,
+      "annual_visitors": 6820383,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "bb346f44-e094-489e-a29c-e4807265d8fe",
+    "museum_score": 9,
+    "drivers_json": {
+      "age": 51,
+      "annual_visitors": 161959,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "bbba99fa-dc36-48e4-8a16-1ce60f4409a4",
+    "museum_score": 71,
+    "drivers_json": {
+      "age": 261,
+      "annual_visitors": 3132335,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "bc3dfdd3-ade0-4b31-b22a-5d89e440595c",
+    "museum_score": 13,
+    "drivers_json": {
+      "age": 198,
+      "annual_visitors": 88326,
+      "visitors_log": 4
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "bfe00f38-f424-4c8c-9778-1139c6758488",
+    "museum_score": 66,
+    "drivers_json": {
+      "age": 93,
+      "annual_visitors": 6067938,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "bfe55d77-db46-4959-bbd2-7831394bedf3",
+    "museum_score": 32,
+    "drivers_json": {
+      "age": 263,
+      "annual_visitors": 220610,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "c077e00d-63f9-4ccc-92e6-eca6702fa324",
+    "museum_score": 95,
+    "drivers_json": {
+      "age": 383,
+      "annual_visitors": 7609840,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "c0cf7a35-47f0-43b7-bae8-67153be340e2",
+    "museum_score": 50,
+    "drivers_json": {
+      "age": 54,
+      "annual_visitors": 2571153,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "c1dabaed-c694-466d-a8d1-3c38d99024a3",
+    "museum_score": 63,
+    "drivers_json": {
+      "age": 73,
+      "annual_visitors": 5402142,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "c66f60c1-6e71-4503-b7d3-dd09c690f5c9",
+    "museum_score": 60,
+    "drivers_json": {
+      "age": 202,
+      "annual_visitors": 2154872,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "c819831e-0ba6-4650-9cb7-735cbc828ada",
+    "museum_score": 43,
+    "drivers_json": {
+      "age": 85,
+      "annual_visitors": 1282512,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "c87b2f99-807b-4de1-aa30-a5098a37a4c0",
+    "museum_score": 55,
+    "drivers_json": {
+      "age": 223,
+      "annual_visitors": 1301936,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "c8bb966b-f733-4f1e-8d2c-7218f2c824ff",
+    "museum_score": 98,
+    "drivers_json": {
+      "age": 398,
+      "annual_visitors": 8745065,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "c943af7c-ab09-4b27-a6c4-ca1d3fc9aeff",
+    "museum_score": 81,
+    "drivers_json": {
+      "age": 281,
+      "annual_visitors": 5552452,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "ca135362-ac68-4054-8b7a-12fa7be6eb51",
+    "museum_score": 48,
+    "drivers_json": {
+      "age": 294,
+      "annual_visitors": 543318,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "ca39958f-1ebd-46e7-82a9-9cdf678bed2e",
+    "museum_score": 73,
+    "drivers_json": {
+      "age": 150,
+      "annual_visitors": 6919218,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "cc9a22c0-06d0-494f-956b-f609a3604070",
+    "museum_score": 60,
+    "drivers_json": {
+      "age": 65,
+      "annual_visitors": 4533111,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "cce95676-3815-4253-9663-94269fd0f309",
+    "museum_score": 62,
+    "drivers_json": {
+      "age": 58,
+      "annual_visitors": 5405916,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "cd9a0aad-ecfe-4ec0-b056-e7f8c1945037",
+    "museum_score": 98,
+    "drivers_json": {
+      "age": 398,
+      "annual_visitors": 8740693,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "cf1a9914-a620-4fa5-a9cd-9e6c90564f04",
+    "museum_score": 89,
+    "drivers_json": {
+      "age": 338,
+      "annual_visitors": 6590376,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "cf56ea15-6976-4788-be45-f8ceaa9eaffd",
+    "museum_score": 43,
+    "drivers_json": {
+      "age": 169,
+      "annual_visitors": 798790,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "d1476a20-a17a-480c-8522-2552d11200f7",
+    "museum_score": 81,
+    "drivers_json": {
+      "age": 328,
+      "annual_visitors": 4104907,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "d2f3ee40-4547-47e5-8908-0451498804c5",
+    "museum_score": 29,
+    "drivers_json": {
+      "age": 202,
+      "annual_visitors": 267641,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "d3bcf1d9-aec9-4600-b6eb-62cf24981e0e",
+    "museum_score": 64,
+    "drivers_json": {
+      "age": 113,
+      "annual_visitors": 4662445,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "d4fe2015-9509-4bce-bcb2-d6a489656462",
+    "museum_score": 83,
+    "drivers_json": {
+      "age": 350,
+      "annual_visitors": 4227549,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "d5201fc8-fc87-462d-81fa-c8b088a3ff28",
+    "museum_score": 69,
+    "drivers_json": {
+      "age": 192,
+      "annual_visitors": 4142341,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "d6375ea6-03c9-4653-9485-744ba6e81d5d",
+    "museum_score": 55,
+    "drivers_json": {
+      "age": 156,
+      "annual_visitors": 2011051,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "d6f5f220-ae93-4cf1-85fd-f4614604506b",
+    "museum_score": 67,
+    "drivers_json": {
+      "age": 99,
+      "annual_visitors": 6197581,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "d8db0c29-e548-4e64-aca2-9c5dba57b099",
+    "museum_score": 60,
+    "drivers_json": {
+      "age": 181,
+      "annual_visitors": 2337434,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "d8e5fa85-40ec-4585-b6c6-6cdd54a4cd26",
+    "museum_score": 62,
+    "drivers_json": {
+      "age": 260,
+      "annual_visitors": 1724186,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "d91b2e55-6173-4157-a49c-f751f52ffc05",
+    "museum_score": 94,
+    "drivers_json": {
+      "age": 339,
+      "annual_visitors": 9563907,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "d9662448-4d68-4561-b936-c1cdf57f77c2",
+    "museum_score": 77,
+    "drivers_json": {
+      "age": 198,
+      "annual_visitors": 6699106,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "de8da4fe-453f-455b-9562-0a27c30a5505",
+    "museum_score": 46,
+    "drivers_json": {
+      "age": 74,
+      "annual_visitors": 1699670,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e0b0c254-5c02-4ce2-b2f2-ca418f9145b2",
+    "museum_score": 29,
+    "drivers_json": {
+      "age": 97,
+      "annual_visitors": 470508,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e0e68ac9-8f90-4f3d-881a-b68252ed1917",
+    "museum_score": 76,
+    "drivers_json": {
+      "age": 127,
+      "annual_visitors": 9503331,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e12cb8cf-ad12-4a73-9a7e-119288c250e9",
+    "museum_score": 71,
+    "drivers_json": {
+      "age": 90,
+      "annual_visitors": 8352927,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e2570bca-9e09-4c27-aaaa-8b08843da90a",
+    "museum_score": 60,
+    "drivers_json": {
+      "age": 52,
+      "annual_visitors": 4943415,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e2f20719-53dd-4e8c-9b6d-86782cebae8a",
+    "museum_score": 62,
+    "drivers_json": {
+      "age": 226,
+      "annual_visitors": 2038068,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e3834212-9c80-4471-a1d4-1fc2388fa909",
+    "museum_score": 85,
+    "drivers_json": {
+      "age": 272,
+      "annual_visitors": 7759862,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e39e4f77-caed-44d3-b370-61276e8e8ed2",
+    "museum_score": 90,
+    "drivers_json": {
+      "age": 393,
+      "annual_visitors": 5318490,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e3cfa2ff-7fde-42b5-af55-91a1a5d7ce25",
+    "museum_score": 84,
+    "drivers_json": {
+      "age": 250,
+      "annual_visitors": 8049489,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e4754ec0-57df-4255-a675-78b0b79b9406",
+    "museum_score": 58,
+    "drivers_json": {
+      "age": 183,
+      "annual_visitors": 2097346,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e51dd76b-741e-49d9-a329-9faccc967b72",
+    "museum_score": 41,
+    "drivers_json": {
+      "age": 246,
+      "annual_visitors": 462875,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e55c20c9-f5bd-43c0-87f2-07d600dc05f1",
+    "museum_score": 68,
+    "drivers_json": {
+      "age": 170,
+      "annual_visitors": 4330102,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e673451e-5bb6-4873-bfa2-57c9e31c356e",
+    "museum_score": 41,
+    "drivers_json": {
+      "age": 51,
+      "annual_visitors": 1444914,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e6c02cfa-d163-4237-971d-f4a039305f6d",
+    "museum_score": 93,
+    "drivers_json": {
+      "age": 349,
+      "annual_visitors": 8504632,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e6fb6f4d-230e-4b21-afe0-969bed67bb89",
+    "museum_score": 73,
+    "drivers_json": {
+      "age": 174,
+      "annual_visitors": 5975609,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e7af0d92-9203-4901-ab61-b5015e8e38ce",
+    "museum_score": 58,
+    "drivers_json": {
+      "age": 61,
+      "annual_visitors": 4123565,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e813f4f5-60b6-4402-84ae-3cb1efd02cbc",
+    "museum_score": 63,
+    "drivers_json": {
+      "age": 55,
+      "annual_visitors": 6219859,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e8ad3161-10ae-4db1-8901-688cd7f2b4cb",
+    "museum_score": 56,
+    "drivers_json": {
+      "age": 257,
+      "annual_visitors": 1159250,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e9281def-e549-4952-aa0b-d9a4022f40a8",
+    "museum_score": 72,
+    "drivers_json": {
+      "age": 337,
+      "annual_visitors": 2102020,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e94dc660-ae5f-407e-980e-b959dc691053",
+    "museum_score": 76,
+    "drivers_json": {
+      "age": 212,
+      "annual_visitors": 5776294,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "e95d0071-c15c-4a33-b4c8-e6279dcbc515",
+    "museum_score": 81,
+    "drivers_json": {
+      "age": 181,
+      "annual_visitors": 9925213,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "ea3ef801-005c-46c7-9c89-ea276df196ec",
+    "museum_score": 88,
+    "drivers_json": {
+      "age": 371,
+      "annual_visitors": 5354743,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "eb11ca3a-3b77-49a2-820a-0218d47c7913",
+    "museum_score": 75,
+    "drivers_json": {
+      "age": 167,
+      "annual_visitors": 7019722,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "edbf86ed-6b78-4bd3-907d-a16606c20e43",
+    "museum_score": 63,
+    "drivers_json": {
+      "age": 66,
+      "annual_visitors": 5771480,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "ee4f3c33-d8d5-46df-aa00-a28714f6b4aa",
+    "museum_score": 42,
+    "drivers_json": {
+      "age": 143,
+      "annual_visitors": 872274,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "f00cd5dc-9947-4c9d-a4c8-6d58f67166e7",
+    "museum_score": 69,
+    "drivers_json": {
+      "age": 172,
+      "annual_visitors": 4548941,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "f08e46f7-a137-4640-9a76-7660722e1af2",
+    "museum_score": 73,
+    "drivers_json": {
+      "age": 231,
+      "annual_visitors": 4165176,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "f11ddeaa-0ac6-429f-8ac7-b7650e53735b",
+    "museum_score": 80,
+    "drivers_json": {
+      "age": 358,
+      "annual_visitors": 3203290,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "f1779756-e94b-407c-b800-16834cd32cb4",
+    "museum_score": 63,
+    "drivers_json": {
+      "age": 62,
+      "annual_visitors": 5967196,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "f18ca0e2-1961-4b81-a8c5-68a7d774aaad",
+    "museum_score": 71,
+    "drivers_json": {
+      "age": 237,
+      "annual_visitors": 3663299,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "f3fb0b1b-c1f9-4db3-b26f-463cd6143fc6",
+    "museum_score": 68,
+    "drivers_json": {
+      "age": 248,
+      "annual_visitors": 2741064,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "f484be4e-3fe0-44fd-86e0-1d05688c5eb7",
+    "museum_score": 86,
+    "drivers_json": {
+      "age": 326,
+      "annual_visitors": 5787252,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "f5cb2319-8a47-4298-b5b4-8545529d7b74",
+    "museum_score": 64,
+    "drivers_json": {
+      "age": 63,
+      "annual_visitors": 6185825,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "f963dd51-f048-46e6-9d26-5d220722ad75",
+    "museum_score": 37,
+    "drivers_json": {
+      "age": 116,
+      "annual_visitors": 746912,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "faff9ddb-b1c8-48dc-8a61-91bedba9edb7",
+    "museum_score": 63,
+    "drivers_json": {
+      "age": 197,
+      "annual_visitors": 2569007,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "fbfd1515-bceb-457b-8050-5db2d86634dc",
+    "museum_score": 76,
+    "drivers_json": {
+      "age": 136,
+      "annual_visitors": 9403821,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "fc1b80e2-d0a5-4d1a-8834-b6e7ef496e16",
+    "museum_score": 95,
+    "drivers_json": {
+      "age": 363,
+      "annual_visitors": 8804883,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "fc6c01c8-4697-4929-b36c-95447ccdc835",
+    "museum_score": 25,
+    "drivers_json": {
+      "age": 316,
+      "annual_visitors": 105898,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "fc75f9c6-3606-45af-9308-a0e975412d27",
+    "museum_score": 30,
+    "drivers_json": {
+      "age": 215,
+      "annual_visitors": 265455,
+      "visitors_log": 5
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "fd88b612-f725-4730-8def-1cf025b59848",
+    "museum_score": 64,
+    "drivers_json": {
+      "age": 54,
+      "annual_visitors": 6325118,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "fe02bd0e-7d14-4ca3-adc8-ee6314031965",
+    "museum_score": 60,
+    "drivers_json": {
+      "age": 126,
+      "annual_visitors": 3165758,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  },
+  {
+    "museum_id": "fe67e708-34b6-4abd-a93d-0368afb2de6a",
+    "museum_score": 90,
+    "drivers_json": {
+      "age": 400,
+      "annual_visitors": 4914459,
+      "visitors_log": 6
+    },
+    "created_at": "2025-09-14T21:24:04.425496+00:00"
+  }
+]

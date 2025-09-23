@@ -1,0 +1,2702 @@
+[
+  {
+    "gallery_id": "0019e20b-896e-43d8-ab02-d68467a12738",
+    "gallery_score": 90,
+    "drivers_json": {
+      "number_of_artist": 108,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "0029e9d6-cde5-46f7-9442-2e28ead2fd17",
+    "gallery_score": 41,
+    "drivers_json": {
+      "number_of_artist": 6,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "0093523f-ac26-4081-b59a-25b7f41167f9",
+    "gallery_score": 32,
+    "drivers_json": {
+      "number_of_artist": 42,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "0250b853-ab28-4003-aa9e-bcb1d7c13733",
+    "gallery_score": 17,
+    "drivers_json": {
+      "number_of_artist": 25,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "03498ea1-193e-46ff-86b5-143d9b7d34f1",
+    "gallery_score": 83,
+    "drivers_json": {
+      "number_of_artist": 101,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "04137b07-1799-4ba7-8229-1dc64cec2500",
+    "gallery_score": 36,
+    "drivers_json": {
+      "number_of_artist": 46,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "04543511-9181-46ca-85b3-8c51c9e46199",
+    "gallery_score": 0,
+    "drivers_json": {
+      "number_of_artist": 5,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "04e444bf-97d7-4240-b752-aeeb256fc656",
+    "gallery_score": 3,
+    "drivers_json": {
+      "number_of_artist": 9,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "05d5bf4e-4ceb-49d9-8e78-4bbd51dc83df",
+    "gallery_score": 58,
+    "drivers_json": {
+      "number_of_artist": 72,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "065e34df-b37e-4ab7-8c7c-c22275f82f3f",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 95,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "0730bc4e-8b3f-4884-9214-1d9c57c5dfc3",
+    "gallery_score": 49,
+    "drivers_json": {
+      "number_of_artist": 61,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "0738ae63-3e5e-454d-a27f-5b0eb326b7c9",
+    "gallery_score": 22,
+    "drivers_json": {
+      "number_of_artist": 30,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "07f329ba-cfeb-4f07-98ba-5680e622414b",
+    "gallery_score": 1,
+    "drivers_json": {
+      "number_of_artist": 6,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "08101087-860e-43e8-897e-f87781b91dbd",
+    "gallery_score": 60,
+    "drivers_json": {
+      "number_of_artist": 74,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "0864691b-7d50-4565-bf69-75c865ca3b05",
+    "gallery_score": 36,
+    "drivers_json": {
+      "number_of_artist": 46,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "08985599-e940-4488-b845-233b818f7a82",
+    "gallery_score": 57,
+    "drivers_json": {
+      "number_of_artist": 71,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "0998929c-403b-49a2-b60d-90d51e8472db",
+    "gallery_score": 82,
+    "drivers_json": {
+      "number_of_artist": 99,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "0a33a092-7687-443a-b95c-03dbb3072ebe",
+    "gallery_score": 18,
+    "drivers_json": {
+      "number_of_artist": 26,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "0a6d44d3-37cc-4124-94d5-cf67dc1dfeee",
+    "gallery_score": 49,
+    "drivers_json": {
+      "number_of_artist": 61,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "0ae5d697-906d-43df-b809-23b154418faa",
+    "gallery_score": 18,
+    "drivers_json": {
+      "number_of_artist": 26,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "0affd888-a445-46ac-ac01-98b71b1b4f1f",
+    "gallery_score": 57,
+    "drivers_json": {
+      "number_of_artist": 70,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "0b9a9fc5-984b-47bd-a54f-e6f9dad55080",
+    "gallery_score": 89,
+    "drivers_json": {
+      "number_of_artist": 107,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "0d42613b-61a8-49aa-a0a4-6c278b2c3cfc",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 84,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "0d61a15f-8cfe-4006-b829-e08ad7a48386",
+    "gallery_score": 58,
+    "drivers_json": {
+      "number_of_artist": 72,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "0ed1fdf0-517d-43af-8e47-2d7e4cd087f1",
+    "gallery_score": 37,
+    "drivers_json": {
+      "number_of_artist": 47,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "0eec6bb6-8398-4f9f-ba60-f69892808162",
+    "gallery_score": 96,
+    "drivers_json": {
+      "number_of_artist": 115,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "1015b173-9963-4d69-8d7e-3b2825c83853",
+    "gallery_score": 54,
+    "drivers_json": {
+      "number_of_artist": 67,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "102038bc-89f1-462a-b8c3-08bfff09579a",
+    "gallery_score": 85,
+    "drivers_json": {
+      "number_of_artist": 103,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "104323d3-cde7-4dc8-9701-bfa37857b870",
+    "gallery_score": 74,
+    "drivers_json": {
+      "number_of_artist": 90,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "1085422f-3483-4f35-94b6-98485e9cd1dd",
+    "gallery_score": 67,
+    "drivers_json": {
+      "number_of_artist": 82,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "11110246-6974-441c-b73b-f7f0d55156ea",
+    "gallery_score": 8,
+    "drivers_json": {
+      "number_of_artist": 14,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "113bd278-282f-4f62-b557-1899bc83059e",
+    "gallery_score": 88,
+    "drivers_json": {
+      "number_of_artist": 106,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "1183ff53-edeb-4942-862e-eefe6287f045",
+    "gallery_score": 96,
+    "drivers_json": {
+      "number_of_artist": 69,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "1295d487-a123-4d57-a7c4-16066e605146",
+    "gallery_score": 81,
+    "drivers_json": {
+      "number_of_artist": 98,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "149ea612-b817-4661-891f-398a5e4b89de",
+    "gallery_score": 8,
+    "drivers_json": {
+      "number_of_artist": 14,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "15bd1712-dd1f-49f5-9094-8fc572cd2511",
+    "gallery_score": 77,
+    "drivers_json": {
+      "number_of_artist": 48,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "1601ab1e-6009-4512-b80c-2969ba43b920",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 93,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "17df3ffc-2856-4d66-97ec-73810ec7439d",
+    "gallery_score": 97,
+    "drivers_json": {
+      "number_of_artist": 117,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "1cf5783c-f1a5-4c3c-9fbd-de4a8b8995d8",
+    "gallery_score": 74,
+    "drivers_json": {
+      "number_of_artist": 90,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "1d638642-e0e2-4608-adf7-5340cb08950d",
+    "gallery_score": 83,
+    "drivers_json": {
+      "number_of_artist": 101,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "1dceba68-2283-42d1-8085-a255ece07b69",
+    "gallery_score": 50,
+    "drivers_json": {
+      "number_of_artist": 63,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "1e89810b-b9b3-46ea-a779-5caaf946f208",
+    "gallery_score": 84,
+    "drivers_json": {
+      "number_of_artist": 102,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "1f5f8c1f-14a1-4a59-966b-7cdf0971d61b",
+    "gallery_score": 79,
+    "drivers_json": {
+      "number_of_artist": 50,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "2087b5e8-118e-4dfc-97d9-a1319328768d",
+    "gallery_score": 16,
+    "drivers_json": {
+      "number_of_artist": 23,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "21acbc4b-a81f-42a4-9250-58e2d27ba677",
+    "gallery_score": 73,
+    "drivers_json": {
+      "number_of_artist": 89,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "23c321b2-c129-4928-b667-ab2b64846a47",
+    "gallery_score": 83,
+    "drivers_json": {
+      "number_of_artist": 101,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "242cd4fb-286d-43f0-bcac-2210f9a9657c",
+    "gallery_score": 30,
+    "drivers_json": {
+      "number_of_artist": 39,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "260cccbd-1891-4711-aba1-015fe8c1cdf4",
+    "gallery_score": 40,
+    "drivers_json": {
+      "number_of_artist": 5,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "26c657a8-e519-4b73-ba58-e259e4656ca0",
+    "gallery_score": 68,
+    "drivers_json": {
+      "number_of_artist": 83,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "270e0efa-eda2-4692-9673-b727bdd13df9",
+    "gallery_score": 59,
+    "drivers_json": {
+      "number_of_artist": 27,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "2828f748-db12-40ef-812e-477ee0eca5cf",
+    "gallery_score": 98,
+    "drivers_json": {
+      "number_of_artist": 118,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "29b76158-3fa8-4983-a3ba-ab2845fa9041",
+    "gallery_score": 69,
+    "drivers_json": {
+      "number_of_artist": 38,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "2c66bd48-76a9-435d-8552-329719af5cd9",
+    "gallery_score": 82,
+    "drivers_json": {
+      "number_of_artist": 99,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "2d42948d-d75a-4200-a89a-60e8d3a67a59",
+    "gallery_score": 11,
+    "drivers_json": {
+      "number_of_artist": 18,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "2d55fda9-c32f-4567-baf0-9c73c93aafeb",
+    "gallery_score": 43,
+    "drivers_json": {
+      "number_of_artist": 54,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "2e226459-8f31-48c3-a22b-7ea69f52587a",
+    "gallery_score": 34,
+    "drivers_json": {
+      "number_of_artist": 44,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "2e50b310-3d64-4b14-a1a8-5bb8f538e228",
+    "gallery_score": 62,
+    "drivers_json": {
+      "number_of_artist": 76,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "3023aea8-4022-4678-a6f2-d9305d5b725c",
+    "gallery_score": 45,
+    "drivers_json": {
+      "number_of_artist": 57,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "30cf21f3-1a82-462c-a18e-0cb45addb64d",
+    "gallery_score": 59,
+    "drivers_json": {
+      "number_of_artist": 73,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "312e053c-b7f6-4888-b262-344985bcdce1",
+    "gallery_score": 36,
+    "drivers_json": {
+      "number_of_artist": 46,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "357efe08-853c-4313-b54c-89c52f6eacc8",
+    "gallery_score": 57,
+    "drivers_json": {
+      "number_of_artist": 24,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "36855d08-f1d5-443c-b45b-476fd40f00c3",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 120,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "372786da-4a4f-43a1-932f-72d0f13c95a9",
+    "gallery_score": 83,
+    "drivers_json": {
+      "number_of_artist": 100,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "37ecb8ec-e87d-47cc-a3a6-014ffa4f4f63",
+    "gallery_score": 10,
+    "drivers_json": {
+      "number_of_artist": 17,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "388ea939-8e40-46cf-a7e3-b3eebb008894",
+    "gallery_score": 44,
+    "drivers_json": {
+      "number_of_artist": 56,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "39aefe4e-e2bb-4f3c-966d-ba42a778e208",
+    "gallery_score": 4,
+    "drivers_json": {
+      "number_of_artist": 10,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "3af09a6f-84fc-440a-b9c0-ab472a76eabc",
+    "gallery_score": 37,
+    "drivers_json": {
+      "number_of_artist": 48,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "3c521e93-6047-41e5-a36a-737a32611bc4",
+    "gallery_score": 25,
+    "drivers_json": {
+      "number_of_artist": 34,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "3de5f14f-1811-4407-9c8b-daf106f80be1",
+    "gallery_score": 88,
+    "drivers_json": {
+      "number_of_artist": 106,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "3e3ffcd7-29b0-4919-843c-d588b2421668",
+    "gallery_score": 49,
+    "drivers_json": {
+      "number_of_artist": 15,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "3e5843c3-e9d0-459a-bc5c-a2b260fe96f9",
+    "gallery_score": 37,
+    "drivers_json": {
+      "number_of_artist": 47,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "3e9b9b6d-6857-4b3d-9288-7b76090429cf",
+    "gallery_score": 31,
+    "drivers_json": {
+      "number_of_artist": 41,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "3ecff986-2be7-419e-ad26-47182ad7ceab",
+    "gallery_score": 16,
+    "drivers_json": {
+      "number_of_artist": 23,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "40e0ccf8-abd9-41be-ba26-a663c7fd3155",
+    "gallery_score": 61,
+    "drivers_json": {
+      "number_of_artist": 75,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "41154632-19b8-4463-a6c3-c47182f119bd",
+    "gallery_score": 14,
+    "drivers_json": {
+      "number_of_artist": 21,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "415a2763-9f3d-4bbd-bdbd-b40c9f694bea",
+    "gallery_score": 77,
+    "drivers_json": {
+      "number_of_artist": 93,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "432ad193-26fc-44b1-991d-3f90ead40de1",
+    "gallery_score": 83,
+    "drivers_json": {
+      "number_of_artist": 100,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "44bbacf2-333f-43a9-a51e-e935a06d34f2",
+    "gallery_score": 16,
+    "drivers_json": {
+      "number_of_artist": 23,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "45979529-cbc8-41ca-80f8-0075c51226fe",
+    "gallery_score": 50,
+    "drivers_json": {
+      "number_of_artist": 63,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "45a8785d-7b5c-4554-aa09-05599fcd342f",
+    "gallery_score": 53,
+    "drivers_json": {
+      "number_of_artist": 20,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "45b7b793-e5d4-46d9-95fb-3cdd6d8b517f",
+    "gallery_score": 53,
+    "drivers_json": {
+      "number_of_artist": 66,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "45ddbf37-5891-42ab-bc20-1468ace2110f",
+    "gallery_score": 0,
+    "drivers_json": {
+      "number_of_artist": 5,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "46e58a75-5e86-47ca-81d1-097b85a87141",
+    "gallery_score": 43,
+    "drivers_json": {
+      "number_of_artist": 55,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "47ab59c5-9463-4cbe-9532-03abd3a3099a",
+    "gallery_score": 37,
+    "drivers_json": {
+      "number_of_artist": 48,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "484861ca-ced2-4444-a4c3-d3f9e87e6330",
+    "gallery_score": 29,
+    "drivers_json": {
+      "number_of_artist": 38,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "4a6ddd8c-6183-48e6-ae4c-8b01309c9f3d",
+    "gallery_score": 9,
+    "drivers_json": {
+      "number_of_artist": 15,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "4b8666b6-cfbf-4cb1-b58b-29eac7abf6e2",
+    "gallery_score": 29,
+    "drivers_json": {
+      "number_of_artist": 38,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "4da26b29-1b92-4e7d-945e-09226de2163e",
+    "gallery_score": 48,
+    "drivers_json": {
+      "number_of_artist": 60,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "512fe5f6-0862-406b-9256-7a25c883c1f3",
+    "gallery_score": 23,
+    "drivers_json": {
+      "number_of_artist": 32,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "51335938-e8f5-47c6-9bf5-9fbc738bd6f8",
+    "gallery_score": 26,
+    "drivers_json": {
+      "number_of_artist": 35,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "517b1a86-eb82-4e63-aa79-03ed19a6c488",
+    "gallery_score": 63,
+    "drivers_json": {
+      "number_of_artist": 78,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "533b417f-5775-41a2-9ddc-0c3b22e74640",
+    "gallery_score": 10,
+    "drivers_json": {
+      "number_of_artist": 16,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "5394ec08-b877-4a89-aadd-adb26a4808eb",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 103,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "53df498d-3bcf-458c-ab0a-9436f8abea67",
+    "gallery_score": 46,
+    "drivers_json": {
+      "number_of_artist": 58,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "53fbddfc-bfc0-45cc-bc40-89dd61412aea",
+    "gallery_score": 24,
+    "drivers_json": {
+      "number_of_artist": 33,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "547e1e51-902d-4da1-aa1d-4648f6c091a9",
+    "gallery_score": 53,
+    "drivers_json": {
+      "number_of_artist": 66,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "549a1c3a-cf9d-4872-b4a3-7fd685b358f8",
+    "gallery_score": 50,
+    "drivers_json": {
+      "number_of_artist": 62,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "54bab071-95d0-48ad-b3da-d0a48a1266b2",
+    "gallery_score": 53,
+    "drivers_json": {
+      "number_of_artist": 66,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "5574e2a8-c0c1-4a89-80d2-1e60f9102226",
+    "gallery_score": 56,
+    "drivers_json": {
+      "number_of_artist": 69,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "55a3e549-ce0e-4a2c-b344-e1fa81495c1c",
+    "gallery_score": 35,
+    "drivers_json": {
+      "number_of_artist": 45,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "584815e5-8d98-4b91-9186-759845e2f4af",
+    "gallery_score": 30,
+    "drivers_json": {
+      "number_of_artist": 39,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "5a4b748d-bf46-44a5-aa06-78b31f8a5332",
+    "gallery_score": 16,
+    "drivers_json": {
+      "number_of_artist": 23,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "5baf903c-8236-41fc-a486-e91e27422edc",
+    "gallery_score": 98,
+    "drivers_json": {
+      "number_of_artist": 118,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "5d166102-3096-41f9-984c-8fb377a8888a",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 104,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "5d67f986-3791-422a-9fa7-24b136a8f67b",
+    "gallery_score": 38,
+    "drivers_json": {
+      "number_of_artist": 49,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "5fa9cb18-19df-472a-895b-c7001cc9bc4f",
+    "gallery_score": 76,
+    "drivers_json": {
+      "number_of_artist": 92,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "60ea831e-80d2-4b6f-9ff1-7c3c75bbed44",
+    "gallery_score": 72,
+    "drivers_json": {
+      "number_of_artist": 88,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "614f7aaf-fb0b-44fa-a30c-8196a56a464f",
+    "gallery_score": 9,
+    "drivers_json": {
+      "number_of_artist": 15,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "6175698c-b03c-439d-9c3d-4363a4fb23be",
+    "gallery_score": 53,
+    "drivers_json": {
+      "number_of_artist": 20,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "6312a268-1176-47f9-af6f-b9c83fb3f935",
+    "gallery_score": 87,
+    "drivers_json": {
+      "number_of_artist": 105,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "64fda99a-f98c-48b8-9452-2d350ec6d0ca",
+    "gallery_score": 59,
+    "drivers_json": {
+      "number_of_artist": 73,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "6529b374-2caa-4336-8f0b-035f86369cc4",
+    "gallery_score": 75,
+    "drivers_json": {
+      "number_of_artist": 91,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "65aadb1e-66e6-41a1-9fba-c821b57d2868",
+    "gallery_score": 98,
+    "drivers_json": {
+      "number_of_artist": 118,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "6795a92f-d29a-41bd-b127-59d81be325ab",
+    "gallery_score": 0,
+    "drivers_json": {
+      "number_of_artist": 5,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "679fdfc1-3f9d-4b8c-a98d-320d5ecaea38",
+    "gallery_score": 43,
+    "drivers_json": {
+      "number_of_artist": 54,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "685dc75a-715b-430c-a84a-59f9b1f99630",
+    "gallery_score": 74,
+    "drivers_json": {
+      "number_of_artist": 90,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "6a477795-2e65-4e66-81c2-48581c96ff46",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 101,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "6aa648f1-e206-4b50-96a8-afc59f175240",
+    "gallery_score": 98,
+    "drivers_json": {
+      "number_of_artist": 118,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "6abc2a8a-ea6e-40cd-9c3c-37657f22c8ca",
+    "gallery_score": 73,
+    "drivers_json": {
+      "number_of_artist": 89,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "6bd9a92f-d6db-4eb2-b86b-d580ac2ca67d",
+    "gallery_score": 59,
+    "drivers_json": {
+      "number_of_artist": 73,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "6c7713c2-7e66-4fdf-ad9b-7c2739493952",
+    "gallery_score": 97,
+    "drivers_json": {
+      "number_of_artist": 70,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "6cebdba4-2851-4614-9d6d-1448103bbfc5",
+    "gallery_score": 3,
+    "drivers_json": {
+      "number_of_artist": 8,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "6e066567-cbe6-475a-8ac3-b8180b5ead7a",
+    "gallery_score": 15,
+    "drivers_json": {
+      "number_of_artist": 22,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "6e573fa8-d771-4f21-b605-d83a747e3cf8",
+    "gallery_score": 86,
+    "drivers_json": {
+      "number_of_artist": 104,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "6ebc2ab3-0601-4f47-941f-d3557dd77c94",
+    "gallery_score": 46,
+    "drivers_json": {
+      "number_of_artist": 58,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "6fb6ade8-8bed-4e1a-b72a-a0aa596478ac",
+    "gallery_score": 90,
+    "drivers_json": {
+      "number_of_artist": 108,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "701a24af-20f0-442e-9036-fa02d6bb6144",
+    "gallery_score": 98,
+    "drivers_json": {
+      "number_of_artist": 118,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "70b88ca3-58a3-44db-ab61-8e6daa07cc61",
+    "gallery_score": 77,
+    "drivers_json": {
+      "number_of_artist": 48,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "711bde08-2ca6-4a60-99dc-afcbc181e31a",
+    "gallery_score": 58,
+    "drivers_json": {
+      "number_of_artist": 26,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "7230a271-c22b-4c0a-8c94-f79360553f48",
+    "gallery_score": 97,
+    "drivers_json": {
+      "number_of_artist": 116,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "73595a89-7aea-4ed7-80e0-b733225a2293",
+    "gallery_score": 89,
+    "drivers_json": {
+      "number_of_artist": 107,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "738b1dbf-d680-4e1a-9fdf-06b47c90765e",
+    "gallery_score": 64,
+    "drivers_json": {
+      "number_of_artist": 79,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "747b7dc6-9deb-44bb-8ff5-e8494983ba6f",
+    "gallery_score": 71,
+    "drivers_json": {
+      "number_of_artist": 87,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "755beaa2-3edd-4018-a338-f26e2c02b076",
+    "gallery_score": 25,
+    "drivers_json": {
+      "number_of_artist": 34,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "75a00844-416d-4568-adc8-59067d5b409a",
+    "gallery_score": 73,
+    "drivers_json": {
+      "number_of_artist": 89,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "76119099-2d1e-447d-baf3-da55b36168c7",
+    "gallery_score": 45,
+    "drivers_json": {
+      "number_of_artist": 57,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "76bc2487-5aa6-485c-8bd7-08c6668c9929",
+    "gallery_score": 81,
+    "drivers_json": {
+      "number_of_artist": 98,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "779f7a89-bd3b-4ca0-8730-2d9aa881700d",
+    "gallery_score": 68,
+    "drivers_json": {
+      "number_of_artist": 83,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "78f5bcff-9158-4707-84f9-a90072131f3c",
+    "gallery_score": 73,
+    "drivers_json": {
+      "number_of_artist": 43,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "799f599a-8456-40bd-aa28-1fab62f41091",
+    "gallery_score": 27,
+    "drivers_json": {
+      "number_of_artist": 36,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "79a46146-9ca4-4582-987b-05e8e0f538d9",
+    "gallery_score": 23,
+    "drivers_json": {
+      "number_of_artist": 31,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "7ac2618a-a73b-4496-8f2d-e612c51317a2",
+    "gallery_score": 63,
+    "drivers_json": {
+      "number_of_artist": 77,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "7b050f7f-ef78-463a-9c54-1ea16ff7f029",
+    "gallery_score": 70,
+    "drivers_json": {
+      "number_of_artist": 40,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "7b2954b1-ba49-4cf9-9c25-91c1e39d64a6",
+    "gallery_score": 96,
+    "drivers_json": {
+      "number_of_artist": 115,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "7cdcda12-9de0-4b83-ad90-b87df156ebb0",
+    "gallery_score": 16,
+    "drivers_json": {
+      "number_of_artist": 23,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "7e04867e-bb83-4de0-95fe-7d51a95f9526",
+    "gallery_score": 45,
+    "drivers_json": {
+      "number_of_artist": 57,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "7e8090f4-155d-4b0c-9c46-81580518a825",
+    "gallery_score": 99,
+    "drivers_json": {
+      "number_of_artist": 73,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "7f073ca2-4d21-4373-b732-d2a218bab48d",
+    "gallery_score": 3,
+    "drivers_json": {
+      "number_of_artist": 8,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "8013160a-0da3-453b-bb17-55a83a24acff",
+    "gallery_score": 3,
+    "drivers_json": {
+      "number_of_artist": 8,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "8192d461-3b87-45d3-9e07-305dae762e0a",
+    "gallery_score": 2,
+    "drivers_json": {
+      "number_of_artist": 7,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "822f59f6-2e30-4649-9b6a-156e82437fb1",
+    "gallery_score": 41,
+    "drivers_json": {
+      "number_of_artist": 52,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "82bdf9a1-74fa-4da2-aba1-4a4dbe0bb9a8",
+    "gallery_score": 51,
+    "drivers_json": {
+      "number_of_artist": 18,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "83a18082-d718-4dc5-9775-7eecbcbecd5c",
+    "gallery_score": 96,
+    "drivers_json": {
+      "number_of_artist": 115,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "84e22ffc-b10a-4797-9d42-056cdde7b03a",
+    "gallery_score": 60,
+    "drivers_json": {
+      "number_of_artist": 28,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "87042270-43d5-42c4-bc9f-71bfc2f52e18",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 98,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "8825b342-f58c-4161-adc7-11ec41d64b8a",
+    "gallery_score": 0,
+    "drivers_json": {
+      "number_of_artist": 5,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "891d793d-70d0-41be-9f29-b846db97cb84",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 92,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "8a629125-798b-4772-8f9b-a1e0fd753160",
+    "gallery_score": 2,
+    "drivers_json": {
+      "number_of_artist": 7,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "8a6a9cf0-a1a8-4184-825a-9758ee5b272c",
+    "gallery_score": 49,
+    "drivers_json": {
+      "number_of_artist": 15,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "8ab1aac4-5a7b-45d0-af7a-936dbd96c330",
+    "gallery_score": 64,
+    "drivers_json": {
+      "number_of_artist": 79,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "8b748728-b694-4b7a-b613-bb963c6235b8",
+    "gallery_score": 36,
+    "drivers_json": {
+      "number_of_artist": 46,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "8b7dbedd-1692-4d98-906c-c6bcf6dca9a5",
+    "gallery_score": 96,
+    "drivers_json": {
+      "number_of_artist": 69,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "8c25203e-9f33-47f2-8151-e8df0109a88b",
+    "gallery_score": 45,
+    "drivers_json": {
+      "number_of_artist": 57,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "8cf6ae40-8658-4212-8ff1-0cb5d280a08b",
+    "gallery_score": 48,
+    "drivers_json": {
+      "number_of_artist": 60,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "8d016036-d4c5-4d34-849d-72ec5c48919e",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 74,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "8e33eb95-cd7f-418d-b484-0d3c3db5c876",
+    "gallery_score": 50,
+    "drivers_json": {
+      "number_of_artist": 62,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "903762be-23bd-4b15-a29b-0688d96bdee3",
+    "gallery_score": 80,
+    "drivers_json": {
+      "number_of_artist": 97,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "9056b620-e0c3-414a-9b23-cba1467d8c1d",
+    "gallery_score": 44,
+    "drivers_json": {
+      "number_of_artist": 56,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "90a80038-5468-40c7-b75d-50559129f977",
+    "gallery_score": 74,
+    "drivers_json": {
+      "number_of_artist": 90,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "9179604b-5c36-4877-a9ea-31c00eaf226f",
+    "gallery_score": 98,
+    "drivers_json": {
+      "number_of_artist": 118,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "925ef1e8-c734-4aa0-89e5-638fc1183933",
+    "gallery_score": 47,
+    "drivers_json": {
+      "number_of_artist": 59,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "93c68dc0-ad4c-49ef-b01c-139c1cb4cf73",
+    "gallery_score": 63,
+    "drivers_json": {
+      "number_of_artist": 77,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "9468c833-6dfd-4732-be68-41a210ed3fbd",
+    "gallery_score": 77,
+    "drivers_json": {
+      "number_of_artist": 93,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "94bb35a2-f0c9-4418-ad73-2d4108402535",
+    "gallery_score": 81,
+    "drivers_json": {
+      "number_of_artist": 98,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "966bc60b-b25b-4e90-9dfe-1ddf7f0bc1a3",
+    "gallery_score": 34,
+    "drivers_json": {
+      "number_of_artist": 44,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "96fe6ce3-e7cc-4e89-a251-b8b7ddfec516",
+    "gallery_score": 1,
+    "drivers_json": {
+      "number_of_artist": 6,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "9929488b-b2e8-439b-a9aa-b101c51ac322",
+    "gallery_score": 90,
+    "drivers_json": {
+      "number_of_artist": 108,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "9ad8e162-1654-4404-8657-bc1d32e8409c",
+    "gallery_score": 39,
+    "drivers_json": {
+      "number_of_artist": 50,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "9bcdfd88-5d4a-4402-a324-413a3786fdfd",
+    "gallery_score": 63,
+    "drivers_json": {
+      "number_of_artist": 31,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "9bd83e14-76b4-4de1-8ff6-9e530b3dbf82",
+    "gallery_score": 41,
+    "drivers_json": {
+      "number_of_artist": 52,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "9c4caf50-fcfa-4b32-892e-19e4b5fb41c5",
+    "gallery_score": 76,
+    "drivers_json": {
+      "number_of_artist": 92,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "9d5575fa-122d-4abc-b7c4-46844cb715b4",
+    "gallery_score": 54,
+    "drivers_json": {
+      "number_of_artist": 67,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "9d9f471e-4027-4aad-a165-504be8adc8f8",
+    "gallery_score": 88,
+    "drivers_json": {
+      "number_of_artist": 106,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "9de366b6-75e8-4607-993e-965801322ca8",
+    "gallery_score": 87,
+    "drivers_json": {
+      "number_of_artist": 59,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "9e17ab62-e8fa-4fc9-8321-1f4cad7437ff",
+    "gallery_score": 97,
+    "drivers_json": {
+      "number_of_artist": 71,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "9e24ee6b-6605-4d64-be2e-d9ceaa76961d",
+    "gallery_score": 41,
+    "drivers_json": {
+      "number_of_artist": 6,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "9f12fb04-5180-426e-896f-0956210468f7",
+    "gallery_score": 87,
+    "drivers_json": {
+      "number_of_artist": 105,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "9fc08db0-56b9-462d-acfd-2a091428e208",
+    "gallery_score": 48,
+    "drivers_json": {
+      "number_of_artist": 60,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "a017b6f8-1c39-4d16-909d-de7ccc268dae",
+    "gallery_score": 29,
+    "drivers_json": {
+      "number_of_artist": 38,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "a1e9faa1-cc48-4ca2-8a34-228865f9266f",
+    "gallery_score": 68,
+    "drivers_json": {
+      "number_of_artist": 83,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "a2ac76e3-6de9-455c-ad76-d81348b94868",
+    "gallery_score": 34,
+    "drivers_json": {
+      "number_of_artist": 44,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "a48f27d4-37d5-4f5f-8c4c-7cb7da3e327b",
+    "gallery_score": 51,
+    "drivers_json": {
+      "number_of_artist": 64,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "a4c4d520-6ebc-4f4b-94c7-9b29fb2eeff8",
+    "gallery_score": 95,
+    "drivers_json": {
+      "number_of_artist": 68,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "a62010b9-88f6-497d-a787-3af624a7993e",
+    "gallery_score": 75,
+    "drivers_json": {
+      "number_of_artist": 91,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "a7167643-2159-4eed-b138-52f4dfcbcdaa",
+    "gallery_score": 63,
+    "drivers_json": {
+      "number_of_artist": 77,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "a78dc228-305c-4943-a558-ec905c837012",
+    "gallery_score": 89,
+    "drivers_json": {
+      "number_of_artist": 107,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "a7972208-d2d8-433f-905c-ee803e94a0a6",
+    "gallery_score": 54,
+    "drivers_json": {
+      "number_of_artist": 67,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "a89e1e4b-c2c3-4349-92e2-6bbdde97b573",
+    "gallery_score": 33,
+    "drivers_json": {
+      "number_of_artist": 43,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "aad2a84f-534b-428e-a872-0b0fb2a6dcae",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 86,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "ab6f0e24-cf4d-4c85-b2d7-9101b877e96e",
+    "gallery_score": 55,
+    "drivers_json": {
+      "number_of_artist": 68,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "abb16ef6-e26c-428b-8777-f20a52638bcc",
+    "gallery_score": 95,
+    "drivers_json": {
+      "number_of_artist": 114,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "abd3394f-afa3-425d-9d79-87b040a1d534",
+    "gallery_score": 60,
+    "drivers_json": {
+      "number_of_artist": 74,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "ac4da6f5-882b-47a2-bc7f-1efbb464b2aa",
+    "gallery_score": 10,
+    "drivers_json": {
+      "number_of_artist": 17,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "acdc8e9d-d575-40d2-87df-a4cf676b196c",
+    "gallery_score": 42,
+    "drivers_json": {
+      "number_of_artist": 53,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "ada82609-e71c-4f1e-93e2-e1929048aa5a",
+    "gallery_score": 50,
+    "drivers_json": {
+      "number_of_artist": 63,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "af41dd03-f3a7-4dbf-89a0-4ebbad675f23",
+    "gallery_score": 45,
+    "drivers_json": {
+      "number_of_artist": 57,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "b0c14224-ff60-4cec-bfe6-762f38267c51",
+    "gallery_score": 17,
+    "drivers_json": {
+      "number_of_artist": 25,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "b146ae06-3591-474e-8625-b513abde7caa",
+    "gallery_score": 14,
+    "drivers_json": {
+      "number_of_artist": 21,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "b22a39c3-c906-4cb7-b0e8-d1cf16790b54",
+    "gallery_score": 42,
+    "drivers_json": {
+      "number_of_artist": 53,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "b50674a5-6dd1-42cf-92c7-b7a35edd308b",
+    "gallery_score": 29,
+    "drivers_json": {
+      "number_of_artist": 38,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "b5bd7e9e-22ab-425a-8e2b-5baac1271497",
+    "gallery_score": 62,
+    "drivers_json": {
+      "number_of_artist": 76,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "b63e7b02-4894-452e-ae25-32d5fc03e3f1",
+    "gallery_score": 71,
+    "drivers_json": {
+      "number_of_artist": 87,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "b72b7f31-ad42-46be-9552-7b2ff4827693",
+    "gallery_score": 8,
+    "drivers_json": {
+      "number_of_artist": 14,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "b76e6f54-9b22-48c2-816c-15cf3e091fa0",
+    "gallery_score": 29,
+    "drivers_json": {
+      "number_of_artist": 38,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "b8dec35a-8ce9-4379-8a45-09ddc2cf4f5c",
+    "gallery_score": 7,
+    "drivers_json": {
+      "number_of_artist": 13,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "b963aa7c-b529-4bea-b1ae-f9c654210a4c",
+    "gallery_score": 25,
+    "drivers_json": {
+      "number_of_artist": 34,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "b9999148-202d-4504-902a-e5b2077a8641",
+    "gallery_score": 52,
+    "drivers_json": {
+      "number_of_artist": 19,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "b99dca2c-1804-4afd-afc8-97cdfd1569b7",
+    "gallery_score": 72,
+    "drivers_json": {
+      "number_of_artist": 42,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "bb630fb5-c885-4c8a-ad53-1ee89c7f2973",
+    "gallery_score": 59,
+    "drivers_json": {
+      "number_of_artist": 73,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "bbb5a947-9a26-4e7c-be3e-eb3a5cc13471",
+    "gallery_score": 45,
+    "drivers_json": {
+      "number_of_artist": 57,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "bc34860a-56f7-47dc-94ff-936a9302205d",
+    "gallery_score": 50,
+    "drivers_json": {
+      "number_of_artist": 62,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "bce010c6-3adb-4325-bb24-73240bb96817",
+    "gallery_score": 98,
+    "drivers_json": {
+      "number_of_artist": 72,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "bcf4cedc-e1b2-4cc3-b97c-6a1080acc054",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 120,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "bd8a44db-79bc-4f5d-bb36-d10fd4b6fddf",
+    "gallery_score": 97,
+    "drivers_json": {
+      "number_of_artist": 117,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "be8c6ee1-706c-421f-ae42-82afea3eef7c",
+    "gallery_score": 62,
+    "drivers_json": {
+      "number_of_artist": 30,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "bfeea910-709e-4188-ab37-e9c0c27b2abc",
+    "gallery_score": 90,
+    "drivers_json": {
+      "number_of_artist": 108,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "c01c5b4f-d2f9-4f9a-9eed-6748556294b6",
+    "gallery_score": 43,
+    "drivers_json": {
+      "number_of_artist": 54,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "c068de52-a452-40d4-bb1b-da77a5f2aa70",
+    "gallery_score": 47,
+    "drivers_json": {
+      "number_of_artist": 59,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "c2b473ce-b63c-40ea-ac60-4046dfd82254",
+    "gallery_score": 70,
+    "drivers_json": {
+      "number_of_artist": 85,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "c31c645f-87de-425f-91cb-93a75281aa74",
+    "gallery_score": 46,
+    "drivers_json": {
+      "number_of_artist": 58,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "c3406c79-4b70-4056-bfe1-5f9a1f85aacd",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 93,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "c3b18883-24c2-4779-9533-df448569da38",
+    "gallery_score": 15,
+    "drivers_json": {
+      "number_of_artist": 22,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "c3ef7a5b-f7b5-4ae5-9400-5809723c28c1",
+    "gallery_score": 7,
+    "drivers_json": {
+      "number_of_artist": 13,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "c3fbf9ce-8843-4c93-8180-77484503894d",
+    "gallery_score": 44,
+    "drivers_json": {
+      "number_of_artist": 10,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "c5db6352-e327-4f0a-8a5d-2a13d9e0ca44",
+    "gallery_score": 63,
+    "drivers_json": {
+      "number_of_artist": 78,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "c6cf678b-5514-487c-a989-e3ed46c821fa",
+    "gallery_score": 90,
+    "drivers_json": {
+      "number_of_artist": 108,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "c9460b05-bd11-4712-8cc3-3d7905f33d08",
+    "gallery_score": 16,
+    "drivers_json": {
+      "number_of_artist": 23,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "c9b4f570-be16-410d-af1d-2b4bb987216e",
+    "gallery_score": 50,
+    "drivers_json": {
+      "number_of_artist": 62,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "c9d43fae-846f-41ae-ad53-fed14e945ef3",
+    "gallery_score": 3,
+    "drivers_json": {
+      "number_of_artist": 9,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "ca3274d6-56e9-48b2-8323-00646c270a16",
+    "gallery_score": 61,
+    "drivers_json": {
+      "number_of_artist": 75,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "cc9a64cf-8a8a-49ee-96b7-6387401edb60",
+    "gallery_score": 44,
+    "drivers_json": {
+      "number_of_artist": 56,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "cda13b0c-0b88-4397-8a2b-4cda58e32ca3",
+    "gallery_score": 24,
+    "drivers_json": {
+      "number_of_artist": 33,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "ce139bfc-1d37-4eea-9b60-d6af9f5576a6",
+    "gallery_score": 25,
+    "drivers_json": {
+      "number_of_artist": 34,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "ce3c76b8-a3b9-4c82-89dc-83c0639dbea6",
+    "gallery_score": 23,
+    "drivers_json": {
+      "number_of_artist": 31,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "ce760933-e06a-4c56-9a71-1a089cc50284",
+    "gallery_score": 46,
+    "drivers_json": {
+      "number_of_artist": 58,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "cf04bb21-9c11-4f08-8c94-27442d0290e7",
+    "gallery_score": 4,
+    "drivers_json": {
+      "number_of_artist": 10,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "cffd7dab-1396-468b-9a68-d3b5fd2001fc",
+    "gallery_score": 68,
+    "drivers_json": {
+      "number_of_artist": 83,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "d3ee5bad-da34-4bd6-bf03-8940b4d201c1",
+    "gallery_score": 63,
+    "drivers_json": {
+      "number_of_artist": 77,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "d47ac95b-5c2b-45fe-a44a-eecfa3dd3408",
+    "gallery_score": 46,
+    "drivers_json": {
+      "number_of_artist": 58,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "d4810558-bbf5-4e84-94f5-92a921f0ca70",
+    "gallery_score": 73,
+    "drivers_json": {
+      "number_of_artist": 89,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "d517d243-4ea1-439a-9046-5b47f6431c73",
+    "gallery_score": 23,
+    "drivers_json": {
+      "number_of_artist": 32,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "d54368a3-c832-4528-861a-529aaee9ec56",
+    "gallery_score": 50,
+    "drivers_json": {
+      "number_of_artist": 63,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "d6bc4dbf-4ef3-427b-906a-79b764de79d2",
+    "gallery_score": 54,
+    "drivers_json": {
+      "number_of_artist": 67,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "d732b645-9586-4044-90de-8a1d8e12d1f4",
+    "gallery_score": 48,
+    "drivers_json": {
+      "number_of_artist": 60,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "d81aa22e-9bba-464f-be8a-709b6f881fbf",
+    "gallery_score": 53,
+    "drivers_json": {
+      "number_of_artist": 20,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "d90a2829-108e-4653-9505-5e1a792c7408",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 106,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "da2aff16-21e7-4dde-a255-8c611a7c7603",
+    "gallery_score": 39,
+    "drivers_json": {
+      "number_of_artist": 50,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "da7b4921-4aa7-4e74-9bec-16973b47f068",
+    "gallery_score": 65,
+    "drivers_json": {
+      "number_of_artist": 80,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "dc20d688-fa26-4a9c-b64c-16a1e6c44c68",
+    "gallery_score": 65,
+    "drivers_json": {
+      "number_of_artist": 80,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "dc5fdd4c-f3af-4447-be05-1f7878d9c783",
+    "gallery_score": 41,
+    "drivers_json": {
+      "number_of_artist": 6,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "dc7227b5-5282-4a58-bfab-9a522a96f5ea",
+    "gallery_score": 17,
+    "drivers_json": {
+      "number_of_artist": 25,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "de02767a-2a0c-4231-8a77-9355294279a5",
+    "gallery_score": 86,
+    "drivers_json": {
+      "number_of_artist": 58,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "dfc812db-2bbb-4c9b-83d0-c8a0dba29dad",
+    "gallery_score": 40,
+    "drivers_json": {
+      "number_of_artist": 51,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "dfdc3edb-e025-4fca-94ef-aa5dbfcf4583",
+    "gallery_score": 79,
+    "drivers_json": {
+      "number_of_artist": 96,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "e1ecd2dc-5c66-4bcc-b892-4151b2beebae",
+    "gallery_score": 15,
+    "drivers_json": {
+      "number_of_artist": 22,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "e240f823-ba2c-4c4d-bcf3-2d357317932f",
+    "gallery_score": 3,
+    "drivers_json": {
+      "number_of_artist": 8,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "e26c5232-f368-4630-8878-6ecd428303b3",
+    "gallery_score": 12,
+    "drivers_json": {
+      "number_of_artist": 19,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "e4109f18-8ada-4a53-a218-f547a8a06d5e",
+    "gallery_score": 37,
+    "drivers_json": {
+      "number_of_artist": 47,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "e5afa201-6257-4c62-b840-fd577c258960",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 114,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "e6599dab-4fc1-4472-a106-1638647e8dea",
+    "gallery_score": 41,
+    "drivers_json": {
+      "number_of_artist": 52,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "e65cbcb9-073f-4c51-b95a-a211e21b2d01",
+    "gallery_score": 98,
+    "drivers_json": {
+      "number_of_artist": 118,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "e6a77b9d-c6db-4683-8b4d-3fe15c52c105",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 76,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "e83ec7c9-4d9a-41f6-9b94-3f59a4ec4dcd",
+    "gallery_score": 56,
+    "drivers_json": {
+      "number_of_artist": 69,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "e884e0dd-ee08-4c62-b18c-db6deb252060",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 105,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "e89aaa6b-6769-4fe1-872b-0de6a2870938",
+    "gallery_score": 3,
+    "drivers_json": {
+      "number_of_artist": 8,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "e8a3e715-bbee-40dd-b219-d8af58e69852",
+    "gallery_score": 89,
+    "drivers_json": {
+      "number_of_artist": 107,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "eabbe99c-9cbd-4e14-b7c1-5127884d5519",
+    "gallery_score": 32,
+    "drivers_json": {
+      "number_of_artist": 42,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "eaf0a6c5-d16e-46d1-895e-bcdc4e53a0ef",
+    "gallery_score": 50,
+    "drivers_json": {
+      "number_of_artist": 16,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "eb3ff62c-189f-40b8-a172-75703ec01071",
+    "gallery_score": 96,
+    "drivers_json": {
+      "number_of_artist": 69,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "eb414084-812f-4af3-890f-8917b3b1cc46",
+    "gallery_score": 79,
+    "drivers_json": {
+      "number_of_artist": 96,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "eb56e613-d5be-4356-9de9-0a807eff9fa7",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 107,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "eb920cbf-f4b0-48dc-b618-c9b0f59a0a5f",
+    "gallery_score": 93,
+    "drivers_json": {
+      "number_of_artist": 66,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "ec9ccd14-244b-47ed-acb7-9f1ab83f69a3",
+    "gallery_score": 64,
+    "drivers_json": {
+      "number_of_artist": 79,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "ed890dad-3e6f-4dbc-a9fd-db6efdd20d22",
+    "gallery_score": 94,
+    "drivers_json": {
+      "number_of_artist": 113,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "ede29921-1fd8-4dfb-a77c-4cf7eee2de9a",
+    "gallery_score": 11,
+    "drivers_json": {
+      "number_of_artist": 18,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "ef90af72-59f7-47a5-bc6a-ef2aa716b00d",
+    "gallery_score": 55,
+    "drivers_json": {
+      "number_of_artist": 68,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "f00e4c68-3c6d-4981-98f9-553a3535aa53",
+    "gallery_score": 47,
+    "drivers_json": {
+      "number_of_artist": 59,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "f171c406-efb6-4163-b894-97ddb2f6c1e1",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 80,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "f27a78c5-8d56-41c1-909a-04b507276794",
+    "gallery_score": 35,
+    "drivers_json": {
+      "number_of_artist": 45,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "f6c3dae6-03b0-45f7-ae9a-b2c974438559",
+    "gallery_score": 62,
+    "drivers_json": {
+      "number_of_artist": 76,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "f732d117-af8b-4b21-a999-cd01f490bf4b",
+    "gallery_score": 72,
+    "drivers_json": {
+      "number_of_artist": 88,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "f7818041-1a47-4274-bda7-7f277cb15988",
+    "gallery_score": 0,
+    "drivers_json": {
+      "number_of_artist": 5,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "f8f25e00-151d-4bee-9ec8-1875cc70161c",
+    "gallery_score": 77,
+    "drivers_json": {
+      "number_of_artist": 48,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "f94ec401-1957-49f7-b1c6-3da7f2d28c97",
+    "gallery_score": 60,
+    "drivers_json": {
+      "number_of_artist": 74,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "f95a65d7-2be5-4687-946e-8ea8f1aff621",
+    "gallery_score": 70,
+    "drivers_json": {
+      "number_of_artist": 86,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "f969d0d6-6bef-4042-8de2-5a4e9baaba56",
+    "gallery_score": 17,
+    "drivers_json": {
+      "number_of_artist": 25,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "fbf6424d-592a-45a1-8559-9252930bd649",
+    "gallery_score": 51,
+    "drivers_json": {
+      "number_of_artist": 64,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "fc29ebe5-7d05-49f4-91c3-89b8d8ebe4f5",
+    "gallery_score": 100,
+    "drivers_json": {
+      "number_of_artist": 79,
+      "cities_flag": 1
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "fd83e17d-f8c3-4ceb-92b2-89d71dd86124",
+    "gallery_score": 53,
+    "drivers_json": {
+      "number_of_artist": 66,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  },
+  {
+    "gallery_id": "fe223eb4-b596-4a68-841a-90a93b19ad09",
+    "gallery_score": 62,
+    "drivers_json": {
+      "number_of_artist": 76,
+      "cities_flag": 0
+    },
+    "created_at": "2025-09-15T18:10:06.725779+00:00"
+  }
+]

@@ -1,0 +1,3002 @@
+[
+  {
+    "artist_id": "ART-00001",
+    "name": "Sofia Davis",
+    "nationality": "British",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artist_id": "ART-00002",
+    "name": "Elijah Thomas",
+    "nationality": "Swedish",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artist_id": "ART-00003",
+    "name": "Hannah Miller",
+    "nationality": "Filipino",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artist_id": "ART-00004",
+    "name": "Layla Garcia",
+    "nationality": "Chinese",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artist_id": "ART-00005",
+    "name": "Taylor Johnson",
+    "nationality": "Spanish",
+    "dealer_id": "DEALER-014"
+  },
+  {
+    "artist_id": "ART-00006",
+    "name": "Logan Allen",
+    "nationality": "Japanese",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artist_id": "ART-00007",
+    "name": "Scarlett Gonzalez",
+    "nationality": "New Zealander",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artist_id": "ART-00008",
+    "name": "Samantha Wright",
+    "nationality": "Israeli",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artist_id": "ART-00009",
+    "name": "Harper Nguyen",
+    "nationality": "Finnish",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artist_id": "ART-00010",
+    "name": "Nora Hernandez",
+    "nationality": "Australian",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artist_id": "ART-00011",
+    "name": "Olivia Moore",
+    "nationality": "Swiss",
+    "dealer_id": "DEALER-014"
+  },
+  {
+    "artist_id": "ART-00012",
+    "name": "Nora Perez",
+    "nationality": "Portuguese",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artist_id": "ART-00013",
+    "name": "Isabella Miller",
+    "nationality": "Russian",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artist_id": "ART-00014",
+    "name": "Aurora Taylor",
+    "nationality": "French",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artist_id": "ART-00015",
+    "name": "Evelyn Wright",
+    "nationality": "Dutch",
+    "dealer_id": "DEALER-025"
+  },
+  {
+    "artist_id": "ART-00016",
+    "name": "Riley Scott",
+    "nationality": "Irish",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artist_id": "ART-00017",
+    "name": "Violet White",
+    "nationality": "Sri Lankan",
+    "dealer_id": "DEALER-013"
+  },
+  {
+    "artist_id": "ART-00018",
+    "name": "Chloe Jones",
+    "nationality": "French",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artist_id": "ART-00019",
+    "name": "Logan Roberts",
+    "nationality": "Irish",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artist_id": "ART-00020",
+    "name": "Logan Miller",
+    "nationality": "Georgian",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artist_id": "ART-00021",
+    "name": "Evelyn Green",
+    "nationality": "Ukrainian",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artist_id": "ART-00022",
+    "name": "Sophia Thompson",
+    "nationality": "Hungarian",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artist_id": "ART-00023",
+    "name": "Elijah Hall",
+    "nationality": "Filipino",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artist_id": "ART-00024",
+    "name": "Casey Hill",
+    "nationality": "Vietnamese",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artist_id": "ART-00025",
+    "name": "Layla Campbell",
+    "nationality": "Norwegian",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artist_id": "ART-00026",
+    "name": "Evelyn Harris",
+    "nationality": "Finnish",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artist_id": "ART-00027",
+    "name": "Samantha Scott",
+    "nationality": "Swedish",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artist_id": "ART-00028",
+    "name": "Emma Roberts",
+    "nationality": "Chilean",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artist_id": "ART-00029",
+    "name": "Logan Williams",
+    "nationality": "Turkish",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artist_id": "ART-00030",
+    "name": "Elijah Jones",
+    "nationality": "Hungarian",
+    "dealer_id": "DEALER-037"
+  },
+  {
+    "artist_id": "ART-00031",
+    "name": "Chloe Lee",
+    "nationality": "Hungarian",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artist_id": "ART-00032",
+    "name": "Aria Sanchez",
+    "nationality": "Thai",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artist_id": "ART-00033",
+    "name": "Rowan Taylor",
+    "nationality": "Belgian",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artist_id": "ART-00034",
+    "name": "Hannah Scott",
+    "nationality": "Pakistani",
+    "dealer_id": "DEALER-017"
+  },
+  {
+    "artist_id": "ART-00035",
+    "name": "Hannah Nguyen",
+    "nationality": "Egyptian",
+    "dealer_id": "DEALER-038"
+  },
+  {
+    "artist_id": "ART-00036",
+    "name": "Mia White",
+    "nationality": "Swedish",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artist_id": "ART-00037",
+    "name": "Luna Young",
+    "nationality": "Spanish",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artist_id": "ART-00038",
+    "name": "Morgan Davis",
+    "nationality": "Swiss",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artist_id": "ART-00039",
+    "name": "Noah Baker",
+    "nationality": "Egyptian",
+    "dealer_id": "DEALER-039"
+  },
+  {
+    "artist_id": "ART-00040",
+    "name": "Casey Harris",
+    "nationality": "Georgian",
+    "dealer_id": "DEALER-039"
+  },
+  {
+    "artist_id": "ART-00041",
+    "name": "Evelyn King",
+    "nationality": "Danish",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artist_id": "ART-00042",
+    "name": "Alex Baker",
+    "nationality": "Mexican",
+    "dealer_id": "DEALER-008"
+  },
+  {
+    "artist_id": "ART-00043",
+    "name": "Elizabeth Wright",
+    "nationality": "Argentinian",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artist_id": "ART-00044",
+    "name": "Emily Perez",
+    "nationality": "Dutch",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artist_id": "ART-00045",
+    "name": "Amelia Hernandez",
+    "nationality": "South African",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artist_id": "ART-00046",
+    "name": "Grace Campbell",
+    "nationality": "Danish",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artist_id": "ART-00047",
+    "name": "Nora Lopez",
+    "nationality": "Ethiopian",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artist_id": "ART-00048",
+    "name": "Sofia Martin",
+    "nationality": "Vietnamese",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artist_id": "ART-00049",
+    "name": "Aurora Gonzalez",
+    "nationality": "Swiss",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artist_id": "ART-00050",
+    "name": "Layla Roberts",
+    "nationality": "Indian",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artist_id": "ART-00051",
+    "name": "Aurora Lee",
+    "nationality": "Kenyan",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artist_id": "ART-00052",
+    "name": "Quinn White",
+    "nationality": "Scottish",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artist_id": "ART-00053",
+    "name": "Morgan Thomas",
+    "nationality": "Sri Lankan",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artist_id": "ART-00054",
+    "name": "Riley Campbell",
+    "nationality": "Kenyan",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artist_id": "ART-00055",
+    "name": "Nora Wright",
+    "nationality": "Chilean",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artist_id": "ART-00056",
+    "name": "Skyler Nelson",
+    "nationality": "Nigerian",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artist_id": "ART-00057",
+    "name": "Noah Taylor",
+    "nationality": "Indian",
+    "dealer_id": "DEALER-039"
+  },
+  {
+    "artist_id": "ART-00058",
+    "name": "Amelia Wilson",
+    "nationality": "Pakistani",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artist_id": "ART-00059",
+    "name": "Grace Hall",
+    "nationality": "Czech",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artist_id": "ART-00060",
+    "name": "James Sanchez",
+    "nationality": "Indonesian",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artist_id": "ART-00061",
+    "name": "Sophia Lewis",
+    "nationality": "Indian",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artist_id": "ART-00062",
+    "name": "Quinn Thomas",
+    "nationality": "Swedish",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artist_id": "ART-00063",
+    "name": "Olivia Johnson",
+    "nationality": "Chinese",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artist_id": "ART-00064",
+    "name": "Logan Nguyen",
+    "nationality": "Swedish",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artist_id": "ART-00065",
+    "name": "Casey Rivera",
+    "nationality": "Vietnamese",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artist_id": "ART-00066",
+    "name": "Logan Jones",
+    "nationality": "French",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artist_id": "ART-00067",
+    "name": "Casey Allen",
+    "nationality": "Norwegian",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artist_id": "ART-00068",
+    "name": "Abigail Young",
+    "nationality": "Hungarian",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artist_id": "ART-00069",
+    "name": "Skyler Campbell",
+    "nationality": "Sri Lankan",
+    "dealer_id": "DEALER-037"
+  },
+  {
+    "artist_id": "ART-00070",
+    "name": "Zoe Thomas",
+    "nationality": "Nigerian",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artist_id": "ART-00071",
+    "name": "Mason Miller",
+    "nationality": "Portuguese",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artist_id": "ART-00072",
+    "name": "Amelia Thompson",
+    "nationality": "Egyptian",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artist_id": "ART-00073",
+    "name": "Evelyn Campbell",
+    "nationality": "German",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artist_id": "ART-00074",
+    "name": "Emily Adams",
+    "nationality": "Portuguese",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artist_id": "ART-00075",
+    "name": "Mia Campbell",
+    "nationality": "Greek",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artist_id": "ART-00076",
+    "name": "Lucas Gonzalez",
+    "nationality": "Czech",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artist_id": "ART-00077",
+    "name": "Harper Rodriguez",
+    "nationality": "Egyptian",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artist_id": "ART-00078",
+    "name": "Elijah Robinson",
+    "nationality": "Norwegian",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artist_id": "ART-00079",
+    "name": "Harper Scott",
+    "nationality": "Portuguese",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artist_id": "ART-00080",
+    "name": "Emily Wright",
+    "nationality": "American",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artist_id": "ART-00081",
+    "name": "Nora Thomas",
+    "nationality": "Austrian",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artist_id": "ART-00082",
+    "name": "Aria Walker",
+    "nationality": "Hungarian",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artist_id": "ART-00083",
+    "name": "Morgan Hernandez",
+    "nationality": "Georgian",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artist_id": "ART-00084",
+    "name": "Isabella Taylor",
+    "nationality": "South African",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artist_id": "ART-00085",
+    "name": "Amelia Hall",
+    "nationality": "Mexican",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artist_id": "ART-00086",
+    "name": "Abigail Rivera",
+    "nationality": "Kenyan",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artist_id": "ART-00087",
+    "name": "Mason Jackson",
+    "nationality": "Hungarian",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artist_id": "ART-00088",
+    "name": "Hazel Mitchell",
+    "nationality": "Pakistani",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artist_id": "ART-00089",
+    "name": "Hannah Lee",
+    "nationality": "German",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artist_id": "ART-00090",
+    "name": "Hazel Walker",
+    "nationality": "Ethiopian",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artist_id": "ART-00091",
+    "name": "Noah Brown",
+    "nationality": "Ethiopian",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artist_id": "ART-00092",
+    "name": "Liam Jones",
+    "nationality": "Japanese",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artist_id": "ART-00093",
+    "name": "Elizabeth Thomas",
+    "nationality": "Armenian",
+    "dealer_id": "DEALER-008"
+  },
+  {
+    "artist_id": "ART-00094",
+    "name": "Penelope Thomas",
+    "nationality": "Chinese",
+    "dealer_id": "DEALER-039"
+  },
+  {
+    "artist_id": "ART-00095",
+    "name": "Taylor Flores",
+    "nationality": "Spanish",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artist_id": "ART-00096",
+    "name": "Abigail Nguyen",
+    "nationality": "Sri Lankan",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artist_id": "ART-00097",
+    "name": "Emma Taylor",
+    "nationality": "Hungarian",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artist_id": "ART-00098",
+    "name": "Lucas Taylor",
+    "nationality": "Armenian",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artist_id": "ART-00099",
+    "name": "Abigail Adams",
+    "nationality": "Scottish",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artist_id": "ART-00100",
+    "name": "Emma Carter",
+    "nationality": "Italian",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artist_id": "ART-00101",
+    "name": "Evelyn Flores",
+    "nationality": "Sri Lankan",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artist_id": "ART-00102",
+    "name": "Casey Wright",
+    "nationality": "Hungarian",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artist_id": "ART-00103",
+    "name": "Oliver Rodriguez",
+    "nationality": "Russian",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artist_id": "ART-00104",
+    "name": "Lucas White",
+    "nationality": "Irish",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artist_id": "ART-00105",
+    "name": "Harper Wright",
+    "nationality": "New Zealander",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artist_id": "ART-00106",
+    "name": "Violet Adams",
+    "nationality": "Indian",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artist_id": "ART-00107",
+    "name": "Abigail Scott",
+    "nationality": "Scottish",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artist_id": "ART-00108",
+    "name": "Avery Rodriguez",
+    "nationality": "Danish",
+    "dealer_id": "DEALER-008"
+  },
+  {
+    "artist_id": "ART-00109",
+    "name": "Avery Mitchell",
+    "nationality": "Bangladeshi",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artist_id": "ART-00110",
+    "name": "Elijah Jackson",
+    "nationality": "Japanese",
+    "dealer_id": "DEALER-014"
+  },
+  {
+    "artist_id": "ART-00111",
+    "name": "Chloe Perez",
+    "nationality": "Hungarian",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artist_id": "ART-00112",
+    "name": "Sofia Taylor",
+    "nationality": "Ethiopian",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artist_id": "ART-00113",
+    "name": "Oliver Brown",
+    "nationality": "Spanish",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artist_id": "ART-00114",
+    "name": "Amelia Moore",
+    "nationality": "French",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artist_id": "ART-00115",
+    "name": "Olivia Roberts",
+    "nationality": "Belgian",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artist_id": "ART-00116",
+    "name": "Oliver Hernandez",
+    "nationality": "Brazilian",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artist_id": "ART-00117",
+    "name": "Scarlett Rivera",
+    "nationality": "Egyptian",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artist_id": "ART-00118",
+    "name": "Alex Davis",
+    "nationality": "Italian",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artist_id": "ART-00119",
+    "name": "Rowan Wright",
+    "nationality": "French",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artist_id": "ART-00120",
+    "name": "Hazel Scott",
+    "nationality": "Swiss",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artist_id": "ART-00121",
+    "name": "Skyler Williams",
+    "nationality": "Scottish",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artist_id": "ART-00122",
+    "name": "Taylor Thompson",
+    "nationality": "Hungarian",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artist_id": "ART-00123",
+    "name": "Lucas Nelson",
+    "nationality": "Portuguese",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artist_id": "ART-00124",
+    "name": "Scarlett Clark",
+    "nationality": "Korean",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artist_id": "ART-00125",
+    "name": "Rowan Thomas",
+    "nationality": "Austrian",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artist_id": "ART-00126",
+    "name": "Charlotte Johnson",
+    "nationality": "Polish",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artist_id": "ART-00127",
+    "name": "Olivia Clark",
+    "nationality": "Indonesian",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artist_id": "ART-00128",
+    "name": "Lucas Moore",
+    "nationality": "Austrian",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artist_id": "ART-00129",
+    "name": "Avery Harris",
+    "nationality": "French",
+    "dealer_id": "DEALER-031"
+  },
+  {
+    "artist_id": "ART-00130",
+    "name": "Logan Gonzalez",
+    "nationality": "South African",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artist_id": "ART-00131",
+    "name": "James Anderson",
+    "nationality": "Swedish",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artist_id": "ART-00132",
+    "name": "Abigail Gonzalez",
+    "nationality": "Armenian",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artist_id": "ART-00133",
+    "name": "Elijah Thompson",
+    "nationality": "Thai",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artist_id": "ART-00134",
+    "name": "Mia Baker",
+    "nationality": "Pakistani",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artist_id": "ART-00135",
+    "name": "Jordan Davis",
+    "nationality": "Danish",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artist_id": "ART-00136",
+    "name": "Hazel Taylor",
+    "nationality": "French",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artist_id": "ART-00137",
+    "name": "Aurora Ramirez",
+    "nationality": "Russian",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artist_id": "ART-00138",
+    "name": "Emma Ramirez",
+    "nationality": "Japanese",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artist_id": "ART-00139",
+    "name": "Quinn Harris",
+    "nationality": "Sri Lankan",
+    "dealer_id": "DEALER-013"
+  },
+  {
+    "artist_id": "ART-00140",
+    "name": "Oliver Williams",
+    "nationality": "New Zealander",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artist_id": "ART-00141",
+    "name": "Alex King",
+    "nationality": "Pakistani",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artist_id": "ART-00142",
+    "name": "Grace Mitchell",
+    "nationality": "Brazilian",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artist_id": "ART-00143",
+    "name": "Mason White",
+    "nationality": "Egyptian",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artist_id": "ART-00144",
+    "name": "Abigail Perez",
+    "nationality": "Korean",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artist_id": "ART-00145",
+    "name": "Abigail Davis",
+    "nationality": "Mexican",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artist_id": "ART-00146",
+    "name": "Luna Martin",
+    "nationality": "Indonesian",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artist_id": "ART-00147",
+    "name": "Emma Sanchez",
+    "nationality": "Australian",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artist_id": "ART-00148",
+    "name": "Scarlett Rodriguez",
+    "nationality": "Czech",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artist_id": "ART-00149",
+    "name": "Abigail Harris",
+    "nationality": "Filipino",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artist_id": "ART-00150",
+    "name": "Liam Flores",
+    "nationality": "Sri Lankan",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artist_id": "ART-00151",
+    "name": "Mia Scott",
+    "nationality": "American",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artist_id": "ART-00152",
+    "name": "Aiden Wilson",
+    "nationality": "Egyptian",
+    "dealer_id": "DEALER-038"
+  },
+  {
+    "artist_id": "ART-00153",
+    "name": "Aurora Adams",
+    "nationality": "Turkish",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artist_id": "ART-00154",
+    "name": "Harper Lewis",
+    "nationality": "Filipino",
+    "dealer_id": "DEALER-014"
+  },
+  {
+    "artist_id": "ART-00155",
+    "name": "Luna Walker",
+    "nationality": "Brazilian",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artist_id": "ART-00156",
+    "name": "Abigail Garcia",
+    "nationality": "Irish",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artist_id": "ART-00157",
+    "name": "Abigail Green",
+    "nationality": "Korean",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artist_id": "ART-00158",
+    "name": "Riley Carter",
+    "nationality": "Norwegian",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artist_id": "ART-00159",
+    "name": "Mason Martinez",
+    "nationality": "British",
+    "dealer_id": "DEALER-003"
+  },
+  {
+    "artist_id": "ART-00160",
+    "name": "Lucas Walker",
+    "nationality": "Korean",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artist_id": "ART-00161",
+    "name": "Casey Robinson",
+    "nationality": "Israeli",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artist_id": "ART-00162",
+    "name": "Penelope Gonzalez",
+    "nationality": "New Zealander",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artist_id": "ART-00163",
+    "name": "Isabella Young",
+    "nationality": "Armenian",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artist_id": "ART-00164",
+    "name": "Rowan Adams",
+    "nationality": "Australian",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artist_id": "ART-00165",
+    "name": "Nora Roberts",
+    "nationality": "Portuguese",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artist_id": "ART-00166",
+    "name": "Amelia Anderson",
+    "nationality": "Polish",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artist_id": "ART-00167",
+    "name": "Mila Robinson",
+    "nationality": "German",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artist_id": "ART-00168",
+    "name": "Lucas Davis",
+    "nationality": "South African",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artist_id": "ART-00169",
+    "name": "Evelyn Nelson",
+    "nationality": "Indian",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artist_id": "ART-00170",
+    "name": "Nora Lewis",
+    "nationality": "Korean",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artist_id": "ART-00171",
+    "name": "Luna Ramirez",
+    "nationality": "Bangladeshi",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artist_id": "ART-00172",
+    "name": "Noah Mitchell",
+    "nationality": "Nigerian",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artist_id": "ART-00173",
+    "name": "Oliver Carter",
+    "nationality": "Norwegian",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artist_id": "ART-00174",
+    "name": "Elijah Roberts",
+    "nationality": "Chilean",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artist_id": "ART-00175",
+    "name": "Aria Green",
+    "nationality": "Norwegian",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artist_id": "ART-00176",
+    "name": "Harper Jones",
+    "nationality": "New Zealander",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artist_id": "ART-00177",
+    "name": "Olivia Lee",
+    "nationality": "Pakistani",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artist_id": "ART-00178",
+    "name": "Skyler Martinez",
+    "nationality": "Swedish",
+    "dealer_id": "DEALER-025"
+  },
+  {
+    "artist_id": "ART-00179",
+    "name": "Samantha Martinez",
+    "nationality": "New Zealander",
+    "dealer_id": "DEALER-014"
+  },
+  {
+    "artist_id": "ART-00180",
+    "name": "Casey Clark",
+    "nationality": "Israeli",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artist_id": "ART-00181",
+    "name": "Layla Robinson",
+    "nationality": "Israeli",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artist_id": "ART-00182",
+    "name": "Ethan Clark",
+    "nationality": "Georgian",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artist_id": "ART-00183",
+    "name": "Hazel Hall",
+    "nationality": "British",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artist_id": "ART-00184",
+    "name": "Penelope Harris",
+    "nationality": "Nigerian",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artist_id": "ART-00185",
+    "name": "Ava Martin",
+    "nationality": "Argentinian",
+    "dealer_id": "DEALER-025"
+  },
+  {
+    "artist_id": "ART-00186",
+    "name": "Charlotte Wright",
+    "nationality": "Brazilian",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artist_id": "ART-00187",
+    "name": "Layla Hill",
+    "nationality": "Swedish",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artist_id": "ART-00188",
+    "name": "Logan Moore",
+    "nationality": "Egyptian",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artist_id": "ART-00189",
+    "name": "Jordan Harris",
+    "nationality": "Greek",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artist_id": "ART-00190",
+    "name": "Elizabeth Sanchez",
+    "nationality": "Mexican",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artist_id": "ART-00191",
+    "name": "Evelyn Rodriguez",
+    "nationality": "Korean",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artist_id": "ART-00192",
+    "name": "Jordan Sanchez",
+    "nationality": "Chinese",
+    "dealer_id": "DEALER-037"
+  },
+  {
+    "artist_id": "ART-00193",
+    "name": "Abigail Johnson",
+    "nationality": "Spanish",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artist_id": "ART-00194",
+    "name": "Amelia Rodriguez",
+    "nationality": "South African",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artist_id": "ART-00195",
+    "name": "Morgan Taylor",
+    "nationality": "Georgian",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artist_id": "ART-00196",
+    "name": "Ethan Robinson",
+    "nationality": "Turkish",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artist_id": "ART-00197",
+    "name": "Nora Harris",
+    "nationality": "Finnish",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artist_id": "ART-00198",
+    "name": "Charlotte Taylor",
+    "nationality": "Spanish",
+    "dealer_id": "DEALER-031"
+  },
+  {
+    "artist_id": "ART-00199",
+    "name": "Jordan Mitchell",
+    "nationality": "Pakistani",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artist_id": "ART-00200",
+    "name": "Ava Anderson",
+    "nationality": "Thai",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artist_id": "ART-00201",
+    "name": "Emily Williams",
+    "nationality": "Argentinian",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artist_id": "ART-00202",
+    "name": "Jordan Flores",
+    "nationality": "Swiss",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artist_id": "ART-00203",
+    "name": "Skyler Walker",
+    "nationality": "Indonesian",
+    "dealer_id": "DEALER-008"
+  },
+  {
+    "artist_id": "ART-00204",
+    "name": "Penelope Wilson",
+    "nationality": "South African",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artist_id": "ART-00205",
+    "name": "Oliver Roberts",
+    "nationality": "Ukrainian",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artist_id": "ART-00206",
+    "name": "Aurora Hill",
+    "nationality": "Brazilian",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artist_id": "ART-00207",
+    "name": "Quinn Roberts",
+    "nationality": "Austrian",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artist_id": "ART-00208",
+    "name": "Avery Nguyen",
+    "nationality": "British",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artist_id": "ART-00209",
+    "name": "Penelope Baker",
+    "nationality": "Georgian",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artist_id": "ART-00210",
+    "name": "Chloe Gonzalez",
+    "nationality": "Italian",
+    "dealer_id": "DEALER-038"
+  },
+  {
+    "artist_id": "ART-00211",
+    "name": "Samantha Green",
+    "nationality": "Norwegian",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artist_id": "ART-00212",
+    "name": "Samantha Roberts",
+    "nationality": "Scottish",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artist_id": "ART-00213",
+    "name": "Aurora Davis",
+    "nationality": "Sri Lankan",
+    "dealer_id": "DEALER-003"
+  },
+  {
+    "artist_id": "ART-00214",
+    "name": "Ava Wright",
+    "nationality": "Egyptian",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artist_id": "ART-00215",
+    "name": "Sophia Jones",
+    "nationality": "Ethiopian",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artist_id": "ART-00216",
+    "name": "Olivia Smith",
+    "nationality": "Israeli",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artist_id": "ART-00217",
+    "name": "Avery Ramirez",
+    "nationality": "Ukrainian",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artist_id": "ART-00218",
+    "name": "Evelyn Rivera",
+    "nationality": "Swiss",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artist_id": "ART-00219",
+    "name": "Liam Campbell",
+    "nationality": "Indian",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artist_id": "ART-00220",
+    "name": "Elijah Flores",
+    "nationality": "Pakistani",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artist_id": "ART-00221",
+    "name": "Zoe Robinson",
+    "nationality": "Egyptian",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artist_id": "ART-00222",
+    "name": "Hazel Moore",
+    "nationality": "Turkish",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artist_id": "ART-00223",
+    "name": "Riley Moore",
+    "nationality": "Moroccan",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artist_id": "ART-00224",
+    "name": "Nora Robinson",
+    "nationality": "Sri Lankan",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artist_id": "ART-00225",
+    "name": "Aria Lee",
+    "nationality": "Polish",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artist_id": "ART-00226",
+    "name": "Ethan Thompson",
+    "nationality": "Danish",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artist_id": "ART-00227",
+    "name": "Elijah Hill",
+    "nationality": "Australian",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artist_id": "ART-00228",
+    "name": "Scarlett Smith",
+    "nationality": "Indian",
+    "dealer_id": "DEALER-013"
+  },
+  {
+    "artist_id": "ART-00229",
+    "name": "Riley Thomas",
+    "nationality": "Mexican",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artist_id": "ART-00230",
+    "name": "Aria Scott",
+    "nationality": "Argentinian",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artist_id": "ART-00231",
+    "name": "Samantha Walker",
+    "nationality": "Thai",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artist_id": "ART-00232",
+    "name": "Aria Lewis",
+    "nationality": "British",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artist_id": "ART-00233",
+    "name": "Aiden Anderson",
+    "nationality": "Armenian",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artist_id": "ART-00234",
+    "name": "Lucas Martin",
+    "nationality": "Indonesian",
+    "dealer_id": "DEALER-038"
+  },
+  {
+    "artist_id": "ART-00235",
+    "name": "Sophia Walker",
+    "nationality": "Bangladeshi",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artist_id": "ART-00236",
+    "name": "Ava Ramirez",
+    "nationality": "Brazilian",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artist_id": "ART-00237",
+    "name": "Olivia Thompson",
+    "nationality": "Australian",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artist_id": "ART-00238",
+    "name": "Elijah Martin",
+    "nationality": "Danish",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artist_id": "ART-00239",
+    "name": "Quinn Campbell",
+    "nationality": "Czech",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artist_id": "ART-00240",
+    "name": "Quinn Mitchell",
+    "nationality": "Pakistani",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artist_id": "ART-00241",
+    "name": "Samantha Lopez",
+    "nationality": "Czech",
+    "dealer_id": "DEALER-014"
+  },
+  {
+    "artist_id": "ART-00242",
+    "name": "Hannah Walker",
+    "nationality": "Finnish",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artist_id": "ART-00243",
+    "name": "Hazel Carter",
+    "nationality": "Indian",
+    "dealer_id": "DEALER-039"
+  },
+  {
+    "artist_id": "ART-00244",
+    "name": "Aiden Miller",
+    "nationality": "Czech",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artist_id": "ART-00245",
+    "name": "Logan White",
+    "nationality": "Polish",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artist_id": "ART-00246",
+    "name": "Alex Rivera",
+    "nationality": "Pakistani",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artist_id": "ART-00247",
+    "name": "Elijah Williams",
+    "nationality": "German",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artist_id": "ART-00248",
+    "name": "Aiden Hall",
+    "nationality": "Belgian",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artist_id": "ART-00249",
+    "name": "Nora Young",
+    "nationality": "Portuguese",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artist_id": "ART-00250",
+    "name": "Penelope Jackson",
+    "nationality": "Nigerian",
+    "dealer_id": "DEALER-031"
+  },
+  {
+    "artist_id": "ART-00251",
+    "name": "Harper Perez",
+    "nationality": "Polish",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artist_id": "ART-00252",
+    "name": "Oliver Walker",
+    "nationality": "Dutch",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artist_id": "ART-00253",
+    "name": "Mia Young",
+    "nationality": "Italian",
+    "dealer_id": "DEALER-037"
+  },
+  {
+    "artist_id": "ART-00254",
+    "name": "Sofia Baker",
+    "nationality": "German",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artist_id": "ART-00255",
+    "name": "Rowan Torres",
+    "nationality": "Scottish",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artist_id": "ART-00256",
+    "name": "Scarlett Carter",
+    "nationality": "Israeli",
+    "dealer_id": "DEALER-039"
+  },
+  {
+    "artist_id": "ART-00257",
+    "name": "Aurora Flores",
+    "nationality": "Swedish",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artist_id": "ART-00258",
+    "name": "Mila Harris",
+    "nationality": "Moroccan",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artist_id": "ART-00259",
+    "name": "James Nguyen",
+    "nationality": "Egyptian",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artist_id": "ART-00260",
+    "name": "Penelope Flores",
+    "nationality": "German",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artist_id": "ART-00261",
+    "name": "Nora Wilson",
+    "nationality": "Vietnamese",
+    "dealer_id": "DEALER-014"
+  },
+  {
+    "artist_id": "ART-00262",
+    "name": "Oliver Nelson",
+    "nationality": "Spanish",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artist_id": "ART-00263",
+    "name": "Lucas Lopez",
+    "nationality": "Bangladeshi",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artist_id": "ART-00264",
+    "name": "Noah Smith",
+    "nationality": "Israeli",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artist_id": "ART-00265",
+    "name": "Samantha Hill",
+    "nationality": "Nigerian",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artist_id": "ART-00266",
+    "name": "Taylor Anderson",
+    "nationality": "Irish",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artist_id": "ART-00267",
+    "name": "Evelyn Jones",
+    "nationality": "Filipino",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artist_id": "ART-00268",
+    "name": "Oliver Green",
+    "nationality": "Chinese",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artist_id": "ART-00269",
+    "name": "Mason Ramirez",
+    "nationality": "Dutch",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artist_id": "ART-00270",
+    "name": "Logan Adams",
+    "nationality": "Swiss",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artist_id": "ART-00271",
+    "name": "Rowan Jones",
+    "nationality": "German",
+    "dealer_id": "DEALER-011"
+  },
+  {
+    "artist_id": "ART-00272",
+    "name": "James Hill",
+    "nationality": "Brazilian",
+    "dealer_id": "DEALER-037"
+  },
+  {
+    "artist_id": "ART-00273",
+    "name": "Aiden Lewis",
+    "nationality": "Dutch",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artist_id": "ART-00274",
+    "name": "Samantha Martin",
+    "nationality": "Australian",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artist_id": "ART-00275",
+    "name": "Elijah Allen",
+    "nationality": "Pakistani",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artist_id": "ART-00276",
+    "name": "Harper Garcia",
+    "nationality": "Japanese",
+    "dealer_id": "DEALER-003"
+  },
+  {
+    "artist_id": "ART-00277",
+    "name": "Amelia Mitchell",
+    "nationality": "Turkish",
+    "dealer_id": "DEALER-039"
+  },
+  {
+    "artist_id": "ART-00278",
+    "name": "Oliver Johnson",
+    "nationality": "Spanish",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artist_id": "ART-00279",
+    "name": "Elizabeth Torres",
+    "nationality": "Chinese",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artist_id": "ART-00280",
+    "name": "Nora Baker",
+    "nationality": "Finnish",
+    "dealer_id": "DEALER-037"
+  },
+  {
+    "artist_id": "ART-00281",
+    "name": "Taylor Carter",
+    "nationality": "Argentinian",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artist_id": "ART-00282",
+    "name": "Zoe King",
+    "nationality": "Thai",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artist_id": "ART-00283",
+    "name": "Elijah Lopez",
+    "nationality": "Chinese",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artist_id": "ART-00284",
+    "name": "Sofia Young",
+    "nationality": "Spanish",
+    "dealer_id": "DEALER-031"
+  },
+  {
+    "artist_id": "ART-00285",
+    "name": "Ava Clark",
+    "nationality": "Greek",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artist_id": "ART-00286",
+    "name": "Abigail Miller",
+    "nationality": "Austrian",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artist_id": "ART-00287",
+    "name": "Charlotte Hall",
+    "nationality": "Kenyan",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artist_id": "ART-00288",
+    "name": "Abigail Sanchez",
+    "nationality": "Argentinian",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artist_id": "ART-00289",
+    "name": "Taylor Robinson",
+    "nationality": "Spanish",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artist_id": "ART-00290",
+    "name": "Oliver Lee",
+    "nationality": "Dutch",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artist_id": "ART-00291",
+    "name": "Mia Allen",
+    "nationality": "American",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artist_id": "ART-00292",
+    "name": "Charlotte Brown",
+    "nationality": "Czech",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artist_id": "ART-00293",
+    "name": "Sophia Flores",
+    "nationality": "Argentinian",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artist_id": "ART-00294",
+    "name": "Sofia Lewis",
+    "nationality": "Argentinian",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artist_id": "ART-00295",
+    "name": "Ethan Moore",
+    "nationality": "Bangladeshi",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artist_id": "ART-00296",
+    "name": "Samantha Young",
+    "nationality": "Dutch",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artist_id": "ART-00297",
+    "name": "Sofia Hill",
+    "nationality": "Norwegian",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artist_id": "ART-00298",
+    "name": "Noah Martin",
+    "nationality": "Bangladeshi",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artist_id": "ART-00299",
+    "name": "Riley Anderson",
+    "nationality": "Dutch",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artist_id": "ART-00300",
+    "name": "Quinn Adams",
+    "nationality": "Swiss",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artist_id": "ART-00301",
+    "name": "Chloe Jackson",
+    "nationality": "Ethiopian",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artist_id": "ART-00302",
+    "name": "Elijah Clark",
+    "nationality": "Nigerian",
+    "dealer_id": "DEALER-031"
+  },
+  {
+    "artist_id": "ART-00303",
+    "name": "Lucas Robinson",
+    "nationality": "Bangladeshi",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artist_id": "ART-00304",
+    "name": "Isabella Gonzalez",
+    "nationality": "Japanese",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artist_id": "ART-00305",
+    "name": "Hannah Rodriguez",
+    "nationality": "Italian",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artist_id": "ART-00306",
+    "name": "Charlotte Perez",
+    "nationality": "Ethiopian",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artist_id": "ART-00307",
+    "name": "Alex Jackson",
+    "nationality": "Mexican",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artist_id": "ART-00308",
+    "name": "Hazel Nguyen",
+    "nationality": "Indonesian",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artist_id": "ART-00309",
+    "name": "Rowan Lewis",
+    "nationality": "Pakistani",
+    "dealer_id": "DEALER-031"
+  },
+  {
+    "artist_id": "ART-00310",
+    "name": "Ava Perez",
+    "nationality": "Bangladeshi",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artist_id": "ART-00311",
+    "name": "Layla Harris",
+    "nationality": "South African",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artist_id": "ART-00312",
+    "name": "Mason Hall",
+    "nationality": "Norwegian",
+    "dealer_id": "DEALER-037"
+  },
+  {
+    "artist_id": "ART-00313",
+    "name": "Isabella Anderson",
+    "nationality": "Chilean",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artist_id": "ART-00314",
+    "name": "Taylor Lee",
+    "nationality": "Brazilian",
+    "dealer_id": "DEALER-031"
+  },
+  {
+    "artist_id": "ART-00315",
+    "name": "Chloe Harris",
+    "nationality": "Georgian",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artist_id": "ART-00316",
+    "name": "Emily Martinez",
+    "nationality": "Kenyan",
+    "dealer_id": "DEALER-003"
+  },
+  {
+    "artist_id": "ART-00317",
+    "name": "Skyler Allen",
+    "nationality": "Chinese",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artist_id": "ART-00318",
+    "name": "Avery Lewis",
+    "nationality": "Portuguese",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artist_id": "ART-00319",
+    "name": "Evelyn Smith",
+    "nationality": "Mexican",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artist_id": "ART-00320",
+    "name": "Charlotte Adams",
+    "nationality": "Swiss",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artist_id": "ART-00321",
+    "name": "Zoe Taylor",
+    "nationality": "Greek",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artist_id": "ART-00322",
+    "name": "Samantha Sanchez",
+    "nationality": "Thai",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artist_id": "ART-00323",
+    "name": "Olivia Baker",
+    "nationality": "Pakistani",
+    "dealer_id": "DEALER-025"
+  },
+  {
+    "artist_id": "ART-00324",
+    "name": "Emma Green",
+    "nationality": "New Zealander",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artist_id": "ART-00325",
+    "name": "Aria Wright",
+    "nationality": "French",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artist_id": "ART-00326",
+    "name": "Casey Thomas",
+    "nationality": "Vietnamese",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artist_id": "ART-00327",
+    "name": "Hannah Garcia",
+    "nationality": "Egyptian",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artist_id": "ART-00328",
+    "name": "Nora Green",
+    "nationality": "New Zealander",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artist_id": "ART-00329",
+    "name": "Harper Hernandez",
+    "nationality": "Australian",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artist_id": "ART-00330",
+    "name": "Jordan Williams",
+    "nationality": "Turkish",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artist_id": "ART-00331",
+    "name": "Aiden Thompson",
+    "nationality": "Ukrainian",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artist_id": "ART-00332",
+    "name": "Mila Clark",
+    "nationality": "Sri Lankan",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artist_id": "ART-00333",
+    "name": "Liam Hernandez",
+    "nationality": "Polish",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artist_id": "ART-00334",
+    "name": "Violet Harris",
+    "nationality": "Korean",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artist_id": "ART-00335",
+    "name": "Lucas Young",
+    "nationality": "Chinese",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artist_id": "ART-00336",
+    "name": "Logan Robinson",
+    "nationality": "Vietnamese",
+    "dealer_id": "DEALER-017"
+  },
+  {
+    "artist_id": "ART-00337",
+    "name": "Evelyn Taylor",
+    "nationality": "Indonesian",
+    "dealer_id": "DEALER-001"
+  },
+  {
+    "artist_id": "ART-00338",
+    "name": "Evelyn Jackson",
+    "nationality": "Filipino",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artist_id": "ART-00339",
+    "name": "Noah Jones",
+    "nationality": "Moroccan",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artist_id": "ART-00340",
+    "name": "Hazel Martin",
+    "nationality": "Vietnamese",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artist_id": "ART-00341",
+    "name": "Samantha Taylor",
+    "nationality": "South African",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artist_id": "ART-00342",
+    "name": "Mason Harris",
+    "nationality": "Nigerian",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artist_id": "ART-00343",
+    "name": "Lucas Harris",
+    "nationality": "Sri Lankan",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artist_id": "ART-00344",
+    "name": "Samantha Jackson",
+    "nationality": "British",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artist_id": "ART-00345",
+    "name": "Mia Moore",
+    "nationality": "American",
+    "dealer_id": "DEALER-037"
+  },
+  {
+    "artist_id": "ART-00346",
+    "name": "Elizabeth Roberts",
+    "nationality": "Brazilian",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artist_id": "ART-00347",
+    "name": "Aurora Mitchell",
+    "nationality": "Kenyan",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artist_id": "ART-00348",
+    "name": "Logan Hill",
+    "nationality": "Russian",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artist_id": "ART-00349",
+    "name": "Sofia Gonzalez",
+    "nationality": "Korean",
+    "dealer_id": "DEALER-017"
+  },
+  {
+    "artist_id": "ART-00350",
+    "name": "Elizabeth Carter",
+    "nationality": "Mexican",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artist_id": "ART-00351",
+    "name": "Abigail Baker",
+    "nationality": "Belgian",
+    "dealer_id": "DEALER-041"
+  },
+  {
+    "artist_id": "ART-00352",
+    "name": "Avery Green",
+    "nationality": "Thai",
+    "dealer_id": "DEALER-003"
+  },
+  {
+    "artist_id": "ART-00353",
+    "name": "James Lewis",
+    "nationality": "French",
+    "dealer_id": "DEALER-038"
+  },
+  {
+    "artist_id": "ART-00354",
+    "name": "Sophia Campbell",
+    "nationality": "Belgian",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artist_id": "ART-00355",
+    "name": "Aiden Lee",
+    "nationality": "Brazilian",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artist_id": "ART-00356",
+    "name": "Liam Gonzalez",
+    "nationality": "Belgian",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artist_id": "ART-00357",
+    "name": "Sophia King",
+    "nationality": "Ethiopian",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artist_id": "ART-00358",
+    "name": "Zoe Jackson",
+    "nationality": "Brazilian",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artist_id": "ART-00359",
+    "name": "Quinn Robinson",
+    "nationality": "Italian",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artist_id": "ART-00360",
+    "name": "Nora Anderson",
+    "nationality": "Filipino",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artist_id": "ART-00361",
+    "name": "Scarlett White",
+    "nationality": "Spanish",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artist_id": "ART-00362",
+    "name": "Alex Taylor",
+    "nationality": "Pakistani",
+    "dealer_id": "DEALER-008"
+  },
+  {
+    "artist_id": "ART-00363",
+    "name": "Evelyn White",
+    "nationality": "Filipino",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artist_id": "ART-00364",
+    "name": "Elizabeth Taylor",
+    "nationality": "Chinese",
+    "dealer_id": "DEALER-025"
+  },
+  {
+    "artist_id": "ART-00365",
+    "name": "Sofia White",
+    "nationality": "Portuguese",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artist_id": "ART-00366",
+    "name": "Logan Walker",
+    "nationality": "British",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artist_id": "ART-00367",
+    "name": "Scarlett Lee",
+    "nationality": "Korean",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artist_id": "ART-00368",
+    "name": "Emily Jones",
+    "nationality": "Vietnamese",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artist_id": "ART-00369",
+    "name": "Emily Clark",
+    "nationality": "Dutch",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artist_id": "ART-00370",
+    "name": "Taylor Williams",
+    "nationality": "Scottish",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artist_id": "ART-00371",
+    "name": "Quinn Miller",
+    "nationality": "Norwegian",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artist_id": "ART-00372",
+    "name": "Skyler Harris",
+    "nationality": "South African",
+    "dealer_id": "DEALER-024"
+  },
+  {
+    "artist_id": "ART-00373",
+    "name": "Abigail Mitchell",
+    "nationality": "Australian",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artist_id": "ART-00374",
+    "name": "Charlotte Nguyen",
+    "nationality": "Brazilian",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artist_id": "ART-00375",
+    "name": "Rowan Clark",
+    "nationality": "Thai",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artist_id": "ART-00376",
+    "name": "Aria Flores",
+    "nationality": "Israeli",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artist_id": "ART-00377",
+    "name": "Taylor Hall",
+    "nationality": "Ukrainian",
+    "dealer_id": "DEALER-014"
+  },
+  {
+    "artist_id": "ART-00378",
+    "name": "Avery Baker",
+    "nationality": "Ukrainian",
+    "dealer_id": "DEALER-035"
+  },
+  {
+    "artist_id": "ART-00379",
+    "name": "Emily Thompson",
+    "nationality": "German",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artist_id": "ART-00380",
+    "name": "Elijah Gonzalez",
+    "nationality": "Dutch",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artist_id": "ART-00381",
+    "name": "Riley Nelson",
+    "nationality": "Hungarian",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artist_id": "ART-00382",
+    "name": "Jordan Brown",
+    "nationality": "Greek",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artist_id": "ART-00383",
+    "name": "Skyler Torres",
+    "nationality": "Hungarian",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artist_id": "ART-00384",
+    "name": "Nora Scott",
+    "nationality": "Hungarian",
+    "dealer_id": "DEALER-038"
+  },
+  {
+    "artist_id": "ART-00385",
+    "name": "Ethan Anderson",
+    "nationality": "Greek",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artist_id": "ART-00386",
+    "name": "Rowan Hill",
+    "nationality": "American",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artist_id": "ART-00387",
+    "name": "Rowan Rodriguez",
+    "nationality": "Pakistani",
+    "dealer_id": "DEALER-017"
+  },
+  {
+    "artist_id": "ART-00388",
+    "name": "Liam Davis",
+    "nationality": "Indonesian",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artist_id": "ART-00389",
+    "name": "Skyler Smith",
+    "nationality": "Russian",
+    "dealer_id": "DEALER-016"
+  },
+  {
+    "artist_id": "ART-00390",
+    "name": "Hazel Lee",
+    "nationality": "British",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artist_id": "ART-00391",
+    "name": "Skyler Mitchell",
+    "nationality": "Israeli",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artist_id": "ART-00392",
+    "name": "Casey Walker",
+    "nationality": "Moroccan",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artist_id": "ART-00393",
+    "name": "Sophia Allen",
+    "nationality": "Chinese",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artist_id": "ART-00394",
+    "name": "Harper Allen",
+    "nationality": "Swedish",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artist_id": "ART-00395",
+    "name": "Taylor Campbell",
+    "nationality": "Indonesian",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artist_id": "ART-00396",
+    "name": "James Robinson",
+    "nationality": "Thai",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artist_id": "ART-00397",
+    "name": "Morgan Walker",
+    "nationality": "Armenian",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artist_id": "ART-00398",
+    "name": "Elizabeth Miller",
+    "nationality": "Kenyan",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artist_id": "ART-00399",
+    "name": "Riley Lee",
+    "nationality": "Japanese",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artist_id": "ART-00400",
+    "name": "Casey Rodriguez",
+    "nationality": "Finnish",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artist_id": "ART-00401",
+    "name": "Sofia Nguyen",
+    "nationality": "Bangladeshi",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artist_id": "ART-00402",
+    "name": "Emma Harris",
+    "nationality": "Japanese",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artist_id": "ART-00403",
+    "name": "Aiden Robinson",
+    "nationality": "Ethiopian",
+    "dealer_id": "DEALER-039"
+  },
+  {
+    "artist_id": "ART-00404",
+    "name": "Amelia Miller",
+    "nationality": "Australian",
+    "dealer_id": "DEALER-008"
+  },
+  {
+    "artist_id": "ART-00405",
+    "name": "Scarlett Campbell",
+    "nationality": "Hungarian",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artist_id": "ART-00406",
+    "name": "Harper Anderson",
+    "nationality": "Israeli",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artist_id": "ART-00407",
+    "name": "Evelyn Sanchez",
+    "nationality": "Israeli",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artist_id": "ART-00408",
+    "name": "Avery Lee",
+    "nationality": "Egyptian",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artist_id": "ART-00409",
+    "name": "Abigail Taylor",
+    "nationality": "Ukrainian",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artist_id": "ART-00410",
+    "name": "Elizabeth Walker",
+    "nationality": "Italian",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artist_id": "ART-00411",
+    "name": "Riley Garcia",
+    "nationality": "Egyptian",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artist_id": "ART-00412",
+    "name": "Hannah Mitchell",
+    "nationality": "Ukrainian",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artist_id": "ART-00413",
+    "name": "Scarlett Brown",
+    "nationality": "Chinese",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artist_id": "ART-00414",
+    "name": "Scarlett Perez",
+    "nationality": "Indonesian",
+    "dealer_id": "DEALER-008"
+  },
+  {
+    "artist_id": "ART-00415",
+    "name": "Charlotte Thompson",
+    "nationality": "Indonesian",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artist_id": "ART-00416",
+    "name": "Amelia Campbell",
+    "nationality": "German",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artist_id": "ART-00417",
+    "name": "Aurora Martin",
+    "nationality": "Russian",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artist_id": "ART-00418",
+    "name": "Penelope Allen",
+    "nationality": "Hungarian",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artist_id": "ART-00419",
+    "name": "Abigail Walker",
+    "nationality": "Swedish",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artist_id": "ART-00420",
+    "name": "Ava Scott",
+    "nationality": "Ukrainian",
+    "dealer_id": "DEALER-008"
+  },
+  {
+    "artist_id": "ART-00421",
+    "name": "Nora Moore",
+    "nationality": "Sri Lankan",
+    "dealer_id": "DEALER-015"
+  },
+  {
+    "artist_id": "ART-00422",
+    "name": "Amelia Scott",
+    "nationality": "Chilean",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artist_id": "ART-00423",
+    "name": "Violet Baker",
+    "nationality": "Thai",
+    "dealer_id": "DEALER-036"
+  },
+  {
+    "artist_id": "ART-00424",
+    "name": "Jordan Hill",
+    "nationality": "Indonesian",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artist_id": "ART-00425",
+    "name": "Elijah Johnson",
+    "nationality": "Polish",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artist_id": "ART-00426",
+    "name": "Samantha Carter",
+    "nationality": "Scottish",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artist_id": "ART-00427",
+    "name": "Ava Smith",
+    "nationality": "Polish",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artist_id": "ART-00428",
+    "name": "Penelope Nelson",
+    "nationality": "Armenian",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artist_id": "ART-00429",
+    "name": "Rowan Mitchell",
+    "nationality": "Vietnamese",
+    "dealer_id": "DEALER-002"
+  },
+  {
+    "artist_id": "ART-00430",
+    "name": "Riley Mitchell",
+    "nationality": "Indian",
+    "dealer_id": "DEALER-014"
+  },
+  {
+    "artist_id": "ART-00431",
+    "name": "Isabella Clark",
+    "nationality": "South African",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artist_id": "ART-00432",
+    "name": "Noah White",
+    "nationality": "Scottish",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artist_id": "ART-00433",
+    "name": "Penelope Hill",
+    "nationality": "Spanish",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artist_id": "ART-00434",
+    "name": "Rowan Hernandez",
+    "nationality": "Argentinian",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artist_id": "ART-00435",
+    "name": "Morgan Baker",
+    "nationality": "Spanish",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artist_id": "ART-00436",
+    "name": "Harper Nelson",
+    "nationality": "Egyptian",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artist_id": "ART-00437",
+    "name": "Aurora Lewis",
+    "nationality": "Israeli",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artist_id": "ART-00438",
+    "name": "Ethan Carter",
+    "nationality": "Ethiopian",
+    "dealer_id": "DEALER-008"
+  },
+  {
+    "artist_id": "ART-00439",
+    "name": "Quinn Jackson",
+    "nationality": "Filipino",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artist_id": "ART-00440",
+    "name": "Hazel Young",
+    "nationality": "Indian",
+    "dealer_id": "DEALER-043"
+  },
+  {
+    "artist_id": "ART-00441",
+    "name": "James Williams",
+    "nationality": "Swedish",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artist_id": "ART-00442",
+    "name": "Aurora Brown",
+    "nationality": "American",
+    "dealer_id": "DEALER-014"
+  },
+  {
+    "artist_id": "ART-00443",
+    "name": "James Wilson",
+    "nationality": "Chilean",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artist_id": "ART-00444",
+    "name": "Nora Taylor",
+    "nationality": "Irish",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artist_id": "ART-00445",
+    "name": "Quinn Smith",
+    "nationality": "Kenyan",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artist_id": "ART-00446",
+    "name": "Amelia Lopez",
+    "nationality": "Belgian",
+    "dealer_id": "DEALER-025"
+  },
+  {
+    "artist_id": "ART-00447",
+    "name": "Layla Rivera",
+    "nationality": "Swedish",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artist_id": "ART-00448",
+    "name": "Scarlett Nelson",
+    "nationality": "Russian",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artist_id": "ART-00449",
+    "name": "Mia Mitchell",
+    "nationality": "French",
+    "dealer_id": "DEALER-028"
+  },
+  {
+    "artist_id": "ART-00450",
+    "name": "Jordan Robinson",
+    "nationality": "Italian",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artist_id": "ART-00451",
+    "name": "Penelope Ramirez",
+    "nationality": "Sri Lankan",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artist_id": "ART-00452",
+    "name": "Chloe Green",
+    "nationality": "Israeli",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artist_id": "ART-00453",
+    "name": "Quinn Sanchez",
+    "nationality": "British",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artist_id": "ART-00454",
+    "name": "Noah Flores",
+    "nationality": "South African",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artist_id": "ART-00455",
+    "name": "Sophia Garcia",
+    "nationality": "Egyptian",
+    "dealer_id": "DEALER-007"
+  },
+  {
+    "artist_id": "ART-00456",
+    "name": "Lucas Ramirez",
+    "nationality": "Chinese",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artist_id": "ART-00457",
+    "name": "Mila Garcia",
+    "nationality": "Armenian",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artist_id": "ART-00458",
+    "name": "Hannah Perez",
+    "nationality": "Swedish",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artist_id": "ART-00459",
+    "name": "Luna Green",
+    "nationality": "Dutch",
+    "dealer_id": "DEALER-034"
+  },
+  {
+    "artist_id": "ART-00460",
+    "name": "Luna Gonzalez",
+    "nationality": "Chilean",
+    "dealer_id": "DEALER-023"
+  },
+  {
+    "artist_id": "ART-00461",
+    "name": "Ava Campbell",
+    "nationality": "Thai",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artist_id": "ART-00462",
+    "name": "Lucas Miller",
+    "nationality": "Swiss",
+    "dealer_id": "DEALER-017"
+  },
+  {
+    "artist_id": "ART-00463",
+    "name": "Mason Lopez",
+    "nationality": "Japanese",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artist_id": "ART-00464",
+    "name": "Nora Carter",
+    "nationality": "Thai",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artist_id": "ART-00465",
+    "name": "Liam Roberts",
+    "nationality": "Vietnamese",
+    "dealer_id": "DEALER-032"
+  },
+  {
+    "artist_id": "ART-00466",
+    "name": "Evelyn Carter",
+    "nationality": "Sri Lankan",
+    "dealer_id": "DEALER-049"
+  },
+  {
+    "artist_id": "ART-00467",
+    "name": "Hazel Lewis",
+    "nationality": "Filipino",
+    "dealer_id": "DEALER-037"
+  },
+  {
+    "artist_id": "ART-00468",
+    "name": "Emily Green",
+    "nationality": "Korean",
+    "dealer_id": "DEALER-021"
+  },
+  {
+    "artist_id": "ART-00469",
+    "name": "Sofia Lee",
+    "nationality": "Swiss",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artist_id": "ART-00470",
+    "name": "Harper Green",
+    "nationality": "Scottish",
+    "dealer_id": "DEALER-018"
+  },
+  {
+    "artist_id": "ART-00471",
+    "name": "Hazel Brown",
+    "nationality": "Russian",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artist_id": "ART-00472",
+    "name": "Casey Martin",
+    "nationality": "South African",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artist_id": "ART-00473",
+    "name": "Taylor Brown",
+    "nationality": "Ukrainian",
+    "dealer_id": "DEALER-019"
+  },
+  {
+    "artist_id": "ART-00474",
+    "name": "Casey Adams",
+    "nationality": "Spanish",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artist_id": "ART-00475",
+    "name": "Aurora Allen",
+    "nationality": "Georgian",
+    "dealer_id": "DEALER-030"
+  },
+  {
+    "artist_id": "ART-00476",
+    "name": "Hannah Williams",
+    "nationality": "Moroccan",
+    "dealer_id": "DEALER-037"
+  },
+  {
+    "artist_id": "ART-00477",
+    "name": "Emily Gonzalez",
+    "nationality": "Turkish",
+    "dealer_id": "DEALER-039"
+  },
+  {
+    "artist_id": "ART-00478",
+    "name": "Zoe Allen",
+    "nationality": "Swiss",
+    "dealer_id": "DEALER-004"
+  },
+  {
+    "artist_id": "ART-00479",
+    "name": "Harper Miller",
+    "nationality": "Greek",
+    "dealer_id": "DEALER-046"
+  },
+  {
+    "artist_id": "ART-00480",
+    "name": "Riley Allen",
+    "nationality": "Thai",
+    "dealer_id": "DEALER-012"
+  },
+  {
+    "artist_id": "ART-00481",
+    "name": "Taylor Thomas",
+    "nationality": "New Zealander",
+    "dealer_id": "DEALER-029"
+  },
+  {
+    "artist_id": "ART-00482",
+    "name": "Harper King",
+    "nationality": "Indian",
+    "dealer_id": "DEALER-040"
+  },
+  {
+    "artist_id": "ART-00483",
+    "name": "Sophia Jackson",
+    "nationality": "Georgian",
+    "dealer_id": "DEALER-027"
+  },
+  {
+    "artist_id": "ART-00484",
+    "name": "Sofia Adams",
+    "nationality": "Greek",
+    "dealer_id": "DEALER-005"
+  },
+  {
+    "artist_id": "ART-00485",
+    "name": "Olivia Miller",
+    "nationality": "Bangladeshi",
+    "dealer_id": "DEALER-044"
+  },
+  {
+    "artist_id": "ART-00486",
+    "name": "Isabella Jackson",
+    "nationality": "Danish",
+    "dealer_id": "DEALER-047"
+  },
+  {
+    "artist_id": "ART-00487",
+    "name": "Abigail Hill",
+    "nationality": "Swiss",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artist_id": "ART-00488",
+    "name": "Riley Nguyen",
+    "nationality": "Indonesian",
+    "dealer_id": "DEALER-010"
+  },
+  {
+    "artist_id": "ART-00489",
+    "name": "Emily Hall",
+    "nationality": "Indonesian",
+    "dealer_id": "DEALER-026"
+  },
+  {
+    "artist_id": "ART-00490",
+    "name": "Skyler Hill",
+    "nationality": "New Zealander",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artist_id": "ART-00491",
+    "name": "James Scott",
+    "nationality": "Georgian",
+    "dealer_id": "DEALER-042"
+  },
+  {
+    "artist_id": "ART-00492",
+    "name": "Olivia Rodriguez",
+    "nationality": "Indonesian",
+    "dealer_id": "DEALER-045"
+  },
+  {
+    "artist_id": "ART-00493",
+    "name": "Hannah Baker",
+    "nationality": "Indian",
+    "dealer_id": "DEALER-006"
+  },
+  {
+    "artist_id": "ART-00494",
+    "name": "Emily Nelson",
+    "nationality": "Egyptian",
+    "dealer_id": "DEALER-033"
+  },
+  {
+    "artist_id": "ART-00495",
+    "name": "Sophia Johnson",
+    "nationality": "Ukrainian",
+    "dealer_id": "DEALER-020"
+  },
+  {
+    "artist_id": "ART-00496",
+    "name": "Liam Wilson",
+    "nationality": "Greek",
+    "dealer_id": "DEALER-050"
+  },
+  {
+    "artist_id": "ART-00497",
+    "name": "Aria Gonzalez",
+    "nationality": "Swedish",
+    "dealer_id": "DEALER-009"
+  },
+  {
+    "artist_id": "ART-00498",
+    "name": "Luna Roberts",
+    "nationality": "Pakistani",
+    "dealer_id": "DEALER-048"
+  },
+  {
+    "artist_id": "ART-00499",
+    "name": "Mila Williams",
+    "nationality": "Indonesian",
+    "dealer_id": "DEALER-022"
+  },
+  {
+    "artist_id": "ART-00500",
+    "name": "Violet Rodriguez",
+    "nationality": "Japanese",
+    "dealer_id": "DEALER-025"
+  }
+]

@@ -1,0 +1,4202 @@
+[
+  {
+    "artist_id": "ddcb7b8d-d974-41af-a592-37d9d88e5c23",
+    "reputation_score": 61.0,
+    "drivers_json": {
+      "name": "Emma Brown",
+      "nationality": "Ukrainian",
+      "avg_insurance_value": 189981,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 47,
+      "avg_provenance_score": 37,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "4de49807-5577-4558-ba5e-b7f8d7006e69",
+    "reputation_score": 68.0,
+    "drivers_json": {
+      "name": "Liam Hernandez",
+      "nationality": "Chilean",
+      "avg_insurance_value": 394805,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 78,
+      "avg_provenance_score": 26,
+      "num_artworks": 4
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "fabc8848-c540-4749-a558-763b1cea5cba",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Olivia Moore-Ramirez",
+      "nationality": "Sri Lankan",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "1b47926d-a9de-4c93-bf4d-3796fc3cad0c",
+    "reputation_score": 50.0,
+    "drivers_json": {
+      "name": "Noah Harris",
+      "nationality": "Israeli",
+      "avg_insurance_value": 392946,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 75,
+      "avg_provenance_score": 7,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "f6ec810e-213c-46a6-97f0-f2935e2f5be9",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Ava Young-Roberts",
+      "nationality": "Belgian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "c5a197d9-771e-4c00-b6eb-a6b0658ece06",
+    "reputation_score": 67.0,
+    "drivers_json": {
+      "name": "Elijah Hill",
+      "nationality": "Portuguese",
+      "avg_insurance_value": 804038,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 27,
+      "avg_provenance_score": 50,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "fbcd6bbc-46ba-4c64-8988-422c24ff501b",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Sophia Rivera",
+      "nationality": "South African",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "4bb6a006-6987-4175-a9e4-6fe4bacf7ee3",
+    "reputation_score": 62.0,
+    "drivers_json": {
+      "name": "Lucas Williams",
+      "nationality": "Thai",
+      "avg_insurance_value": 232556,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 60,
+      "avg_provenance_score": 41,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "54367a10-65ef-4e41-a8d3-112375fead2e",
+    "reputation_score": 56.0,
+    "drivers_json": {
+      "name": "Isabella Martinez",
+      "nationality": "British",
+      "avg_insurance_value": 833586,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 95,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "45e7d57a-917a-44b4-a391-8694b3821bd9",
+    "reputation_score": 57.0,
+    "drivers_json": {
+      "name": "Mason Taylor-Jones",
+      "nationality": "Norwegian",
+      "avg_insurance_value": 297485,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 81,
+      "avg_provenance_score": 0,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "df193ee5-1630-4ef6-a60d-a9f99a530fba",
+    "reputation_score": 54.0,
+    "drivers_json": {
+      "name": "Mia White",
+      "nationality": "Mexican",
+      "avg_insurance_value": 97387,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 52,
+      "avg_provenance_score": 40,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "b8af46d3-0f2a-47db-baae-e57aebf029c1",
+    "reputation_score": 59.0,
+    "drivers_json": {
+      "name": "Ethan Walker",
+      "nationality": "Indian",
+      "avg_insurance_value": 554467,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 74,
+      "avg_provenance_score": 0,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "144fddf6-5030-402f-a17a-66ce99df3ddf",
+    "reputation_score": 44.0,
+    "drivers_json": {
+      "name": "Charlotte Nguyen",
+      "nationality": "Iraqi",
+      "avg_insurance_value": 30490,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 15,
+      "avg_provenance_score": 35,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "81ce8e74-7a78-4ace-bab5-a795d96508c1",
+    "reputation_score": 62.0,
+    "drivers_json": {
+      "name": "Logan Hall-Carter",
+      "nationality": "Dutch",
+      "avg_insurance_value": 600411,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 130,
+      "avg_provenance_score": 58,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "2ee43eca-e664-41ca-946e-c465b49ef824",
+    "reputation_score": 79.0,
+    "drivers_json": {
+      "name": "Amelia Johnson",
+      "nationality": "Romanian",
+      "avg_insurance_value": 498362,
+      "signed_ratio": 0.6666666666666666,
+      "avg_artwork_age": 57,
+      "avg_provenance_score": 75,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "7d368f2e-9d15-4ae5-ae90-e66c094b2faa",
+    "reputation_score": 57.0,
+    "drivers_json": {
+      "name": "James Rodriguez-Lee",
+      "nationality": "Peruvian",
+      "avg_insurance_value": 216904,
+      "signed_ratio": 0.6666666666666666,
+      "avg_artwork_age": 101,
+      "avg_provenance_score": 0,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "ecf68a78-2742-4a7c-aa6b-20362f0f6588",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Harper Thomas",
+      "nationality": "Japanese",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "cc7ee3c5-533d-4321-8eb4-495a836df0fb",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Benjamin Thompson",
+      "nationality": "Jordanian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "83e01d8e-b503-4826-9b04-e66ff153a007",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Evelyn Robinson",
+      "nationality": "Czech",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "54790199-a59c-40b0-b48e-90894c48874d",
+    "reputation_score": 68.0,
+    "drivers_json": {
+      "name": "Henry Torres",
+      "nationality": "Scottish",
+      "avg_insurance_value": 89966,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 108,
+      "avg_provenance_score": 49,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "985353d0-f08c-4a10-91f1-e86b8e1ce506",
+    "reputation_score": 71.0,
+    "drivers_json": {
+      "name": "Alexander Baker",
+      "nationality": "Kenyan",
+      "avg_insurance_value": 787074,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 67,
+      "avg_provenance_score": 42,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "1f1bf847-6ced-47af-9370-d302e95ed195",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Abigail Smith",
+      "nationality": "Australian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "d7bb6db9-aa1c-4ae0-8a1c-8c544dad96e4",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Sebastian Davis",
+      "nationality": "Italian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "3fc7eb7b-ec1e-4cf1-a37b-73848afa82c4",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Emily Anderson-Rodriguez",
+      "nationality": "Russian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "0f585f20-4914-4760-bb00-5fde9726b355",
+    "reputation_score": 68.0,
+    "drivers_json": {
+      "name": "Jack Perez",
+      "nationality": "Argentine",
+      "avg_insurance_value": 386925,
+      "signed_ratio": 0.6666666666666666,
+      "avg_artwork_age": 144,
+      "avg_provenance_score": 26,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "f9306646-ebb7-4e99-bce5-231807c5c667",
+    "reputation_score": 67.0,
+    "drivers_json": {
+      "name": "Avery Lewis-Walker",
+      "nationality": "Bangladeshi",
+      "avg_insurance_value": 238951,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 78,
+      "avg_provenance_score": 57,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "83e71790-f58f-4eb7-8599-2fa269a9e19a",
+    "reputation_score": 60.0,
+    "drivers_json": {
+      "name": "Daniel Scott",
+      "nationality": "Emirati",
+      "avg_insurance_value": 159379,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 116,
+      "avg_provenance_score": 30,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "261347c1-1965-47ac-b405-89fa0eba7339",
+    "reputation_score": 66.0,
+    "drivers_json": {
+      "name": "Sofia Nelson-Williams",
+      "nationality": "Austrian",
+      "avg_insurance_value": 251070,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 170,
+      "avg_provenance_score": 41,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "4f38c1de-2f04-47bf-b1e8-89bd7de2b299",
+    "reputation_score": 70.0,
+    "drivers_json": {
+      "name": "Michael Roberts",
+      "nationality": "Greek",
+      "avg_insurance_value": 264774,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 104,
+      "avg_provenance_score": 62,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "4d276729-37d6-425c-b5a2-ddd4dce34a5b",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Ella Miller",
+      "nationality": "Egyptian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "65a421fd-d744-415c-a919-001ba552b4bb",
+    "reputation_score": 54.0,
+    "drivers_json": {
+      "name": "Samuel Wilson",
+      "nationality": "Vietnamese",
+      "avg_insurance_value": 251689,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 121,
+      "avg_provenance_score": 37,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "b8d1be72-0b92-4970-946e-d3e5e8b87f66",
+    "reputation_score": 72.0,
+    "drivers_json": {
+      "name": "Scarlett Lee-Campbell",
+      "nationality": "American",
+      "avg_insurance_value": 597620,
+      "signed_ratio": 0.6666666666666666,
+      "avg_artwork_age": 134,
+      "avg_provenance_score": 41,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "887ba837-9379-4183-a767-8b6c6aaee76e",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Jacob Ramirez",
+      "nationality": "Finnish",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "ebb101a3-8381-42fd-aaca-809283d8d035",
+    "reputation_score": 71.0,
+    "drivers_json": {
+      "name": "Grace Wright",
+      "nationality": "Canadian",
+      "avg_insurance_value": 567336,
+      "signed_ratio": 0.3333333333333333,
+      "avg_artwork_age": 153,
+      "avg_provenance_score": 45,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "bab55397-4fc6-4c00-8371-0aef83ccc827",
+    "reputation_score": 46.0,
+    "drivers_json": {
+      "name": "David Adams",
+      "nationality": "Ghanaian",
+      "avg_insurance_value": 927532,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 41,
+      "avg_provenance_score": 2,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "5478d3e7-18c6-4615-835d-782af87e65ba",
+    "reputation_score": 58.0,
+    "drivers_json": {
+      "name": "Chloe Carter-Green",
+      "nationality": "Iranian",
+      "avg_insurance_value": 899040,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 11,
+      "avg_provenance_score": 15,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "a14b7eb3-201e-423f-ba50-52074f8bb20d",
+    "reputation_score": 68.0,
+    "drivers_json": {
+      "name": "Carter Garcia",
+      "nationality": "German",
+      "avg_insurance_value": 243011,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 55,
+      "avg_provenance_score": 34,
+      "num_artworks": 4
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "ced6937f-c931-4da1-8ad9-dfe763d856cf",
+    "reputation_score": 50.0,
+    "drivers_json": {
+      "name": "Victoria Gonzalez-Gonzalez",
+      "nationality": "Hungarian",
+      "avg_insurance_value": 371946,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 30,
+      "avg_provenance_score": 27,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "196ad2a9-9220-4af5-9075-b5aa4c77feb3",
+    "reputation_score": 57.0,
+    "drivers_json": {
+      "name": "Wyatt Martin-White",
+      "nationality": "Colombian",
+      "avg_insurance_value": 523043,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 8,
+      "avg_provenance_score": 0,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "36be13a7-9887-451a-80c5-e3a7103acd4c",
+    "reputation_score": 61.0,
+    "drivers_json": {
+      "name": "Riley Clark-Wright",
+      "nationality": "Chinese",
+      "avg_insurance_value": 392382,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 102,
+      "avg_provenance_score": 26,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "71837327-7850-4f14-ab04-1c869c3a5b96",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Joseph King",
+      "nationality": "Lebanese",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "48232ccf-97a3-4600-9196-bb6ec956b8d5",
+    "reputation_score": 60.0,
+    "drivers_json": {
+      "name": "Nora Green",
+      "nationality": "Polish",
+      "avg_insurance_value": 695991,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 104,
+      "avg_provenance_score": 15,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "8b60e648-1348-430c-97df-547304f46700",
+    "reputation_score": 67.0,
+    "drivers_json": {
+      "name": "Owen Mitchell",
+      "nationality": "Irish",
+      "avg_insurance_value": 127832,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 164,
+      "avg_provenance_score": 52,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "15af5863-b24c-42d4-9233-13d41587edca",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Lily Jones-Lewis",
+      "nationality": "Nigerian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "b0649cd3-0666-46f6-b1e8-d41bc3fc970f",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "John Lopez-Flores",
+      "nationality": "Indonesian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "2cc80b2d-bd8e-41ab-b892-30c64ad9f107",
+    "reputation_score": 53.0,
+    "drivers_json": {
+      "name": "Hannah Jackson",
+      "nationality": "French",
+      "avg_insurance_value": 304771,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 75,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "6d035cce-adcb-4ee2-8cbd-66b3adc1fd53",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Luke Sanchez-Lopez",
+      "nationality": "Swedish",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "9f46a75f-dbe4-4926-85fd-2f9b9466489c",
+    "reputation_score": 66.0,
+    "drivers_json": {
+      "name": "Zoey Allen",
+      "nationality": "Brazilian",
+      "avg_insurance_value": 728815,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 91,
+      "avg_provenance_score": 36,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "34d42ce0-8bfe-4945-b83c-a4cbfdc02137",
+    "reputation_score": 51.0,
+    "drivers_json": {
+      "name": "Gabriel Flores",
+      "nationality": "Pakistani",
+      "avg_insurance_value": 254801,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 24,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "efe68b71-084f-4d5f-93de-315006eb4159",
+    "reputation_score": 54.0,
+    "drivers_json": {
+      "name": "Penelope Campbell",
+      "nationality": "Saudi",
+      "avg_insurance_value": 913851,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 16,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "e5ad01e2-c389-4343-b4d5-7bca55682a9b",
+    "reputation_score": 48.0,
+    "drivers_json": {
+      "name": "Emma Brown-Garcia",
+      "nationality": "Swiss",
+      "avg_insurance_value": 944634,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 134,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "ba676e1e-395b-40aa-a41f-2029e6178d1d",
+    "reputation_score": 56.0,
+    "drivers_json": {
+      "name": "Liam Hernandez",
+      "nationality": "Turkish",
+      "avg_insurance_value": 533445,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 63,
+      "avg_provenance_score": 30,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "1b1f95a3-57f9-4653-9a94-731f3b1289e8",
+    "reputation_score": 54.0,
+    "drivers_json": {
+      "name": "Olivia Moore",
+      "nationality": "Moroccan",
+      "avg_insurance_value": 621150,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 51,
+      "avg_provenance_score": 20,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "32f854bd-8630-498f-8747-dbaa28aaa74d",
+    "reputation_score": 64.0,
+    "drivers_json": {
+      "name": "Noah Harris",
+      "nationality": "Korean",
+      "avg_insurance_value": 428127,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 148,
+      "avg_provenance_score": 32,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "bdf6aed7-9b66-4037-b413-15f7530c1bf2",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Ava Young",
+      "nationality": "Qatari",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "84139df3-cf1c-490d-b769-63bf843563c2",
+    "reputation_score": 69.0,
+    "drivers_json": {
+      "name": "Elijah Hill",
+      "nationality": "Danish",
+      "avg_insurance_value": 92234,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 59,
+      "avg_provenance_score": 60,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "63e85def-39ae-4ad6-be7e-4812fa2e54cc",
+    "reputation_score": 67.0,
+    "drivers_json": {
+      "name": "Sophia Rivera-Perez",
+      "nationality": "Welsh",
+      "avg_insurance_value": 504770,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 36,
+      "avg_provenance_score": 54,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "165b333c-ecb6-4ee4-9478-c79701d89093",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Lucas Williams",
+      "nationality": "Ethiopian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "58ab2301-3ced-4c4d-9f78-7948a8f30e53",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Isabella Martinez",
+      "nationality": "New Zealander",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "04b310bd-7f1d-4656-87c8-8b748f203a19",
+    "reputation_score": 44.0,
+    "drivers_json": {
+      "name": "Mason Taylor-Jones",
+      "nationality": "Spanish",
+      "avg_insurance_value": 602670,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 58,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "2322f344-d796-4c02-9bb9-b3f530b64243",
+    "reputation_score": 62.0,
+    "drivers_json": {
+      "name": "Mia White-Thomas",
+      "nationality": "Ukrainian",
+      "avg_insurance_value": 287566,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 145,
+      "avg_provenance_score": 28,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "18de32c5-d05a-4165-8f02-c40c5b8f8fdc",
+    "reputation_score": 65.0,
+    "drivers_json": {
+      "name": "Ethan Walker",
+      "nationality": "Chilean",
+      "avg_insurance_value": 426424,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 81,
+      "avg_provenance_score": 42,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "87e6cd07-884e-455f-b0c5-96da0acb1a04",
+    "reputation_score": 48.0,
+    "drivers_json": {
+      "name": "Charlotte Nguyen",
+      "nationality": "Sri Lankan",
+      "avg_insurance_value": 837264,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 144,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "37396d1a-f036-4167-9ca7-7545d0040944",
+    "reputation_score": 72.0,
+    "drivers_json": {
+      "name": "Logan Hall",
+      "nationality": "Israeli",
+      "avg_insurance_value": 797654,
+      "signed_ratio": 0.6666666666666666,
+      "avg_artwork_age": 139,
+      "avg_provenance_score": 35,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "464a0bfc-4df7-4250-806b-317286849dec",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Amelia Johnson-Martinez",
+      "nationality": "Belgian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "6ffc4dbf-621f-4642-9cc6-d55f42ba92a8",
+    "reputation_score": 53.0,
+    "drivers_json": {
+      "name": "James Rodriguez-Lee",
+      "nationality": "Portuguese",
+      "avg_insurance_value": 360141,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 77,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "a9144b33-511e-480b-9ad2-f7955e61484c",
+    "reputation_score": 70.0,
+    "drivers_json": {
+      "name": "Harper Thomas",
+      "nationality": "South African",
+      "avg_insurance_value": 636726,
+      "signed_ratio": 0.6666666666666666,
+      "avg_artwork_age": 110,
+      "avg_provenance_score": 34,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "0a6d284f-ea5c-4079-99a0-dbcdb560b78a",
+    "reputation_score": 70.0,
+    "drivers_json": {
+      "name": "Benjamin Thompson-Nelson",
+      "nationality": "Thai",
+      "avg_insurance_value": 578448,
+      "signed_ratio": 0.75,
+      "avg_artwork_age": 59,
+      "avg_provenance_score": 24,
+      "num_artworks": 4
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "57f4ccd6-269c-4d20-bfa2-2a498bf9e938",
+    "reputation_score": 56.0,
+    "drivers_json": {
+      "name": "Evelyn Robinson",
+      "nationality": "British",
+      "avg_insurance_value": 173436,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 56,
+      "avg_provenance_score": 57,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "e39a0045-4e16-4ed0-bfbe-ec070c01fa4f",
+    "reputation_score": 67.0,
+    "drivers_json": {
+      "name": "Henry Torres-Anderson",
+      "nationality": "Norwegian",
+      "avg_insurance_value": 529381,
+      "signed_ratio": 0.6666666666666666,
+      "avg_artwork_age": 96,
+      "avg_provenance_score": 25,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "22681135-6119-401f-b0c0-a04f72c11d00",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Alexander Baker",
+      "nationality": "Mexican",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "77b4a2e2-8e41-4c33-b49d-2b11517e3752",
+    "reputation_score": 65.0,
+    "drivers_json": {
+      "name": "Abigail Smith-Torres",
+      "nationality": "Indian",
+      "avg_insurance_value": 207057,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 122,
+      "avg_provenance_score": 46,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "cc1ee5de-33d6-4abd-aa1d-371784e6763a",
+    "reputation_score": 58.0,
+    "drivers_json": {
+      "name": "Sebastian Davis",
+      "nationality": "Iraqi",
+      "avg_insurance_value": 422449,
+      "signed_ratio": 0.6666666666666666,
+      "avg_artwork_age": 74,
+      "avg_provenance_score": 0,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "f72592f0-315a-429b-94cc-739e58a8bb5e",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Emily Anderson-Rodriguez",
+      "nationality": "Dutch",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "c8e63732-bca9-4512-9baf-6253c18b4830",
+    "reputation_score": 41.0,
+    "drivers_json": {
+      "name": "Jack Perez",
+      "nationality": "Romanian",
+      "avg_insurance_value": 3222,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 121,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "82d16ea2-f1b9-4830-a174-e1107c60ef79",
+    "reputation_score": 58.0,
+    "drivers_json": {
+      "name": "Avery Lewis",
+      "nationality": "Peruvian",
+      "avg_insurance_value": 318511,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 96,
+      "avg_provenance_score": 18,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "9908bd70-a78e-4cf1-b611-03f698730c35",
+    "reputation_score": 59.0,
+    "drivers_json": {
+      "name": "Daniel Scott-Adams",
+      "nationality": "Japanese",
+      "avg_insurance_value": 340487,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 135,
+      "avg_provenance_score": 52,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "156b6293-f99a-476f-ab23-cea991a1120c",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Sofia Nelson",
+      "nationality": "Jordanian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "3c0bf614-9813-4b52-b0c1-880e44c2335a",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Michael Roberts-Wilson",
+      "nationality": "Czech",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "aea923ca-0feb-443f-8a9c-56f1d61fdb82",
+    "reputation_score": 64.0,
+    "drivers_json": {
+      "name": "Ella Miller-Harris",
+      "nationality": "Scottish",
+      "avg_insurance_value": 673139,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 32,
+      "avg_provenance_score": 39,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "91c1c233-e4ba-4cb7-913d-e99bf6963e23",
+    "reputation_score": 48.0,
+    "drivers_json": {
+      "name": "Samuel Wilson-Scott",
+      "nationality": "Kenyan",
+      "avg_insurance_value": 87362,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 16,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "ebce0c58-fe89-46ed-91b3-0a9dbd113b9d",
+    "reputation_score": 73.0,
+    "drivers_json": {
+      "name": "Scarlett Lee",
+      "nationality": "Australian",
+      "avg_insurance_value": 451418,
+      "signed_ratio": 0.25,
+      "avg_artwork_age": 133,
+      "avg_provenance_score": 45,
+      "num_artworks": 4
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "f60fa8c3-64f3-4d43-a88f-aa318981b9a8",
+    "reputation_score": 66.0,
+    "drivers_json": {
+      "name": "Jacob Ramirez-Davis",
+      "nationality": "Italian",
+      "avg_insurance_value": 319457,
+      "signed_ratio": 0.3333333333333333,
+      "avg_artwork_age": 62,
+      "avg_provenance_score": 44,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "81125721-e356-445f-9588-8ea72f2df235",
+    "reputation_score": 46.0,
+    "drivers_json": {
+      "name": "Grace Wright-Jackson",
+      "nationality": "Russian",
+      "avg_insurance_value": 29681,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 80,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "b390358b-34b5-4278-b0f5-440c9357dcb7",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "David Adams",
+      "nationality": "Argentine",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "99263262-9f96-440b-8ede-d80d60089da6",
+    "reputation_score": 53.0,
+    "drivers_json": {
+      "name": "Chloe Carter-Green",
+      "nationality": "Bangladeshi",
+      "avg_insurance_value": 424964,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 72,
+      "avg_provenance_score": 0,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "ed37cab6-e1d7-4187-8f78-9f2ec82e6021",
+    "reputation_score": 67.0,
+    "drivers_json": {
+      "name": "Carter Garcia",
+      "nationality": "Emirati",
+      "avg_insurance_value": 703113,
+      "signed_ratio": 0.3333333333333333,
+      "avg_artwork_age": 126,
+      "avg_provenance_score": 33,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "20ffec22-a3fb-40f5-927d-c24cd4318012",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Victoria Gonzalez",
+      "nationality": "Austrian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "3a7a7543-ad27-4c4d-87b4-127190abf510",
+    "reputation_score": 46.0,
+    "drivers_json": {
+      "name": "Wyatt Martin",
+      "nationality": "Greek",
+      "avg_insurance_value": 664632,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 93,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "213a2bdb-578b-4aed-b452-240f379f5ea0",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Riley Clark",
+      "nationality": "Egyptian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "13dfb523-3316-46d6-998d-1d1893145872",
+    "reputation_score": 67.0,
+    "drivers_json": {
+      "name": "Joseph King",
+      "nationality": "Vietnamese",
+      "avg_insurance_value": 529530,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 2,
+      "avg_provenance_score": 55,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "40118f91-155c-40b2-8e65-b49e53e72cea",
+    "reputation_score": 58.0,
+    "drivers_json": {
+      "name": "Nora Green",
+      "nationality": "American",
+      "avg_insurance_value": 777764,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 153,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "092679e2-31a0-42bd-a871-22a4c1ab3b4b",
+    "reputation_score": 45.0,
+    "drivers_json": {
+      "name": "Owen Mitchell",
+      "nationality": "Finnish",
+      "avg_insurance_value": 857210,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 56,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "11038cf6-d729-46d8-a1ee-2c3ce653ea24",
+    "reputation_score": 54.0,
+    "drivers_json": {
+      "name": "Lily Jones-Lewis",
+      "nationality": "Canadian",
+      "avg_insurance_value": 778212,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 34,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "cec550ab-868e-40fc-9d31-f4d0b2886ffd",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "John Lopez-Flores",
+      "nationality": "Ghanaian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "68a8e739-dc22-4774-bba6-287847e544f1",
+    "reputation_score": 62.0,
+    "drivers_json": {
+      "name": "Hannah Jackson-Smith",
+      "nationality": "Iranian",
+      "avg_insurance_value": 581169,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 107,
+      "avg_provenance_score": 26,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "76074dad-64ce-4383-a571-a89d89fc4b0a",
+    "reputation_score": 64.0,
+    "drivers_json": {
+      "name": "Luke Sanchez",
+      "nationality": "German",
+      "avg_insurance_value": 256733,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 98,
+      "avg_provenance_score": 60,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "85bb80b1-e30c-4903-a8f2-ee8525f93e21",
+    "reputation_score": 61.0,
+    "drivers_json": {
+      "name": "Zoey Allen-Thompson",
+      "nationality": "Hungarian",
+      "avg_insurance_value": 589535,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 113,
+      "avg_provenance_score": 22,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "0b47a26f-87fa-47a4-9234-472638380430",
+    "reputation_score": 55.0,
+    "drivers_json": {
+      "name": "Gabriel Flores-King",
+      "nationality": "Colombian",
+      "avg_insurance_value": 824022,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 45,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "41888c2c-dfe2-4ace-9a2a-6a86de646511",
+    "reputation_score": 58.0,
+    "drivers_json": {
+      "name": "Penelope Campbell-Hall",
+      "nationality": "Chinese",
+      "avg_insurance_value": 938386,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 141,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "70769378-c941-48a6-9508-d4913db8df6d",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Emma Brown-Garcia",
+      "nationality": "Lebanese",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "b67bd1d7-370a-400e-87fe-bc39b5762a35",
+    "reputation_score": 74.0,
+    "drivers_json": {
+      "name": "Liam Hernandez-Taylor",
+      "nationality": "Polish",
+      "avg_insurance_value": 492064,
+      "signed_ratio": 0.25,
+      "avg_artwork_age": 69,
+      "avg_provenance_score": 55,
+      "num_artworks": 4
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "595ec6a6-4eac-4943-9752-66c1863c5918",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Olivia Moore",
+      "nationality": "Irish",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "240a7b33-10fd-47ca-9d18-4ba873a4e83e",
+    "reputation_score": 44.0,
+    "drivers_json": {
+      "name": "Noah Harris",
+      "nationality": "Nigerian",
+      "avg_insurance_value": 681283,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 33,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "798b34af-9156-4dd8-bd6d-6caea3409758",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Ava Young",
+      "nationality": "Indonesian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "d20467d0-d4af-45b3-9923-7428cda7d875",
+    "reputation_score": 63.0,
+    "drivers_json": {
+      "name": "Elijah Hill",
+      "nationality": "French",
+      "avg_insurance_value": 390838,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 114,
+      "avg_provenance_score": 34,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "0c050c1c-5f5e-4a65-8dbe-6d7324ecfe71",
+    "reputation_score": 63.0,
+    "drivers_json": {
+      "name": "Sophia Rivera",
+      "nationality": "Swedish",
+      "avg_insurance_value": 242295,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 84,
+      "avg_provenance_score": 41,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "44889444-ce65-42fc-8c2a-083e8b3b8c23",
+    "reputation_score": 68.0,
+    "drivers_json": {
+      "name": "Lucas Williams",
+      "nationality": "Brazilian",
+      "avg_insurance_value": 402477,
+      "signed_ratio": 0.3333333333333333,
+      "avg_artwork_age": 71,
+      "avg_provenance_score": 47,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "bffc0109-74b2-4fd9-b112-1d92b8dd103a",
+    "reputation_score": 58.0,
+    "drivers_json": {
+      "name": "Isabella Martinez-Baker",
+      "nationality": "Pakistani",
+      "avg_insurance_value": 648080,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 58,
+      "avg_provenance_score": 16,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "bba590ab-5b6e-4aff-be51-eb19cfac0851",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Mason Taylor",
+      "nationality": "Saudi",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "ad8e6006-faec-4664-9927-3ecb3aff4514",
+    "reputation_score": 60.0,
+    "drivers_json": {
+      "name": "Mia White-Thomas",
+      "nationality": "Swiss",
+      "avg_insurance_value": 333842,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 131,
+      "avg_provenance_score": 20,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "1f8873a9-7dbf-495f-9a7e-d5cfbdb6fc34",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Ethan Walker",
+      "nationality": "Turkish",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "ce16b1ad-a3ba-49a2-a29d-0370392bbea0",
+    "reputation_score": 63.0,
+    "drivers_json": {
+      "name": "Charlotte Nguyen",
+      "nationality": "Moroccan",
+      "avg_insurance_value": 685463,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 84,
+      "avg_provenance_score": 30,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "6add9bb3-6ac3-4aff-a6d1-3de83ea947f4",
+    "reputation_score": 63.0,
+    "drivers_json": {
+      "name": "Logan Hall",
+      "nationality": "Korean",
+      "avg_insurance_value": 659778,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 76,
+      "avg_provenance_score": 31,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "cf6dc6c8-0d96-41ea-8250-8216d0c23b92",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Amelia Johnson",
+      "nationality": "Qatari",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "99f994b1-74f2-4be0-91b5-b542e2c72ae2",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "James Rodriguez-Lee",
+      "nationality": "Danish",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "a3575309-6b51-4e3e-8bfd-2446e52c81d3",
+    "reputation_score": 60.0,
+    "drivers_json": {
+      "name": "Harper Thomas",
+      "nationality": "Welsh",
+      "avg_insurance_value": 707549,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 86,
+      "avg_provenance_score": 51,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "07c4db75-4c20-4a56-a472-07af57525955",
+    "reputation_score": 69.0,
+    "drivers_json": {
+      "name": "Benjamin Thompson-Nelson",
+      "nationality": "Ethiopian",
+      "avg_insurance_value": 684604,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 121,
+      "avg_provenance_score": 49,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "b43959be-a4fd-40fa-b868-f45985052a26",
+    "reputation_score": 60.0,
+    "drivers_json": {
+      "name": "Evelyn Robinson",
+      "nationality": "New Zealander",
+      "avg_insurance_value": 516467,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 45,
+      "avg_provenance_score": 61,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "5834c13f-4c52-4848-9fc3-68cae76ff4ae",
+    "reputation_score": 66.0,
+    "drivers_json": {
+      "name": "Henry Torres-Anderson",
+      "nationality": "Spanish",
+      "avg_insurance_value": 154748,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 55,
+      "avg_provenance_score": 27,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "1d5f405c-1e9b-4f3f-8b8f-326a434591e9",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Alexander Baker",
+      "nationality": "Ukrainian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "6d66e2d4-c6c0-41e1-ab9b-be62c6bfda17",
+    "reputation_score": 75.0,
+    "drivers_json": {
+      "name": "Abigail Smith",
+      "nationality": "Chilean",
+      "avg_insurance_value": 393811,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 121,
+      "avg_provenance_score": 45,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "7655f0d7-70e4-4699-8fd7-9c004fa95b40",
+    "reputation_score": 45.0,
+    "drivers_json": {
+      "name": "Sebastian Davis-Mitchell",
+      "nationality": "Sri Lankan",
+      "avg_insurance_value": 576308,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 69,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "edd85299-354d-4148-911c-e2fb8a4c3485",
+    "reputation_score": 46.0,
+    "drivers_json": {
+      "name": "Emily Anderson",
+      "nationality": "Israeli",
+      "avg_insurance_value": 598529,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 123,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "0e1e00d5-7821-4f3c-8894-7c41cd1d9cd3",
+    "reputation_score": 56.0,
+    "drivers_json": {
+      "name": "Jack Perez-Martin",
+      "nationality": "Belgian",
+      "avg_insurance_value": 349856,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 52,
+      "avg_provenance_score": 11,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "340b7393-5206-4397-bd9f-5b2faddb6428",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Avery Lewis-Walker",
+      "nationality": "Portuguese",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "d68ed818-d282-4269-834a-71b97c98ff0d",
+    "reputation_score": 60.0,
+    "drivers_json": {
+      "name": "Daniel Scott",
+      "nationality": "South African",
+      "avg_insurance_value": 417974,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 121,
+      "avg_provenance_score": 40,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "809ad7e4-9271-41d7-86d6-9b687a6d5ede",
+    "reputation_score": 50.0,
+    "drivers_json": {
+      "name": "Sofia Nelson-Williams",
+      "nationality": "Thai",
+      "avg_insurance_value": 132819,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 81,
+      "avg_provenance_score": 0,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "39caccb3-1599-4a1a-b030-d694ef62ef64",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Michael Roberts-Wilson",
+      "nationality": "British",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "8463893f-3616-490c-8e60-e231b501671b",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Ella Miller-Harris",
+      "nationality": "Norwegian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "4b660ba3-6fd5-4af0-a066-7e6fa1a5c357",
+    "reputation_score": 56.0,
+    "drivers_json": {
+      "name": "Samuel Wilson-Scott",
+      "nationality": "Mexican",
+      "avg_insurance_value": 246632,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 10,
+      "avg_provenance_score": 21,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "5197256c-18ef-46a6-8b9a-74e3c2a7cd9c",
+    "reputation_score": 56.0,
+    "drivers_json": {
+      "name": "Scarlett Lee-Campbell",
+      "nationality": "Indian",
+      "avg_insurance_value": 790236,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 89,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "0db3e23c-2202-41f3-8321-bb63f91c6531",
+    "reputation_score": 70.0,
+    "drivers_json": {
+      "name": "Jacob Ramirez-Davis",
+      "nationality": "Iraqi",
+      "avg_insurance_value": 365089,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 170,
+      "avg_provenance_score": 52,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "87fd079d-0361-4823-8f22-d31971e3035a",
+    "reputation_score": 54.0,
+    "drivers_json": {
+      "name": "Grace Wright",
+      "nationality": "Dutch",
+      "avg_insurance_value": 531864,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 16,
+      "avg_provenance_score": 25,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "dd8fb8d5-ed2e-4fac-b4f7-ca535e481ab9",
+    "reputation_score": 68.0,
+    "drivers_json": {
+      "name": "David Adams-Robinson",
+      "nationality": "Romanian",
+      "avg_insurance_value": 788846,
+      "signed_ratio": 0.3333333333333333,
+      "avg_artwork_age": 128,
+      "avg_provenance_score": 35,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "639fca64-83a1-4962-b575-0aace986fc75",
+    "reputation_score": 62.0,
+    "drivers_json": {
+      "name": "Chloe Carter",
+      "nationality": "Peruvian",
+      "avg_insurance_value": 329378,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 56,
+      "avg_provenance_score": 39,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "f41a1e71-0226-4007-b536-6ff830fed8e4",
+    "reputation_score": 66.0,
+    "drivers_json": {
+      "name": "Carter Garcia-Johnson",
+      "nationality": "Japanese",
+      "avg_insurance_value": 565288,
+      "signed_ratio": 0.6666666666666666,
+      "avg_artwork_age": 82,
+      "avg_provenance_score": 23,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "f5b85073-7b4b-4cd2-81ff-6bb58b3f9b66",
+    "reputation_score": 66.0,
+    "drivers_json": {
+      "name": "Victoria Gonzalez",
+      "nationality": "Jordanian",
+      "avg_insurance_value": 513416,
+      "signed_ratio": 0.3333333333333333,
+      "avg_artwork_age": 105,
+      "avg_provenance_score": 34,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "ca8121b7-25f7-4ab9-b536-c8a2916cf73a",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Wyatt Martin",
+      "nationality": "Czech",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "417a373b-59e4-4650-992c-b73244de893c",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Riley Clark",
+      "nationality": "Scottish",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "f2e9acfd-56be-46b5-8ae3-5956f5a1ff1f",
+    "reputation_score": 49.0,
+    "drivers_json": {
+      "name": "Joseph King-Rivera",
+      "nationality": "Kenyan",
+      "avg_insurance_value": 415031,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 153,
+      "avg_provenance_score": 10,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "0bfd9304-f4ec-484b-82cd-88a957f9bb4d",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Nora Green",
+      "nationality": "Australian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "73b4db1b-7154-4725-8d0d-e7c558c5cbed",
+    "reputation_score": 61.0,
+    "drivers_json": {
+      "name": "Owen Mitchell",
+      "nationality": "Italian",
+      "avg_insurance_value": 596306,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 20,
+      "avg_provenance_score": 30,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "207672ad-7fee-4b5a-9d4e-87d4520ab03d",
+    "reputation_score": 56.0,
+    "drivers_json": {
+      "name": "Lily Jones-Lewis",
+      "nationality": "Russian",
+      "avg_insurance_value": 432258,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 158,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "73efe68e-e559-4945-a6bc-c33fc6ddd422",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "John Lopez-Flores",
+      "nationality": "Argentine",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "5ba9f676-96d1-43ce-a2b7-5a032284d807",
+    "reputation_score": 65.0,
+    "drivers_json": {
+      "name": "Hannah Jackson",
+      "nationality": "Bangladeshi",
+      "avg_insurance_value": 115586,
+      "signed_ratio": 0.3333333333333333,
+      "avg_artwork_age": 53,
+      "avg_provenance_score": 51,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "4a5d2b6f-97c6-4dc2-bf6e-59a166234e4b",
+    "reputation_score": 72.0,
+    "drivers_json": {
+      "name": "Luke Sanchez",
+      "nationality": "Emirati",
+      "avg_insurance_value": 490149,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 150,
+      "avg_provenance_score": 43,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "f58a26dd-8a07-46c2-956d-ac7f3bf43521",
+    "reputation_score": 65.0,
+    "drivers_json": {
+      "name": "Zoey Allen-Thompson",
+      "nationality": "Austrian",
+      "avg_insurance_value": 442908,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 111,
+      "avg_provenance_score": 41,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "0a9c2cd6-f377-48b2-8106-d0f07bbcfc7d",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Gabriel Flores",
+      "nationality": "Greek",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "a84ecec0-9734-4a0c-bc5c-ba31c258de8e",
+    "reputation_score": 60.0,
+    "drivers_json": {
+      "name": "Penelope Campbell-Hall",
+      "nationality": "Egyptian",
+      "avg_insurance_value": 488827,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 131,
+      "avg_provenance_score": 50,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "6b17776f-67f4-43ae-abe5-a9414a943a46",
+    "reputation_score": 59.0,
+    "drivers_json": {
+      "name": "Emma Brown-Garcia",
+      "nationality": "Vietnamese",
+      "avg_insurance_value": 816517,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 155,
+      "avg_provenance_score": 41,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "105e01a5-942b-4886-98b0-d16ec55251a2",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Liam Hernandez",
+      "nationality": "American",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "bb4028fb-f591-41f2-8e70-8c00453f0405",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Olivia Moore-Ramirez",
+      "nationality": "Finnish",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "75e25fd8-e80c-4bb1-b7e6-07b4932199a8",
+    "reputation_score": 48.0,
+    "drivers_json": {
+      "name": "Noah Harris-Hill",
+      "nationality": "Canadian",
+      "avg_insurance_value": 778836,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 148,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "34879b1c-6d56-4450-8540-838fc8a8c271",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Ava Young-Roberts",
+      "nationality": "Ghanaian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "1119abb0-798f-49bb-a209-71f6307212ec",
+    "reputation_score": 63.0,
+    "drivers_json": {
+      "name": "Elijah Hill-Hernandez",
+      "nationality": "Iranian",
+      "avg_insurance_value": 582881,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 44,
+      "avg_provenance_score": 35,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "00626a78-90cf-499a-83ee-93d638d84414",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Sophia Rivera",
+      "nationality": "German",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "4c1ffa92-b7e8-4930-a78d-74f34407c099",
+    "reputation_score": 69.0,
+    "drivers_json": {
+      "name": "Lucas Williams",
+      "nationality": "Hungarian",
+      "avg_insurance_value": 601594,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 27,
+      "avg_provenance_score": 57,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "aad2b3c6-b773-4513-b7ff-9a9ff9907e40",
+    "reputation_score": 59.0,
+    "drivers_json": {
+      "name": "Isabella Martinez",
+      "nationality": "Colombian",
+      "avg_insurance_value": 353321,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 57,
+      "avg_provenance_score": 29,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "d3d75bfa-1692-4a82-bc29-a22e0e08f6df",
+    "reputation_score": 67.0,
+    "drivers_json": {
+      "name": "Mason Taylor-Jones",
+      "nationality": "Chinese",
+      "avg_insurance_value": 454865,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 54,
+      "avg_provenance_score": 48,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "8ce7d754-72f2-4920-aa01-c9ef9af7c61d",
+    "reputation_score": 68.0,
+    "drivers_json": {
+      "name": "Mia White",
+      "nationality": "Lebanese",
+      "avg_insurance_value": 517258,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 32,
+      "avg_provenance_score": 25,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "d551c104-fede-40e9-a4c9-ad0620127cf3",
+    "reputation_score": 74.0,
+    "drivers_json": {
+      "name": "Ethan Walker",
+      "nationality": "Polish",
+      "avg_insurance_value": 392860,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 105,
+      "avg_provenance_score": 55,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "fa6206e1-4747-4c70-ae62-55f00fed94a3",
+    "reputation_score": 69.0,
+    "drivers_json": {
+      "name": "Charlotte Nguyen",
+      "nationality": "Irish",
+      "avg_insurance_value": 490590,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 126,
+      "avg_provenance_score": 47,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "c09ab728-fc45-460e-af34-95ff43f97565",
+    "reputation_score": 55.0,
+    "drivers_json": {
+      "name": "Logan Hall-Carter",
+      "nationality": "Nigerian",
+      "avg_insurance_value": 546726,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 163,
+      "avg_provenance_score": 0,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "91b7722a-2c4f-4cd5-83cd-3d518f232de1",
+    "reputation_score": 67.0,
+    "drivers_json": {
+      "name": "Amelia Johnson",
+      "nationality": "Indonesian",
+      "avg_insurance_value": 374880,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 128,
+      "avg_provenance_score": 18,
+      "num_artworks": 4
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "858d578d-91fb-4aee-a6ee-0e3ae5ca3335",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "James Rodriguez-Lee",
+      "nationality": "French",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "9e303f52-5829-4cd3-9fce-c7633e265920",
+    "reputation_score": 49.0,
+    "drivers_json": {
+      "name": "Harper Thomas",
+      "nationality": "Swedish",
+      "avg_insurance_value": 44828,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 127,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "d172fe07-22bb-4e04-84ab-bd0153cfc700",
+    "reputation_score": 62.0,
+    "drivers_json": {
+      "name": "Benjamin Thompson",
+      "nationality": "Brazilian",
+      "avg_insurance_value": 555822,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 48,
+      "avg_provenance_score": 0,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "ba8db9fe-788e-4cdd-b6e8-f3b53f62910f",
+    "reputation_score": 52.0,
+    "drivers_json": {
+      "name": "Evelyn Robinson-Brown",
+      "nationality": "Pakistani",
+      "avg_insurance_value": 354634,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 34,
+      "avg_provenance_score": 21,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "34c36fdf-c1bd-4068-85a6-54301298d7b7",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Henry Torres-Anderson",
+      "nationality": "Saudi",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "f8d09279-76dc-436d-9b9a-6d7c3080c815",
+    "reputation_score": 65.0,
+    "drivers_json": {
+      "name": "Alexander Baker",
+      "nationality": "Swiss",
+      "avg_insurance_value": 136693,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 68,
+      "avg_provenance_score": 23,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "e53b8d3e-74c6-4ba6-b60c-a8253c653abe",
+    "reputation_score": 48.0,
+    "drivers_json": {
+      "name": "Abigail Smith",
+      "nationality": "Turkish",
+      "avg_insurance_value": 647307,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 52,
+      "avg_provenance_score": 0,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "f76f1fd7-32ee-41bf-a93f-5e059f1e905b",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Sebastian Davis-Mitchell",
+      "nationality": "Moroccan",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "3c9422f7-0232-4ac2-9d96-2479ef78d2a0",
+    "reputation_score": 67.0,
+    "drivers_json": {
+      "name": "Emily Anderson-Rodriguez",
+      "nationality": "Korean",
+      "avg_insurance_value": 487060,
+      "signed_ratio": 0.3333333333333333,
+      "avg_artwork_age": 67,
+      "avg_provenance_score": 44,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "6dfc3b40-8179-4586-a854-0b46d87cea47",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Jack Perez",
+      "nationality": "Qatari",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "f36b09b2-70d1-47f5-844a-d3cd495121ed",
+    "reputation_score": 53.0,
+    "drivers_json": {
+      "name": "Avery Lewis-Walker",
+      "nationality": "Danish",
+      "avg_insurance_value": 737101,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 171,
+      "avg_provenance_score": 17,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "508f631e-13d0-4913-a669-73540a1e26cf",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Daniel Scott",
+      "nationality": "Welsh",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "789c9fd0-0f0f-4498-a42e-5524691dfc66",
+    "reputation_score": 62.0,
+    "drivers_json": {
+      "name": "Sofia Nelson",
+      "nationality": "Ethiopian",
+      "avg_insurance_value": 191846,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 85,
+      "avg_provenance_score": 38,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "7a7b5946-bf63-4818-b53d-5e4aef00c7e9",
+    "reputation_score": 53.0,
+    "drivers_json": {
+      "name": "Michael Roberts-Wilson",
+      "nationality": "New Zealander",
+      "avg_insurance_value": 441330,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 66,
+      "avg_provenance_score": 35,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "297406b7-fe46-4116-a3ca-66df90a0ca30",
+    "reputation_score": 80.0,
+    "drivers_json": {
+      "name": "Ella Miller",
+      "nationality": "Spanish",
+      "avg_insurance_value": 802199,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 109,
+      "avg_provenance_score": 54,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "0a595c6a-0262-4b2c-b550-21908f7107d4",
+    "reputation_score": 53.0,
+    "drivers_json": {
+      "name": "Samuel Wilson-Scott",
+      "nationality": "Ukrainian",
+      "avg_insurance_value": 826363,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 41,
+      "avg_provenance_score": 30,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "586d429a-242c-4873-a78b-cd6c71c52d6d",
+    "reputation_score": 63.0,
+    "drivers_json": {
+      "name": "Scarlett Lee",
+      "nationality": "Chilean",
+      "avg_insurance_value": 334873,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 98,
+      "avg_provenance_score": 38,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "03c607a2-8cdf-45c5-84a3-e547a7a299f7",
+    "reputation_score": 57.0,
+    "drivers_json": {
+      "name": "Jacob Ramirez",
+      "nationality": "Sri Lankan",
+      "avg_insurance_value": 789810,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 43,
+      "avg_provenance_score": 7,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "22bb5861-9805-4fa6-a6b6-a15eda83bdd3",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Grace Wright-Jackson",
+      "nationality": "Israeli",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "3729d9b3-afc1-44f9-a182-48ec6cf98e95",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "David Adams",
+      "nationality": "Belgian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "cf3b5ec6-1a11-4fd5-8fe2-17a0b8f09535",
+    "reputation_score": 64.0,
+    "drivers_json": {
+      "name": "Chloe Carter",
+      "nationality": "Portuguese",
+      "avg_insurance_value": 340743,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 40,
+      "avg_provenance_score": 64,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "c934e07f-b365-4d19-be81-e44fd83bc383",
+    "reputation_score": 44.0,
+    "drivers_json": {
+      "name": "Carter Garcia",
+      "nationality": "South African",
+      "avg_insurance_value": 239312,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 1,
+      "avg_provenance_score": 15,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "62fcf722-3c0f-4cae-903c-c5e5ac93afea",
+    "reputation_score": 73.0,
+    "drivers_json": {
+      "name": "Victoria Gonzalez",
+      "nationality": "Thai",
+      "avg_insurance_value": 578915,
+      "signed_ratio": 0.75,
+      "avg_artwork_age": 88,
+      "avg_provenance_score": 30,
+      "num_artworks": 4
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "6df846cf-a1cb-40b9-9bb2-a3937c2b5df9",
+    "reputation_score": 49.0,
+    "drivers_json": {
+      "name": "Wyatt Martin-White",
+      "nationality": "British",
+      "avg_insurance_value": 196406,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 103,
+      "avg_provenance_score": 23,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "2e495167-09ac-4fd0-9d46-2721204cffb8",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Riley Clark-Wright",
+      "nationality": "Norwegian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "46b1d08e-fc3a-4fd2-a558-3bdba2179049",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Joseph King",
+      "nationality": "Mexican",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "5da59159-0773-49d1-b45b-d3202aaeecec",
+    "reputation_score": 60.0,
+    "drivers_json": {
+      "name": "Nora Green",
+      "nationality": "Indian",
+      "avg_insurance_value": 730028,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 20,
+      "avg_provenance_score": 43,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "a641c34a-87d5-47c2-ab89-59a13a296e85",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Owen Mitchell-Moore",
+      "nationality": "Iraqi",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "6bcac454-2e6e-4b34-b43e-21e4a79cabe4",
+    "reputation_score": 68.0,
+    "drivers_json": {
+      "name": "Lily Jones",
+      "nationality": "Dutch",
+      "avg_insurance_value": 866229,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 98,
+      "avg_provenance_score": 42,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "ad04c72b-cbb5-4e77-b3b1-4adfc67329c7",
+    "reputation_score": 56.0,
+    "drivers_json": {
+      "name": "John Lopez",
+      "nationality": "Romanian",
+      "avg_insurance_value": 599703,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 99,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "268977e8-5848-4bd4-824e-037bc3ac441f",
+    "reputation_score": 58.0,
+    "drivers_json": {
+      "name": "Hannah Jackson",
+      "nationality": "Peruvian",
+      "avg_insurance_value": 381490,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 87,
+      "avg_provenance_score": 0,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "a2607ba3-fb43-47fd-80aa-b07a83b51fec",
+    "reputation_score": 56.0,
+    "drivers_json": {
+      "name": "Luke Sanchez-Lopez",
+      "nationality": "Japanese",
+      "avg_insurance_value": 710850,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 101,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "eabfbc6d-289f-4b16-96f7-af761f28f6d4",
+    "reputation_score": 75.0,
+    "drivers_json": {
+      "name": "Zoey Allen",
+      "nationality": "Jordanian",
+      "avg_insurance_value": 516395,
+      "signed_ratio": 0.75,
+      "avg_artwork_age": 96,
+      "avg_provenance_score": 39,
+      "num_artworks": 4
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "76e06a4e-83c3-4ddc-b112-e43f08aa2eab",
+    "reputation_score": 36.0,
+    "drivers_json": {
+      "name": "Gabriel Flores",
+      "nationality": "Czech",
+      "avg_insurance_value": 2202,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 7,
+      "avg_provenance_score": 36,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "c22b88df-7f85-42c6-b357-11e9d3ea1f6f",
+    "reputation_score": 63.0,
+    "drivers_json": {
+      "name": "Penelope Campbell",
+      "nationality": "Scottish",
+      "avg_insurance_value": 779125,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 138,
+      "avg_provenance_score": 25,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "37588eaf-8dba-4dfb-9513-ff0a10430be6",
+    "reputation_score": 54.0,
+    "drivers_json": {
+      "name": "Emma Brown",
+      "nationality": "Kenyan",
+      "avg_insurance_value": 599688,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 80,
+      "avg_provenance_score": 18,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "1bc442c3-9c1f-4382-adf5-de6c565285ae",
+    "reputation_score": 65.0,
+    "drivers_json": {
+      "name": "Liam Hernandez-Taylor",
+      "nationality": "Australian",
+      "avg_insurance_value": 787739,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 114,
+      "avg_provenance_score": 14,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "1fde9dfc-5555-45ff-9377-a831a9255752",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Olivia Moore",
+      "nationality": "Italian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "ca98eee7-e9ee-4382-86f6-e76544b5c163",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Noah Harris",
+      "nationality": "Russian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "604138cc-0fde-4e75-8a8c-3c771ebb4790",
+    "reputation_score": 65.0,
+    "drivers_json": {
+      "name": "Ava Young",
+      "nationality": "Argentine",
+      "avg_insurance_value": 438335,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 132,
+      "avg_provenance_score": 18,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "8956a9b7-31bb-4bca-b36b-28143b945aac",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Elijah Hill",
+      "nationality": "Bangladeshi",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "22e115f1-ca21-4b85-8062-b765881e3694",
+    "reputation_score": 57.0,
+    "drivers_json": {
+      "name": "Sophia Rivera",
+      "nationality": "Emirati",
+      "avg_insurance_value": 460710,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 35,
+      "avg_provenance_score": 35,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "4d0ffb34-d9b8-484c-95ab-060ca2f5fd71",
+    "reputation_score": 53.0,
+    "drivers_json": {
+      "name": "Lucas Williams",
+      "nationality": "Austrian",
+      "avg_insurance_value": 586089,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 55,
+      "avg_provenance_score": 19,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "be3a1845-64c3-47c2-90f4-72411c42aed6",
+    "reputation_score": 47.0,
+    "drivers_json": {
+      "name": "Isabella Martinez-Baker",
+      "nationality": "Greek",
+      "avg_insurance_value": 809173,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 104,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "13c222d7-ed78-461d-bba5-b125a2df3db2",
+    "reputation_score": 62.0,
+    "drivers_json": {
+      "name": "Mason Taylor",
+      "nationality": "Egyptian",
+      "avg_insurance_value": 568734,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 97,
+      "avg_provenance_score": 11,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "5594db84-040b-4fac-a812-a243829f51e0",
+    "reputation_score": 64.0,
+    "drivers_json": {
+      "name": "Mia White",
+      "nationality": "Vietnamese",
+      "avg_insurance_value": 858408,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 132,
+      "avg_provenance_score": 29,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "87a826da-97f7-467c-b78f-2c9559ae1625",
+    "reputation_score": 66.0,
+    "drivers_json": {
+      "name": "Ethan Walker-Clark",
+      "nationality": "American",
+      "avg_insurance_value": 569084,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 134,
+      "avg_provenance_score": 38,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "1cf259df-9578-4923-8a07-69db5f415fd5",
+    "reputation_score": 45.0,
+    "drivers_json": {
+      "name": "Charlotte Nguyen",
+      "nationality": "Finnish",
+      "avg_insurance_value": 550031,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 79,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "9cbcf860-b8d5-4716-8e7a-1bc15b651a33",
+    "reputation_score": 61.0,
+    "drivers_json": {
+      "name": "Logan Hall",
+      "nationality": "Canadian",
+      "avg_insurance_value": 607081,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 143,
+      "avg_provenance_score": 19,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "6a13dc75-c6cb-430f-9610-f2e345c8a0a5",
+    "reputation_score": 61.0,
+    "drivers_json": {
+      "name": "Amelia Johnson",
+      "nationality": "Ghanaian",
+      "avg_insurance_value": 299800,
+      "signed_ratio": 0.3333333333333333,
+      "avg_artwork_age": 63,
+      "avg_provenance_score": 26,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "70d82cc5-3554-41e6-bb62-9723b4b0dcb9",
+    "reputation_score": 49.0,
+    "drivers_json": {
+      "name": "James Rodriguez",
+      "nationality": "Iranian",
+      "avg_insurance_value": 84934,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 33,
+      "avg_provenance_score": 41,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "d38e6d33-0628-4e5e-88d0-9bdc48da7e4b",
+    "reputation_score": 64.0,
+    "drivers_json": {
+      "name": "Harper Thomas",
+      "nationality": "German",
+      "avg_insurance_value": 623383,
+      "signed_ratio": 0.3333333333333333,
+      "avg_artwork_age": 66,
+      "avg_provenance_score": 28,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "9edcf711-b143-4e7e-9c45-6aec76b3743b",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Benjamin Thompson",
+      "nationality": "Hungarian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "42460e7f-07e6-44b9-af01-71e236ccfe2c",
+    "reputation_score": 54.0,
+    "drivers_json": {
+      "name": "Evelyn Robinson",
+      "nationality": "Colombian",
+      "avg_insurance_value": 113791,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 38,
+      "avg_provenance_score": 17,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "3ed4e004-918f-4cc6-a26e-2ee4f2300fad",
+    "reputation_score": 69.0,
+    "drivers_json": {
+      "name": "Henry Torres-Anderson",
+      "nationality": "Chinese",
+      "avg_insurance_value": 452360,
+      "signed_ratio": 0.3333333333333333,
+      "avg_artwork_age": 96,
+      "avg_provenance_score": 47,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "62cf4f1c-87a3-4755-a6a8-6b134d7fb01e",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Alexander Baker-Sanchez",
+      "nationality": "Lebanese",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "0c8f0d04-0450-42d7-ae74-eced2c91873f",
+    "reputation_score": 70.0,
+    "drivers_json": {
+      "name": "Abigail Smith",
+      "nationality": "Polish",
+      "avg_insurance_value": 264105,
+      "signed_ratio": 0.6666666666666666,
+      "avg_artwork_age": 75,
+      "avg_provenance_score": 48,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "6f3c58cd-6254-4bd4-9b6c-78a16b6363e2",
+    "reputation_score": 53.0,
+    "drivers_json": {
+      "name": "Sebastian Davis",
+      "nationality": "Irish",
+      "avg_insurance_value": 379470,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 95,
+      "avg_provenance_score": 0,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "2f0388f8-bc90-4b26-a3b8-da30c309b31e",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Emily Anderson-Rodriguez",
+      "nationality": "Nigerian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "687546af-98e9-4aa3-a0bc-32c138868c05",
+    "reputation_score": 71.0,
+    "drivers_json": {
+      "name": "Jack Perez",
+      "nationality": "Indonesian",
+      "avg_insurance_value": 819435,
+      "signed_ratio": 0.3333333333333333,
+      "avg_artwork_age": 106,
+      "avg_provenance_score": 47,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "9074a978-316c-40b0-9d79-dc425925c54d",
+    "reputation_score": 51.0,
+    "drivers_json": {
+      "name": "Avery Lewis-Walker",
+      "nationality": "French",
+      "avg_insurance_value": 489489,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 31,
+      "avg_provenance_score": 28,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "068ed2f0-2c2b-4700-95d4-adc4eea6c2f9",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Daniel Scott-Adams",
+      "nationality": "Swedish",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "ea7ae225-c0c4-473b-a3ab-cba4b9d1fafe",
+    "reputation_score": 59.0,
+    "drivers_json": {
+      "name": "Sofia Nelson-Williams",
+      "nationality": "Brazilian",
+      "avg_insurance_value": 121747,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 172,
+      "avg_provenance_score": 21,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "a9c85470-f6ea-44d7-a679-840c562608cb",
+    "reputation_score": 43.0,
+    "drivers_json": {
+      "name": "Michael Roberts",
+      "nationality": "Pakistani",
+      "avg_insurance_value": 194352,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 139,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "7163cb31-fa93-44d9-8b60-5b3b9bb299b4",
+    "reputation_score": 56.0,
+    "drivers_json": {
+      "name": "Ella Miller-Harris",
+      "nationality": "Saudi",
+      "avg_insurance_value": 279008,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 53,
+      "avg_provenance_score": 52,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "826e7c2a-22f7-4e27-aa2e-3e2ac092ca14",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Samuel Wilson-Scott",
+      "nationality": "Swiss",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "3fb48767-56c3-4a00-8ca3-33057b87b173",
+    "reputation_score": 61.0,
+    "drivers_json": {
+      "name": "Scarlett Lee-Campbell",
+      "nationality": "Turkish",
+      "avg_insurance_value": 319808,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 91,
+      "avg_provenance_score": 26,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "bfb81453-aaa4-4a33-8d42-bcb8b4502dfe",
+    "reputation_score": 48.0,
+    "drivers_json": {
+      "name": "Jacob Ramirez",
+      "nationality": "Moroccan",
+      "avg_insurance_value": 824596,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 158,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "53cf8fbf-6bd4-4d3e-a299-37b400aa9cf3",
+    "reputation_score": 69.0,
+    "drivers_json": {
+      "name": "Grace Wright-Jackson",
+      "nationality": "Korean",
+      "avg_insurance_value": 616465,
+      "signed_ratio": 0.6666666666666666,
+      "avg_artwork_age": 112,
+      "avg_provenance_score": 30,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "fbefdcc0-9048-4765-ad44-6ad477dceacc",
+    "reputation_score": 59.0,
+    "drivers_json": {
+      "name": "David Adams-Robinson",
+      "nationality": "Qatari",
+      "avg_insurance_value": 637538,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 48,
+      "avg_provenance_score": 54,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "9acca578-9958-486f-bf1c-d8bf039ed7a4",
+    "reputation_score": 58.0,
+    "drivers_json": {
+      "name": "Chloe Carter",
+      "nationality": "Danish",
+      "avg_insurance_value": 754913,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 166,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "d9b51c3e-a14f-468b-afba-750dd04da4de",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Carter Garcia",
+      "nationality": "Welsh",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "16d2dddd-5011-45cc-8ee7-8096027dbac1",
+    "reputation_score": 72.0,
+    "drivers_json": {
+      "name": "Victoria Gonzalez",
+      "nationality": "Ethiopian",
+      "avg_insurance_value": 566554,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 60,
+      "avg_provenance_score": 50,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "ce880d16-37ea-4249-b1d6-5bd1bf87f9a9",
+    "reputation_score": 51.0,
+    "drivers_json": {
+      "name": "Wyatt Martin",
+      "nationality": "New Zealander",
+      "avg_insurance_value": 370739,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 5,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "aa609dbf-6cd8-4588-849c-5e0371b070b1",
+    "reputation_score": 62.0,
+    "drivers_json": {
+      "name": "Riley Clark-Wright",
+      "nationality": "Spanish",
+      "avg_insurance_value": 859634,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 80,
+      "avg_provenance_score": 27,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "7d9cc10d-75ca-43b1-8df8-abd4e39d7233",
+    "reputation_score": 48.0,
+    "drivers_json": {
+      "name": "Joseph King",
+      "nationality": "Ukrainian",
+      "avg_insurance_value": 630098,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 22,
+      "avg_provenance_score": 16,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "63b8f430-2d5e-46bf-a0d8-0b20e5369858",
+    "reputation_score": 45.0,
+    "drivers_json": {
+      "name": "Nora Green-Miller",
+      "nationality": "Chilean",
+      "avg_insurance_value": 382413,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 122,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "4d9a6c5d-bab1-4a99-9646-ad20d1c7990c",
+    "reputation_score": 57.0,
+    "drivers_json": {
+      "name": "Owen Mitchell",
+      "nationality": "Sri Lankan",
+      "avg_insurance_value": 792092,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 112,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "852a1b00-9b03-4b91-bccb-ce7bd4145c33",
+    "reputation_score": 77.0,
+    "drivers_json": {
+      "name": "Lily Jones",
+      "nationality": "Israeli",
+      "avg_insurance_value": 683678,
+      "signed_ratio": 0.4,
+      "avg_artwork_age": 86,
+      "avg_provenance_score": 41,
+      "num_artworks": 5
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "17b82945-2d34-4002-b689-09b77c2cb18d",
+    "reputation_score": 38.0,
+    "drivers_json": {
+      "name": "John Lopez",
+      "nationality": "Belgian",
+      "avg_insurance_value": 63943,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 80,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "9b527881-65c9-4966-a15d-2381aa950010",
+    "reputation_score": 57.0,
+    "drivers_json": {
+      "name": "Hannah Jackson-Smith",
+      "nationality": "Portuguese",
+      "avg_insurance_value": 339859,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 111,
+      "avg_provenance_score": 10,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "760c6e58-986c-48f7-bfc7-821873a5f148",
+    "reputation_score": 69.0,
+    "drivers_json": {
+      "name": "Luke Sanchez",
+      "nationality": "South African",
+      "avg_insurance_value": 221604,
+      "signed_ratio": 0.6666666666666666,
+      "avg_artwork_age": 105,
+      "avg_provenance_score": 40,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "defbbb93-1409-44c7-a798-d99f4e1f5de2",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Zoey Allen-Thompson",
+      "nationality": "Thai",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "10e7b405-dc3b-487a-9860-542a0ab42015",
+    "reputation_score": 47.0,
+    "drivers_json": {
+      "name": "Gabriel Flores-King",
+      "nationality": "British",
+      "avg_insurance_value": 716068,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 116,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "3aeccaad-4179-4f04-a7e9-0d470747ddd3",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Penelope Campbell-Hall",
+      "nationality": "Norwegian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "6f4aedc8-2805-46ee-9048-6efb5a1f4711",
+    "reputation_score": 63.0,
+    "drivers_json": {
+      "name": "Emma Brown",
+      "nationality": "Mexican",
+      "avg_insurance_value": 728996,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 75,
+      "avg_provenance_score": 31,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "03d6e6da-91d2-449c-8f75-9e8e82555e41",
+    "reputation_score": 72.0,
+    "drivers_json": {
+      "name": "Liam Hernandez",
+      "nationality": "Indian",
+      "avg_insurance_value": 900465,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 36,
+      "avg_provenance_score": 61,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "638f9f86-84b0-441b-8bb4-83640721251f",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Olivia Moore-Ramirez",
+      "nationality": "Iraqi",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "eebd8be6-6952-4929-bfb1-de563ee02ac9",
+    "reputation_score": 52.0,
+    "drivers_json": {
+      "name": "Noah Harris",
+      "nationality": "Dutch",
+      "avg_insurance_value": 821576,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 107,
+      "avg_provenance_score": 18,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "f3924517-96c9-49f7-9afe-b547d4678f0b",
+    "reputation_score": 58.0,
+    "drivers_json": {
+      "name": "Ava Young",
+      "nationality": "Romanian",
+      "avg_insurance_value": 834485,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 156,
+      "avg_provenance_score": 37,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "e1fc5384-4346-45b9-8888-30688a95073f",
+    "reputation_score": 46.0,
+    "drivers_json": {
+      "name": "Elijah Hill",
+      "nationality": "Peruvian",
+      "avg_insurance_value": 680413,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 107,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "b56f3fce-0961-4639-afc6-03d56ca5755d",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Sophia Rivera",
+      "nationality": "Japanese",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "52ffd5ce-99c0-4925-967c-7950805a91a1",
+    "reputation_score": 44.0,
+    "drivers_json": {
+      "name": "Lucas Williams",
+      "nationality": "Jordanian",
+      "avg_insurance_value": 762794,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 18,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "9ee64a9e-e990-474f-b878-606c55fe3ed7",
+    "reputation_score": 67.0,
+    "drivers_json": {
+      "name": "Isabella Martinez",
+      "nationality": "Czech",
+      "avg_insurance_value": 925212,
+      "signed_ratio": 0.3333333333333333,
+      "avg_artwork_age": 110,
+      "avg_provenance_score": 31,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "9040e95b-35ef-4c49-86c6-2e7f64e58f4a",
+    "reputation_score": 49.0,
+    "drivers_json": {
+      "name": "Mason Taylor",
+      "nationality": "Scottish",
+      "avg_insurance_value": 260450,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 154,
+      "avg_provenance_score": 17,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "34d2987e-64c9-47bf-ac28-e87f4bbcd63f",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Mia White-Thomas",
+      "nationality": "Kenyan",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "ceda6a79-7a74-49af-9e55-a83068ba377e",
+    "reputation_score": 72.0,
+    "drivers_json": {
+      "name": "Ethan Walker",
+      "nationality": "Australian",
+      "avg_insurance_value": 639752,
+      "signed_ratio": 0.6666666666666666,
+      "avg_artwork_age": 125,
+      "avg_provenance_score": 40,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "6f834fb9-d149-4edf-a5e0-5906d5415bd8",
+    "reputation_score": 62.0,
+    "drivers_json": {
+      "name": "Charlotte Nguyen",
+      "nationality": "Italian",
+      "avg_insurance_value": 616286,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 111,
+      "avg_provenance_score": 25,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "3035f15c-4f69-4aaf-902f-62a3387f7beb",
+    "reputation_score": 77.0,
+    "drivers_json": {
+      "name": "Logan Hall-Carter",
+      "nationality": "Russian",
+      "avg_insurance_value": 178062,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 94,
+      "avg_provenance_score": 91,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "2812462a-dc32-4e5b-9827-8992b59d4f69",
+    "reputation_score": 73.0,
+    "drivers_json": {
+      "name": "Amelia Johnson",
+      "nationality": "Argentine",
+      "avg_insurance_value": 705492,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 109,
+      "avg_provenance_score": 47,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "11784e66-444c-405d-87eb-c8b9e4e74110",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "James Rodriguez",
+      "nationality": "Bangladeshi",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "8aa42bae-bebc-4d35-adab-9ed8f59ebe29",
+    "reputation_score": 79.0,
+    "drivers_json": {
+      "name": "Harper Thomas",
+      "nationality": "Emirati",
+      "avg_insurance_value": 775433,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 129,
+      "avg_provenance_score": 66,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "d700fe97-5fbf-489f-8679-13691884b84d",
+    "reputation_score": 55.0,
+    "drivers_json": {
+      "name": "Benjamin Thompson-Nelson",
+      "nationality": "Austrian",
+      "avg_insurance_value": 691946,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 71,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "7c6d0316-29c5-4b8a-8be8-9d32d41186ec",
+    "reputation_score": 74.0,
+    "drivers_json": {
+      "name": "Evelyn Robinson",
+      "nationality": "Greek",
+      "avg_insurance_value": 92324,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 108,
+      "avg_provenance_score": 86,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "dc71cee2-9e1c-4800-9eb2-dcdbe94dfd80",
+    "reputation_score": 57.0,
+    "drivers_json": {
+      "name": "Henry Torres",
+      "nationality": "Egyptian",
+      "avg_insurance_value": 744735,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 53,
+      "avg_provenance_score": 10,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "d8b1b5bb-9ebb-43fd-840c-cff6fedf92b6",
+    "reputation_score": 48.0,
+    "drivers_json": {
+      "name": "Alexander Baker-Sanchez",
+      "nationality": "Vietnamese",
+      "avg_insurance_value": 842132,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 142,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "95cd0e67-45bb-4306-9879-397bfeb41300",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Abigail Smith",
+      "nationality": "American",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "691f6ac3-415d-4f9d-afca-01b288e711a9",
+    "reputation_score": 74.0,
+    "drivers_json": {
+      "name": "Sebastian Davis-Mitchell",
+      "nationality": "Finnish",
+      "avg_insurance_value": 546386,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 102,
+      "avg_provenance_score": 38,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "8e36396e-590d-438a-844f-98ba492739a0",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Emily Anderson",
+      "nationality": "Canadian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "32e36901-9496-464a-a4ea-eb6a473c8673",
+    "reputation_score": 39.0,
+    "drivers_json": {
+      "name": "Jack Perez",
+      "nationality": "Ghanaian",
+      "avg_insurance_value": 106836,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 48,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "c398f726-6341-4c07-830e-4b8fe748c4b7",
+    "reputation_score": 65.0,
+    "drivers_json": {
+      "name": "Avery Lewis-Walker",
+      "nationality": "Iranian",
+      "avg_insurance_value": 722679,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 103,
+      "avg_provenance_score": 53,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "3daff6f5-a611-4428-86dc-d20766e40c89",
+    "reputation_score": 53.0,
+    "drivers_json": {
+      "name": "Daniel Scott",
+      "nationality": "German",
+      "avg_insurance_value": 391426,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 88,
+      "avg_provenance_score": 0,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "377d3c14-fd9d-408b-858f-64866fc6a687",
+    "reputation_score": 53.0,
+    "drivers_json": {
+      "name": "Sofia Nelson",
+      "nationality": "Hungarian",
+      "avg_insurance_value": 489818,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 76,
+      "avg_provenance_score": 0,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "9399d116-7473-4322-bd20-aba4e72fa830",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Michael Roberts",
+      "nationality": "Colombian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "794a3f0b-fb1a-4af1-89b5-2d230dfb6a56",
+    "reputation_score": 71.0,
+    "drivers_json": {
+      "name": "Ella Miller",
+      "nationality": "Chinese",
+      "avg_insurance_value": 579623,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 71,
+      "avg_provenance_score": 31,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "a6c82aa7-79b4-4840-aedd-aa37ed0185fd",
+    "reputation_score": 49.0,
+    "drivers_json": {
+      "name": "Samuel Wilson-Scott",
+      "nationality": "Lebanese",
+      "avg_insurance_value": 454703,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 114,
+      "avg_provenance_score": 0,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "073e9997-d464-472a-af19-e47d226a993c",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Scarlett Lee",
+      "nationality": "Polish",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "e7f1a7c4-5efd-4bb1-a254-e03ee1a168c5",
+    "reputation_score": 44.0,
+    "drivers_json": {
+      "name": "Jacob Ramirez-Davis",
+      "nationality": "Irish",
+      "avg_insurance_value": 6846,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 4,
+      "avg_provenance_score": 50,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "6851b6dc-5e50-41bb-90fd-19675d32f0c0",
+    "reputation_score": 44.0,
+    "drivers_json": {
+      "name": "Grace Wright-Jackson",
+      "nationality": "Nigerian",
+      "avg_insurance_value": 869093,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 11,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "fcd82e8c-a1f2-4e11-b9cf-c86ac218f7d8",
+    "reputation_score": 72.0,
+    "drivers_json": {
+      "name": "David Adams",
+      "nationality": "Indonesian",
+      "avg_insurance_value": 506700,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 126,
+      "avg_provenance_score": 45,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "7c701dbf-115e-4e8c-9fbe-4efd632f4daf",
+    "reputation_score": 62.0,
+    "drivers_json": {
+      "name": "Chloe Carter",
+      "nationality": "French",
+      "avg_insurance_value": 432123,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 101,
+      "avg_provenance_score": 26,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "25467110-ebf6-401f-96f8-473a0fdd4ad7",
+    "reputation_score": 63.0,
+    "drivers_json": {
+      "name": "Carter Garcia-Johnson",
+      "nationality": "Swedish",
+      "avg_insurance_value": 576056,
+      "signed_ratio": 0.3333333333333333,
+      "avg_artwork_age": 91,
+      "avg_provenance_score": 25,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "4643ddd2-272f-4ac4-9eb3-695394945dd6",
+    "reputation_score": 58.0,
+    "drivers_json": {
+      "name": "Victoria Gonzalez",
+      "nationality": "Brazilian",
+      "avg_insurance_value": 361751,
+      "signed_ratio": 0.3333333333333333,
+      "avg_artwork_age": 105,
+      "avg_provenance_score": 9,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "61f1ed3d-0b93-4789-9bd9-c8186f33153d",
+    "reputation_score": 67.0,
+    "drivers_json": {
+      "name": "Wyatt Martin",
+      "nationality": "Pakistani",
+      "avg_insurance_value": 390968,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 146,
+      "avg_provenance_score": 44,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "99edbb79-dde3-4c93-9469-a18807b9461d",
+    "reputation_score": 73.0,
+    "drivers_json": {
+      "name": "Riley Clark",
+      "nationality": "Saudi",
+      "avg_insurance_value": 493760,
+      "signed_ratio": 0.3333333333333333,
+      "avg_artwork_age": 97,
+      "avg_provenance_score": 62,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "235c7835-ccb3-47b6-b1f3-af9fa2af51b7",
+    "reputation_score": 72.0,
+    "drivers_json": {
+      "name": "Joseph King-Rivera",
+      "nationality": "Swiss",
+      "avg_insurance_value": 540572,
+      "signed_ratio": 0.6666666666666666,
+      "avg_artwork_age": 37,
+      "avg_provenance_score": 51,
+      "num_artworks": 3
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "337b914b-660a-40b2-90c6-58095860d4b5",
+    "reputation_score": 67.0,
+    "drivers_json": {
+      "name": "Nora Green",
+      "nationality": "Turkish",
+      "avg_insurance_value": 330682,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 89,
+      "avg_provenance_score": 71,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "f1136fa6-bffc-4086-ad8a-1269ca00bad7",
+    "reputation_score": 69.0,
+    "drivers_json": {
+      "name": "Owen Mitchell-Moore",
+      "nationality": "Moroccan",
+      "avg_insurance_value": 583751,
+      "signed_ratio": 0.5,
+      "avg_artwork_age": 43,
+      "avg_provenance_score": 57,
+      "num_artworks": 2
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "73151587-c2c4-45a9-9afd-102cd5c45073",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Lily Jones-Lewis",
+      "nationality": "Korean",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "c866cabc-8609-48d2-8bfd-0f33a2f54faa",
+    "reputation_score": 59.0,
+    "drivers_json": {
+      "name": "John Lopez",
+      "nationality": "Qatari",
+      "avg_insurance_value": 468166,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 90,
+      "avg_provenance_score": 15,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "d44d9cfe-7a0e-45cf-ae8c-92f5cd4a2a25",
+    "reputation_score": 48.0,
+    "drivers_json": {
+      "name": "Hannah Jackson",
+      "nationality": "Danish",
+      "avg_insurance_value": 529006,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 98,
+      "avg_provenance_score": 12,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "5f595dbc-c6ad-40fa-a0d6-b84ddbebac88",
+    "reputation_score": 75.0,
+    "drivers_json": {
+      "name": "Luke Sanchez",
+      "nationality": "Welsh",
+      "avg_insurance_value": 800767,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 86,
+      "avg_provenance_score": 70,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "e59ba568-b5ea-48dc-bc6f-42cbebeb3570",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Zoey Allen-Thompson",
+      "nationality": "Ethiopian",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "4e3241b9-b383-47c5-aebf-df3ca062d16e",
+    "reputation_score": 0.0,
+    "drivers_json": {
+      "name": "Gabriel Flores-King",
+      "nationality": "New Zealander",
+      "avg_insurance_value": 0,
+      "signed_ratio": 0.0,
+      "avg_artwork_age": 0,
+      "avg_provenance_score": 0,
+      "num_artworks": 0
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  },
+  {
+    "artist_id": "60156562-d62e-46d6-a5f9-b02347c4539c",
+    "reputation_score": 55.0,
+    "drivers_json": {
+      "name": "Penelope Campbell-Hall",
+      "nationality": "Spanish",
+      "avg_insurance_value": 666394,
+      "signed_ratio": 1.0,
+      "avg_artwork_age": 62,
+      "avg_provenance_score": 0,
+      "num_artworks": 1
+    },
+    "created_at": "2025-09-15T19:47:45.049147+00:00"
+  }
+]

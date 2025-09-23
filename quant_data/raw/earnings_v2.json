@@ -1,0 +1,3602 @@
+[
+  {
+    "earnings_id": "EARN-000001",
+    "dealer_id": "DEALER-001",
+    "year": 2015,
+    "earnings": 361692
+  },
+  {
+    "earnings_id": "EARN-000002",
+    "dealer_id": "DEALER-001",
+    "year": 2016,
+    "earnings": 371917
+  },
+  {
+    "earnings_id": "EARN-000003",
+    "dealer_id": "DEALER-001",
+    "year": 2017,
+    "earnings": 391474
+  },
+  {
+    "earnings_id": "EARN-000004",
+    "dealer_id": "DEALER-001",
+    "year": 2018,
+    "earnings": 372793
+  },
+  {
+    "earnings_id": "EARN-000005",
+    "dealer_id": "DEALER-001",
+    "year": 2019,
+    "earnings": 376671
+  },
+  {
+    "earnings_id": "EARN-000006",
+    "dealer_id": "DEALER-001",
+    "year": 2020,
+    "earnings": 351555
+  },
+  {
+    "earnings_id": "EARN-000007",
+    "dealer_id": "DEALER-001",
+    "year": 2021,
+    "earnings": 349990
+  },
+  {
+    "earnings_id": "EARN-000008",
+    "dealer_id": "DEALER-001",
+    "year": 2022,
+    "earnings": 370809
+  },
+  {
+    "earnings_id": "EARN-000009",
+    "dealer_id": "DEALER-001",
+    "year": 2023,
+    "earnings": 390179
+  },
+  {
+    "earnings_id": "EARN-000010",
+    "dealer_id": "DEALER-001",
+    "year": 2024,
+    "earnings": 376625
+  },
+  {
+    "earnings_id": "EARN-000011",
+    "dealer_id": "DEALER-002",
+    "year": 2015,
+    "earnings": 59238
+  },
+  {
+    "earnings_id": "EARN-000012",
+    "dealer_id": "DEALER-002",
+    "year": 2016,
+    "earnings": 63171
+  },
+  {
+    "earnings_id": "EARN-000013",
+    "dealer_id": "DEALER-002",
+    "year": 2017,
+    "earnings": 57946
+  },
+  {
+    "earnings_id": "EARN-000014",
+    "dealer_id": "DEALER-002",
+    "year": 2018,
+    "earnings": 54550
+  },
+  {
+    "earnings_id": "EARN-000015",
+    "dealer_id": "DEALER-002",
+    "year": 2019,
+    "earnings": 50145
+  },
+  {
+    "earnings_id": "EARN-000016",
+    "dealer_id": "DEALER-002",
+    "year": 2020,
+    "earnings": 50564
+  },
+  {
+    "earnings_id": "EARN-000017",
+    "dealer_id": "DEALER-002",
+    "year": 2021,
+    "earnings": 48966
+  },
+  {
+    "earnings_id": "EARN-000018",
+    "dealer_id": "DEALER-002",
+    "year": 2022,
+    "earnings": 51004
+  },
+  {
+    "earnings_id": "EARN-000019",
+    "dealer_id": "DEALER-002",
+    "year": 2023,
+    "earnings": 54888
+  },
+  {
+    "earnings_id": "EARN-000020",
+    "dealer_id": "DEALER-002",
+    "year": 2024,
+    "earnings": 49655
+  },
+  {
+    "earnings_id": "EARN-000021",
+    "dealer_id": "DEALER-003",
+    "year": 2015,
+    "earnings": 423924
+  },
+  {
+    "earnings_id": "EARN-000022",
+    "dealer_id": "DEALER-003",
+    "year": 2016,
+    "earnings": 486761
+  },
+  {
+    "earnings_id": "EARN-000023",
+    "dealer_id": "DEALER-003",
+    "year": 2017,
+    "earnings": 564494
+  },
+  {
+    "earnings_id": "EARN-000024",
+    "dealer_id": "DEALER-003",
+    "year": 2018,
+    "earnings": 622150
+  },
+  {
+    "earnings_id": "EARN-000025",
+    "dealer_id": "DEALER-003",
+    "year": 2019,
+    "earnings": 633277
+  },
+  {
+    "earnings_id": "EARN-000026",
+    "dealer_id": "DEALER-003",
+    "year": 2020,
+    "earnings": 722621
+  },
+  {
+    "earnings_id": "EARN-000027",
+    "dealer_id": "DEALER-003",
+    "year": 2021,
+    "earnings": 749194
+  },
+  {
+    "earnings_id": "EARN-000028",
+    "dealer_id": "DEALER-003",
+    "year": 2022,
+    "earnings": 756136
+  },
+  {
+    "earnings_id": "EARN-000029",
+    "dealer_id": "DEALER-003",
+    "year": 2023,
+    "earnings": 791553
+  },
+  {
+    "earnings_id": "EARN-000030",
+    "dealer_id": "DEALER-003",
+    "year": 2024,
+    "earnings": 855655
+  },
+  {
+    "earnings_id": "EARN-000031",
+    "dealer_id": "DEALER-004",
+    "year": 2015,
+    "earnings": 85472
+  },
+  {
+    "earnings_id": "EARN-000032",
+    "dealer_id": "DEALER-004",
+    "year": 2016,
+    "earnings": 95080
+  },
+  {
+    "earnings_id": "EARN-000033",
+    "dealer_id": "DEALER-004",
+    "year": 2017,
+    "earnings": 109653
+  },
+  {
+    "earnings_id": "EARN-000034",
+    "dealer_id": "DEALER-004",
+    "year": 2018,
+    "earnings": 120192
+  },
+  {
+    "earnings_id": "EARN-000035",
+    "dealer_id": "DEALER-004",
+    "year": 2019,
+    "earnings": 135269
+  },
+  {
+    "earnings_id": "EARN-000036",
+    "dealer_id": "DEALER-004",
+    "year": 2020,
+    "earnings": 140976
+  },
+  {
+    "earnings_id": "EARN-000037",
+    "dealer_id": "DEALER-004",
+    "year": 2021,
+    "earnings": 144214
+  },
+  {
+    "earnings_id": "EARN-000038",
+    "dealer_id": "DEALER-004",
+    "year": 2022,
+    "earnings": 148405
+  },
+  {
+    "earnings_id": "EARN-000039",
+    "dealer_id": "DEALER-004",
+    "year": 2023,
+    "earnings": 163595
+  },
+  {
+    "earnings_id": "EARN-000040",
+    "dealer_id": "DEALER-004",
+    "year": 2024,
+    "earnings": 175722
+  },
+  {
+    "earnings_id": "EARN-000041",
+    "dealer_id": "DEALER-005",
+    "year": 2015,
+    "earnings": 67837
+  },
+  {
+    "earnings_id": "EARN-000042",
+    "dealer_id": "DEALER-005",
+    "year": 2016,
+    "earnings": 64808
+  },
+  {
+    "earnings_id": "EARN-000043",
+    "dealer_id": "DEALER-005",
+    "year": 2017,
+    "earnings": 63423
+  },
+  {
+    "earnings_id": "EARN-000044",
+    "dealer_id": "DEALER-005",
+    "year": 2018,
+    "earnings": 66173
+  },
+  {
+    "earnings_id": "EARN-000045",
+    "dealer_id": "DEALER-005",
+    "year": 2019,
+    "earnings": 60150
+  },
+  {
+    "earnings_id": "EARN-000046",
+    "dealer_id": "DEALER-005",
+    "year": 2020,
+    "earnings": 59341
+  },
+  {
+    "earnings_id": "EARN-000047",
+    "dealer_id": "DEALER-005",
+    "year": 2021,
+    "earnings": 60053
+  },
+  {
+    "earnings_id": "EARN-000048",
+    "dealer_id": "DEALER-005",
+    "year": 2022,
+    "earnings": 61615
+  },
+  {
+    "earnings_id": "EARN-000049",
+    "dealer_id": "DEALER-005",
+    "year": 2023,
+    "earnings": 59600
+  },
+  {
+    "earnings_id": "EARN-000050",
+    "dealer_id": "DEALER-005",
+    "year": 2024,
+    "earnings": 54817
+  },
+  {
+    "earnings_id": "EARN-000051",
+    "dealer_id": "DEALER-006",
+    "year": 2015,
+    "earnings": 100617
+  },
+  {
+    "earnings_id": "EARN-000052",
+    "dealer_id": "DEALER-006",
+    "year": 2016,
+    "earnings": 105905
+  },
+  {
+    "earnings_id": "EARN-000053",
+    "dealer_id": "DEALER-006",
+    "year": 2017,
+    "earnings": 97949
+  },
+  {
+    "earnings_id": "EARN-000054",
+    "dealer_id": "DEALER-006",
+    "year": 2018,
+    "earnings": 100572
+  },
+  {
+    "earnings_id": "EARN-000055",
+    "dealer_id": "DEALER-006",
+    "year": 2019,
+    "earnings": 97046
+  },
+  {
+    "earnings_id": "EARN-000056",
+    "dealer_id": "DEALER-006",
+    "year": 2020,
+    "earnings": 85761
+  },
+  {
+    "earnings_id": "EARN-000057",
+    "dealer_id": "DEALER-006",
+    "year": 2021,
+    "earnings": 83860
+  },
+  {
+    "earnings_id": "EARN-000058",
+    "dealer_id": "DEALER-006",
+    "year": 2022,
+    "earnings": 81501
+  },
+  {
+    "earnings_id": "EARN-000059",
+    "dealer_id": "DEALER-006",
+    "year": 2023,
+    "earnings": 80441
+  },
+  {
+    "earnings_id": "EARN-000060",
+    "dealer_id": "DEALER-006",
+    "year": 2024,
+    "earnings": 81642
+  },
+  {
+    "earnings_id": "EARN-000061",
+    "dealer_id": "DEALER-007",
+    "year": 2015,
+    "earnings": 517987
+  },
+  {
+    "earnings_id": "EARN-000062",
+    "dealer_id": "DEALER-007",
+    "year": 2016,
+    "earnings": 599258
+  },
+  {
+    "earnings_id": "EARN-000063",
+    "dealer_id": "DEALER-007",
+    "year": 2017,
+    "earnings": 703994
+  },
+  {
+    "earnings_id": "EARN-000064",
+    "dealer_id": "DEALER-007",
+    "year": 2018,
+    "earnings": 766151
+  },
+  {
+    "earnings_id": "EARN-000065",
+    "dealer_id": "DEALER-007",
+    "year": 2019,
+    "earnings": 862138
+  },
+  {
+    "earnings_id": "EARN-000066",
+    "dealer_id": "DEALER-007",
+    "year": 2020,
+    "earnings": 976798
+  },
+  {
+    "earnings_id": "EARN-000067",
+    "dealer_id": "DEALER-007",
+    "year": 2021,
+    "earnings": 1145532
+  },
+  {
+    "earnings_id": "EARN-000068",
+    "dealer_id": "DEALER-007",
+    "year": 2022,
+    "earnings": 1272599
+  },
+  {
+    "earnings_id": "EARN-000069",
+    "dealer_id": "DEALER-007",
+    "year": 2023,
+    "earnings": 1545873
+  },
+  {
+    "earnings_id": "EARN-000070",
+    "dealer_id": "DEALER-007",
+    "year": 2024,
+    "earnings": 1879557
+  },
+  {
+    "earnings_id": "EARN-000071",
+    "dealer_id": "DEALER-008",
+    "year": 2015,
+    "earnings": 143513
+  },
+  {
+    "earnings_id": "EARN-000072",
+    "dealer_id": "DEALER-008",
+    "year": 2016,
+    "earnings": 154886
+  },
+  {
+    "earnings_id": "EARN-000073",
+    "dealer_id": "DEALER-008",
+    "year": 2017,
+    "earnings": 177221
+  },
+  {
+    "earnings_id": "EARN-000074",
+    "dealer_id": "DEALER-008",
+    "year": 2018,
+    "earnings": 191907
+  },
+  {
+    "earnings_id": "EARN-000075",
+    "dealer_id": "DEALER-008",
+    "year": 2019,
+    "earnings": 207663
+  },
+  {
+    "earnings_id": "EARN-000076",
+    "dealer_id": "DEALER-008",
+    "year": 2020,
+    "earnings": 218062
+  },
+  {
+    "earnings_id": "EARN-000077",
+    "dealer_id": "DEALER-008",
+    "year": 2021,
+    "earnings": 267593
+  },
+  {
+    "earnings_id": "EARN-000078",
+    "dealer_id": "DEALER-008",
+    "year": 2022,
+    "earnings": 317485
+  },
+  {
+    "earnings_id": "EARN-000079",
+    "dealer_id": "DEALER-008",
+    "year": 2023,
+    "earnings": 347436
+  },
+  {
+    "earnings_id": "EARN-000080",
+    "dealer_id": "DEALER-008",
+    "year": 2024,
+    "earnings": 375747
+  },
+  {
+    "earnings_id": "EARN-000081",
+    "dealer_id": "DEALER-009",
+    "year": 2015,
+    "earnings": 55347
+  },
+  {
+    "earnings_id": "EARN-000082",
+    "dealer_id": "DEALER-009",
+    "year": 2016,
+    "earnings": 58603
+  },
+  {
+    "earnings_id": "EARN-000083",
+    "dealer_id": "DEALER-009",
+    "year": 2017,
+    "earnings": 68095
+  },
+  {
+    "earnings_id": "EARN-000084",
+    "dealer_id": "DEALER-009",
+    "year": 2018,
+    "earnings": 70416
+  },
+  {
+    "earnings_id": "EARN-000085",
+    "dealer_id": "DEALER-009",
+    "year": 2019,
+    "earnings": 82363
+  },
+  {
+    "earnings_id": "EARN-000086",
+    "dealer_id": "DEALER-009",
+    "year": 2020,
+    "earnings": 81464
+  },
+  {
+    "earnings_id": "EARN-000087",
+    "dealer_id": "DEALER-009",
+    "year": 2021,
+    "earnings": 81379
+  },
+  {
+    "earnings_id": "EARN-000088",
+    "dealer_id": "DEALER-009",
+    "year": 2022,
+    "earnings": 92280
+  },
+  {
+    "earnings_id": "EARN-000089",
+    "dealer_id": "DEALER-009",
+    "year": 2023,
+    "earnings": 96174
+  },
+  {
+    "earnings_id": "EARN-000090",
+    "dealer_id": "DEALER-009",
+    "year": 2024,
+    "earnings": 109705
+  },
+  {
+    "earnings_id": "EARN-000091",
+    "dealer_id": "DEALER-010",
+    "year": 2015,
+    "earnings": 459126
+  },
+  {
+    "earnings_id": "EARN-000092",
+    "dealer_id": "DEALER-010",
+    "year": 2016,
+    "earnings": 474417
+  },
+  {
+    "earnings_id": "EARN-000093",
+    "dealer_id": "DEALER-010",
+    "year": 2017,
+    "earnings": 487496
+  },
+  {
+    "earnings_id": "EARN-000094",
+    "dealer_id": "DEALER-010",
+    "year": 2018,
+    "earnings": 497685
+  },
+  {
+    "earnings_id": "EARN-000095",
+    "dealer_id": "DEALER-010",
+    "year": 2019,
+    "earnings": 521190
+  },
+  {
+    "earnings_id": "EARN-000096",
+    "dealer_id": "DEALER-010",
+    "year": 2020,
+    "earnings": 561666
+  },
+  {
+    "earnings_id": "EARN-000097",
+    "dealer_id": "DEALER-010",
+    "year": 2021,
+    "earnings": 598265
+  },
+  {
+    "earnings_id": "EARN-000098",
+    "dealer_id": "DEALER-010",
+    "year": 2022,
+    "earnings": 628849
+  },
+  {
+    "earnings_id": "EARN-000099",
+    "dealer_id": "DEALER-010",
+    "year": 2023,
+    "earnings": 609222
+  },
+  {
+    "earnings_id": "EARN-000100",
+    "dealer_id": "DEALER-010",
+    "year": 2024,
+    "earnings": 674815
+  },
+  {
+    "earnings_id": "EARN-000101",
+    "dealer_id": "DEALER-011",
+    "year": 2015,
+    "earnings": 513781
+  },
+  {
+    "earnings_id": "EARN-000102",
+    "dealer_id": "DEALER-011",
+    "year": 2016,
+    "earnings": 487959
+  },
+  {
+    "earnings_id": "EARN-000103",
+    "dealer_id": "DEALER-011",
+    "year": 2017,
+    "earnings": 476376
+  },
+  {
+    "earnings_id": "EARN-000104",
+    "dealer_id": "DEALER-011",
+    "year": 2018,
+    "earnings": 481840
+  },
+  {
+    "earnings_id": "EARN-000105",
+    "dealer_id": "DEALER-011",
+    "year": 2019,
+    "earnings": 489097
+  },
+  {
+    "earnings_id": "EARN-000106",
+    "dealer_id": "DEALER-011",
+    "year": 2020,
+    "earnings": 427318
+  },
+  {
+    "earnings_id": "EARN-000107",
+    "dealer_id": "DEALER-011",
+    "year": 2021,
+    "earnings": 419401
+  },
+  {
+    "earnings_id": "EARN-000108",
+    "dealer_id": "DEALER-011",
+    "year": 2022,
+    "earnings": 421194
+  },
+  {
+    "earnings_id": "EARN-000109",
+    "dealer_id": "DEALER-011",
+    "year": 2023,
+    "earnings": 448145
+  },
+  {
+    "earnings_id": "EARN-000110",
+    "dealer_id": "DEALER-011",
+    "year": 2024,
+    "earnings": 455821
+  },
+  {
+    "earnings_id": "EARN-000111",
+    "dealer_id": "DEALER-012",
+    "year": 2015,
+    "earnings": 132060
+  },
+  {
+    "earnings_id": "EARN-000112",
+    "dealer_id": "DEALER-012",
+    "year": 2016,
+    "earnings": 138907
+  },
+  {
+    "earnings_id": "EARN-000113",
+    "dealer_id": "DEALER-012",
+    "year": 2017,
+    "earnings": 126214
+  },
+  {
+    "earnings_id": "EARN-000114",
+    "dealer_id": "DEALER-012",
+    "year": 2018,
+    "earnings": 132520
+  },
+  {
+    "earnings_id": "EARN-000115",
+    "dealer_id": "DEALER-012",
+    "year": 2019,
+    "earnings": 133058
+  },
+  {
+    "earnings_id": "EARN-000116",
+    "dealer_id": "DEALER-012",
+    "year": 2020,
+    "earnings": 124592
+  },
+  {
+    "earnings_id": "EARN-000117",
+    "dealer_id": "DEALER-012",
+    "year": 2021,
+    "earnings": 115596
+  },
+  {
+    "earnings_id": "EARN-000118",
+    "dealer_id": "DEALER-012",
+    "year": 2022,
+    "earnings": 122796
+  },
+  {
+    "earnings_id": "EARN-000119",
+    "dealer_id": "DEALER-012",
+    "year": 2023,
+    "earnings": 128766
+  },
+  {
+    "earnings_id": "EARN-000120",
+    "dealer_id": "DEALER-012",
+    "year": 2024,
+    "earnings": 113249
+  },
+  {
+    "earnings_id": "EARN-000121",
+    "dealer_id": "DEALER-013",
+    "year": 2015,
+    "earnings": 97665
+  },
+  {
+    "earnings_id": "EARN-000122",
+    "dealer_id": "DEALER-013",
+    "year": 2016,
+    "earnings": 93491
+  },
+  {
+    "earnings_id": "EARN-000123",
+    "dealer_id": "DEALER-013",
+    "year": 2017,
+    "earnings": 97047
+  },
+  {
+    "earnings_id": "EARN-000124",
+    "dealer_id": "DEALER-013",
+    "year": 2018,
+    "earnings": 103361
+  },
+  {
+    "earnings_id": "EARN-000125",
+    "dealer_id": "DEALER-013",
+    "year": 2019,
+    "earnings": 103105
+  },
+  {
+    "earnings_id": "EARN-000126",
+    "dealer_id": "DEALER-013",
+    "year": 2020,
+    "earnings": 95832
+  },
+  {
+    "earnings_id": "EARN-000127",
+    "dealer_id": "DEALER-013",
+    "year": 2021,
+    "earnings": 95622
+  },
+  {
+    "earnings_id": "EARN-000128",
+    "dealer_id": "DEALER-013",
+    "year": 2022,
+    "earnings": 89164
+  },
+  {
+    "earnings_id": "EARN-000129",
+    "dealer_id": "DEALER-013",
+    "year": 2023,
+    "earnings": 98344
+  },
+  {
+    "earnings_id": "EARN-000130",
+    "dealer_id": "DEALER-013",
+    "year": 2024,
+    "earnings": 101214
+  },
+  {
+    "earnings_id": "EARN-000131",
+    "dealer_id": "DEALER-014",
+    "year": 2015,
+    "earnings": 383977
+  },
+  {
+    "earnings_id": "EARN-000132",
+    "dealer_id": "DEALER-014",
+    "year": 2016,
+    "earnings": 438205
+  },
+  {
+    "earnings_id": "EARN-000133",
+    "dealer_id": "DEALER-014",
+    "year": 2017,
+    "earnings": 502558
+  },
+  {
+    "earnings_id": "EARN-000134",
+    "dealer_id": "DEALER-014",
+    "year": 2018,
+    "earnings": 552627
+  },
+  {
+    "earnings_id": "EARN-000135",
+    "dealer_id": "DEALER-014",
+    "year": 2019,
+    "earnings": 626782
+  },
+  {
+    "earnings_id": "EARN-000136",
+    "dealer_id": "DEALER-014",
+    "year": 2020,
+    "earnings": 729036
+  },
+  {
+    "earnings_id": "EARN-000137",
+    "dealer_id": "DEALER-014",
+    "year": 2021,
+    "earnings": 890805
+  },
+  {
+    "earnings_id": "EARN-000138",
+    "dealer_id": "DEALER-014",
+    "year": 2022,
+    "earnings": 1089249
+  },
+  {
+    "earnings_id": "EARN-000139",
+    "dealer_id": "DEALER-014",
+    "year": 2023,
+    "earnings": 1163786
+  },
+  {
+    "earnings_id": "EARN-000140",
+    "dealer_id": "DEALER-014",
+    "year": 2024,
+    "earnings": 1385082
+  },
+  {
+    "earnings_id": "EARN-000141",
+    "dealer_id": "DEALER-015",
+    "year": 2015,
+    "earnings": 480360
+  },
+  {
+    "earnings_id": "EARN-000142",
+    "dealer_id": "DEALER-015",
+    "year": 2016,
+    "earnings": 479548
+  },
+  {
+    "earnings_id": "EARN-000143",
+    "dealer_id": "DEALER-015",
+    "year": 2017,
+    "earnings": 553718
+  },
+  {
+    "earnings_id": "EARN-000144",
+    "dealer_id": "DEALER-015",
+    "year": 2018,
+    "earnings": 569894
+  },
+  {
+    "earnings_id": "EARN-000145",
+    "dealer_id": "DEALER-015",
+    "year": 2019,
+    "earnings": 603303
+  },
+  {
+    "earnings_id": "EARN-000146",
+    "dealer_id": "DEALER-015",
+    "year": 2020,
+    "earnings": 675380
+  },
+  {
+    "earnings_id": "EARN-000147",
+    "dealer_id": "DEALER-015",
+    "year": 2021,
+    "earnings": 703404
+  },
+  {
+    "earnings_id": "EARN-000148",
+    "dealer_id": "DEALER-015",
+    "year": 2022,
+    "earnings": 764517
+  },
+  {
+    "earnings_id": "EARN-000149",
+    "dealer_id": "DEALER-015",
+    "year": 2023,
+    "earnings": 888564
+  },
+  {
+    "earnings_id": "EARN-000150",
+    "dealer_id": "DEALER-015",
+    "year": 2024,
+    "earnings": 995736
+  },
+  {
+    "earnings_id": "EARN-000151",
+    "dealer_id": "DEALER-016",
+    "year": 2015,
+    "earnings": 215894
+  },
+  {
+    "earnings_id": "EARN-000152",
+    "dealer_id": "DEALER-016",
+    "year": 2016,
+    "earnings": 236095
+  },
+  {
+    "earnings_id": "EARN-000153",
+    "dealer_id": "DEALER-016",
+    "year": 2017,
+    "earnings": 233182
+  },
+  {
+    "earnings_id": "EARN-000154",
+    "dealer_id": "DEALER-016",
+    "year": 2018,
+    "earnings": 254008
+  },
+  {
+    "earnings_id": "EARN-000155",
+    "dealer_id": "DEALER-016",
+    "year": 2019,
+    "earnings": 272201
+  },
+  {
+    "earnings_id": "EARN-000156",
+    "dealer_id": "DEALER-016",
+    "year": 2020,
+    "earnings": 274719
+  },
+  {
+    "earnings_id": "EARN-000157",
+    "dealer_id": "DEALER-016",
+    "year": 2021,
+    "earnings": 296659
+  },
+  {
+    "earnings_id": "EARN-000158",
+    "dealer_id": "DEALER-016",
+    "year": 2022,
+    "earnings": 317277
+  },
+  {
+    "earnings_id": "EARN-000159",
+    "dealer_id": "DEALER-016",
+    "year": 2023,
+    "earnings": 373483
+  },
+  {
+    "earnings_id": "EARN-000160",
+    "dealer_id": "DEALER-016",
+    "year": 2024,
+    "earnings": 440988
+  },
+  {
+    "earnings_id": "EARN-000161",
+    "dealer_id": "DEALER-017",
+    "year": 2015,
+    "earnings": 520523
+  },
+  {
+    "earnings_id": "EARN-000162",
+    "dealer_id": "DEALER-017",
+    "year": 2016,
+    "earnings": 570620
+  },
+  {
+    "earnings_id": "EARN-000163",
+    "dealer_id": "DEALER-017",
+    "year": 2017,
+    "earnings": 685758
+  },
+  {
+    "earnings_id": "EARN-000164",
+    "dealer_id": "DEALER-017",
+    "year": 2018,
+    "earnings": 725833
+  },
+  {
+    "earnings_id": "EARN-000165",
+    "dealer_id": "DEALER-017",
+    "year": 2019,
+    "earnings": 844774
+  },
+  {
+    "earnings_id": "EARN-000166",
+    "dealer_id": "DEALER-017",
+    "year": 2020,
+    "earnings": 1021442
+  },
+  {
+    "earnings_id": "EARN-000167",
+    "dealer_id": "DEALER-017",
+    "year": 2021,
+    "earnings": 1254279
+  },
+  {
+    "earnings_id": "EARN-000168",
+    "dealer_id": "DEALER-017",
+    "year": 2022,
+    "earnings": 1390977
+  },
+  {
+    "earnings_id": "EARN-000169",
+    "dealer_id": "DEALER-017",
+    "year": 2023,
+    "earnings": 1536455
+  },
+  {
+    "earnings_id": "EARN-000170",
+    "dealer_id": "DEALER-017",
+    "year": 2024,
+    "earnings": 1811065
+  },
+  {
+    "earnings_id": "EARN-000171",
+    "dealer_id": "DEALER-018",
+    "year": 2015,
+    "earnings": 215018
+  },
+  {
+    "earnings_id": "EARN-000172",
+    "dealer_id": "DEALER-018",
+    "year": 2016,
+    "earnings": 223750
+  },
+  {
+    "earnings_id": "EARN-000173",
+    "dealer_id": "DEALER-018",
+    "year": 2017,
+    "earnings": 227274
+  },
+  {
+    "earnings_id": "EARN-000174",
+    "dealer_id": "DEALER-018",
+    "year": 2018,
+    "earnings": 237092
+  },
+  {
+    "earnings_id": "EARN-000175",
+    "dealer_id": "DEALER-018",
+    "year": 2019,
+    "earnings": 223925
+  },
+  {
+    "earnings_id": "EARN-000176",
+    "dealer_id": "DEALER-018",
+    "year": 2020,
+    "earnings": 212921
+  },
+  {
+    "earnings_id": "EARN-000177",
+    "dealer_id": "DEALER-018",
+    "year": 2021,
+    "earnings": 219206
+  },
+  {
+    "earnings_id": "EARN-000178",
+    "dealer_id": "DEALER-018",
+    "year": 2022,
+    "earnings": 191317
+  },
+  {
+    "earnings_id": "EARN-000179",
+    "dealer_id": "DEALER-018",
+    "year": 2023,
+    "earnings": 198672
+  },
+  {
+    "earnings_id": "EARN-000180",
+    "dealer_id": "DEALER-018",
+    "year": 2024,
+    "earnings": 180886
+  },
+  {
+    "earnings_id": "EARN-000181",
+    "dealer_id": "DEALER-019",
+    "year": 2015,
+    "earnings": 299984
+  },
+  {
+    "earnings_id": "EARN-000182",
+    "dealer_id": "DEALER-019",
+    "year": 2016,
+    "earnings": 299468
+  },
+  {
+    "earnings_id": "EARN-000183",
+    "dealer_id": "DEALER-019",
+    "year": 2017,
+    "earnings": 307733
+  },
+  {
+    "earnings_id": "EARN-000184",
+    "dealer_id": "DEALER-019",
+    "year": 2018,
+    "earnings": 344613
+  },
+  {
+    "earnings_id": "EARN-000185",
+    "dealer_id": "DEALER-019",
+    "year": 2019,
+    "earnings": 374412
+  },
+  {
+    "earnings_id": "EARN-000186",
+    "dealer_id": "DEALER-019",
+    "year": 2020,
+    "earnings": 419687
+  },
+  {
+    "earnings_id": "EARN-000187",
+    "dealer_id": "DEALER-019",
+    "year": 2021,
+    "earnings": 424014
+  },
+  {
+    "earnings_id": "EARN-000188",
+    "dealer_id": "DEALER-019",
+    "year": 2022,
+    "earnings": 432885
+  },
+  {
+    "earnings_id": "EARN-000189",
+    "dealer_id": "DEALER-019",
+    "year": 2023,
+    "earnings": 432975
+  },
+  {
+    "earnings_id": "EARN-000190",
+    "dealer_id": "DEALER-019",
+    "year": 2024,
+    "earnings": 456928
+  },
+  {
+    "earnings_id": "EARN-000191",
+    "dealer_id": "DEALER-020",
+    "year": 2015,
+    "earnings": 187207
+  },
+  {
+    "earnings_id": "EARN-000192",
+    "dealer_id": "DEALER-020",
+    "year": 2016,
+    "earnings": 191583
+  },
+  {
+    "earnings_id": "EARN-000193",
+    "dealer_id": "DEALER-020",
+    "year": 2017,
+    "earnings": 184947
+  },
+  {
+    "earnings_id": "EARN-000194",
+    "dealer_id": "DEALER-020",
+    "year": 2018,
+    "earnings": 183392
+  },
+  {
+    "earnings_id": "EARN-000195",
+    "dealer_id": "DEALER-020",
+    "year": 2019,
+    "earnings": 193854
+  },
+  {
+    "earnings_id": "EARN-000196",
+    "dealer_id": "DEALER-020",
+    "year": 2020,
+    "earnings": 214271
+  },
+  {
+    "earnings_id": "EARN-000197",
+    "dealer_id": "DEALER-020",
+    "year": 2021,
+    "earnings": 209554
+  },
+  {
+    "earnings_id": "EARN-000198",
+    "dealer_id": "DEALER-020",
+    "year": 2022,
+    "earnings": 213906
+  },
+  {
+    "earnings_id": "EARN-000199",
+    "dealer_id": "DEALER-020",
+    "year": 2023,
+    "earnings": 234519
+  },
+  {
+    "earnings_id": "EARN-000200",
+    "dealer_id": "DEALER-020",
+    "year": 2024,
+    "earnings": 233591
+  },
+  {
+    "earnings_id": "EARN-000201",
+    "dealer_id": "DEALER-021",
+    "year": 2015,
+    "earnings": 477175
+  },
+  {
+    "earnings_id": "EARN-000202",
+    "dealer_id": "DEALER-021",
+    "year": 2016,
+    "earnings": 582062
+  },
+  {
+    "earnings_id": "EARN-000203",
+    "dealer_id": "DEALER-021",
+    "year": 2017,
+    "earnings": 719767
+  },
+  {
+    "earnings_id": "EARN-000204",
+    "dealer_id": "DEALER-021",
+    "year": 2018,
+    "earnings": 876422
+  },
+  {
+    "earnings_id": "EARN-000205",
+    "dealer_id": "DEALER-021",
+    "year": 2019,
+    "earnings": 951808
+  },
+  {
+    "earnings_id": "EARN-000206",
+    "dealer_id": "DEALER-021",
+    "year": 2020,
+    "earnings": 1153521
+  },
+  {
+    "earnings_id": "EARN-000207",
+    "dealer_id": "DEALER-021",
+    "year": 2021,
+    "earnings": 1284730
+  },
+  {
+    "earnings_id": "EARN-000208",
+    "dealer_id": "DEALER-021",
+    "year": 2022,
+    "earnings": 1553644
+  },
+  {
+    "earnings_id": "EARN-000209",
+    "dealer_id": "DEALER-021",
+    "year": 2023,
+    "earnings": 1661426
+  },
+  {
+    "earnings_id": "EARN-000210",
+    "dealer_id": "DEALER-021",
+    "year": 2024,
+    "earnings": 2056994
+  },
+  {
+    "earnings_id": "EARN-000211",
+    "dealer_id": "DEALER-022",
+    "year": 2015,
+    "earnings": 573347
+  },
+  {
+    "earnings_id": "EARN-000212",
+    "dealer_id": "DEALER-022",
+    "year": 2016,
+    "earnings": 638703
+  },
+  {
+    "earnings_id": "EARN-000213",
+    "dealer_id": "DEALER-022",
+    "year": 2017,
+    "earnings": 662845
+  },
+  {
+    "earnings_id": "EARN-000214",
+    "dealer_id": "DEALER-022",
+    "year": 2018,
+    "earnings": 723205
+  },
+  {
+    "earnings_id": "EARN-000215",
+    "dealer_id": "DEALER-022",
+    "year": 2019,
+    "earnings": 746916
+  },
+  {
+    "earnings_id": "EARN-000216",
+    "dealer_id": "DEALER-022",
+    "year": 2020,
+    "earnings": 867695
+  },
+  {
+    "earnings_id": "EARN-000217",
+    "dealer_id": "DEALER-022",
+    "year": 2021,
+    "earnings": 892572
+  },
+  {
+    "earnings_id": "EARN-000218",
+    "dealer_id": "DEALER-022",
+    "year": 2022,
+    "earnings": 917716
+  },
+  {
+    "earnings_id": "EARN-000219",
+    "dealer_id": "DEALER-022",
+    "year": 2023,
+    "earnings": 1093589
+  },
+  {
+    "earnings_id": "EARN-000220",
+    "dealer_id": "DEALER-022",
+    "year": 2024,
+    "earnings": 1213702
+  },
+  {
+    "earnings_id": "EARN-000221",
+    "dealer_id": "DEALER-023",
+    "year": 2015,
+    "earnings": 405019
+  },
+  {
+    "earnings_id": "EARN-000222",
+    "dealer_id": "DEALER-023",
+    "year": 2016,
+    "earnings": 419073
+  },
+  {
+    "earnings_id": "EARN-000223",
+    "dealer_id": "DEALER-023",
+    "year": 2017,
+    "earnings": 506768
+  },
+  {
+    "earnings_id": "EARN-000224",
+    "dealer_id": "DEALER-023",
+    "year": 2018,
+    "earnings": 548250
+  },
+  {
+    "earnings_id": "EARN-000225",
+    "dealer_id": "DEALER-023",
+    "year": 2019,
+    "earnings": 670331
+  },
+  {
+    "earnings_id": "EARN-000226",
+    "dealer_id": "DEALER-023",
+    "year": 2020,
+    "earnings": 782381
+  },
+  {
+    "earnings_id": "EARN-000227",
+    "dealer_id": "DEALER-023",
+    "year": 2021,
+    "earnings": 956709
+  },
+  {
+    "earnings_id": "EARN-000228",
+    "dealer_id": "DEALER-023",
+    "year": 2022,
+    "earnings": 1136304
+  },
+  {
+    "earnings_id": "EARN-000229",
+    "dealer_id": "DEALER-023",
+    "year": 2023,
+    "earnings": 1293962
+  },
+  {
+    "earnings_id": "EARN-000230",
+    "dealer_id": "DEALER-023",
+    "year": 2024,
+    "earnings": 1430025
+  },
+  {
+    "earnings_id": "EARN-000231",
+    "dealer_id": "DEALER-024",
+    "year": 2015,
+    "earnings": 426880
+  },
+  {
+    "earnings_id": "EARN-000232",
+    "dealer_id": "DEALER-024",
+    "year": 2016,
+    "earnings": 400963
+  },
+  {
+    "earnings_id": "EARN-000233",
+    "dealer_id": "DEALER-024",
+    "year": 2017,
+    "earnings": 430219
+  },
+  {
+    "earnings_id": "EARN-000234",
+    "dealer_id": "DEALER-024",
+    "year": 2018,
+    "earnings": 487058
+  },
+  {
+    "earnings_id": "EARN-000235",
+    "dealer_id": "DEALER-024",
+    "year": 2019,
+    "earnings": 480183
+  },
+  {
+    "earnings_id": "EARN-000236",
+    "dealer_id": "DEALER-024",
+    "year": 2020,
+    "earnings": 534303
+  },
+  {
+    "earnings_id": "EARN-000237",
+    "dealer_id": "DEALER-024",
+    "year": 2021,
+    "earnings": 540220
+  },
+  {
+    "earnings_id": "EARN-000238",
+    "dealer_id": "DEALER-024",
+    "year": 2022,
+    "earnings": 572964
+  },
+  {
+    "earnings_id": "EARN-000239",
+    "dealer_id": "DEALER-024",
+    "year": 2023,
+    "earnings": 620533
+  },
+  {
+    "earnings_id": "EARN-000240",
+    "dealer_id": "DEALER-024",
+    "year": 2024,
+    "earnings": 651313
+  },
+  {
+    "earnings_id": "EARN-000241",
+    "dealer_id": "DEALER-025",
+    "year": 2015,
+    "earnings": 306569
+  },
+  {
+    "earnings_id": "EARN-000242",
+    "dealer_id": "DEALER-025",
+    "year": 2016,
+    "earnings": 289646
+  },
+  {
+    "earnings_id": "EARN-000243",
+    "dealer_id": "DEALER-025",
+    "year": 2017,
+    "earnings": 267038
+  },
+  {
+    "earnings_id": "EARN-000244",
+    "dealer_id": "DEALER-025",
+    "year": 2018,
+    "earnings": 237698
+  },
+  {
+    "earnings_id": "EARN-000245",
+    "dealer_id": "DEALER-025",
+    "year": 2019,
+    "earnings": 251003
+  },
+  {
+    "earnings_id": "EARN-000246",
+    "dealer_id": "DEALER-025",
+    "year": 2020,
+    "earnings": 238218
+  },
+  {
+    "earnings_id": "EARN-000247",
+    "dealer_id": "DEALER-025",
+    "year": 2021,
+    "earnings": 234825
+  },
+  {
+    "earnings_id": "EARN-000248",
+    "dealer_id": "DEALER-025",
+    "year": 2022,
+    "earnings": 254150
+  },
+  {
+    "earnings_id": "EARN-000249",
+    "dealer_id": "DEALER-025",
+    "year": 2023,
+    "earnings": 252569
+  },
+  {
+    "earnings_id": "EARN-000250",
+    "dealer_id": "DEALER-025",
+    "year": 2024,
+    "earnings": 260205
+  },
+  {
+    "earnings_id": "EARN-000251",
+    "dealer_id": "DEALER-026",
+    "year": 2015,
+    "earnings": 440376
+  },
+  {
+    "earnings_id": "EARN-000252",
+    "dealer_id": "DEALER-026",
+    "year": 2016,
+    "earnings": 406695
+  },
+  {
+    "earnings_id": "EARN-000253",
+    "dealer_id": "DEALER-026",
+    "year": 2017,
+    "earnings": 404793
+  },
+  {
+    "earnings_id": "EARN-000254",
+    "dealer_id": "DEALER-026",
+    "year": 2018,
+    "earnings": 412382
+  },
+  {
+    "earnings_id": "EARN-000255",
+    "dealer_id": "DEALER-026",
+    "year": 2019,
+    "earnings": 434814
+  },
+  {
+    "earnings_id": "EARN-000256",
+    "dealer_id": "DEALER-026",
+    "year": 2020,
+    "earnings": 459309
+  },
+  {
+    "earnings_id": "EARN-000257",
+    "dealer_id": "DEALER-026",
+    "year": 2021,
+    "earnings": 437534
+  },
+  {
+    "earnings_id": "EARN-000258",
+    "dealer_id": "DEALER-026",
+    "year": 2022,
+    "earnings": 447509
+  },
+  {
+    "earnings_id": "EARN-000259",
+    "dealer_id": "DEALER-026",
+    "year": 2023,
+    "earnings": 411266
+  },
+  {
+    "earnings_id": "EARN-000260",
+    "dealer_id": "DEALER-026",
+    "year": 2024,
+    "earnings": 402366
+  },
+  {
+    "earnings_id": "EARN-000261",
+    "dealer_id": "DEALER-027",
+    "year": 2015,
+    "earnings": 429794
+  },
+  {
+    "earnings_id": "EARN-000262",
+    "dealer_id": "DEALER-027",
+    "year": 2016,
+    "earnings": 465380
+  },
+  {
+    "earnings_id": "EARN-000263",
+    "dealer_id": "DEALER-027",
+    "year": 2017,
+    "earnings": 510038
+  },
+  {
+    "earnings_id": "EARN-000264",
+    "dealer_id": "DEALER-027",
+    "year": 2018,
+    "earnings": 536168
+  },
+  {
+    "earnings_id": "EARN-000265",
+    "dealer_id": "DEALER-027",
+    "year": 2019,
+    "earnings": 580331
+  },
+  {
+    "earnings_id": "EARN-000266",
+    "dealer_id": "DEALER-027",
+    "year": 2020,
+    "earnings": 651565
+  },
+  {
+    "earnings_id": "EARN-000267",
+    "dealer_id": "DEALER-027",
+    "year": 2021,
+    "earnings": 666246
+  },
+  {
+    "earnings_id": "EARN-000268",
+    "dealer_id": "DEALER-027",
+    "year": 2022,
+    "earnings": 648286
+  },
+  {
+    "earnings_id": "EARN-000269",
+    "dealer_id": "DEALER-027",
+    "year": 2023,
+    "earnings": 653490
+  },
+  {
+    "earnings_id": "EARN-000270",
+    "dealer_id": "DEALER-027",
+    "year": 2024,
+    "earnings": 683089
+  },
+  {
+    "earnings_id": "EARN-000271",
+    "dealer_id": "DEALER-028",
+    "year": 2015,
+    "earnings": 346363
+  },
+  {
+    "earnings_id": "EARN-000272",
+    "dealer_id": "DEALER-028",
+    "year": 2016,
+    "earnings": 333671
+  },
+  {
+    "earnings_id": "EARN-000273",
+    "dealer_id": "DEALER-028",
+    "year": 2017,
+    "earnings": 311691
+  },
+  {
+    "earnings_id": "EARN-000274",
+    "dealer_id": "DEALER-028",
+    "year": 2018,
+    "earnings": 321158
+  },
+  {
+    "earnings_id": "EARN-000275",
+    "dealer_id": "DEALER-028",
+    "year": 2019,
+    "earnings": 350441
+  },
+  {
+    "earnings_id": "EARN-000276",
+    "dealer_id": "DEALER-028",
+    "year": 2020,
+    "earnings": 384163
+  },
+  {
+    "earnings_id": "EARN-000277",
+    "dealer_id": "DEALER-028",
+    "year": 2021,
+    "earnings": 415063
+  },
+  {
+    "earnings_id": "EARN-000278",
+    "dealer_id": "DEALER-028",
+    "year": 2022,
+    "earnings": 460835
+  },
+  {
+    "earnings_id": "EARN-000279",
+    "dealer_id": "DEALER-028",
+    "year": 2023,
+    "earnings": 444968
+  },
+  {
+    "earnings_id": "EARN-000280",
+    "dealer_id": "DEALER-028",
+    "year": 2024,
+    "earnings": 434685
+  },
+  {
+    "earnings_id": "EARN-000281",
+    "dealer_id": "DEALER-029",
+    "year": 2015,
+    "earnings": 230098
+  },
+  {
+    "earnings_id": "EARN-000282",
+    "dealer_id": "DEALER-029",
+    "year": 2016,
+    "earnings": 238912
+  },
+  {
+    "earnings_id": "EARN-000283",
+    "dealer_id": "DEALER-029",
+    "year": 2017,
+    "earnings": 244046
+  },
+  {
+    "earnings_id": "EARN-000284",
+    "dealer_id": "DEALER-029",
+    "year": 2018,
+    "earnings": 259489
+  },
+  {
+    "earnings_id": "EARN-000285",
+    "dealer_id": "DEALER-029",
+    "year": 2019,
+    "earnings": 273241
+  },
+  {
+    "earnings_id": "EARN-000286",
+    "dealer_id": "DEALER-029",
+    "year": 2020,
+    "earnings": 309864
+  },
+  {
+    "earnings_id": "EARN-000287",
+    "dealer_id": "DEALER-029",
+    "year": 2021,
+    "earnings": 311018
+  },
+  {
+    "earnings_id": "EARN-000288",
+    "dealer_id": "DEALER-029",
+    "year": 2022,
+    "earnings": 352771
+  },
+  {
+    "earnings_id": "EARN-000289",
+    "dealer_id": "DEALER-029",
+    "year": 2023,
+    "earnings": 381789
+  },
+  {
+    "earnings_id": "EARN-000290",
+    "dealer_id": "DEALER-029",
+    "year": 2024,
+    "earnings": 444722
+  },
+  {
+    "earnings_id": "EARN-000291",
+    "dealer_id": "DEALER-030",
+    "year": 2015,
+    "earnings": 404215
+  },
+  {
+    "earnings_id": "EARN-000292",
+    "dealer_id": "DEALER-030",
+    "year": 2016,
+    "earnings": 415137
+  },
+  {
+    "earnings_id": "EARN-000293",
+    "dealer_id": "DEALER-030",
+    "year": 2017,
+    "earnings": 439400
+  },
+  {
+    "earnings_id": "EARN-000294",
+    "dealer_id": "DEALER-030",
+    "year": 2018,
+    "earnings": 491288
+  },
+  {
+    "earnings_id": "EARN-000295",
+    "dealer_id": "DEALER-030",
+    "year": 2019,
+    "earnings": 522641
+  },
+  {
+    "earnings_id": "EARN-000296",
+    "dealer_id": "DEALER-030",
+    "year": 2020,
+    "earnings": 520257
+  },
+  {
+    "earnings_id": "EARN-000297",
+    "dealer_id": "DEALER-030",
+    "year": 2021,
+    "earnings": 579059
+  },
+  {
+    "earnings_id": "EARN-000298",
+    "dealer_id": "DEALER-030",
+    "year": 2022,
+    "earnings": 579721
+  },
+  {
+    "earnings_id": "EARN-000299",
+    "dealer_id": "DEALER-030",
+    "year": 2023,
+    "earnings": 570121
+  },
+  {
+    "earnings_id": "EARN-000300",
+    "dealer_id": "DEALER-030",
+    "year": 2024,
+    "earnings": 599393
+  },
+  {
+    "earnings_id": "EARN-000301",
+    "dealer_id": "DEALER-031",
+    "year": 2015,
+    "earnings": 105668
+  },
+  {
+    "earnings_id": "EARN-000302",
+    "dealer_id": "DEALER-031",
+    "year": 2016,
+    "earnings": 98626
+  },
+  {
+    "earnings_id": "EARN-000303",
+    "dealer_id": "DEALER-031",
+    "year": 2017,
+    "earnings": 107796
+  },
+  {
+    "earnings_id": "EARN-000304",
+    "dealer_id": "DEALER-031",
+    "year": 2018,
+    "earnings": 99567
+  },
+  {
+    "earnings_id": "EARN-000305",
+    "dealer_id": "DEALER-031",
+    "year": 2019,
+    "earnings": 99958
+  },
+  {
+    "earnings_id": "EARN-000306",
+    "dealer_id": "DEALER-031",
+    "year": 2020,
+    "earnings": 95694
+  },
+  {
+    "earnings_id": "EARN-000307",
+    "dealer_id": "DEALER-031",
+    "year": 2021,
+    "earnings": 100764
+  },
+  {
+    "earnings_id": "EARN-000308",
+    "dealer_id": "DEALER-031",
+    "year": 2022,
+    "earnings": 111764
+  },
+  {
+    "earnings_id": "EARN-000309",
+    "dealer_id": "DEALER-031",
+    "year": 2023,
+    "earnings": 108070
+  },
+  {
+    "earnings_id": "EARN-000310",
+    "dealer_id": "DEALER-031",
+    "year": 2024,
+    "earnings": 114035
+  },
+  {
+    "earnings_id": "EARN-000311",
+    "dealer_id": "DEALER-032",
+    "year": 2015,
+    "earnings": 399950
+  },
+  {
+    "earnings_id": "EARN-000312",
+    "dealer_id": "DEALER-032",
+    "year": 2016,
+    "earnings": 424696
+  },
+  {
+    "earnings_id": "EARN-000313",
+    "dealer_id": "DEALER-032",
+    "year": 2017,
+    "earnings": 439112
+  },
+  {
+    "earnings_id": "EARN-000314",
+    "dealer_id": "DEALER-032",
+    "year": 2018,
+    "earnings": 481085
+  },
+  {
+    "earnings_id": "EARN-000315",
+    "dealer_id": "DEALER-032",
+    "year": 2019,
+    "earnings": 563440
+  },
+  {
+    "earnings_id": "EARN-000316",
+    "dealer_id": "DEALER-032",
+    "year": 2020,
+    "earnings": 568002
+  },
+  {
+    "earnings_id": "EARN-000317",
+    "dealer_id": "DEALER-032",
+    "year": 2021,
+    "earnings": 600757
+  },
+  {
+    "earnings_id": "EARN-000318",
+    "dealer_id": "DEALER-032",
+    "year": 2022,
+    "earnings": 647647
+  },
+  {
+    "earnings_id": "EARN-000319",
+    "dealer_id": "DEALER-032",
+    "year": 2023,
+    "earnings": 732441
+  },
+  {
+    "earnings_id": "EARN-000320",
+    "dealer_id": "DEALER-032",
+    "year": 2024,
+    "earnings": 811760
+  },
+  {
+    "earnings_id": "EARN-000321",
+    "dealer_id": "DEALER-033",
+    "year": 2015,
+    "earnings": 281200
+  },
+  {
+    "earnings_id": "EARN-000322",
+    "dealer_id": "DEALER-033",
+    "year": 2016,
+    "earnings": 331033
+  },
+  {
+    "earnings_id": "EARN-000323",
+    "dealer_id": "DEALER-033",
+    "year": 2017,
+    "earnings": 365473
+  },
+  {
+    "earnings_id": "EARN-000324",
+    "dealer_id": "DEALER-033",
+    "year": 2018,
+    "earnings": 367120
+  },
+  {
+    "earnings_id": "EARN-000325",
+    "dealer_id": "DEALER-033",
+    "year": 2019,
+    "earnings": 436478
+  },
+  {
+    "earnings_id": "EARN-000326",
+    "dealer_id": "DEALER-033",
+    "year": 2020,
+    "earnings": 521559
+  },
+  {
+    "earnings_id": "EARN-000327",
+    "dealer_id": "DEALER-033",
+    "year": 2021,
+    "earnings": 572381
+  },
+  {
+    "earnings_id": "EARN-000328",
+    "dealer_id": "DEALER-033",
+    "year": 2022,
+    "earnings": 639966
+  },
+  {
+    "earnings_id": "EARN-000329",
+    "dealer_id": "DEALER-033",
+    "year": 2023,
+    "earnings": 703651
+  },
+  {
+    "earnings_id": "EARN-000330",
+    "dealer_id": "DEALER-033",
+    "year": 2024,
+    "earnings": 718638
+  },
+  {
+    "earnings_id": "EARN-000331",
+    "dealer_id": "DEALER-034",
+    "year": 2015,
+    "earnings": 214770
+  },
+  {
+    "earnings_id": "EARN-000332",
+    "dealer_id": "DEALER-034",
+    "year": 2016,
+    "earnings": 232218
+  },
+  {
+    "earnings_id": "EARN-000333",
+    "dealer_id": "DEALER-034",
+    "year": 2017,
+    "earnings": 246809
+  },
+  {
+    "earnings_id": "EARN-000334",
+    "dealer_id": "DEALER-034",
+    "year": 2018,
+    "earnings": 262812
+  },
+  {
+    "earnings_id": "EARN-000335",
+    "dealer_id": "DEALER-034",
+    "year": 2019,
+    "earnings": 311511
+  },
+  {
+    "earnings_id": "EARN-000336",
+    "dealer_id": "DEALER-034",
+    "year": 2020,
+    "earnings": 378067
+  },
+  {
+    "earnings_id": "EARN-000337",
+    "dealer_id": "DEALER-034",
+    "year": 2021,
+    "earnings": 422861
+  },
+  {
+    "earnings_id": "EARN-000338",
+    "dealer_id": "DEALER-034",
+    "year": 2022,
+    "earnings": 468869
+  },
+  {
+    "earnings_id": "EARN-000339",
+    "dealer_id": "DEALER-034",
+    "year": 2023,
+    "earnings": 483228
+  },
+  {
+    "earnings_id": "EARN-000340",
+    "dealer_id": "DEALER-034",
+    "year": 2024,
+    "earnings": 585264
+  },
+  {
+    "earnings_id": "EARN-000341",
+    "dealer_id": "DEALER-035",
+    "year": 2015,
+    "earnings": 263543
+  },
+  {
+    "earnings_id": "EARN-000342",
+    "dealer_id": "DEALER-035",
+    "year": 2016,
+    "earnings": 274397
+  },
+  {
+    "earnings_id": "EARN-000343",
+    "dealer_id": "DEALER-035",
+    "year": 2017,
+    "earnings": 295655
+  },
+  {
+    "earnings_id": "EARN-000344",
+    "dealer_id": "DEALER-035",
+    "year": 2018,
+    "earnings": 289702
+  },
+  {
+    "earnings_id": "EARN-000345",
+    "dealer_id": "DEALER-035",
+    "year": 2019,
+    "earnings": 309906
+  },
+  {
+    "earnings_id": "EARN-000346",
+    "dealer_id": "DEALER-035",
+    "year": 2020,
+    "earnings": 357177
+  },
+  {
+    "earnings_id": "EARN-000347",
+    "dealer_id": "DEALER-035",
+    "year": 2021,
+    "earnings": 373853
+  },
+  {
+    "earnings_id": "EARN-000348",
+    "dealer_id": "DEALER-035",
+    "year": 2022,
+    "earnings": 390583
+  },
+  {
+    "earnings_id": "EARN-000349",
+    "dealer_id": "DEALER-035",
+    "year": 2023,
+    "earnings": 405512
+  },
+  {
+    "earnings_id": "EARN-000350",
+    "dealer_id": "DEALER-035",
+    "year": 2024,
+    "earnings": 439394
+  },
+  {
+    "earnings_id": "EARN-000351",
+    "dealer_id": "DEALER-036",
+    "year": 2015,
+    "earnings": 293439
+  },
+  {
+    "earnings_id": "EARN-000352",
+    "dealer_id": "DEALER-036",
+    "year": 2016,
+    "earnings": 303203
+  },
+  {
+    "earnings_id": "EARN-000353",
+    "dealer_id": "DEALER-036",
+    "year": 2017,
+    "earnings": 349264
+  },
+  {
+    "earnings_id": "EARN-000354",
+    "dealer_id": "DEALER-036",
+    "year": 2018,
+    "earnings": 401637
+  },
+  {
+    "earnings_id": "EARN-000355",
+    "dealer_id": "DEALER-036",
+    "year": 2019,
+    "earnings": 458278
+  },
+  {
+    "earnings_id": "EARN-000356",
+    "dealer_id": "DEALER-036",
+    "year": 2020,
+    "earnings": 552256
+  },
+  {
+    "earnings_id": "EARN-000357",
+    "dealer_id": "DEALER-036",
+    "year": 2021,
+    "earnings": 601488
+  },
+  {
+    "earnings_id": "EARN-000358",
+    "dealer_id": "DEALER-036",
+    "year": 2022,
+    "earnings": 638788
+  },
+  {
+    "earnings_id": "EARN-000359",
+    "dealer_id": "DEALER-036",
+    "year": 2023,
+    "earnings": 743739
+  },
+  {
+    "earnings_id": "EARN-000360",
+    "dealer_id": "DEALER-036",
+    "year": 2024,
+    "earnings": 897380
+  },
+  {
+    "earnings_id": "EARN-000361",
+    "dealer_id": "DEALER-037",
+    "year": 2015,
+    "earnings": 468135
+  },
+  {
+    "earnings_id": "EARN-000362",
+    "dealer_id": "DEALER-037",
+    "year": 2016,
+    "earnings": 526134
+  },
+  {
+    "earnings_id": "EARN-000363",
+    "dealer_id": "DEALER-037",
+    "year": 2017,
+    "earnings": 595770
+  },
+  {
+    "earnings_id": "EARN-000364",
+    "dealer_id": "DEALER-037",
+    "year": 2018,
+    "earnings": 652136
+  },
+  {
+    "earnings_id": "EARN-000365",
+    "dealer_id": "DEALER-037",
+    "year": 2019,
+    "earnings": 715185
+  },
+  {
+    "earnings_id": "EARN-000366",
+    "dealer_id": "DEALER-037",
+    "year": 2020,
+    "earnings": 827382
+  },
+  {
+    "earnings_id": "EARN-000367",
+    "dealer_id": "DEALER-037",
+    "year": 2021,
+    "earnings": 866314
+  },
+  {
+    "earnings_id": "EARN-000368",
+    "dealer_id": "DEALER-037",
+    "year": 2022,
+    "earnings": 936463
+  },
+  {
+    "earnings_id": "EARN-000369",
+    "dealer_id": "DEALER-037",
+    "year": 2023,
+    "earnings": 1034879
+  },
+  {
+    "earnings_id": "EARN-000370",
+    "dealer_id": "DEALER-037",
+    "year": 2024,
+    "earnings": 1195209
+  },
+  {
+    "earnings_id": "EARN-000371",
+    "dealer_id": "DEALER-038",
+    "year": 2015,
+    "earnings": 311003
+  },
+  {
+    "earnings_id": "EARN-000372",
+    "dealer_id": "DEALER-038",
+    "year": 2016,
+    "earnings": 338197
+  },
+  {
+    "earnings_id": "EARN-000373",
+    "dealer_id": "DEALER-038",
+    "year": 2017,
+    "earnings": 338530
+  },
+  {
+    "earnings_id": "EARN-000374",
+    "dealer_id": "DEALER-038",
+    "year": 2018,
+    "earnings": 376761
+  },
+  {
+    "earnings_id": "EARN-000375",
+    "dealer_id": "DEALER-038",
+    "year": 2019,
+    "earnings": 380517
+  },
+  {
+    "earnings_id": "EARN-000376",
+    "dealer_id": "DEALER-038",
+    "year": 2020,
+    "earnings": 405449
+  },
+  {
+    "earnings_id": "EARN-000377",
+    "dealer_id": "DEALER-038",
+    "year": 2021,
+    "earnings": 412643
+  },
+  {
+    "earnings_id": "EARN-000378",
+    "dealer_id": "DEALER-038",
+    "year": 2022,
+    "earnings": 480049
+  },
+  {
+    "earnings_id": "EARN-000379",
+    "dealer_id": "DEALER-038",
+    "year": 2023,
+    "earnings": 567012
+  },
+  {
+    "earnings_id": "EARN-000380",
+    "dealer_id": "DEALER-038",
+    "year": 2024,
+    "earnings": 664780
+  },
+  {
+    "earnings_id": "EARN-000381",
+    "dealer_id": "DEALER-039",
+    "year": 2015,
+    "earnings": 79833
+  },
+  {
+    "earnings_id": "EARN-000382",
+    "dealer_id": "DEALER-039",
+    "year": 2016,
+    "earnings": 75067
+  },
+  {
+    "earnings_id": "EARN-000383",
+    "dealer_id": "DEALER-039",
+    "year": 2017,
+    "earnings": 75335
+  },
+  {
+    "earnings_id": "EARN-000384",
+    "dealer_id": "DEALER-039",
+    "year": 2018,
+    "earnings": 70340
+  },
+  {
+    "earnings_id": "EARN-000385",
+    "dealer_id": "DEALER-039",
+    "year": 2019,
+    "earnings": 73121
+  },
+  {
+    "earnings_id": "EARN-000386",
+    "dealer_id": "DEALER-039",
+    "year": 2020,
+    "earnings": 71443
+  },
+  {
+    "earnings_id": "EARN-000387",
+    "dealer_id": "DEALER-039",
+    "year": 2021,
+    "earnings": 65619
+  },
+  {
+    "earnings_id": "EARN-000388",
+    "dealer_id": "DEALER-039",
+    "year": 2022,
+    "earnings": 69797
+  },
+  {
+    "earnings_id": "EARN-000389",
+    "dealer_id": "DEALER-039",
+    "year": 2023,
+    "earnings": 75077
+  },
+  {
+    "earnings_id": "EARN-000390",
+    "dealer_id": "DEALER-039",
+    "year": 2024,
+    "earnings": 73279
+  },
+  {
+    "earnings_id": "EARN-000391",
+    "dealer_id": "DEALER-040",
+    "year": 2015,
+    "earnings": 295268
+  },
+  {
+    "earnings_id": "EARN-000392",
+    "dealer_id": "DEALER-040",
+    "year": 2016,
+    "earnings": 296124
+  },
+  {
+    "earnings_id": "EARN-000393",
+    "dealer_id": "DEALER-040",
+    "year": 2017,
+    "earnings": 261502
+  },
+  {
+    "earnings_id": "EARN-000394",
+    "dealer_id": "DEALER-040",
+    "year": 2018,
+    "earnings": 251076
+  },
+  {
+    "earnings_id": "EARN-000395",
+    "dealer_id": "DEALER-040",
+    "year": 2019,
+    "earnings": 254095
+  },
+  {
+    "earnings_id": "EARN-000396",
+    "dealer_id": "DEALER-040",
+    "year": 2020,
+    "earnings": 247787
+  },
+  {
+    "earnings_id": "EARN-000397",
+    "dealer_id": "DEALER-040",
+    "year": 2021,
+    "earnings": 260436
+  },
+  {
+    "earnings_id": "EARN-000398",
+    "dealer_id": "DEALER-040",
+    "year": 2022,
+    "earnings": 230264
+  },
+  {
+    "earnings_id": "EARN-000399",
+    "dealer_id": "DEALER-040",
+    "year": 2023,
+    "earnings": 210668
+  },
+  {
+    "earnings_id": "EARN-000400",
+    "dealer_id": "DEALER-040",
+    "year": 2024,
+    "earnings": 190471
+  },
+  {
+    "earnings_id": "EARN-000401",
+    "dealer_id": "DEALER-041",
+    "year": 2015,
+    "earnings": 72781
+  },
+  {
+    "earnings_id": "EARN-000402",
+    "dealer_id": "DEALER-041",
+    "year": 2016,
+    "earnings": 85110
+  },
+  {
+    "earnings_id": "EARN-000403",
+    "dealer_id": "DEALER-041",
+    "year": 2017,
+    "earnings": 100158
+  },
+  {
+    "earnings_id": "EARN-000404",
+    "dealer_id": "DEALER-041",
+    "year": 2018,
+    "earnings": 113652
+  },
+  {
+    "earnings_id": "EARN-000405",
+    "dealer_id": "DEALER-041",
+    "year": 2019,
+    "earnings": 116853
+  },
+  {
+    "earnings_id": "EARN-000406",
+    "dealer_id": "DEALER-041",
+    "year": 2020,
+    "earnings": 115248
+  },
+  {
+    "earnings_id": "EARN-000407",
+    "dealer_id": "DEALER-041",
+    "year": 2021,
+    "earnings": 129626
+  },
+  {
+    "earnings_id": "EARN-000408",
+    "dealer_id": "DEALER-041",
+    "year": 2022,
+    "earnings": 150277
+  },
+  {
+    "earnings_id": "EARN-000409",
+    "dealer_id": "DEALER-041",
+    "year": 2023,
+    "earnings": 161499
+  },
+  {
+    "earnings_id": "EARN-000410",
+    "dealer_id": "DEALER-041",
+    "year": 2024,
+    "earnings": 170425
+  },
+  {
+    "earnings_id": "EARN-000411",
+    "dealer_id": "DEALER-042",
+    "year": 2015,
+    "earnings": 138070
+  },
+  {
+    "earnings_id": "EARN-000412",
+    "dealer_id": "DEALER-042",
+    "year": 2016,
+    "earnings": 151831
+  },
+  {
+    "earnings_id": "EARN-000413",
+    "dealer_id": "DEALER-042",
+    "year": 2017,
+    "earnings": 164915
+  },
+  {
+    "earnings_id": "EARN-000414",
+    "dealer_id": "DEALER-042",
+    "year": 2018,
+    "earnings": 154871
+  },
+  {
+    "earnings_id": "EARN-000415",
+    "dealer_id": "DEALER-042",
+    "year": 2019,
+    "earnings": 150053
+  },
+  {
+    "earnings_id": "EARN-000416",
+    "dealer_id": "DEALER-042",
+    "year": 2020,
+    "earnings": 163241
+  },
+  {
+    "earnings_id": "EARN-000417",
+    "dealer_id": "DEALER-042",
+    "year": 2021,
+    "earnings": 174433
+  },
+  {
+    "earnings_id": "EARN-000418",
+    "dealer_id": "DEALER-042",
+    "year": 2022,
+    "earnings": 194101
+  },
+  {
+    "earnings_id": "EARN-000419",
+    "dealer_id": "DEALER-042",
+    "year": 2023,
+    "earnings": 180082
+  },
+  {
+    "earnings_id": "EARN-000420",
+    "dealer_id": "DEALER-042",
+    "year": 2024,
+    "earnings": 184506
+  },
+  {
+    "earnings_id": "EARN-000421",
+    "dealer_id": "DEALER-043",
+    "year": 2015,
+    "earnings": 334381
+  },
+  {
+    "earnings_id": "EARN-000422",
+    "dealer_id": "DEALER-043",
+    "year": 2016,
+    "earnings": 349138
+  },
+  {
+    "earnings_id": "EARN-000423",
+    "dealer_id": "DEALER-043",
+    "year": 2017,
+    "earnings": 352458
+  },
+  {
+    "earnings_id": "EARN-000424",
+    "dealer_id": "DEALER-043",
+    "year": 2018,
+    "earnings": 363623
+  },
+  {
+    "earnings_id": "EARN-000425",
+    "dealer_id": "DEALER-043",
+    "year": 2019,
+    "earnings": 345340
+  },
+  {
+    "earnings_id": "EARN-000426",
+    "dealer_id": "DEALER-043",
+    "year": 2020,
+    "earnings": 303411
+  },
+  {
+    "earnings_id": "EARN-000427",
+    "dealer_id": "DEALER-043",
+    "year": 2021,
+    "earnings": 277136
+  },
+  {
+    "earnings_id": "EARN-000428",
+    "dealer_id": "DEALER-043",
+    "year": 2022,
+    "earnings": 275357
+  },
+  {
+    "earnings_id": "EARN-000429",
+    "dealer_id": "DEALER-043",
+    "year": 2023,
+    "earnings": 239919
+  },
+  {
+    "earnings_id": "EARN-000430",
+    "dealer_id": "DEALER-043",
+    "year": 2024,
+    "earnings": 226863
+  },
+  {
+    "earnings_id": "EARN-000431",
+    "dealer_id": "DEALER-044",
+    "year": 2015,
+    "earnings": 525828
+  },
+  {
+    "earnings_id": "EARN-000432",
+    "dealer_id": "DEALER-044",
+    "year": 2016,
+    "earnings": 621240
+  },
+  {
+    "earnings_id": "EARN-000433",
+    "dealer_id": "DEALER-044",
+    "year": 2017,
+    "earnings": 740792
+  },
+  {
+    "earnings_id": "EARN-000434",
+    "dealer_id": "DEALER-044",
+    "year": 2018,
+    "earnings": 893702
+  },
+  {
+    "earnings_id": "EARN-000435",
+    "dealer_id": "DEALER-044",
+    "year": 2019,
+    "earnings": 1027758
+  },
+  {
+    "earnings_id": "EARN-000436",
+    "dealer_id": "DEALER-044",
+    "year": 2020,
+    "earnings": 1140791
+  },
+  {
+    "earnings_id": "EARN-000437",
+    "dealer_id": "DEALER-044",
+    "year": 2021,
+    "earnings": 1352683
+  },
+  {
+    "earnings_id": "EARN-000438",
+    "dealer_id": "DEALER-044",
+    "year": 2022,
+    "earnings": 1634920
+  },
+  {
+    "earnings_id": "EARN-000439",
+    "dealer_id": "DEALER-044",
+    "year": 2023,
+    "earnings": 1841958
+  },
+  {
+    "earnings_id": "EARN-000440",
+    "dealer_id": "DEALER-044",
+    "year": 2024,
+    "earnings": 2259122
+  },
+  {
+    "earnings_id": "EARN-000441",
+    "dealer_id": "DEALER-045",
+    "year": 2015,
+    "earnings": 129478
+  },
+  {
+    "earnings_id": "EARN-000442",
+    "dealer_id": "DEALER-045",
+    "year": 2016,
+    "earnings": 127026
+  },
+  {
+    "earnings_id": "EARN-000443",
+    "dealer_id": "DEALER-045",
+    "year": 2017,
+    "earnings": 133878
+  },
+  {
+    "earnings_id": "EARN-000444",
+    "dealer_id": "DEALER-045",
+    "year": 2018,
+    "earnings": 136416
+  },
+  {
+    "earnings_id": "EARN-000445",
+    "dealer_id": "DEALER-045",
+    "year": 2019,
+    "earnings": 141125
+  },
+  {
+    "earnings_id": "EARN-000446",
+    "dealer_id": "DEALER-045",
+    "year": 2020,
+    "earnings": 142572
+  },
+  {
+    "earnings_id": "EARN-000447",
+    "dealer_id": "DEALER-045",
+    "year": 2021,
+    "earnings": 143229
+  },
+  {
+    "earnings_id": "EARN-000448",
+    "dealer_id": "DEALER-045",
+    "year": 2022,
+    "earnings": 143938
+  },
+  {
+    "earnings_id": "EARN-000449",
+    "dealer_id": "DEALER-045",
+    "year": 2023,
+    "earnings": 152902
+  },
+  {
+    "earnings_id": "EARN-000450",
+    "dealer_id": "DEALER-045",
+    "year": 2024,
+    "earnings": 165886
+  },
+  {
+    "earnings_id": "EARN-000451",
+    "dealer_id": "DEALER-046",
+    "year": 2015,
+    "earnings": 561037
+  },
+  {
+    "earnings_id": "EARN-000452",
+    "dealer_id": "DEALER-046",
+    "year": 2016,
+    "earnings": 620649
+  },
+  {
+    "earnings_id": "EARN-000453",
+    "dealer_id": "DEALER-046",
+    "year": 2017,
+    "earnings": 662428
+  },
+  {
+    "earnings_id": "EARN-000454",
+    "dealer_id": "DEALER-046",
+    "year": 2018,
+    "earnings": 720332
+  },
+  {
+    "earnings_id": "EARN-000455",
+    "dealer_id": "DEALER-046",
+    "year": 2019,
+    "earnings": 833489
+  },
+  {
+    "earnings_id": "EARN-000456",
+    "dealer_id": "DEALER-046",
+    "year": 2020,
+    "earnings": 980253
+  },
+  {
+    "earnings_id": "EARN-000457",
+    "dealer_id": "DEALER-046",
+    "year": 2021,
+    "earnings": 1175257
+  },
+  {
+    "earnings_id": "EARN-000458",
+    "dealer_id": "DEALER-046",
+    "year": 2022,
+    "earnings": 1320814
+  },
+  {
+    "earnings_id": "EARN-000459",
+    "dealer_id": "DEALER-046",
+    "year": 2023,
+    "earnings": 1575328
+  },
+  {
+    "earnings_id": "EARN-000460",
+    "dealer_id": "DEALER-046",
+    "year": 2024,
+    "earnings": 1653806
+  },
+  {
+    "earnings_id": "EARN-000461",
+    "dealer_id": "DEALER-047",
+    "year": 2015,
+    "earnings": 282153
+  },
+  {
+    "earnings_id": "EARN-000462",
+    "dealer_id": "DEALER-047",
+    "year": 2016,
+    "earnings": 306931
+  },
+  {
+    "earnings_id": "EARN-000463",
+    "dealer_id": "DEALER-047",
+    "year": 2017,
+    "earnings": 323560
+  },
+  {
+    "earnings_id": "EARN-000464",
+    "dealer_id": "DEALER-047",
+    "year": 2018,
+    "earnings": 372340
+  },
+  {
+    "earnings_id": "EARN-000465",
+    "dealer_id": "DEALER-047",
+    "year": 2019,
+    "earnings": 399152
+  },
+  {
+    "earnings_id": "EARN-000466",
+    "dealer_id": "DEALER-047",
+    "year": 2020,
+    "earnings": 463399
+  },
+  {
+    "earnings_id": "EARN-000467",
+    "dealer_id": "DEALER-047",
+    "year": 2021,
+    "earnings": 507175
+  },
+  {
+    "earnings_id": "EARN-000468",
+    "dealer_id": "DEALER-047",
+    "year": 2022,
+    "earnings": 528894
+  },
+  {
+    "earnings_id": "EARN-000469",
+    "dealer_id": "DEALER-047",
+    "year": 2023,
+    "earnings": 577316
+  },
+  {
+    "earnings_id": "EARN-000470",
+    "dealer_id": "DEALER-047",
+    "year": 2024,
+    "earnings": 652147
+  },
+  {
+    "earnings_id": "EARN-000471",
+    "dealer_id": "DEALER-048",
+    "year": 2015,
+    "earnings": 87924
+  },
+  {
+    "earnings_id": "EARN-000472",
+    "dealer_id": "DEALER-048",
+    "year": 2016,
+    "earnings": 93120
+  },
+  {
+    "earnings_id": "EARN-000473",
+    "dealer_id": "DEALER-048",
+    "year": 2017,
+    "earnings": 101542
+  },
+  {
+    "earnings_id": "EARN-000474",
+    "dealer_id": "DEALER-048",
+    "year": 2018,
+    "earnings": 106285
+  },
+  {
+    "earnings_id": "EARN-000475",
+    "dealer_id": "DEALER-048",
+    "year": 2019,
+    "earnings": 103466
+  },
+  {
+    "earnings_id": "EARN-000476",
+    "dealer_id": "DEALER-048",
+    "year": 2020,
+    "earnings": 112917
+  },
+  {
+    "earnings_id": "EARN-000477",
+    "dealer_id": "DEALER-048",
+    "year": 2021,
+    "earnings": 124681
+  },
+  {
+    "earnings_id": "EARN-000478",
+    "dealer_id": "DEALER-048",
+    "year": 2022,
+    "earnings": 136019
+  },
+  {
+    "earnings_id": "EARN-000479",
+    "dealer_id": "DEALER-048",
+    "year": 2023,
+    "earnings": 134744
+  },
+  {
+    "earnings_id": "EARN-000480",
+    "dealer_id": "DEALER-048",
+    "year": 2024,
+    "earnings": 122987
+  },
+  {
+    "earnings_id": "EARN-000481",
+    "dealer_id": "DEALER-049",
+    "year": 2015,
+    "earnings": 479104
+  },
+  {
+    "earnings_id": "EARN-000482",
+    "dealer_id": "DEALER-049",
+    "year": 2016,
+    "earnings": 430857
+  },
+  {
+    "earnings_id": "EARN-000483",
+    "dealer_id": "DEALER-049",
+    "year": 2017,
+    "earnings": 421160
+  },
+  {
+    "earnings_id": "EARN-000484",
+    "dealer_id": "DEALER-049",
+    "year": 2018,
+    "earnings": 399447
+  },
+  {
+    "earnings_id": "EARN-000485",
+    "dealer_id": "DEALER-049",
+    "year": 2019,
+    "earnings": 386056
+  },
+  {
+    "earnings_id": "EARN-000486",
+    "dealer_id": "DEALER-049",
+    "year": 2020,
+    "earnings": 352895
+  },
+  {
+    "earnings_id": "EARN-000487",
+    "dealer_id": "DEALER-049",
+    "year": 2021,
+    "earnings": 325979
+  },
+  {
+    "earnings_id": "EARN-000488",
+    "dealer_id": "DEALER-049",
+    "year": 2022,
+    "earnings": 307357
+  },
+  {
+    "earnings_id": "EARN-000489",
+    "dealer_id": "DEALER-049",
+    "year": 2023,
+    "earnings": 329616
+  },
+  {
+    "earnings_id": "EARN-000490",
+    "dealer_id": "DEALER-049",
+    "year": 2024,
+    "earnings": 335759
+  },
+  {
+    "earnings_id": "EARN-000491",
+    "dealer_id": "DEALER-050",
+    "year": 2015,
+    "earnings": 107711
+  },
+  {
+    "earnings_id": "EARN-000492",
+    "dealer_id": "DEALER-050",
+    "year": 2016,
+    "earnings": 119878
+  },
+  {
+    "earnings_id": "EARN-000493",
+    "dealer_id": "DEALER-050",
+    "year": 2017,
+    "earnings": 128442
+  },
+  {
+    "earnings_id": "EARN-000494",
+    "dealer_id": "DEALER-050",
+    "year": 2018,
+    "earnings": 151190
+  },
+  {
+    "earnings_id": "EARN-000495",
+    "dealer_id": "DEALER-050",
+    "year": 2019,
+    "earnings": 166703
+  },
+  {
+    "earnings_id": "EARN-000496",
+    "dealer_id": "DEALER-050",
+    "year": 2020,
+    "earnings": 173014
+  },
+  {
+    "earnings_id": "EARN-000497",
+    "dealer_id": "DEALER-050",
+    "year": 2021,
+    "earnings": 194181
+  },
+  {
+    "earnings_id": "EARN-000498",
+    "dealer_id": "DEALER-050",
+    "year": 2022,
+    "earnings": 226975
+  },
+  {
+    "earnings_id": "EARN-000499",
+    "dealer_id": "DEALER-050",
+    "year": 2023,
+    "earnings": 249248
+  },
+  {
+    "earnings_id": "EARN-000500",
+    "dealer_id": "DEALER-050",
+    "year": 2024,
+    "earnings": 294450
+  },
+  {
+    "earnings_id": "EARN-000501",
+    "dealer_id": "DEALER-051",
+    "year": 2015,
+    "earnings": 343464
+  },
+  {
+    "earnings_id": "EARN-000502",
+    "dealer_id": "DEALER-051",
+    "year": 2016,
+    "earnings": 307474
+  },
+  {
+    "earnings_id": "EARN-000503",
+    "dealer_id": "DEALER-051",
+    "year": 2017,
+    "earnings": 314488
+  },
+  {
+    "earnings_id": "EARN-000504",
+    "dealer_id": "DEALER-051",
+    "year": 2018,
+    "earnings": 289812
+  },
+  {
+    "earnings_id": "EARN-000505",
+    "dealer_id": "DEALER-051",
+    "year": 2019,
+    "earnings": 299238
+  },
+  {
+    "earnings_id": "EARN-000506",
+    "dealer_id": "DEALER-051",
+    "year": 2020,
+    "earnings": 319144
+  },
+  {
+    "earnings_id": "EARN-000507",
+    "dealer_id": "DEALER-051",
+    "year": 2021,
+    "earnings": 279850
+  },
+  {
+    "earnings_id": "EARN-000508",
+    "dealer_id": "DEALER-051",
+    "year": 2022,
+    "earnings": 249533
+  },
+  {
+    "earnings_id": "EARN-000509",
+    "dealer_id": "DEALER-051",
+    "year": 2023,
+    "earnings": 247344
+  },
+  {
+    "earnings_id": "EARN-000510",
+    "dealer_id": "DEALER-051",
+    "year": 2024,
+    "earnings": 254467
+  },
+  {
+    "earnings_id": "EARN-000511",
+    "dealer_id": "DEALER-052",
+    "year": 2015,
+    "earnings": 82360
+  },
+  {
+    "earnings_id": "EARN-000512",
+    "dealer_id": "DEALER-052",
+    "year": 2016,
+    "earnings": 89708
+  },
+  {
+    "earnings_id": "EARN-000513",
+    "dealer_id": "DEALER-052",
+    "year": 2017,
+    "earnings": 107598
+  },
+  {
+    "earnings_id": "EARN-000514",
+    "dealer_id": "DEALER-052",
+    "year": 2018,
+    "earnings": 122342
+  },
+  {
+    "earnings_id": "EARN-000515",
+    "dealer_id": "DEALER-052",
+    "year": 2019,
+    "earnings": 146194
+  },
+  {
+    "earnings_id": "EARN-000516",
+    "dealer_id": "DEALER-052",
+    "year": 2020,
+    "earnings": 157507
+  },
+  {
+    "earnings_id": "EARN-000517",
+    "dealer_id": "DEALER-052",
+    "year": 2021,
+    "earnings": 163313
+  },
+  {
+    "earnings_id": "EARN-000518",
+    "dealer_id": "DEALER-052",
+    "year": 2022,
+    "earnings": 167255
+  },
+  {
+    "earnings_id": "EARN-000519",
+    "dealer_id": "DEALER-052",
+    "year": 2023,
+    "earnings": 200411
+  },
+  {
+    "earnings_id": "EARN-000520",
+    "dealer_id": "DEALER-052",
+    "year": 2024,
+    "earnings": 225027
+  },
+  {
+    "earnings_id": "EARN-000521",
+    "dealer_id": "DEALER-053",
+    "year": 2015,
+    "earnings": 155174
+  },
+  {
+    "earnings_id": "EARN-000522",
+    "dealer_id": "DEALER-053",
+    "year": 2016,
+    "earnings": 150971
+  },
+  {
+    "earnings_id": "EARN-000523",
+    "dealer_id": "DEALER-053",
+    "year": 2017,
+    "earnings": 149940
+  },
+  {
+    "earnings_id": "EARN-000524",
+    "dealer_id": "DEALER-053",
+    "year": 2018,
+    "earnings": 155065
+  },
+  {
+    "earnings_id": "EARN-000525",
+    "dealer_id": "DEALER-053",
+    "year": 2019,
+    "earnings": 155492
+  },
+  {
+    "earnings_id": "EARN-000526",
+    "dealer_id": "DEALER-053",
+    "year": 2020,
+    "earnings": 157315
+  },
+  {
+    "earnings_id": "EARN-000527",
+    "dealer_id": "DEALER-053",
+    "year": 2021,
+    "earnings": 160803
+  },
+  {
+    "earnings_id": "EARN-000528",
+    "dealer_id": "DEALER-053",
+    "year": 2022,
+    "earnings": 148276
+  },
+  {
+    "earnings_id": "EARN-000529",
+    "dealer_id": "DEALER-053",
+    "year": 2023,
+    "earnings": 148755
+  },
+  {
+    "earnings_id": "EARN-000530",
+    "dealer_id": "DEALER-053",
+    "year": 2024,
+    "earnings": 138119
+  },
+  {
+    "earnings_id": "EARN-000531",
+    "dealer_id": "DEALER-054",
+    "year": 2015,
+    "earnings": 438471
+  },
+  {
+    "earnings_id": "EARN-000532",
+    "dealer_id": "DEALER-054",
+    "year": 2016,
+    "earnings": 472783
+  },
+  {
+    "earnings_id": "EARN-000533",
+    "dealer_id": "DEALER-054",
+    "year": 2017,
+    "earnings": 513308
+  },
+  {
+    "earnings_id": "EARN-000534",
+    "dealer_id": "DEALER-054",
+    "year": 2018,
+    "earnings": 598261
+  },
+  {
+    "earnings_id": "EARN-000535",
+    "dealer_id": "DEALER-054",
+    "year": 2019,
+    "earnings": 624862
+  },
+  {
+    "earnings_id": "EARN-000536",
+    "dealer_id": "DEALER-054",
+    "year": 2020,
+    "earnings": 673785
+  },
+  {
+    "earnings_id": "EARN-000537",
+    "dealer_id": "DEALER-054",
+    "year": 2021,
+    "earnings": 706345
+  },
+  {
+    "earnings_id": "EARN-000538",
+    "dealer_id": "DEALER-054",
+    "year": 2022,
+    "earnings": 831651
+  },
+  {
+    "earnings_id": "EARN-000539",
+    "dealer_id": "DEALER-054",
+    "year": 2023,
+    "earnings": 915036
+  },
+  {
+    "earnings_id": "EARN-000540",
+    "dealer_id": "DEALER-054",
+    "year": 2024,
+    "earnings": 971114
+  },
+  {
+    "earnings_id": "EARN-000541",
+    "dealer_id": "DEALER-055",
+    "year": 2015,
+    "earnings": 370281
+  },
+  {
+    "earnings_id": "EARN-000542",
+    "dealer_id": "DEALER-055",
+    "year": 2016,
+    "earnings": 422773
+  },
+  {
+    "earnings_id": "EARN-000543",
+    "dealer_id": "DEALER-055",
+    "year": 2017,
+    "earnings": 426803
+  },
+  {
+    "earnings_id": "EARN-000544",
+    "dealer_id": "DEALER-055",
+    "year": 2018,
+    "earnings": 440465
+  },
+  {
+    "earnings_id": "EARN-000545",
+    "dealer_id": "DEALER-055",
+    "year": 2019,
+    "earnings": 500020
+  },
+  {
+    "earnings_id": "EARN-000546",
+    "dealer_id": "DEALER-055",
+    "year": 2020,
+    "earnings": 532408
+  },
+  {
+    "earnings_id": "EARN-000547",
+    "dealer_id": "DEALER-055",
+    "year": 2021,
+    "earnings": 516004
+  },
+  {
+    "earnings_id": "EARN-000548",
+    "dealer_id": "DEALER-055",
+    "year": 2022,
+    "earnings": 574968
+  },
+  {
+    "earnings_id": "EARN-000549",
+    "dealer_id": "DEALER-055",
+    "year": 2023,
+    "earnings": 594221
+  },
+  {
+    "earnings_id": "EARN-000550",
+    "dealer_id": "DEALER-055",
+    "year": 2024,
+    "earnings": 571752
+  },
+  {
+    "earnings_id": "EARN-000551",
+    "dealer_id": "DEALER-056",
+    "year": 2015,
+    "earnings": 479706
+  },
+  {
+    "earnings_id": "EARN-000552",
+    "dealer_id": "DEALER-056",
+    "year": 2016,
+    "earnings": 547340
+  },
+  {
+    "earnings_id": "EARN-000553",
+    "dealer_id": "DEALER-056",
+    "year": 2017,
+    "earnings": 561488
+  },
+  {
+    "earnings_id": "EARN-000554",
+    "dealer_id": "DEALER-056",
+    "year": 2018,
+    "earnings": 582491
+  },
+  {
+    "earnings_id": "EARN-000555",
+    "dealer_id": "DEALER-056",
+    "year": 2019,
+    "earnings": 615721
+  },
+  {
+    "earnings_id": "EARN-000556",
+    "dealer_id": "DEALER-056",
+    "year": 2020,
+    "earnings": 679344
+  },
+  {
+    "earnings_id": "EARN-000557",
+    "dealer_id": "DEALER-056",
+    "year": 2021,
+    "earnings": 700645
+  },
+  {
+    "earnings_id": "EARN-000558",
+    "dealer_id": "DEALER-056",
+    "year": 2022,
+    "earnings": 838471
+  },
+  {
+    "earnings_id": "EARN-000559",
+    "dealer_id": "DEALER-056",
+    "year": 2023,
+    "earnings": 887796
+  },
+  {
+    "earnings_id": "EARN-000560",
+    "dealer_id": "DEALER-056",
+    "year": 2024,
+    "earnings": 1056354
+  },
+  {
+    "earnings_id": "EARN-000561",
+    "dealer_id": "DEALER-057",
+    "year": 2015,
+    "earnings": 74481
+  },
+  {
+    "earnings_id": "EARN-000562",
+    "dealer_id": "DEALER-057",
+    "year": 2016,
+    "earnings": 75503
+  },
+  {
+    "earnings_id": "EARN-000563",
+    "dealer_id": "DEALER-057",
+    "year": 2017,
+    "earnings": 66995
+  },
+  {
+    "earnings_id": "EARN-000564",
+    "dealer_id": "DEALER-057",
+    "year": 2018,
+    "earnings": 58642
+  },
+  {
+    "earnings_id": "EARN-000565",
+    "dealer_id": "DEALER-057",
+    "year": 2019,
+    "earnings": 58035
+  },
+  {
+    "earnings_id": "EARN-000566",
+    "dealer_id": "DEALER-057",
+    "year": 2020,
+    "earnings": 52082
+  },
+  {
+    "earnings_id": "EARN-000567",
+    "dealer_id": "DEALER-057",
+    "year": 2021,
+    "earnings": 46486
+  },
+  {
+    "earnings_id": "EARN-000568",
+    "dealer_id": "DEALER-057",
+    "year": 2022,
+    "earnings": 41378
+  },
+  {
+    "earnings_id": "EARN-000569",
+    "dealer_id": "DEALER-057",
+    "year": 2023,
+    "earnings": 35593
+  },
+  {
+    "earnings_id": "EARN-000570",
+    "dealer_id": "DEALER-057",
+    "year": 2024,
+    "earnings": 30890
+  },
+  {
+    "earnings_id": "EARN-000571",
+    "dealer_id": "DEALER-058",
+    "year": 2015,
+    "earnings": 416065
+  },
+  {
+    "earnings_id": "EARN-000572",
+    "dealer_id": "DEALER-058",
+    "year": 2016,
+    "earnings": 404487
+  },
+  {
+    "earnings_id": "EARN-000573",
+    "dealer_id": "DEALER-058",
+    "year": 2017,
+    "earnings": 430011
+  },
+  {
+    "earnings_id": "EARN-000574",
+    "dealer_id": "DEALER-058",
+    "year": 2018,
+    "earnings": 454244
+  },
+  {
+    "earnings_id": "EARN-000575",
+    "dealer_id": "DEALER-058",
+    "year": 2019,
+    "earnings": 488289
+  },
+  {
+    "earnings_id": "EARN-000576",
+    "dealer_id": "DEALER-058",
+    "year": 2020,
+    "earnings": 532124
+  },
+  {
+    "earnings_id": "EARN-000577",
+    "dealer_id": "DEALER-058",
+    "year": 2021,
+    "earnings": 530686
+  },
+  {
+    "earnings_id": "EARN-000578",
+    "dealer_id": "DEALER-058",
+    "year": 2022,
+    "earnings": 555321
+  },
+  {
+    "earnings_id": "EARN-000579",
+    "dealer_id": "DEALER-058",
+    "year": 2023,
+    "earnings": 519702
+  },
+  {
+    "earnings_id": "EARN-000580",
+    "dealer_id": "DEALER-058",
+    "year": 2024,
+    "earnings": 482029
+  },
+  {
+    "earnings_id": "EARN-000581",
+    "dealer_id": "DEALER-059",
+    "year": 2015,
+    "earnings": 361944
+  },
+  {
+    "earnings_id": "EARN-000582",
+    "dealer_id": "DEALER-059",
+    "year": 2016,
+    "earnings": 440130
+  },
+  {
+    "earnings_id": "EARN-000583",
+    "dealer_id": "DEALER-059",
+    "year": 2017,
+    "earnings": 496671
+  },
+  {
+    "earnings_id": "EARN-000584",
+    "dealer_id": "DEALER-059",
+    "year": 2018,
+    "earnings": 516060
+  },
+  {
+    "earnings_id": "EARN-000585",
+    "dealer_id": "DEALER-059",
+    "year": 2019,
+    "earnings": 581856
+  },
+  {
+    "earnings_id": "EARN-000586",
+    "dealer_id": "DEALER-059",
+    "year": 2020,
+    "earnings": 670229
+  },
+  {
+    "earnings_id": "EARN-000587",
+    "dealer_id": "DEALER-059",
+    "year": 2021,
+    "earnings": 763016
+  },
+  {
+    "earnings_id": "EARN-000588",
+    "dealer_id": "DEALER-059",
+    "year": 2022,
+    "earnings": 892262
+  },
+  {
+    "earnings_id": "EARN-000589",
+    "dealer_id": "DEALER-059",
+    "year": 2023,
+    "earnings": 1051524
+  },
+  {
+    "earnings_id": "EARN-000590",
+    "dealer_id": "DEALER-059",
+    "year": 2024,
+    "earnings": 1151703
+  },
+  {
+    "earnings_id": "EARN-000591",
+    "dealer_id": "DEALER-060",
+    "year": 2015,
+    "earnings": 185026
+  },
+  {
+    "earnings_id": "EARN-000592",
+    "dealer_id": "DEALER-060",
+    "year": 2016,
+    "earnings": 205218
+  },
+  {
+    "earnings_id": "EARN-000593",
+    "dealer_id": "DEALER-060",
+    "year": 2017,
+    "earnings": 194245
+  },
+  {
+    "earnings_id": "EARN-000594",
+    "dealer_id": "DEALER-060",
+    "year": 2018,
+    "earnings": 210244
+  },
+  {
+    "earnings_id": "EARN-000595",
+    "dealer_id": "DEALER-060",
+    "year": 2019,
+    "earnings": 238867
+  },
+  {
+    "earnings_id": "EARN-000596",
+    "dealer_id": "DEALER-060",
+    "year": 2020,
+    "earnings": 270985
+  },
+  {
+    "earnings_id": "EARN-000597",
+    "dealer_id": "DEALER-060",
+    "year": 2021,
+    "earnings": 278881
+  },
+  {
+    "earnings_id": "EARN-000598",
+    "dealer_id": "DEALER-060",
+    "year": 2022,
+    "earnings": 288823
+  },
+  {
+    "earnings_id": "EARN-000599",
+    "dealer_id": "DEALER-060",
+    "year": 2023,
+    "earnings": 309187
+  },
+  {
+    "earnings_id": "EARN-000600",
+    "dealer_id": "DEALER-060",
+    "year": 2024,
+    "earnings": 329952
+  }
+]

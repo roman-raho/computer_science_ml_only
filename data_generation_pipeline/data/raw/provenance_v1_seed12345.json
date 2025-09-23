@@ -1,0 +1,3202 @@
+[
+  {
+    "provenance_id": "5e04c89b-9b4c-473e-ac46-9732239ea392",
+    "artwork_id": "a6453dfc-5e90-418a-ab3f-165ee7fb01ff",
+    "owner": "University Collection",
+    "acquisition_date": "1852-05-28",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-06T08:36:27"
+  },
+  {
+    "provenance_id": "0f54f060-0b87-47e8-9c79-dddc81e1413a",
+    "artwork_id": "b5d9f1b8-dfa9-4874-891c-e38c02dc8ae0",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1891-06-04",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-08-12T10:50:10"
+  },
+  {
+    "provenance_id": "c08ee9e8-80f5-498b-8903-d9524fc5e9e7",
+    "artwork_id": "0e948e38-498f-4ce0-ad5d-645f6e783b07",
+    "owner": "University Collection",
+    "acquisition_date": "2006-09-06",
+    "acquisition_method": "Donation",
+    "created_at": "2024-09-02T15:19:26"
+  },
+  {
+    "provenance_id": "1d0d9ed5-7a1b-42c5-9e9c-f37ee8d64f6c",
+    "artwork_id": "0d644c2a-89e4-4760-84e3-22a5ad70803b",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1955-10-17",
+    "acquisition_method": "Gift",
+    "created_at": "2024-06-27T14:50:02"
+  },
+  {
+    "provenance_id": "65fc16b4-dffa-46ed-9904-fbd507253e54",
+    "artwork_id": "bd2ed69a-a363-4363-8226-81c5d5121b76",
+    "owner": "Regional Museum",
+    "acquisition_date": "1937-06-01",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-06-05T06:35:39"
+  },
+  {
+    "provenance_id": "cdfa3662-9186-4d2f-b3f0-f99d1f353a19",
+    "artwork_id": "b58306f7-f77a-4497-abbd-aa8c739c3d97",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1956-01-01",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-08-14T18:30:45"
+  },
+  {
+    "provenance_id": "36c5b775-5ca7-4930-81ed-756cdd435be4",
+    "artwork_id": "fb7d0f4d-fe8b-4dc3-b425-239823f77d47",
+    "owner": "Art Dealer",
+    "acquisition_date": "1875-11-14",
+    "acquisition_method": "Donation",
+    "created_at": "2024-08-13T18:36:49"
+  },
+  {
+    "provenance_id": "d1b86785-6c68-49e0-ad5f-9316be0e5b3a",
+    "artwork_id": "6e783038-26b0-46a0-8efd-0403884f3c64",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1946-04-17",
+    "acquisition_method": "Donation",
+    "created_at": "2024-09-26T00:00:39"
+  },
+  {
+    "provenance_id": "147c623e-0f34-4ea4-9628-c67ffd5d626f",
+    "artwork_id": "114639f3-5568-4f80-bdac-c13523ed608c",
+    "owner": "Regional Museum",
+    "acquisition_date": "1909-02-28",
+    "acquisition_method": "Gift",
+    "created_at": "2024-09-04T08:12:36"
+  },
+  {
+    "provenance_id": "473edd3a-a8d6-4abc-a69f-eb031a49b1d2",
+    "artwork_id": "0ebce171-421d-4eab-b128-c42972079912",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1897-05-19",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-09-26T16:43:42"
+  },
+  {
+    "provenance_id": "0e46bfca-8929-4dfe-ac4c-aec9347a7ae2",
+    "artwork_id": "1ac9f556-ad5d-4cc1-91b1-de51e2ca7ac8",
+    "owner": "Private Collector",
+    "acquisition_date": "1892-05-28",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-01T00:43:59"
+  },
+  {
+    "provenance_id": "6c53cefa-778b-4bcb-b9ea-b8ee58df0dd2",
+    "artwork_id": "d82bf743-2bc9-4c91-8cd9-438fc653ea99",
+    "owner": "University Collection",
+    "acquisition_date": "1937-03-13",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-06-07T14:13:00"
+  },
+  {
+    "provenance_id": "29355db9-b2e8-4709-91ab-558e85b90995",
+    "artwork_id": "c75502c0-0c28-4eca-846c-0886d059d029",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1963-02-13",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-06-03T01:23:22"
+  },
+  {
+    "provenance_id": "48be563f-8265-4345-90f2-9d48461adea4",
+    "artwork_id": "91adee3c-f864-4e89-8a7b-b6c5c3d44a00",
+    "owner": "Art Dealer",
+    "acquisition_date": "2023-09-25",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-08-19T14:14:24"
+  },
+  {
+    "provenance_id": "592ab285-f631-41ac-a8ea-def5d9559868",
+    "artwork_id": "1017bd37-0850-4445-b6b8-a64340510a29",
+    "owner": "Foundation Trust",
+    "acquisition_date": "2010-08-11",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-09-28T08:01:04"
+  },
+  {
+    "provenance_id": "6cf1ab39-77a5-4aeb-a3b4-e705e541fb3c",
+    "artwork_id": "84b6182e-6569-4852-985b-5b09d83f21be",
+    "owner": "Art Dealer",
+    "acquisition_date": "1943-11-23",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-06-20T14:54:51"
+  },
+  {
+    "provenance_id": "963a587f-d9ca-47eb-b076-bafa18cab8fd",
+    "artwork_id": "f2128008-ebb6-416a-8639-c0619681f984",
+    "owner": "National Gallery",
+    "acquisition_date": "1892-06-08",
+    "acquisition_method": "Gift",
+    "created_at": "2024-06-21T22:29:47"
+  },
+  {
+    "provenance_id": "2fbdb16f-c951-44b1-b3be-f49378100165",
+    "artwork_id": "c27198e0-2fe8-4558-8253-913ef90ea07f",
+    "owner": "Private Collector",
+    "acquisition_date": "1987-02-17",
+    "acquisition_method": "Gift",
+    "created_at": "2024-06-02T11:56:43"
+  },
+  {
+    "provenance_id": "93d0bc9d-1959-438d-b535-5539b885bbad",
+    "artwork_id": "f2128008-ebb6-416a-8639-c0619681f984",
+    "owner": "Art Dealer",
+    "acquisition_date": "1897-10-26",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-08-05T02:47:13"
+  },
+  {
+    "provenance_id": "a72ee59d-b45a-48ac-971f-e7a4524fd9a4",
+    "artwork_id": "d7e938de-2a64-484a-a87f-97a29993b675",
+    "owner": "National Gallery",
+    "acquisition_date": "1967-07-06",
+    "acquisition_method": "Gift",
+    "created_at": "2024-06-05T01:34:38"
+  },
+  {
+    "provenance_id": "93fe898b-2d58-4a25-9c31-a7c7c2d01db0",
+    "artwork_id": "af6290f7-fc41-44fe-a780-a669508cf851",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1895-07-06",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-08-28T06:52:10"
+  },
+  {
+    "provenance_id": "4ca5ff24-b447-44d1-84f2-2a42c2f6eb21",
+    "artwork_id": "e9b3158c-7fba-45a8-9eaf-fe4a5a5d733c",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1955-09-23",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-06-16T14:27:54"
+  },
+  {
+    "provenance_id": "1d40cb2b-c14c-4aa7-ac74-26d8456abe00",
+    "artwork_id": "6e82b945-b0e0-48fd-86ff-e8f214c69c4e",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1967-12-07",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-06-26T16:54:58"
+  },
+  {
+    "provenance_id": "45c76059-2616-4c55-91a7-af407e62edbb",
+    "artwork_id": "0d644c2a-89e4-4760-84e3-22a5ad70803b",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1909-06-19",
+    "acquisition_method": "Gift",
+    "created_at": "2024-08-09T06:34:49"
+  },
+  {
+    "provenance_id": "74c0d785-4d94-4feb-bec8-cd9b8e482170",
+    "artwork_id": "a9d0a3fc-72e3-4e9a-bcd7-a6553c642608",
+    "owner": "Corporate Collection",
+    "acquisition_date": "2021-01-09",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-07-18T06:48:43"
+  },
+  {
+    "provenance_id": "a90f6691-ef14-41f0-b356-c03c5a83cd87",
+    "artwork_id": "ec4265bd-082e-4909-9466-6d1f6cfeedcb",
+    "owner": "Art Dealer",
+    "acquisition_date": "1996-02-21",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-19T11:06:45"
+  },
+  {
+    "provenance_id": "61adb1bc-adf3-4fe5-bf72-ca4e7cfb9665",
+    "artwork_id": "4ab9746d-edea-48f7-9f7e-e2e57bc77b79",
+    "owner": "University Collection",
+    "acquisition_date": "1920-12-15",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-07-11T04:21:13"
+  },
+  {
+    "provenance_id": "0079fb61-94d7-4da5-bd3a-fa523f818fec",
+    "artwork_id": "36ea5972-1e18-417a-a44c-bade814264be",
+    "owner": "Regional Museum",
+    "acquisition_date": "1917-05-24",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-06-07T21:39:11"
+  },
+  {
+    "provenance_id": "1f10462e-287c-4b25-a21d-2fe0e56f4f38",
+    "artwork_id": "917443e0-13aa-40da-84ed-0f7e1d6d63df",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1857-04-12",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-08-27T10:46:38"
+  },
+  {
+    "provenance_id": "9312c2a1-a159-4940-9be9-7da53a79660d",
+    "artwork_id": "09e255b8-3426-4acd-8d33-72c97bb23106",
+    "owner": "National Gallery",
+    "acquisition_date": "1857-02-20",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-07-22T05:51:34"
+  },
+  {
+    "provenance_id": "b4fc13dd-2919-40f7-8546-3024d271ad60",
+    "artwork_id": "45e54b59-408b-4d68-8ad5-fdd506687330",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1919-06-07",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-12T02:08:12"
+  },
+  {
+    "provenance_id": "7c1f782e-e007-4a4a-90ef-829e7fc6e50a",
+    "artwork_id": "f1c7be10-e0b8-407d-9525-8587163be2dc",
+    "owner": "Private Collector",
+    "acquisition_date": "2007-05-12",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-06-25T17:50:40"
+  },
+  {
+    "provenance_id": "69f01857-5d26-4984-ad67-1e5811024216",
+    "artwork_id": "fb283c3b-3ff5-443a-8da5-a69e778a77e0",
+    "owner": "University Collection",
+    "acquisition_date": "1886-05-08",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-06-26T12:30:16"
+  },
+  {
+    "provenance_id": "2d360c0b-c649-4475-bbf1-fa114da059ce",
+    "artwork_id": "c27198e0-2fe8-4558-8253-913ef90ea07f",
+    "owner": "University Collection",
+    "acquisition_date": "1879-09-02",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-07-11T13:29:09"
+  },
+  {
+    "provenance_id": "debe94d6-4fa5-4232-9fb1-abdc140e4231",
+    "artwork_id": "f1f533f2-ec00-4d07-bf58-f2fd19b8ba44",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1875-08-05",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-05T08:44:51"
+  },
+  {
+    "provenance_id": "796296ef-037c-44d5-bced-c4bc96b08b01",
+    "artwork_id": "5e10269f-316e-4da2-9c76-935fe4b19097",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1941-03-24",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-09-18T15:20:29"
+  },
+  {
+    "provenance_id": "37ba50a8-a987-4a78-9b45-d11a08fc60e4",
+    "artwork_id": "245d519f-5971-4b54-8f27-d25c38d2ee65",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1985-04-18",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-24T07:04:40"
+  },
+  {
+    "provenance_id": "fe44ddcb-a247-4312-ba53-4a04af3c3d19",
+    "artwork_id": "1017bd37-0850-4445-b6b8-a64340510a29",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1983-03-19",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-08-15T17:57:37"
+  },
+  {
+    "provenance_id": "17f7865b-c66c-4250-96ae-83a03e896b34",
+    "artwork_id": "10cba1b7-f52a-4fc5-be64-7c97913a01b8",
+    "owner": "University Collection",
+    "acquisition_date": "1956-08-01",
+    "acquisition_method": "Donation",
+    "created_at": "2024-06-05T02:08:32"
+  },
+  {
+    "provenance_id": "e0c7e61a-95b1-4ef1-8333-1cfab9a6e49d",
+    "artwork_id": "cfb6d379-83f5-4ef0-a4e4-d2b5f9b6fc81",
+    "owner": "Foundation Trust",
+    "acquisition_date": "2022-09-22",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-07-12T05:07:15"
+  },
+  {
+    "provenance_id": "73a75b66-cb85-484f-b5c7-97d6cc3e6a0c",
+    "artwork_id": "ea5e00a7-657f-4a04-8457-ac556c25c1f2",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1861-06-11",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-07-09T16:34:04"
+  },
+  {
+    "provenance_id": "48ebb198-3991-4d7e-8c7b-9ed469a4df99",
+    "artwork_id": "dd739108-b98d-4dcb-b5c0-57ca1322e4dc",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1994-10-02",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-08-02T16:19:17"
+  },
+  {
+    "provenance_id": "e3eebfd3-1ba6-4a1e-a249-d9260aefcfef",
+    "artwork_id": "de7690d1-c075-4e90-ae2e-4cacb0710ae2",
+    "owner": "Private Collector",
+    "acquisition_date": "2007-03-02",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-09-15T19:52:55"
+  },
+  {
+    "provenance_id": "97d2e23e-ae50-40f9-919b-61f9f5f4631c",
+    "artwork_id": "fee739e3-a597-452a-9a63-792f3caa3454",
+    "owner": "Regional Museum",
+    "acquisition_date": "1874-08-16",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-07-25T20:00:42"
+  },
+  {
+    "provenance_id": "25d90dff-9067-440a-badd-7c79d7f1a498",
+    "artwork_id": "60bd5402-5e6a-4040-bce3-b749f5dd216d",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1934-12-26",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-08-16T07:46:48"
+  },
+  {
+    "provenance_id": "cb460672-dddc-4fbe-9f08-26ee88f138e9",
+    "artwork_id": "f1f533f2-ec00-4d07-bf58-f2fd19b8ba44",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1970-03-07",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-09-29T08:04:01"
+  },
+  {
+    "provenance_id": "412d46a8-7b4f-4e7a-9220-fa7e3e875661",
+    "artwork_id": "7be0d537-ab52-4d0a-8796-9ed84c6b8340",
+    "owner": "Regional Museum",
+    "acquisition_date": "1904-03-22",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-09-06T12:31:34"
+  },
+  {
+    "provenance_id": "7469410c-29ec-4a45-9b1a-7a4b58cc9ccf",
+    "artwork_id": "85bf703c-59ff-429d-9fed-13202652893d",
+    "owner": "Art Dealer",
+    "acquisition_date": "1899-02-26",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-09-12T16:27:11"
+  },
+  {
+    "provenance_id": "8bc9784b-5dda-4b7a-905e-fc777c8e0c91",
+    "artwork_id": "245d519f-5971-4b54-8f27-d25c38d2ee65",
+    "owner": "National Gallery",
+    "acquisition_date": "1917-10-08",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-06-30T06:07:10"
+  },
+  {
+    "provenance_id": "8a51a5e6-85bf-440d-97ea-24048edb14fd",
+    "artwork_id": "59885e08-9ba1-41c3-8c8d-f897e385c26b",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1964-11-13",
+    "acquisition_method": "Gift",
+    "created_at": "2024-08-24T04:24:21"
+  },
+  {
+    "provenance_id": "2c8287b7-8aed-43fe-bc54-e256dbab5f57",
+    "artwork_id": "326ea2bc-2f78-4d7f-bfe2-138cd91a47dd",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1877-09-01",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-09-26T01:23:51"
+  },
+  {
+    "provenance_id": "3da3a111-728a-4d9a-91db-aa7ca0154270",
+    "artwork_id": "769fa310-7a0b-422e-adcb-46ae35a8af68",
+    "owner": "Art Dealer",
+    "acquisition_date": "1952-08-22",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-07-30T16:02:32"
+  },
+  {
+    "provenance_id": "3eda50f9-d0e5-44f0-a42f-187795fe4044",
+    "artwork_id": "1da912f7-1e76-490b-9de0-56671d28d8d2",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1913-08-10",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-06-16T18:14:00"
+  },
+  {
+    "provenance_id": "f98d6963-c118-46ab-87e6-19ae111dfa18",
+    "artwork_id": "1eb42592-5ee4-4190-844a-490b616b40ca",
+    "owner": "Foundation Trust",
+    "acquisition_date": "2007-07-09",
+    "acquisition_method": "Donation",
+    "created_at": "2024-09-08T18:24:29"
+  },
+  {
+    "provenance_id": "e7e6a966-f73a-4e6d-b0b0-e51d0828d86a",
+    "artwork_id": "e5ddf9d4-af8b-4c5b-879b-a2a3167d53ea",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1851-09-24",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-09-13T05:27:04"
+  },
+  {
+    "provenance_id": "02a0ee58-f45b-4032-a150-a2a39e1abe47",
+    "artwork_id": "b94d9361-909c-4870-b2d2-36c0d123d377",
+    "owner": "Estate of Artist",
+    "acquisition_date": "2011-04-26",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-09-03T02:28:47"
+  },
+  {
+    "provenance_id": "4bb70ee6-7db9-46df-b371-91438b71efc4",
+    "artwork_id": "fa653a2a-2919-4998-938e-677f564a008e",
+    "owner": "National Gallery",
+    "acquisition_date": "1905-09-09",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-09-26T19:25:42"
+  },
+  {
+    "provenance_id": "93157c5a-5692-43da-9382-ebd60367308a",
+    "artwork_id": "7e983a97-e008-4cb8-8a13-68d79480af7f",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1993-01-01",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-08-14T16:51:12"
+  },
+  {
+    "provenance_id": "35b1a50b-5ac6-4657-b154-98b79fef148f",
+    "artwork_id": "0180dd49-77f8-4246-b36d-3962c826d38e",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1904-03-27",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-07-11T06:34:33"
+  },
+  {
+    "provenance_id": "6cb81c3b-cfae-42ff-9b95-510deff070fe",
+    "artwork_id": "fb7d0f4d-fe8b-4dc3-b425-239823f77d47",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1857-04-14",
+    "acquisition_method": "Donation",
+    "created_at": "2024-08-15T02:37:11"
+  },
+  {
+    "provenance_id": "8e00a648-0fda-4cd3-8843-5ed242e2fda9",
+    "artwork_id": "89f36af8-a8a6-400f-9ed7-f7e7f2e4c7d1",
+    "owner": "Regional Museum",
+    "acquisition_date": "2013-12-22",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-08-11T22:11:37"
+  },
+  {
+    "provenance_id": "81f9d59e-5c89-4eff-a174-a7d093ed2b37",
+    "artwork_id": "12b976ba-f645-4163-8377-2c8a8d0a0524",
+    "owner": "Regional Museum",
+    "acquisition_date": "1922-09-03",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-08-30T05:34:08"
+  },
+  {
+    "provenance_id": "afdbf4aa-1ff6-486f-b5c9-d850d6268bc9",
+    "artwork_id": "e6e7c9eb-127a-4ca3-8dbb-cc2ec34e1781",
+    "owner": "Art Dealer",
+    "acquisition_date": "1890-07-02",
+    "acquisition_method": "Donation",
+    "created_at": "2024-09-24T16:20:28"
+  },
+  {
+    "provenance_id": "8409e2c1-88c8-4462-862b-a483a65eada1",
+    "artwork_id": "f5f35c71-d4ba-4eb1-b101-b257d3e48631",
+    "owner": "Corporate Collection",
+    "acquisition_date": "2019-06-14",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-06-13T02:11:26"
+  },
+  {
+    "provenance_id": "efe443c2-acee-4df8-8e25-aa8328720abd",
+    "artwork_id": "7ba1c908-5622-43b5-9920-c93b17b100b0",
+    "owner": "Corporate Collection",
+    "acquisition_date": "2014-02-24",
+    "acquisition_method": "Gift",
+    "created_at": "2024-08-19T12:15:56"
+  },
+  {
+    "provenance_id": "6dda8465-e693-4237-946c-21cbf19e2eaf",
+    "artwork_id": "103e73d2-a7b5-4cc2-8ad9-6099bb6ec49a",
+    "owner": "Private Collector",
+    "acquisition_date": "1967-03-21",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-06-21T21:49:31"
+  },
+  {
+    "provenance_id": "3f36c087-730e-4df9-8dac-f87c45384c00",
+    "artwork_id": "be8f64a3-7423-497d-8167-437ab4d054a5",
+    "owner": "University Collection",
+    "acquisition_date": "1949-03-10",
+    "acquisition_method": "Donation",
+    "created_at": "2024-08-16T23:30:43"
+  },
+  {
+    "provenance_id": "4b63d857-cb65-4b95-ac97-c307c521b0d1",
+    "artwork_id": "c683f902-1423-4cb0-9f65-38bc95b68d8b",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1860-06-08",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-07-29T12:58:24"
+  },
+  {
+    "provenance_id": "2d1ea536-3270-455a-b335-e92625fc2a7f",
+    "artwork_id": "f13d4ca9-6372-41e3-9593-b77bc3445bd2",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "2021-07-16",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-09-08T01:37:05"
+  },
+  {
+    "provenance_id": "5a7980f4-ad5a-4dbb-a911-b4e09b9ddb15",
+    "artwork_id": "b58306f7-f77a-4497-abbd-aa8c739c3d97",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1995-05-26",
+    "acquisition_method": "Gift",
+    "created_at": "2024-08-04T04:26:09"
+  },
+  {
+    "provenance_id": "dc973675-ec86-486c-8150-37444e0c22cd",
+    "artwork_id": "5e019849-6494-408b-87c7-3adfe0afe7b3",
+    "owner": "University Collection",
+    "acquisition_date": "1852-08-25",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-24T05:10:39"
+  },
+  {
+    "provenance_id": "982f22fe-b37a-4c66-bd4c-71a49dfd02f6",
+    "artwork_id": "7d0b0765-ba5c-45d7-88fb-300cfef2aa81",
+    "owner": "Regional Museum",
+    "acquisition_date": "2007-09-11",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-09-15T09:40:10"
+  },
+  {
+    "provenance_id": "0fd540d4-3154-49cc-bc67-16e8b51a1bc8",
+    "artwork_id": "286bcb63-a547-418a-9901-6e5b4cfb246d",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1956-06-04",
+    "acquisition_method": "Gift",
+    "created_at": "2024-08-08T13:41:06"
+  },
+  {
+    "provenance_id": "17266f95-c3d6-4520-a10b-ff1623dd5649",
+    "artwork_id": "724075d4-7a3b-4ad9-81fa-6529c021732e",
+    "owner": "University Collection",
+    "acquisition_date": "1881-07-05",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-06-27T11:59:46"
+  },
+  {
+    "provenance_id": "5ef42b61-6375-45f3-a02e-a94b4d53159e",
+    "artwork_id": "91adee3c-f864-4e89-8a7b-b6c5c3d44a00",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1850-02-11",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-07-03T11:45:15"
+  },
+  {
+    "provenance_id": "173766eb-916f-4e39-a239-bc3b0bdf1106",
+    "artwork_id": "737ee81c-5483-413c-9d02-e66901b5327d",
+    "owner": "Foundation Trust",
+    "acquisition_date": "2007-05-20",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-07-15T23:28:06"
+  },
+  {
+    "provenance_id": "dbe3369f-a98a-4e39-931f-eb7297e2def3",
+    "artwork_id": "5c488f8a-bf1d-4024-a0fe-7b8ac5b793a6",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1855-10-04",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-07-28T11:21:51"
+  },
+  {
+    "provenance_id": "06fbab12-4022-4fc3-b400-8e831f45d837",
+    "artwork_id": "37afa7d7-cd07-441e-8f4f-5e7cb6244d00",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1910-05-04",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-08T14:12:53"
+  },
+  {
+    "provenance_id": "22f97205-6155-4d5b-abb3-5678bf0bdf28",
+    "artwork_id": "c1809c9e-1aae-4d12-bda5-1f88ef679706",
+    "owner": "National Gallery",
+    "acquisition_date": "1882-03-17",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-05T19:40:55"
+  },
+  {
+    "provenance_id": "550d1de4-e45c-4b6f-af14-f790b7b58031",
+    "artwork_id": "236d412a-904b-4b00-a732-2c2c12cf02fb",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1941-01-03",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-09-03T20:29:36"
+  },
+  {
+    "provenance_id": "96adfc84-995a-45ae-8f70-0ed2bb458601",
+    "artwork_id": "c75502c0-0c28-4eca-846c-0886d059d029",
+    "owner": "Private Collector",
+    "acquisition_date": "1861-03-01",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-20T03:27:03"
+  },
+  {
+    "provenance_id": "990f7563-3aa3-49c5-954b-17901b9442c6",
+    "artwork_id": "c8596794-5da7-4b31-ba74-efdc84e0d274",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1957-01-06",
+    "acquisition_method": "Donation",
+    "created_at": "2024-08-06T06:48:42"
+  },
+  {
+    "provenance_id": "05cdebad-a4d7-419f-a213-2a306b66d502",
+    "artwork_id": "be8f64a3-7423-497d-8167-437ab4d054a5",
+    "owner": "Art Dealer",
+    "acquisition_date": "1975-02-12",
+    "acquisition_method": "Donation",
+    "created_at": "2024-06-20T12:48:59"
+  },
+  {
+    "provenance_id": "0590067f-eeaf-4322-8737-3a77e7f17df4",
+    "artwork_id": "307e0f42-57ca-4c9f-8f0a-3097fe1bd343",
+    "owner": "University Collection",
+    "acquisition_date": "1940-03-12",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-08T19:07:46"
+  },
+  {
+    "provenance_id": "ddee0e98-5d04-4a1d-a7f3-804af2788c70",
+    "artwork_id": "393a6a74-1365-49be-b056-9b50ee2d1f33",
+    "owner": "University Collection",
+    "acquisition_date": "1934-07-03",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-04T05:12:14"
+  },
+  {
+    "provenance_id": "b762e1b3-994e-478c-84f4-cdfe601b6989",
+    "artwork_id": "32fbf9b4-1417-4584-8b61-1d56a2917b8e",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1893-09-23",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-06-05T04:10:40"
+  },
+  {
+    "provenance_id": "895aeca1-ee80-4102-b396-e4165815ee86",
+    "artwork_id": "a2575a75-128a-4740-9919-a1626460becc",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1915-03-25",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-09-04T09:50:52"
+  },
+  {
+    "provenance_id": "5ee1517d-521e-42e2-a850-c78dfdaa9d22",
+    "artwork_id": "4078af9e-c9a5-4296-bc9f-9f8b47c33421",
+    "owner": "Private Collector",
+    "acquisition_date": "1915-05-23",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-08-13T01:25:05"
+  },
+  {
+    "provenance_id": "f8a41a36-fca5-4fc7-a87a-a56e4f202d8b",
+    "artwork_id": "c75502c0-0c28-4eca-846c-0886d059d029",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1952-09-07",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-09-24T15:58:05"
+  },
+  {
+    "provenance_id": "c4b58bd3-a437-4a63-90a7-1b08f9e2fe5e",
+    "artwork_id": "7be0d537-ab52-4d0a-8796-9ed84c6b8340",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1988-03-15",
+    "acquisition_method": "Gift",
+    "created_at": "2024-06-11T09:21:32"
+  },
+  {
+    "provenance_id": "4a1fd814-c319-456f-8464-0703f978d7fd",
+    "artwork_id": "6232c663-4907-423b-ba70-a75eab21b117",
+    "owner": "Private Collector",
+    "acquisition_date": "1877-07-05",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-08-21T16:24:28"
+  },
+  {
+    "provenance_id": "6aa5e9f9-154a-4307-ab8d-8ef679d3cca4",
+    "artwork_id": "c2ba3d92-3f95-475f-a826-7c3f4c5447b5",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1916-05-05",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-06-29T18:25:10"
+  },
+  {
+    "provenance_id": "0e061738-5489-4a7b-a7e3-25f55205539f",
+    "artwork_id": "629c5fd8-64d3-41f9-a8fb-6f9ea12e2703",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1875-07-05",
+    "acquisition_method": "Gift",
+    "created_at": "2024-09-11T16:21:33"
+  },
+  {
+    "provenance_id": "a73eefba-7363-432d-9b15-8c0850b8f4fd",
+    "artwork_id": "f8124fd2-062e-4c1d-9d69-9d2713349192",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1930-11-13",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-09-04T09:26:25"
+  },
+  {
+    "provenance_id": "40c9e2be-f115-49d5-9000-86bfab12969f",
+    "artwork_id": "a65877d8-b99d-45e6-8893-76327a3a33ca",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1904-06-13",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-07-09T10:20:29"
+  },
+  {
+    "provenance_id": "b5400849-504d-40fe-b617-23a085055f68",
+    "artwork_id": "dce2292f-1aae-4eec-8620-606dda41abd4",
+    "owner": "Art Dealer",
+    "acquisition_date": "1965-07-16",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-07-31T20:00:52"
+  },
+  {
+    "provenance_id": "60932e18-3098-48b0-a977-96c3ab11f4b0",
+    "artwork_id": "4a9e697e-c146-44c6-ae1c-18941e2fb965",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1861-06-06",
+    "acquisition_method": "Gift",
+    "created_at": "2024-06-29T14:48:15"
+  },
+  {
+    "provenance_id": "b3c6f0d9-b55b-4fd0-9851-b49b78f9c425",
+    "artwork_id": "4b023811-a322-4a02-bd92-54ec8a9ba18c",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1991-04-06",
+    "acquisition_method": "Gift",
+    "created_at": "2024-08-22T12:10:10"
+  },
+  {
+    "provenance_id": "42e877bd-51cd-4cd0-adce-358187b62631",
+    "artwork_id": "7871a5a4-a3be-459a-9f4a-275012b7ec36",
+    "owner": "Private Collector",
+    "acquisition_date": "1883-01-25",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-06-17T07:24:36"
+  },
+  {
+    "provenance_id": "beb5cea9-917d-483b-828f-3469be2e2d1c",
+    "artwork_id": "40818a94-49c0-42e6-a578-60ee75aa0d70",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1853-08-20",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-15T11:09:03"
+  },
+  {
+    "provenance_id": "4fd29c2f-7481-4601-b158-83ac29bd2152",
+    "artwork_id": "c3425577-2d83-4117-ab1c-d0877fc48d82",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1856-01-21",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-07-11T04:09:06"
+  },
+  {
+    "provenance_id": "47560d85-798f-431c-a7c0-075dcfd4cf27",
+    "artwork_id": "9d591b58-39f5-45d0-a22c-445b4acd9c7e",
+    "owner": "Regional Museum",
+    "acquisition_date": "1868-07-05",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-08-01T11:59:51"
+  },
+  {
+    "provenance_id": "cc55b81e-f944-420f-8d4b-f5c3fc88e8bb",
+    "artwork_id": "be8f64a3-7423-497d-8167-437ab4d054a5",
+    "owner": "National Gallery",
+    "acquisition_date": "2012-09-13",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-09-18T17:14:54"
+  },
+  {
+    "provenance_id": "1a9bb685-5b1b-4693-9882-baaa70eb422a",
+    "artwork_id": "dce2292f-1aae-4eec-8620-606dda41abd4",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1941-12-08",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-07-31T00:31:09"
+  },
+  {
+    "provenance_id": "c971a13f-0989-4b15-b10d-1aa798590d64",
+    "artwork_id": "7648740f-2bb0-4482-ad8d-994dccd270ec",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1972-06-04",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-06-11T07:09:06"
+  },
+  {
+    "provenance_id": "3b92453a-898f-4fa7-8189-722a09246584",
+    "artwork_id": "84b6182e-6569-4852-985b-5b09d83f21be",
+    "owner": "University Collection",
+    "acquisition_date": "1856-02-13",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-08-04T11:37:15"
+  },
+  {
+    "provenance_id": "83142319-a9a3-4da3-90dc-ba88e6cf1da8",
+    "artwork_id": "45e54b59-408b-4d68-8ad5-fdd506687330",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1911-12-09",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-06-19T16:25:46"
+  },
+  {
+    "provenance_id": "c4880f42-68a1-40e4-9e49-6b289b3a4aae",
+    "artwork_id": "9e75fb48-4731-4689-8002-0e617e7d82b4",
+    "owner": "National Gallery",
+    "acquisition_date": "1947-04-04",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-24T11:55:32"
+  },
+  {
+    "provenance_id": "b3e0e2c1-dcf8-4ab0-87e9-f88819335958",
+    "artwork_id": "836a893d-21bd-4463-95e5-996759457df6",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1898-10-15",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-07-14T08:31:02"
+  },
+  {
+    "provenance_id": "5cdbfdca-266f-4409-8833-137951f9ae2d",
+    "artwork_id": "332df28e-757b-498c-ab83-523c8f40f10b",
+    "owner": "Private Collector",
+    "acquisition_date": "1957-05-14",
+    "acquisition_method": "Gift",
+    "created_at": "2024-08-23T15:31:58"
+  },
+  {
+    "provenance_id": "a7488dba-0f9d-4f20-991b-61fad728b1e2",
+    "artwork_id": "fa653a2a-2919-4998-938e-677f564a008e",
+    "owner": "Private Collector",
+    "acquisition_date": "1963-01-10",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-08-25T07:51:06"
+  },
+  {
+    "provenance_id": "6171c1ab-79c6-487b-a466-3646079434f1",
+    "artwork_id": "f7846c4c-49ea-4de7-ae3d-df86cc4558da",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1876-09-15",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-06-17T13:31:26"
+  },
+  {
+    "provenance_id": "769e7cd0-c3b3-4e1e-9cf5-fc119a8cc2c1",
+    "artwork_id": "6b68e2ba-83c7-4fa9-a7be-0e3eba51ec52",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1892-03-15",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-06-04T23:35:10"
+  },
+  {
+    "provenance_id": "776719cc-02e9-4a20-b4c7-70206abf008a",
+    "artwork_id": "8f94b0cf-5416-4ec0-a4cc-8a82a07527f3",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1933-06-14",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-08-02T21:36:49"
+  },
+  {
+    "provenance_id": "e4afcb47-681a-436b-b443-57d5cb7a98ea",
+    "artwork_id": "775dff7f-02df-40ce-89f3-d6203560663e",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1932-07-03",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-07-03T05:48:10"
+  },
+  {
+    "provenance_id": "34ce5314-9b60-422e-9b2c-2263e294ffb6",
+    "artwork_id": "df86e64d-5fc9-4771-a996-2f194c71082c",
+    "owner": "University Collection",
+    "acquisition_date": "1996-09-03",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-08-09T23:39:24"
+  },
+  {
+    "provenance_id": "0b28c63d-6f91-43d7-99c2-0b063131bc37",
+    "artwork_id": "492a766c-49e5-484f-8e95-398f99d196d8",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1938-09-26",
+    "acquisition_method": "Donation",
+    "created_at": "2024-09-19T07:21:16"
+  },
+  {
+    "provenance_id": "527b7f14-79ce-40e8-98d2-1824b13e041e",
+    "artwork_id": "f87e6cbb-717a-4bb4-8e09-6cc4848a6ff3",
+    "owner": "Art Dealer",
+    "acquisition_date": "1896-06-03",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-09-19T03:47:20"
+  },
+  {
+    "provenance_id": "7a26eda2-d94d-47f0-8e94-ce7dd042629c",
+    "artwork_id": "e4a26841-3781-423a-b67b-1a2ce7f2f634",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1965-12-23",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-25T20:07:41"
+  },
+  {
+    "provenance_id": "3a041652-86d1-44f9-a007-d7ded4910922",
+    "artwork_id": "0bb35264-f338-4897-bf8c-d976ad5353e3",
+    "owner": "University Collection",
+    "acquisition_date": "1912-06-15",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-09-14T02:48:48"
+  },
+  {
+    "provenance_id": "3b5acc0f-fc03-4683-a277-680eed14d544",
+    "artwork_id": "fee739e3-a597-452a-9a63-792f3caa3454",
+    "owner": "University Collection",
+    "acquisition_date": "1874-01-23",
+    "acquisition_method": "Donation",
+    "created_at": "2024-08-28T03:56:16"
+  },
+  {
+    "provenance_id": "ec9325b9-bf5e-4019-a79d-14348579ff0d",
+    "artwork_id": "724075d4-7a3b-4ad9-81fa-6529c021732e",
+    "owner": "Private Collector",
+    "acquisition_date": "1855-11-08",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-19T09:18:02"
+  },
+  {
+    "provenance_id": "9d14d327-b860-461f-bee3-56247569aa23",
+    "artwork_id": "5b279384-9879-494b-91ae-2683ba7041ef",
+    "owner": "Private Collector",
+    "acquisition_date": "1850-04-26",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-08-27T02:25:46"
+  },
+  {
+    "provenance_id": "be743476-ae31-41b9-a4a5-58ee01a2852c",
+    "artwork_id": "c1809c9e-1aae-4d12-bda5-1f88ef679706",
+    "owner": "University Collection",
+    "acquisition_date": "2015-03-07",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-09-16T00:25:36"
+  },
+  {
+    "provenance_id": "036800a3-09d6-4892-b5d5-afdb66159316",
+    "artwork_id": "ac5c3e4e-9c39-4c61-835f-4a8a94b9258e",
+    "owner": "Private Collector",
+    "acquisition_date": "1912-04-15",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-01T09:13:16"
+  },
+  {
+    "provenance_id": "5dfd54bf-ee07-4f87-b33c-b3eb9a82998e",
+    "artwork_id": "0b31f70a-f53a-44e6-b4f9-78edc1849b3e",
+    "owner": "Private Collector",
+    "acquisition_date": "1963-12-06",
+    "acquisition_method": "Donation",
+    "created_at": "2024-09-17T04:59:04"
+  },
+  {
+    "provenance_id": "1d01ef8f-8488-469b-863f-b1d3b5171514",
+    "artwork_id": "b8ad6a30-24a8-4967-89d4-ab00dd7516c1",
+    "owner": "University Collection",
+    "acquisition_date": "1884-08-17",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-06-30T23:43:45"
+  },
+  {
+    "provenance_id": "a7d05767-3736-49cb-920a-8bcd84b6059a",
+    "artwork_id": "3a907644-29a1-43c2-a553-98da5d45a872",
+    "owner": "Art Dealer",
+    "acquisition_date": "1875-03-05",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-08-30T16:22:42"
+  },
+  {
+    "provenance_id": "5e59e9df-f42b-4947-855b-4c1efedaa807",
+    "artwork_id": "0180dd49-77f8-4246-b36d-3962c826d38e",
+    "owner": "University Collection",
+    "acquisition_date": "2002-07-19",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-08-24T06:30:11"
+  },
+  {
+    "provenance_id": "0d29d22d-4e6f-45e5-b742-e7bda50fd4de",
+    "artwork_id": "be290ac8-8259-4aa5-a89e-17f7ab7e7f46",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1903-07-03",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-27T19:32:43"
+  },
+  {
+    "provenance_id": "926c1103-ca74-449b-86d8-35f93e186dae",
+    "artwork_id": "3d28f372-4349-47be-8111-1157bb8ad266",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1890-11-06",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-06-15T16:31:34"
+  },
+  {
+    "provenance_id": "1b270ac8-7266-4005-b89e-d624e931b360",
+    "artwork_id": "6e82b945-b0e0-48fd-86ff-e8f214c69c4e",
+    "owner": "National Gallery",
+    "acquisition_date": "1920-03-11",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-09-19T08:37:39"
+  },
+  {
+    "provenance_id": "99a6c203-f19c-4413-82a7-b96e9f6d9cb7",
+    "artwork_id": "54ecdac7-26a6-4c07-8361-651dae27f4fe",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1972-01-09",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-07-13T12:00:47"
+  },
+  {
+    "provenance_id": "fc63ba7f-c096-4e02-a127-778e043b553c",
+    "artwork_id": "1da912f7-1e76-490b-9de0-56671d28d8d2",
+    "owner": "Private Collector",
+    "acquisition_date": "1979-11-18",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-18T10:09:43"
+  },
+  {
+    "provenance_id": "0beddd0b-1900-446c-9983-c4f25ad80071",
+    "artwork_id": "e30ad902-f282-4a30-bf99-a36ae116ea9f",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1912-01-03",
+    "acquisition_method": "Gift",
+    "created_at": "2024-09-07T19:57:55"
+  },
+  {
+    "provenance_id": "06257906-c849-45a3-8c6d-5ad0226a5950",
+    "artwork_id": "2652051f-4b91-45f7-932a-f97a485288f7",
+    "owner": "Private Collector",
+    "acquisition_date": "1924-08-15",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-08-28T06:51:36"
+  },
+  {
+    "provenance_id": "6297f188-ec7b-4392-bd14-6e3297b800a2",
+    "artwork_id": "307e0f42-57ca-4c9f-8f0a-3097fe1bd343",
+    "owner": "University Collection",
+    "acquisition_date": "1994-10-03",
+    "acquisition_method": "Gift",
+    "created_at": "2024-08-16T03:30:00"
+  },
+  {
+    "provenance_id": "eaed092a-50a6-4314-8749-b2e22a4d706c",
+    "artwork_id": "412e360c-8c10-4dae-850c-b05b3e6a1f2d",
+    "owner": "Art Dealer",
+    "acquisition_date": "1982-01-19",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-09-19T19:18:57"
+  },
+  {
+    "provenance_id": "da39226a-d5ae-4b20-855c-4e5ab97a5bb9",
+    "artwork_id": "35c6fd2b-ab8c-4f3a-a58b-577973620216",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1927-03-05",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-09-22T19:03:01"
+  },
+  {
+    "provenance_id": "2c228a4c-856f-4b72-9608-9a50e963c482",
+    "artwork_id": "103e73d2-a7b5-4cc2-8ad9-6099bb6ec49a",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1969-06-06",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-09-07T16:47:58"
+  },
+  {
+    "provenance_id": "16e2b1f2-69d5-4b74-a70a-7c5a3911c487",
+    "artwork_id": "bd737144-d03a-4119-8b56-fd9f5fbb174d",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1907-08-25",
+    "acquisition_method": "Donation",
+    "created_at": "2024-09-23T06:01:08"
+  },
+  {
+    "provenance_id": "bca87e69-cdc7-4a0e-84ee-719d48d04ad1",
+    "artwork_id": "db975bad-a524-4a9d-a5de-d58cf31ee888",
+    "owner": "Art Dealer",
+    "acquisition_date": "1927-04-14",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-23T18:41:20"
+  },
+  {
+    "provenance_id": "f1f0977b-9790-418f-8798-e73cb882ee6a",
+    "artwork_id": "393a6a74-1365-49be-b056-9b50ee2d1f33",
+    "owner": "Private Collector",
+    "acquisition_date": "1999-11-17",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-07-14T22:00:42"
+  },
+  {
+    "provenance_id": "1e096801-31ea-4b96-a643-da5f5cae1d24",
+    "artwork_id": "99f9a27b-aea0-41a4-8165-c1136b40423b",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1853-11-11",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-08-01T15:57:36"
+  },
+  {
+    "provenance_id": "c0034aed-c876-4378-8026-39293ed58acc",
+    "artwork_id": "236d412a-904b-4b00-a732-2c2c12cf02fb",
+    "owner": "Private Collector",
+    "acquisition_date": "1936-04-18",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-06-03T11:39:50"
+  },
+  {
+    "provenance_id": "9d0b7b55-414e-4dfd-ab15-9c7efa457ff7",
+    "artwork_id": "c75502c0-0c28-4eca-846c-0886d059d029",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1945-03-06",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-11T02:39:28"
+  },
+  {
+    "provenance_id": "62d62bb7-1b96-4574-9639-fb6bfd3a0dde",
+    "artwork_id": "c51d02f3-8f1f-4e3a-9256-7e1240891c17",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1873-08-26",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-07-17T01:51:13"
+  },
+  {
+    "provenance_id": "867a2d4f-033f-4db7-983b-fcd8b8405d58",
+    "artwork_id": "0ee9950b-59d0-4a85-a62d-7ab230f4c8c7",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1878-10-19",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-08-26T15:56:59"
+  },
+  {
+    "provenance_id": "1bbdc185-2434-412d-bc14-e5b86e2418c9",
+    "artwork_id": "e1e74728-58d6-480e-b623-b3adc8b2fe5e",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1992-03-02",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-06-08T19:12:30"
+  },
+  {
+    "provenance_id": "a517ce75-7202-4f59-ae6d-cf78d0a67791",
+    "artwork_id": "e9b3158c-7fba-45a8-9eaf-fe4a5a5d733c",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1980-12-23",
+    "acquisition_method": "Donation",
+    "created_at": "2024-06-29T11:49:25"
+  },
+  {
+    "provenance_id": "7b2e2a89-5728-49c7-89d0-e16aced99889",
+    "artwork_id": "e5ddf9d4-af8b-4c5b-879b-a2a3167d53ea",
+    "owner": "Corporate Collection",
+    "acquisition_date": "2003-02-21",
+    "acquisition_method": "Gift",
+    "created_at": "2024-08-25T01:27:14"
+  },
+  {
+    "provenance_id": "1332b89b-6a9b-4c9f-a3e7-69b197feccab",
+    "artwork_id": "f8a2f8ad-dfea-42ac-be5e-fd4fd490e14c",
+    "owner": "Art Dealer",
+    "acquisition_date": "1947-12-10",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-07-12T23:33:51"
+  },
+  {
+    "provenance_id": "57b00eb0-2512-44bd-8d5a-1c3f6e6d905e",
+    "artwork_id": "b77d9de1-6af9-4bdd-8095-7463bae23005",
+    "owner": "National Gallery",
+    "acquisition_date": "1875-05-01",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-07-18T13:05:07"
+  },
+  {
+    "provenance_id": "f0e56473-6d46-49ec-ae68-0f48584e1c5c",
+    "artwork_id": "f5f35c71-d4ba-4eb1-b101-b257d3e48631",
+    "owner": "Regional Museum",
+    "acquisition_date": "1942-11-01",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-09-29T06:41:54"
+  },
+  {
+    "provenance_id": "f7a6b029-fc63-4481-abab-b084eed30ec4",
+    "artwork_id": "9325e312-b7d6-44ed-9220-0cd0bf92a49f",
+    "owner": "Art Dealer",
+    "acquisition_date": "1973-01-17",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-08-08T08:34:36"
+  },
+  {
+    "provenance_id": "5fd8b575-d386-43f4-af7f-cb1f43d68d4b",
+    "artwork_id": "724075d4-7a3b-4ad9-81fa-6529c021732e",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1874-07-25",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-06-15T11:20:44"
+  },
+  {
+    "provenance_id": "cd280c0f-3a5c-4dd0-8282-1442bd4415a5",
+    "artwork_id": "dbfc7596-858e-4f99-b698-986a6ada3c09",
+    "owner": "University Collection",
+    "acquisition_date": "1961-02-19",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-06-09T23:58:38"
+  },
+  {
+    "provenance_id": "68c05867-befe-459b-9254-4aa7f5330e6f",
+    "artwork_id": "737ee81c-5483-413c-9d02-e66901b5327d",
+    "owner": "University Collection",
+    "acquisition_date": "1850-10-17",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-09-19T19:09:36"
+  },
+  {
+    "provenance_id": "af4f3b4d-4541-433f-aa12-6c5c4e6888e1",
+    "artwork_id": "058ce8f8-3f97-4d22-8a16-fbd02eb24559",
+    "owner": "University Collection",
+    "acquisition_date": "1986-11-03",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-07-06T00:06:10"
+  },
+  {
+    "provenance_id": "b9f2b889-04f4-4b73-9e2f-07583046e7a5",
+    "artwork_id": "7a4fdfec-1673-4f49-8e33-45e0c36bb0cc",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1926-01-16",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-07-20T22:30:01"
+  },
+  {
+    "provenance_id": "c3f0471c-bfdd-4069-b5d9-df24d8ebfddb",
+    "artwork_id": "77fda5b0-6ffa-48b0-83d8-ff2a5425ff13",
+    "owner": "Art Dealer",
+    "acquisition_date": "1896-10-28",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-09-19T15:10:57"
+  },
+  {
+    "provenance_id": "1d6a0484-b0a2-4be5-ab57-870e823fdb95",
+    "artwork_id": "fe85dfe1-7987-4473-bc57-e2f24a2c7b25",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1911-09-09",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-07-21T06:16:36"
+  },
+  {
+    "provenance_id": "8dec3a2a-edd1-4267-b5c3-6336c148fa0f",
+    "artwork_id": "acb35728-6859-4410-b49a-c06029003793",
+    "owner": "Private Collector",
+    "acquisition_date": "1949-05-03",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-06-16T11:13:56"
+  },
+  {
+    "provenance_id": "b01b5c51-8694-4bd7-a95a-3d4d5319c6fd",
+    "artwork_id": "c155a7dd-ff9c-49a9-9bf8-e0afbdfd8748",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1871-04-25",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-08-27T21:00:16"
+  },
+  {
+    "provenance_id": "aca9095f-434f-4d00-85e1-a64534dcef3b",
+    "artwork_id": "2ad8b681-e27a-4373-addb-a9ee3b8d7a5f",
+    "owner": "University Collection",
+    "acquisition_date": "2015-03-25",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-11T14:41:38"
+  },
+  {
+    "provenance_id": "d861721b-f71a-402c-b9b6-b81fc06d51c7",
+    "artwork_id": "cc1bf731-033f-4420-8f1c-e6bfad20b25e",
+    "owner": "Art Dealer",
+    "acquisition_date": "1855-07-12",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-06-26T21:34:04"
+  },
+  {
+    "provenance_id": "e36271d5-1c99-4ea4-936d-fff90c47c14f",
+    "artwork_id": "7ef468b9-3570-40a1-aed6-a63da345eecd",
+    "owner": "National Gallery",
+    "acquisition_date": "1970-11-27",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-06-16T19:20:02"
+  },
+  {
+    "provenance_id": "ec137d09-ecc9-42c9-9d01-755e882c164e",
+    "artwork_id": "b8288e35-0f42-49ce-bc36-fca83133e53b",
+    "owner": "Regional Museum",
+    "acquisition_date": "1963-10-10",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-23T01:20:09"
+  },
+  {
+    "provenance_id": "ee4fd2b3-ae0b-4c49-807e-de6bc8a5f6e1",
+    "artwork_id": "79370e4d-cdc1-4467-8607-4b5e42a20a41",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1915-12-20",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-08-12T10:57:14"
+  },
+  {
+    "provenance_id": "d23852fa-670e-4a18-8f8c-75a06c41b887",
+    "artwork_id": "5c57c6ef-3e10-47af-8260-4024501b3b2c",
+    "owner": "Art Dealer",
+    "acquisition_date": "1852-06-28",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-09-12T22:04:44"
+  },
+  {
+    "provenance_id": "774d999c-ac8c-4fc2-9353-36f868e03b47",
+    "artwork_id": "afa1c6bf-b2bb-4d17-bec6-e4d7db1ed0bf",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1919-11-05",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-08-25T03:38:05"
+  },
+  {
+    "provenance_id": "748e9c8e-e369-4468-967b-4a807c41efba",
+    "artwork_id": "192cacc2-2553-4f9e-910d-b22ac4e89aa0",
+    "owner": "Corporate Collection",
+    "acquisition_date": "2014-05-03",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-07-04T02:50:01"
+  },
+  {
+    "provenance_id": "62e252c5-cdbd-4c4a-a451-e0e4695ccb3b",
+    "artwork_id": "800cb128-e660-447a-8b80-9a50a73a748e",
+    "owner": "University Collection",
+    "acquisition_date": "1980-09-17",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-07-07T17:47:45"
+  },
+  {
+    "provenance_id": "99d7374c-4820-4bc8-ab24-94c2f8a7bbbb",
+    "artwork_id": "4c3e08ba-c136-4bf4-b237-52eb758e81be",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "2001-03-08",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-09-18T01:16:43"
+  },
+  {
+    "provenance_id": "b5cd769b-b0d4-4889-a48d-66eec0db3f4e",
+    "artwork_id": "9325e312-b7d6-44ed-9220-0cd0bf92a49f",
+    "owner": "National Gallery",
+    "acquisition_date": "1880-06-07",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-08-14T17:11:31"
+  },
+  {
+    "provenance_id": "f555cc0e-de0f-4dfd-85f9-dead1a4f7a54",
+    "artwork_id": "cfb6d379-83f5-4ef0-a4e4-d2b5f9b6fc81",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1864-08-21",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-09-17T14:44:18"
+  },
+  {
+    "provenance_id": "af47c666-b4d1-429f-a017-67b487e5082c",
+    "artwork_id": "654e80a2-67e6-4bd3-96ca-066592b8b046",
+    "owner": "Regional Museum",
+    "acquisition_date": "1856-08-22",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-06-21T23:02:43"
+  },
+  {
+    "provenance_id": "213ed875-fe73-40cb-8e5c-18df3cd64f41",
+    "artwork_id": "c9ab783d-38f3-4ad9-840b-8d5f12132202",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1899-11-27",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-06-29T23:00:55"
+  },
+  {
+    "provenance_id": "d3a63f86-6d23-41f1-8522-67ed806498fb",
+    "artwork_id": "6f1b46d4-911e-4c08-8d1b-8b72e68cb09e",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1987-08-28",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-06-12T01:03:01"
+  },
+  {
+    "provenance_id": "c5779669-8ffa-476c-be5c-3642ec7501ab",
+    "artwork_id": "f1c7be10-e0b8-407d-9525-8587163be2dc",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1855-03-26",
+    "acquisition_method": "Gift",
+    "created_at": "2024-09-20T13:53:48"
+  },
+  {
+    "provenance_id": "1340ab6a-24cb-45a7-9f09-87b6b8c0fcef",
+    "artwork_id": "914723db-9ed0-4070-83e8-593bfb450dff",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1981-03-11",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-09-13T14:59:40"
+  },
+  {
+    "provenance_id": "04b73250-ca20-498d-b659-c41e2999590d",
+    "artwork_id": "5c786a37-bafd-4786-ab15-49388dd4deba",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1870-12-27",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-06-18T04:02:40"
+  },
+  {
+    "provenance_id": "a66e935a-2785-4021-a843-a92eb7403951",
+    "artwork_id": "e814e616-6a5e-46b5-b16c-b8c127e3cc88",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1968-07-28",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-06-21T16:41:17"
+  },
+  {
+    "provenance_id": "6491d750-177a-432c-af56-196e2d061593",
+    "artwork_id": "62cf8b94-d372-4a10-b0aa-0c7d464c6dfb",
+    "owner": "Corporate Collection",
+    "acquisition_date": "2022-07-18",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-07-23T02:05:42"
+  },
+  {
+    "provenance_id": "42323aab-f17b-4cf3-98ab-28f113deca95",
+    "artwork_id": "9c4fed92-9c51-4458-90e9-3c61d8d2c22f",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1850-12-09",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-07-03T12:17:07"
+  },
+  {
+    "provenance_id": "840ecab6-66bd-44fb-a1c8-99d7613c27ca",
+    "artwork_id": "552253f6-8083-42ce-bdcc-ea6b543b9a10",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1955-07-26",
+    "acquisition_method": "Gift",
+    "created_at": "2024-06-06T13:33:52"
+  },
+  {
+    "provenance_id": "2008412f-10dd-48e4-93f7-d59b8c4eb6a2",
+    "artwork_id": "7be0d537-ab52-4d0a-8796-9ed84c6b8340",
+    "owner": "Regional Museum",
+    "acquisition_date": "1930-09-14",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-07-31T19:26:02"
+  },
+  {
+    "provenance_id": "3aea6dc7-c91b-4e61-b04b-708721c5c341",
+    "artwork_id": "286bcb63-a547-418a-9901-6e5b4cfb246d",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1980-05-20",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-08-20T22:18:30"
+  },
+  {
+    "provenance_id": "b0be6fba-4c6c-44ff-8961-31ff7702807c",
+    "artwork_id": "245d519f-5971-4b54-8f27-d25c38d2ee65",
+    "owner": "Art Dealer",
+    "acquisition_date": "2011-07-22",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-09-18T08:44:22"
+  },
+  {
+    "provenance_id": "2ddca552-00d4-4bf2-809b-746c29a092f7",
+    "artwork_id": "51d5b51d-1e43-4415-a286-c00c7d4a3ccc",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1978-03-24",
+    "acquisition_method": "Donation",
+    "created_at": "2024-06-09T21:21:54"
+  },
+  {
+    "provenance_id": "656e73da-732b-4544-b45d-227452088f2c",
+    "artwork_id": "e6e7c9eb-127a-4ca3-8dbb-cc2ec34e1781",
+    "owner": "Private Collector",
+    "acquisition_date": "1883-06-05",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-06-15T23:19:03"
+  },
+  {
+    "provenance_id": "17f63b29-3346-4444-a27e-30df179333d1",
+    "artwork_id": "567181ea-01ce-4d9b-b328-2124b10387ec",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1903-07-23",
+    "acquisition_method": "Donation",
+    "created_at": "2024-09-26T13:57:38"
+  },
+  {
+    "provenance_id": "ce6b3927-89f9-440d-b853-ad8cffc8c2ee",
+    "artwork_id": "fb7d0f4d-fe8b-4dc3-b425-239823f77d47",
+    "owner": "National Gallery",
+    "acquisition_date": "1938-10-06",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-08-11T05:06:03"
+  },
+  {
+    "provenance_id": "05def53d-33e5-4640-ada9-e41cec3c074c",
+    "artwork_id": "b6920860-0039-4b4d-b80e-4ca8e667e5a5",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1934-09-25",
+    "acquisition_method": "Donation",
+    "created_at": "2024-09-06T01:35:22"
+  },
+  {
+    "provenance_id": "bfc01672-ff28-487e-bc83-378ac1beb9de",
+    "artwork_id": "bd2ed69a-a363-4363-8226-81c5d5121b76",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1991-09-02",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-06-04T07:41:53"
+  },
+  {
+    "provenance_id": "a5072e3b-65f0-4d67-a99d-3abe238db311",
+    "artwork_id": "2c577f1b-79e3-4af2-ba65-392fb72b132f",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1894-11-09",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-03T21:30:24"
+  },
+  {
+    "provenance_id": "0dc65989-0763-43ec-9c14-36e1ea134ebd",
+    "artwork_id": "f543c365-3847-4734-be90-27d44af67b9f",
+    "owner": "National Gallery",
+    "acquisition_date": "1872-08-13",
+    "acquisition_method": "Gift",
+    "created_at": "2024-06-23T21:13:50"
+  },
+  {
+    "provenance_id": "4cd76212-3d49-4839-97db-9fa702fa7131",
+    "artwork_id": "1ac9f556-ad5d-4cc1-91b1-de51e2ca7ac8",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1982-12-27",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-07-28T11:02:34"
+  },
+  {
+    "provenance_id": "a7651e3d-eeb6-43f6-ad06-7d03080a2567",
+    "artwork_id": "f8124fd2-062e-4c1d-9d69-9d2713349192",
+    "owner": "Private Collector",
+    "acquisition_date": "1959-09-02",
+    "acquisition_method": "Gift",
+    "created_at": "2024-06-10T09:33:08"
+  },
+  {
+    "provenance_id": "e971733f-e4c6-4e2c-ab5f-9759a216138f",
+    "artwork_id": "12c3778f-7760-4c97-a395-cbaba12974ea",
+    "owner": "Regional Museum",
+    "acquisition_date": "1983-10-10",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-06-02T17:57:40"
+  },
+  {
+    "provenance_id": "a5a33b7a-69ca-4e37-92a2-46edeb8b714a",
+    "artwork_id": "df86e64d-5fc9-4771-a996-2f194c71082c",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1862-02-19",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-06-25T13:43:42"
+  },
+  {
+    "provenance_id": "11b78037-2577-4eb9-a2ff-31c0404981a1",
+    "artwork_id": "f1dbde55-6ccb-4d0b-97a3-47f0f5064efa",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1879-11-24",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-06-16T23:47:10"
+  },
+  {
+    "provenance_id": "6aefc00a-62a9-4bd7-90c4-0c1ba61b47d9",
+    "artwork_id": "6dd46e62-62ca-4360-bc4f-5b65e015c2b0",
+    "owner": "Private Collector",
+    "acquisition_date": "1864-04-26",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-09-21T06:41:57"
+  },
+  {
+    "provenance_id": "e32ee96c-35ac-412a-a0b1-a9bc1071534f",
+    "artwork_id": "acb35728-6859-4410-b49a-c06029003793",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1948-11-14",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-09-26T08:34:16"
+  },
+  {
+    "provenance_id": "e18998cb-2ffc-4fe8-8ea1-76d7990c97f9",
+    "artwork_id": "9c4fed92-9c51-4458-90e9-3c61d8d2c22f",
+    "owner": "Private Collector",
+    "acquisition_date": "2001-09-16",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-07-12T10:44:53"
+  },
+  {
+    "provenance_id": "aa43f508-9064-4dc3-94aa-6ad8f313013c",
+    "artwork_id": "f254181b-89ec-4df1-a35a-33b224a98e53",
+    "owner": "Private Collector",
+    "acquisition_date": "1995-03-26",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-09-20T22:42:51"
+  },
+  {
+    "provenance_id": "6ae9e6e1-a794-4c00-9bdd-b66c78873d0e",
+    "artwork_id": "f1dbde55-6ccb-4d0b-97a3-47f0f5064efa",
+    "owner": "Art Dealer",
+    "acquisition_date": "1862-08-24",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-09-20T06:12:42"
+  },
+  {
+    "provenance_id": "0ccaad84-0b4e-487b-ae0c-04d1e8f64eab",
+    "artwork_id": "b05aed4d-951d-4793-b01b-05abff8c98b7",
+    "owner": "National Gallery",
+    "acquisition_date": "1984-10-09",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-17T15:01:30"
+  },
+  {
+    "provenance_id": "6cd5f156-935c-490b-bf6c-b3dffff4f68c",
+    "artwork_id": "a2575a75-128a-4740-9919-a1626460becc",
+    "owner": "Regional Museum",
+    "acquisition_date": "1950-03-03",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-09-17T00:36:24"
+  },
+  {
+    "provenance_id": "d4d7f5b7-cce1-4a11-9719-e862b37cc35b",
+    "artwork_id": "cbae6170-46d9-4ff8-ab7c-b1af7139e8a8",
+    "owner": "University Collection",
+    "acquisition_date": "2008-08-10",
+    "acquisition_method": "Gift",
+    "created_at": "2024-06-11T20:47:49"
+  },
+  {
+    "provenance_id": "4bdf6de3-5ee7-4e63-9ac3-e4039e4d717d",
+    "artwork_id": "86ecd507-fd7f-4aa5-acfe-611737593ece",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1921-06-02",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-08-26T20:07:20"
+  },
+  {
+    "provenance_id": "d958e389-94ef-4d74-aaa4-f4b9bbec3823",
+    "artwork_id": "57daf897-790f-4783-9cff-dfcb965a7d9f",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1993-12-14",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-07-18T14:18:01"
+  },
+  {
+    "provenance_id": "217f04bc-fb18-4453-b867-85ce54bcf7c9",
+    "artwork_id": "e4fc2ac5-e354-4b26-b25d-83795023d8af",
+    "owner": "Private Collector",
+    "acquisition_date": "1989-10-28",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-06-15T03:43:56"
+  },
+  {
+    "provenance_id": "3ed8ac66-f7a9-45a8-b0cf-570a1dc5df15",
+    "artwork_id": "69fdc709-bb61-4fea-b9b9-5c7eb351b1ec",
+    "owner": "Estate of Artist",
+    "acquisition_date": "2014-01-14",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-09-14T08:38:43"
+  },
+  {
+    "provenance_id": "75053bcf-4bc2-4f36-8e16-c5de530f4b06",
+    "artwork_id": "5b279384-9879-494b-91ae-2683ba7041ef",
+    "owner": "Foundation Trust",
+    "acquisition_date": "2016-03-24",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-09-03T16:12:23"
+  },
+  {
+    "provenance_id": "e910c34a-0576-4a11-ac96-b4159e4ecf28",
+    "artwork_id": "fe85dfe1-7987-4473-bc57-e2f24a2c7b25",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1996-10-21",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-09-17T00:05:43"
+  },
+  {
+    "provenance_id": "1733a165-78bb-4a4f-89ac-62eef7c54de1",
+    "artwork_id": "f1c7be10-e0b8-407d-9525-8587163be2dc",
+    "owner": "National Gallery",
+    "acquisition_date": "1852-05-02",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-06-25T23:17:16"
+  },
+  {
+    "provenance_id": "cc2b7aa1-972c-4fce-b504-dc1222c1e666",
+    "artwork_id": "0d8fbadc-3e99-4572-8ab8-238c5c1aa03c",
+    "owner": "Private Collector",
+    "acquisition_date": "1911-11-15",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-09-22T03:09:48"
+  },
+  {
+    "provenance_id": "0bfb864d-2755-4fc5-94b5-774fb0907183",
+    "artwork_id": "1fada628-9bdf-4579-9e69-b7e296f31265",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1990-03-12",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-06-01T20:41:09"
+  },
+  {
+    "provenance_id": "561cbcde-ae6a-4287-bd70-4357aa83eae8",
+    "artwork_id": "32b86149-65d1-442e-b997-959af685b9da",
+    "owner": "National Gallery",
+    "acquisition_date": "1957-12-05",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-01T10:55:39"
+  },
+  {
+    "provenance_id": "468e0136-3b1b-4c2d-8746-50ef4d6ba680",
+    "artwork_id": "beeef052-aadb-4b3f-80ad-563c30a2e597",
+    "owner": "Private Collector",
+    "acquisition_date": "1907-09-20",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-08-20T20:37:56"
+  },
+  {
+    "provenance_id": "ff823f2b-76b8-4f43-ba3d-0bfcaf888a55",
+    "artwork_id": "3e26269d-d2ec-47d6-914f-e8307692946f",
+    "owner": "Art Dealer",
+    "acquisition_date": "1886-04-03",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-07-21T09:05:55"
+  },
+  {
+    "provenance_id": "b8d3cea7-08f5-404a-ad31-822875c18b38",
+    "artwork_id": "3a59a648-6979-46e7-83d7-46ae731cd8b1",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1941-03-07",
+    "acquisition_method": "Gift",
+    "created_at": "2024-09-12T04:04:52"
+  },
+  {
+    "provenance_id": "89364c72-2807-4fad-8b03-75d502022c7c",
+    "artwork_id": "e4a26841-3781-423a-b67b-1a2ce7f2f634",
+    "owner": "Regional Museum",
+    "acquisition_date": "1929-08-12",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-09-01T23:38:11"
+  },
+  {
+    "provenance_id": "f46f3b0c-f2e9-4f9e-be60-dc92e8e7b736",
+    "artwork_id": "393a6a74-1365-49be-b056-9b50ee2d1f33",
+    "owner": "National Gallery",
+    "acquisition_date": "1918-03-09",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-07-18T05:50:49"
+  },
+  {
+    "provenance_id": "5fbc26fa-e8cf-4300-b801-e099059c641d",
+    "artwork_id": "3e982d2c-2c48-4a21-b0c6-0a4b8dc4e840",
+    "owner": "University Collection",
+    "acquisition_date": "1965-02-05",
+    "acquisition_method": "Gift",
+    "created_at": "2024-09-15T20:16:52"
+  },
+  {
+    "provenance_id": "4c3f2ea6-bf7e-46eb-a212-4372c5404ec5",
+    "artwork_id": "5716dfc7-b087-4c75-9a4d-904e8ba79766",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1900-07-02",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-09-05T16:57:39"
+  },
+  {
+    "provenance_id": "2ae5e546-b224-49eb-8b35-94620a1e7fcc",
+    "artwork_id": "dbfc7596-858e-4f99-b698-986a6ada3c09",
+    "owner": "Regional Museum",
+    "acquisition_date": "1893-07-10",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-07-09T03:39:43"
+  },
+  {
+    "provenance_id": "52665ac3-1446-4e88-92bb-72dd9c666588",
+    "artwork_id": "326ea2bc-2f78-4d7f-bfe2-138cd91a47dd",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1956-04-15",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-07-04T05:44:04"
+  },
+  {
+    "provenance_id": "d3c7e6b6-fd3a-4033-89b8-9d9f54cea7b2",
+    "artwork_id": "7ba1c908-5622-43b5-9920-c93b17b100b0",
+    "owner": "Private Collector",
+    "acquisition_date": "1851-10-02",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-09-21T01:10:23"
+  },
+  {
+    "provenance_id": "33173119-d2c5-4f9c-81a1-689777dd640c",
+    "artwork_id": "1b55418e-67ea-4413-b035-c2acccc1c7f3",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1872-06-04",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-06-18T12:01:47"
+  },
+  {
+    "provenance_id": "320b5e77-f194-46cf-9f3e-8e480c037d9e",
+    "artwork_id": "e30ad902-f282-4a30-bf99-a36ae116ea9f",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1881-03-26",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-07-30T07:48:51"
+  },
+  {
+    "provenance_id": "f6040675-6811-4ef0-9985-500cf0c22a34",
+    "artwork_id": "aba663c2-f7f1-4138-9448-f97f795d34f9",
+    "owner": "University Collection",
+    "acquisition_date": "1897-03-09",
+    "acquisition_method": "Gift",
+    "created_at": "2024-09-06T12:08:19"
+  },
+  {
+    "provenance_id": "03cfd0d9-5aa4-4278-9fca-8f68ce33f6b0",
+    "artwork_id": "fb95ba83-3390-4bf5-95c7-160e82bb93a3",
+    "owner": "National Gallery",
+    "acquisition_date": "1944-09-27",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-26T22:18:08"
+  },
+  {
+    "provenance_id": "6c321ead-10da-49e2-9c13-46c2cd216f61",
+    "artwork_id": "ea3d17bf-b068-4361-869b-693931f650a7",
+    "owner": "National Gallery",
+    "acquisition_date": "1897-09-24",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-06-08T04:33:02"
+  },
+  {
+    "provenance_id": "7c2e2192-62f9-4593-a2f7-6a73fddbdead",
+    "artwork_id": "af6290f7-fc41-44fe-a780-a669508cf851",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "2002-11-19",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-07-20T22:43:13"
+  },
+  {
+    "provenance_id": "e27715c1-0cec-4882-bbe9-e9e7110bf7c5",
+    "artwork_id": "85142630-95c0-4b5c-a516-16f023005441",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1889-03-14",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-08-03T21:34:17"
+  },
+  {
+    "provenance_id": "012df8a2-035b-4f3a-b3fa-d7189b3d7b28",
+    "artwork_id": "9d591b58-39f5-45d0-a22c-445b4acd9c7e",
+    "owner": "University Collection",
+    "acquisition_date": "1916-09-08",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-06-02T15:01:06"
+  },
+  {
+    "provenance_id": "39b6c24c-cbb1-41d4-b777-329a93139385",
+    "artwork_id": "6a89ded9-f715-425d-b798-7bce26667eaf",
+    "owner": "Art Dealer",
+    "acquisition_date": "1933-04-02",
+    "acquisition_method": "Gift",
+    "created_at": "2024-08-28T06:07:03"
+  },
+  {
+    "provenance_id": "01398833-3878-4886-9bdc-3908be5e168d",
+    "artwork_id": "b6790850-bfb1-4e18-994b-f6a791f95c2e",
+    "owner": "Regional Museum",
+    "acquisition_date": "1998-07-23",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-07-18T07:09:47"
+  },
+  {
+    "provenance_id": "035e8f17-2713-43e7-98a3-421bc770d61c",
+    "artwork_id": "d7e938de-2a64-484a-a87f-97a29993b675",
+    "owner": "Regional Museum",
+    "acquisition_date": "1913-05-07",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-08-02T17:17:32"
+  },
+  {
+    "provenance_id": "32757dac-cba8-41d9-ae40-187d352b4032",
+    "artwork_id": "e8f32efd-9b15-49af-939d-46dcb47bcf34",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1921-09-27",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-09-13T03:01:28"
+  },
+  {
+    "provenance_id": "20ebd2e2-8df4-40c1-a8ab-d9dec304ca5d",
+    "artwork_id": "114639f3-5568-4f80-bdac-c13523ed608c",
+    "owner": "Art Dealer",
+    "acquisition_date": "1922-10-25",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-06T15:26:31"
+  },
+  {
+    "provenance_id": "2c5c2533-3f03-48f9-9c38-23a1038b3ed1",
+    "artwork_id": "08da2e3c-9931-4c7f-82e3-c98c8a8752e0",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1972-04-17",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-05T14:34:45"
+  },
+  {
+    "provenance_id": "5857749c-b02f-4731-85cb-84723cbc6c3c",
+    "artwork_id": "567181ea-01ce-4d9b-b328-2124b10387ec",
+    "owner": "University Collection",
+    "acquisition_date": "1872-05-07",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-07-11T07:23:24"
+  },
+  {
+    "provenance_id": "7579757b-db97-4c19-9645-c5cd0f0a8a6c",
+    "artwork_id": "62cf8b94-d372-4a10-b0aa-0c7d464c6dfb",
+    "owner": "Regional Museum",
+    "acquisition_date": "1928-05-24",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-06-03T05:05:24"
+  },
+  {
+    "provenance_id": "2b5f8c0d-936c-4e57-9975-5b61c12806fa",
+    "artwork_id": "c51d02f3-8f1f-4e3a-9256-7e1240891c17",
+    "owner": "Regional Museum",
+    "acquisition_date": "1871-01-09",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-08-08T14:16:31"
+  },
+  {
+    "provenance_id": "ddec8c7c-8399-43c0-8a6b-4caf08f94c64",
+    "artwork_id": "95cece09-75a6-468d-91b0-1c2b0f5facf3",
+    "owner": "National Gallery",
+    "acquisition_date": "1963-07-11",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-07-03T03:08:54"
+  },
+  {
+    "provenance_id": "0390a2d6-3703-42f9-9f76-9cdfa4806ef2",
+    "artwork_id": "beeef052-aadb-4b3f-80ad-563c30a2e597",
+    "owner": "Regional Museum",
+    "acquisition_date": "1919-10-08",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-09-21T06:13:27"
+  },
+  {
+    "provenance_id": "10381346-d4a2-4646-a700-72a7a98519d5",
+    "artwork_id": "b59c54da-9a99-46c2-94bd-41bd4639e37e",
+    "owner": "Regional Museum",
+    "acquisition_date": "1868-09-22",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-06-04T00:51:28"
+  },
+  {
+    "provenance_id": "40e52ad9-e3ba-4dd0-b43c-cb1eb2da92f6",
+    "artwork_id": "b8288e35-0f42-49ce-bc36-fca83133e53b",
+    "owner": "Art Dealer",
+    "acquisition_date": "1882-12-21",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-06-12T21:48:00"
+  },
+  {
+    "provenance_id": "e32cac66-f44a-4b88-bb97-5e6d79fde742",
+    "artwork_id": "fe85dfe1-7987-4473-bc57-e2f24a2c7b25",
+    "owner": "Art Dealer",
+    "acquisition_date": "2023-09-05",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-09-18T04:39:42"
+  },
+  {
+    "provenance_id": "e21e7170-abd2-4f23-952e-a5a461237809",
+    "artwork_id": "d7e938de-2a64-484a-a87f-97a29993b675",
+    "owner": "Regional Museum",
+    "acquisition_date": "1989-08-13",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-08-13T06:50:23"
+  },
+  {
+    "provenance_id": "4c87f391-16d9-4816-b470-6262d24464a8",
+    "artwork_id": "a91a8de8-023a-4d64-b86e-62ebfc10eb81",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1950-03-04",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-07-10T19:32:42"
+  },
+  {
+    "provenance_id": "c499d14a-8fb2-4ea1-9a84-4d420542c7e7",
+    "artwork_id": "a6c58cc4-05c0-4160-a91a-2d52d168d216",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1878-04-12",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-08-29T15:28:46"
+  },
+  {
+    "provenance_id": "1f07ae79-7155-4440-9806-e5fc692104b2",
+    "artwork_id": "757eec15-4799-4253-a1a2-7b272519a3e0",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1977-02-18",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-08-31T03:29:41"
+  },
+  {
+    "provenance_id": "b8376140-6144-4f96-9934-11c0e534ef9c",
+    "artwork_id": "4330dfb3-ccc5-4800-9e04-d4a760363b22",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1865-08-08",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-08-13T08:54:33"
+  },
+  {
+    "provenance_id": "82d64b59-6f86-4854-8680-f5c64a0f354a",
+    "artwork_id": "84b6182e-6569-4852-985b-5b09d83f21be",
+    "owner": "Regional Museum",
+    "acquisition_date": "1972-02-11",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-06-01T12:39:51"
+  },
+  {
+    "provenance_id": "aa8be175-e913-4cb5-8d39-8a2a45260974",
+    "artwork_id": "0fad92f8-37c7-4f48-b53a-cec310a8897f",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "2002-06-10",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-06-06T22:54:02"
+  },
+  {
+    "provenance_id": "c83303a3-19de-4889-ba0a-178837183b65",
+    "artwork_id": "32138724-2901-4258-af37-89ec35553b74",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1882-06-10",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-07-07T17:30:28"
+  },
+  {
+    "provenance_id": "105e7817-d9f3-455a-8b6c-1c5fbbabd408",
+    "artwork_id": "d32d497c-7d30-4eb2-8f4c-5c5a04475cd5",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1859-10-22",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-09-01T05:51:41"
+  },
+  {
+    "provenance_id": "234f2f7d-375a-4efb-8cad-7a668dfd4708",
+    "artwork_id": "d7e938de-2a64-484a-a87f-97a29993b675",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1930-03-11",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-07-01T21:42:46"
+  },
+  {
+    "provenance_id": "59857c4a-b083-4c79-a5a7-4fcf7a2cd066",
+    "artwork_id": "6f1b46d4-911e-4c08-8d1b-8b72e68cb09e",
+    "owner": "Private Collector",
+    "acquisition_date": "1878-10-12",
+    "acquisition_method": "Donation",
+    "created_at": "2024-08-10T05:55:18"
+  },
+  {
+    "provenance_id": "eac2128e-7aca-4e19-8279-1e49ac848ef6",
+    "artwork_id": "3a907644-29a1-43c2-a553-98da5d45a872",
+    "owner": "Private Collector",
+    "acquisition_date": "1983-06-08",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-06-04T09:11:29"
+  },
+  {
+    "provenance_id": "757f453b-0b7b-42cf-9331-27118fee9357",
+    "artwork_id": "3d28f372-4349-47be-8111-1157bb8ad266",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1984-03-17",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-06-12T04:57:26"
+  },
+  {
+    "provenance_id": "bf992ad0-7db0-4089-bc1e-b6aa40e44d5e",
+    "artwork_id": "3494e7e5-84cc-41c2-a43d-fd9832f62d55",
+    "owner": "Regional Museum",
+    "acquisition_date": "1867-04-16",
+    "acquisition_method": "Donation",
+    "created_at": "2024-09-25T00:56:48"
+  },
+  {
+    "provenance_id": "84b48384-6412-43f9-beea-8ad34cdf1237",
+    "artwork_id": "e13b783a-3ed9-4381-a571-7c8324c455c8",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1860-08-03",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-09-08T12:27:10"
+  },
+  {
+    "provenance_id": "f6eea2fd-db08-431f-9757-7d23bcb2873e",
+    "artwork_id": "fb283c3b-3ff5-443a-8da5-a69e778a77e0",
+    "owner": "University Collection",
+    "acquisition_date": "1924-07-23",
+    "acquisition_method": "Donation",
+    "created_at": "2024-06-26T06:02:56"
+  },
+  {
+    "provenance_id": "d462fe80-c8d3-4e36-b5bb-ab9859723785",
+    "artwork_id": "0180dd49-77f8-4246-b36d-3962c826d38e",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1996-09-27",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-08-27T08:12:02"
+  },
+  {
+    "provenance_id": "75a4825f-74b7-46b8-ac1f-66d57cd8e7eb",
+    "artwork_id": "c963f1ba-b7f4-4cda-ad49-7fe7daaa2947",
+    "owner": "University Collection",
+    "acquisition_date": "1917-08-07",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-06-30T23:30:12"
+  },
+  {
+    "provenance_id": "c3159c30-ad29-47bb-a32e-25e1c9bb8a61",
+    "artwork_id": "de79fe80-8009-42b0-8fea-2acc97eeed2d",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1910-05-18",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-09-25T22:48:04"
+  },
+  {
+    "provenance_id": "c6e3da23-9c48-40ac-9476-840d49ff25d8",
+    "artwork_id": "981b6365-037c-48ca-add2-1ce3ab9cad47",
+    "owner": "Regional Museum",
+    "acquisition_date": "1930-09-26",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-09-04T02:01:45"
+  },
+  {
+    "provenance_id": "25076ab1-0d9d-40a1-848a-8fa32934283d",
+    "artwork_id": "85142630-95c0-4b5c-a516-16f023005441",
+    "owner": "Private Collector",
+    "acquisition_date": "1936-10-02",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-09-12T08:00:26"
+  },
+  {
+    "provenance_id": "b62c62a5-28c1-4bdb-9537-98ecd44af3f2",
+    "artwork_id": "10cba1b7-f52a-4fc5-be64-7c97913a01b8",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1930-08-28",
+    "acquisition_method": "Donation",
+    "created_at": "2024-09-29T19:06:37"
+  },
+  {
+    "provenance_id": "ef5649c7-25a4-460b-9a59-cbae14d750ae",
+    "artwork_id": "cc1bf731-033f-4420-8f1c-e6bfad20b25e",
+    "owner": "Art Dealer",
+    "acquisition_date": "1988-05-16",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-06-18T02:31:14"
+  },
+  {
+    "provenance_id": "aa2e07a2-74d3-45e4-a0e4-6d0a033ca5db",
+    "artwork_id": "dce2292f-1aae-4eec-8620-606dda41abd4",
+    "owner": "Regional Museum",
+    "acquisition_date": "1910-03-18",
+    "acquisition_method": "Gift",
+    "created_at": "2024-08-29T03:14:07"
+  },
+  {
+    "provenance_id": "af14063c-cbb4-49aa-baac-9f87ab4f16b3",
+    "artwork_id": "08e8d554-d024-4f84-942c-4cda21877de9",
+    "owner": "National Gallery",
+    "acquisition_date": "1980-01-22",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-06-14T13:42:00"
+  },
+  {
+    "provenance_id": "ebda5067-2462-403e-a261-d41bdfbedf09",
+    "artwork_id": "9ca71553-edc4-465e-a57a-94d3347042f6",
+    "owner": "University Collection",
+    "acquisition_date": "1931-12-22",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-22T13:39:58"
+  },
+  {
+    "provenance_id": "d9a7ad55-1c57-4d9e-b57f-49b4f0b55416",
+    "artwork_id": "25b4622c-d410-4d47-902a-49d4c9d796d4",
+    "owner": "Corporate Collection",
+    "acquisition_date": "2015-11-13",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-09-08T16:57:06"
+  },
+  {
+    "provenance_id": "47b91ba9-1ad7-4473-be29-4b0b92be91ae",
+    "artwork_id": "f254181b-89ec-4df1-a35a-33b224a98e53",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1873-04-21",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-08-29T01:22:57"
+  },
+  {
+    "provenance_id": "576c4f6c-1905-49b0-8e29-800ee52c0dcc",
+    "artwork_id": "c27198e0-2fe8-4558-8253-913ef90ea07f",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1898-04-15",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-06-02T22:21:36"
+  },
+  {
+    "provenance_id": "486e0199-0d5d-4bb7-86e6-b2b1b1e5054b",
+    "artwork_id": "529a64b3-5541-4582-862b-f331b9095e00",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1974-02-18",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-09-19T22:20:33"
+  },
+  {
+    "provenance_id": "63a50bc5-372b-4436-bf21-d7b3f9ce6b79",
+    "artwork_id": "e7c4a6a2-7b7f-4879-ad59-3d77844ffca0",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1864-08-04",
+    "acquisition_method": "Donation",
+    "created_at": "2024-08-04T14:59:02"
+  },
+  {
+    "provenance_id": "6a87febe-cf9c-4e8e-aba7-7f5f80859602",
+    "artwork_id": "36ea5972-1e18-417a-a44c-bade814264be",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1853-06-19",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-08-21T02:36:48"
+  },
+  {
+    "provenance_id": "6a1b0b05-e82a-4b6d-ba97-29eaf2b85176",
+    "artwork_id": "f1f533f2-ec00-4d07-bf58-f2fd19b8ba44",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1999-03-22",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-13T05:19:47"
+  },
+  {
+    "provenance_id": "d6164493-91c0-4247-9742-6dbc3567fa8c",
+    "artwork_id": "0bb35264-f338-4897-bf8c-d976ad5353e3",
+    "owner": "Foundation Trust",
+    "acquisition_date": "2010-05-07",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-06-09T17:28:17"
+  },
+  {
+    "provenance_id": "cf3d9a50-142d-4469-8cca-edecea124b8c",
+    "artwork_id": "b3b55eb0-e0e4-4e74-8604-0cf1fa116288",
+    "owner": "University Collection",
+    "acquisition_date": "1859-01-05",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-07-14T09:50:37"
+  },
+  {
+    "provenance_id": "fef40988-f895-4edf-8c78-f00a94560d14",
+    "artwork_id": "f8a2f8ad-dfea-42ac-be5e-fd4fd490e14c",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1986-02-01",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-10T08:41:08"
+  },
+  {
+    "provenance_id": "7c887f38-cc76-4e81-a149-9029925f67d7",
+    "artwork_id": "7871a5a4-a3be-459a-9f4a-275012b7ec36",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1940-12-03",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-07-04T13:58:00"
+  },
+  {
+    "provenance_id": "fa8bb6ae-35f0-4ffb-8c26-1abdbf55413f",
+    "artwork_id": "0ee9950b-59d0-4a85-a62d-7ab230f4c8c7",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1855-02-10",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-25T13:05:07"
+  },
+  {
+    "provenance_id": "0730c323-776a-45cc-85c1-f12a1f3b22b2",
+    "artwork_id": "6232c663-4907-423b-ba70-a75eab21b117",
+    "owner": "Regional Museum",
+    "acquisition_date": "1856-12-02",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-08-24T22:31:22"
+  },
+  {
+    "provenance_id": "03b6b961-3b12-4f9e-9428-f35d81f64bee",
+    "artwork_id": "62503fec-c6b8-48d4-a76a-0bc458f33284",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1914-11-22",
+    "acquisition_method": "Gift",
+    "created_at": "2024-09-18T22:41:52"
+  },
+  {
+    "provenance_id": "4b25e075-61be-4007-97f4-e6b5ed6e75b7",
+    "artwork_id": "32fbf9b4-1417-4584-8b61-1d56a2917b8e",
+    "owner": "Estate of Artist",
+    "acquisition_date": "2001-08-26",
+    "acquisition_method": "Gift",
+    "created_at": "2024-09-17T14:13:52"
+  },
+  {
+    "provenance_id": "bc70c380-a779-4a87-9ab8-19ba1ca2593f",
+    "artwork_id": "af6290f7-fc41-44fe-a780-a669508cf851",
+    "owner": "Art Dealer",
+    "acquisition_date": "1927-04-19",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-09-08T04:57:46"
+  },
+  {
+    "provenance_id": "58d473c9-91d7-49ac-a002-9e40102de5bc",
+    "artwork_id": "914723db-9ed0-4070-83e8-593bfb450dff",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1981-09-11",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-07-21T05:56:44"
+  },
+  {
+    "provenance_id": "b50e21c1-816b-4cb4-bcaf-32bc0cf285e2",
+    "artwork_id": "f254181b-89ec-4df1-a35a-33b224a98e53",
+    "owner": "University Collection",
+    "acquisition_date": "1930-03-20",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-18T23:41:09"
+  },
+  {
+    "provenance_id": "eaf3ba19-abb9-4aa2-916c-c433ca3957da",
+    "artwork_id": "0407ba43-defe-4219-aa80-5e7005348b16",
+    "owner": "Regional Museum",
+    "acquisition_date": "1851-11-05",
+    "acquisition_method": "Gift",
+    "created_at": "2024-08-08T07:40:22"
+  },
+  {
+    "provenance_id": "3d46562a-de44-4653-b3b2-c588fa81ab86",
+    "artwork_id": "e7c4a6a2-7b7f-4879-ad59-3d77844ffca0",
+    "owner": "Estate of Artist",
+    "acquisition_date": "2020-08-06",
+    "acquisition_method": "Gift",
+    "created_at": "2024-08-24T03:55:17"
+  },
+  {
+    "provenance_id": "558eb104-0d7a-4261-952d-17f34cc1a85b",
+    "artwork_id": "6eaa39b1-1d0a-417a-a7bd-22e712e7d3fd",
+    "owner": "Art Dealer",
+    "acquisition_date": "1952-10-25",
+    "acquisition_method": "Donation",
+    "created_at": "2024-08-10T18:45:30"
+  },
+  {
+    "provenance_id": "2c3975b9-a534-46fc-bbae-4326acf9c5f4",
+    "artwork_id": "b3f632aa-13bc-4fad-9b00-814f2d3af9d4",
+    "owner": "Art Dealer",
+    "acquisition_date": "1977-05-12",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-08-02T19:12:12"
+  },
+  {
+    "provenance_id": "2eb4803a-4154-4817-b89b-be6734aea58c",
+    "artwork_id": "71e5d147-b8ad-42d4-a954-3161b4e3c625",
+    "owner": "Art Dealer",
+    "acquisition_date": "1992-07-03",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-08-14T04:55:49"
+  },
+  {
+    "provenance_id": "81d1b75c-75b5-4423-b003-23ba639ad8d6",
+    "artwork_id": "7512db6c-e42f-4532-878b-fc4cd024f4f3",
+    "owner": "University Collection",
+    "acquisition_date": "1977-02-06",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-25T00:48:22"
+  },
+  {
+    "provenance_id": "d2f4f65b-39af-46d6-a3ba-cf46d4cd6705",
+    "artwork_id": "29997320-cdee-44ad-93b4-885291ee12ac",
+    "owner": "Regional Museum",
+    "acquisition_date": "1986-08-15",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-06-25T00:00:18"
+  },
+  {
+    "provenance_id": "8be31c78-2432-4bba-9ed2-ad3f232bd81a",
+    "artwork_id": "b8ad6a30-24a8-4967-89d4-ab00dd7516c1",
+    "owner": "Private Collector",
+    "acquisition_date": "1858-10-04",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-07-02T15:22:58"
+  },
+  {
+    "provenance_id": "9e45ec6b-0d36-4e90-b9f2-d8cc1223dc8b",
+    "artwork_id": "3a59a648-6979-46e7-83d7-46ae731cd8b1",
+    "owner": "Art Dealer",
+    "acquisition_date": "1907-01-07",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-02T18:46:32"
+  },
+  {
+    "provenance_id": "0d985793-1144-425e-9073-7a3a13caee57",
+    "artwork_id": "5de06ef0-b018-4d23-be14-2a341ca7c19b",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1983-08-25",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-08-13T14:30:29"
+  },
+  {
+    "provenance_id": "e66687e0-76e6-4398-9dd8-89cf6659d3b9",
+    "artwork_id": "724075d4-7a3b-4ad9-81fa-6529c021732e",
+    "owner": "Regional Museum",
+    "acquisition_date": "1982-10-22",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-08-23T10:53:54"
+  },
+  {
+    "provenance_id": "b953fd2e-2dfc-4f51-9834-bac5424836a0",
+    "artwork_id": "7512db6c-e42f-4532-878b-fc4cd024f4f3",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1954-12-02",
+    "acquisition_method": "Gift",
+    "created_at": "2024-08-22T07:13:53"
+  },
+  {
+    "provenance_id": "e825f614-18b6-4830-af99-3790c9ad402c",
+    "artwork_id": "bd579628-7a67-420e-a13f-983dc4c905a6",
+    "owner": "Regional Museum",
+    "acquisition_date": "1899-10-26",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-06-18T04:44:09"
+  },
+  {
+    "provenance_id": "269db84d-cbb2-4226-acd8-56d0751c4816",
+    "artwork_id": "f2128008-ebb6-416a-8639-c0619681f984",
+    "owner": "National Gallery",
+    "acquisition_date": "1896-03-28",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-07-03T16:06:40"
+  },
+  {
+    "provenance_id": "cf78e103-d5ff-46b4-89bd-0f22a2d5c147",
+    "artwork_id": "cfb6d379-83f5-4ef0-a4e4-d2b5f9b6fc81",
+    "owner": "University Collection",
+    "acquisition_date": "1877-01-23",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-08-22T22:40:04"
+  },
+  {
+    "provenance_id": "5759eb80-8a4f-4a20-b96e-1c47a4ea56de",
+    "artwork_id": "131b15eb-c7eb-423f-9ec9-90ae73461da8",
+    "owner": "Art Dealer",
+    "acquisition_date": "1924-05-26",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-08-23T22:35:57"
+  },
+  {
+    "provenance_id": "ae5cdc6e-de87-4f10-b71e-63b9c3ed8fa9",
+    "artwork_id": "7399401a-db1b-4f55-8be1-ae3af0d2e72f",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1996-12-11",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-07-31T00:31:00"
+  },
+  {
+    "provenance_id": "e7bf3bc0-21e3-40d5-abff-f7b07a3f6d20",
+    "artwork_id": "0d644c2a-89e4-4760-84e3-22a5ad70803b",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1903-12-13",
+    "acquisition_method": "Gift",
+    "created_at": "2024-09-12T01:55:38"
+  },
+  {
+    "provenance_id": "74be0a60-46bb-4c69-a4c0-015c12ebd192",
+    "artwork_id": "492a766c-49e5-484f-8e95-398f99d196d8",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1858-02-18",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-09-15T19:44:03"
+  },
+  {
+    "provenance_id": "d406f38c-64b9-4165-9ac6-a2d5c79fe2c6",
+    "artwork_id": "3a907644-29a1-43c2-a553-98da5d45a872",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1918-10-22",
+    "acquisition_method": "Donation",
+    "created_at": "2024-08-10T13:20:10"
+  },
+  {
+    "provenance_id": "c1480ffd-7e0a-4b45-beac-7934454d10cf",
+    "artwork_id": "7f5a32f0-84e2-4042-8916-2c2f8911e1d4",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1979-08-17",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-06-13T10:19:47"
+  },
+  {
+    "provenance_id": "8cc96579-35d2-4216-8ab9-41a03c8ad92f",
+    "artwork_id": "6b0d5420-660f-4961-9537-c97ca5e55833",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1943-12-08",
+    "acquisition_method": "Donation",
+    "created_at": "2024-08-12T16:53:17"
+  },
+  {
+    "provenance_id": "d36b0b72-b059-4d83-a1c2-a8dca9b31895",
+    "artwork_id": "cb6ccf94-bf02-40d4-97dd-4f695d1dd809",
+    "owner": "Art Dealer",
+    "acquisition_date": "1888-03-03",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-06-08T05:01:16"
+  },
+  {
+    "provenance_id": "57985fa6-5ea4-40c1-93d1-9efcd88a88f9",
+    "artwork_id": "7648740f-2bb0-4482-ad8d-994dccd270ec",
+    "owner": "Private Collector",
+    "acquisition_date": "1867-05-22",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-09-09T14:12:28"
+  },
+  {
+    "provenance_id": "65ded54e-e175-485c-ad72-f441dfa119b9",
+    "artwork_id": "2ed77da9-226a-403f-bc9e-745d8536b866",
+    "owner": "Art Dealer",
+    "acquisition_date": "1898-08-25",
+    "acquisition_method": "Gift",
+    "created_at": "2024-08-05T17:57:01"
+  },
+  {
+    "provenance_id": "36ac6a3d-4d62-4f2d-9f5c-cb40f62e33fc",
+    "artwork_id": "2d2b8f97-3863-4f89-92c0-639b0a84691a",
+    "owner": "Regional Museum",
+    "acquisition_date": "2012-11-25",
+    "acquisition_method": "Gift",
+    "created_at": "2024-08-01T04:56:51"
+  },
+  {
+    "provenance_id": "d4c12800-c479-4472-878e-2db37b02cc67",
+    "artwork_id": "8aa529dc-65fd-44a9-9853-1f93df3de80c",
+    "owner": "University Collection",
+    "acquisition_date": "1914-06-21",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-09-25T22:44:09"
+  },
+  {
+    "provenance_id": "d3ecec0d-b7f2-4f9b-94fb-c9b00f8c088b",
+    "artwork_id": "02ead8b0-ba4a-4f58-933c-cfb43e0701b6",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1916-07-27",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-06-16T10:33:05"
+  },
+  {
+    "provenance_id": "0d7d9d13-bac9-486c-a48c-11834185b375",
+    "artwork_id": "c155a7dd-ff9c-49a9-9bf8-e0afbdfd8748",
+    "owner": "Corporate Collection",
+    "acquisition_date": "2008-10-15",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-08-27T20:07:25"
+  },
+  {
+    "provenance_id": "bd49bab6-1925-4edd-b9d4-60db34cb0ff6",
+    "artwork_id": "f2128008-ebb6-416a-8639-c0619681f984",
+    "owner": "University Collection",
+    "acquisition_date": "1982-08-14",
+    "acquisition_method": "Donation",
+    "created_at": "2024-09-19T06:21:56"
+  },
+  {
+    "provenance_id": "55d278c0-7b2b-47d2-8352-80146ff70250",
+    "artwork_id": "9af58e0a-9fb5-479e-b501-6dab8647f96f",
+    "owner": "Art Dealer",
+    "acquisition_date": "1979-12-01",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-09-07T04:53:23"
+  },
+  {
+    "provenance_id": "50de4868-3cce-4701-a9ef-c236f6bf39a9",
+    "artwork_id": "6fe3d6fa-f2d8-491a-a0ff-6b3753dfb934",
+    "owner": "University Collection",
+    "acquisition_date": "2016-01-05",
+    "acquisition_method": "Donation",
+    "created_at": "2024-08-04T10:50:45"
+  },
+  {
+    "provenance_id": "4cec1821-4528-4118-b20b-b70fb30fb6f0",
+    "artwork_id": "0407ba43-defe-4219-aa80-5e7005348b16",
+    "owner": "Private Collector",
+    "acquisition_date": "1863-12-14",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-09-24T20:46:01"
+  },
+  {
+    "provenance_id": "53aace9c-f3c9-4302-b5fb-22aed567647a",
+    "artwork_id": "82e71170-e543-4df3-88a0-e6619bbd951d",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1992-12-21",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-06-15T19:07:01"
+  },
+  {
+    "provenance_id": "37282d70-f2cf-4063-ad2c-9c9f37cb71b2",
+    "artwork_id": "4fdabddb-4632-4827-a39f-d4505118a539",
+    "owner": "Regional Museum",
+    "acquisition_date": "1921-03-02",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-08-18T09:03:00"
+  },
+  {
+    "provenance_id": "bdc364b6-96be-4532-b16b-2ead51cc96f2",
+    "artwork_id": "ae058726-5133-4d05-9ac4-334212a43a36",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1940-03-22",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-09-07T19:20:39"
+  },
+  {
+    "provenance_id": "b37e00f5-5caf-4e5d-bb36-d62433d226ad",
+    "artwork_id": "0cefceab-c3e9-4340-9f9a-1d39b5c7c78a",
+    "owner": "National Gallery",
+    "acquisition_date": "1986-04-17",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-09-10T11:11:31"
+  },
+  {
+    "provenance_id": "f8493f46-afec-4bdb-9b90-4428294fd5be",
+    "artwork_id": "dbfc7596-858e-4f99-b698-986a6ada3c09",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1981-04-24",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-08-29T16:27:09"
+  },
+  {
+    "provenance_id": "f637597c-d5f9-4644-85b5-73a893fb249e",
+    "artwork_id": "c963f1ba-b7f4-4cda-ad49-7fe7daaa2947",
+    "owner": "Private Collector",
+    "acquisition_date": "1880-01-28",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-09-01T08:26:04"
+  },
+  {
+    "provenance_id": "00ed1517-b07d-4aad-a263-131cac22c6da",
+    "artwork_id": "0fd06707-b829-4045-a976-f9b76776d07d",
+    "owner": "University Collection",
+    "acquisition_date": "1975-09-23",
+    "acquisition_method": "Gift",
+    "created_at": "2024-06-20T16:42:31"
+  },
+  {
+    "provenance_id": "6cce2a51-dc73-4807-9f90-d7b5118bc683",
+    "artwork_id": "7a4fdfec-1673-4f49-8e33-45e0c36bb0cc",
+    "owner": "Private Collector",
+    "acquisition_date": "1977-03-28",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-08-26T15:20:09"
+  },
+  {
+    "provenance_id": "7120abbc-4761-4511-baa2-9dcbbae33a13",
+    "artwork_id": "839f2f0e-83a8-4cfc-bfb1-40b2ec320b22",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1929-05-04",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-06-10T08:30:29"
+  },
+  {
+    "provenance_id": "16d9cfa9-1fd2-403f-89a5-ae6a524a35fd",
+    "artwork_id": "5de06ef0-b018-4d23-be14-2a341ca7c19b",
+    "owner": "Private Collector",
+    "acquisition_date": "1904-09-03",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-08-19T23:53:43"
+  },
+  {
+    "provenance_id": "1bf8bca8-40a1-413a-95a7-58932327b0a4",
+    "artwork_id": "5c786a37-bafd-4786-ab15-49388dd4deba",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1911-03-17",
+    "acquisition_method": "Donation",
+    "created_at": "2024-08-03T15:19:13"
+  },
+  {
+    "provenance_id": "ef45be7a-4126-48c9-b8da-0b9bc9e4dbf2",
+    "artwork_id": "29997320-cdee-44ad-93b4-885291ee12ac",
+    "owner": "Regional Museum",
+    "acquisition_date": "1945-10-13",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-09-26T09:20:35"
+  },
+  {
+    "provenance_id": "559830db-b790-4309-a16a-d51750031532",
+    "artwork_id": "98fe623e-c440-46b0-9f24-73f970794653",
+    "owner": "National Gallery",
+    "acquisition_date": "1927-02-16",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-09-05T06:12:19"
+  },
+  {
+    "provenance_id": "0ea671da-e348-4c5f-b3ba-3227a9de1cf2",
+    "artwork_id": "dbfc7596-858e-4f99-b698-986a6ada3c09",
+    "owner": "Art Dealer",
+    "acquisition_date": "1852-01-23",
+    "acquisition_method": "Donation",
+    "created_at": "2024-09-08T13:44:04"
+  },
+  {
+    "provenance_id": "057756bc-bdab-4469-9b3a-bdbcd459b1e4",
+    "artwork_id": "fb95ba83-3390-4bf5-95c7-160e82bb93a3",
+    "owner": "National Gallery",
+    "acquisition_date": "1965-01-22",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-09-25T03:28:45"
+  },
+  {
+    "provenance_id": "c8e259de-b116-4fbb-814c-f73bc0c200a3",
+    "artwork_id": "b59c54da-9a99-46c2-94bd-41bd4639e37e",
+    "owner": "Foundation Trust",
+    "acquisition_date": "2005-01-18",
+    "acquisition_method": "Donation",
+    "created_at": "2024-06-24T07:24:36"
+  },
+  {
+    "provenance_id": "65837831-8b90-4a11-9a37-c901d00ad427",
+    "artwork_id": "90ec5cca-a47a-4743-80e3-176049dd257d",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1955-04-03",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-01T12:18:08"
+  },
+  {
+    "provenance_id": "9b666687-db90-4711-b88e-ae3421b7cd07",
+    "artwork_id": "2e29c1d9-5a4a-4b6e-a8a0-511da024cac1",
+    "owner": "Regional Museum",
+    "acquisition_date": "1998-06-04",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-08-04T09:11:34"
+  },
+  {
+    "provenance_id": "8b8997e7-5db1-40f7-adc3-4a6cefc375d7",
+    "artwork_id": "5fd12638-89cd-4cde-a7b7-1a1a745b1655",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1913-10-25",
+    "acquisition_method": "Donation",
+    "created_at": "2024-09-20T10:26:07"
+  },
+  {
+    "provenance_id": "9c62313b-aeeb-4e11-aed8-9955c89ee5e6",
+    "artwork_id": "ea3d17bf-b068-4361-869b-693931f650a7",
+    "owner": "University Collection",
+    "acquisition_date": "1991-11-15",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-08-06T10:16:13"
+  },
+  {
+    "provenance_id": "80ea1b08-1904-40a2-879f-d69800229b20",
+    "artwork_id": "e41deadc-937f-4abc-9a52-3b11d37e8e9e",
+    "owner": "University Collection",
+    "acquisition_date": "1863-01-15",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-09-27T22:38:12"
+  },
+  {
+    "provenance_id": "8409a6f5-d2f2-40f0-bb76-34183173805b",
+    "artwork_id": "3e982d2c-2c48-4a21-b0c6-0a4b8dc4e840",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1914-02-16",
+    "acquisition_method": "Donation",
+    "created_at": "2024-09-10T21:27:49"
+  },
+  {
+    "provenance_id": "06601819-eb14-4a3c-bcec-af5b3d47203a",
+    "artwork_id": "e814e616-6a5e-46b5-b16c-b8c127e3cc88",
+    "owner": "Private Collector",
+    "acquisition_date": "2002-05-21",
+    "acquisition_method": "Donation",
+    "created_at": "2024-06-18T14:17:57"
+  },
+  {
+    "provenance_id": "4fd98a6f-a86b-4587-9907-bec36a9b5d8f",
+    "artwork_id": "d7a69d83-8d8c-46ae-a995-b7972258f3a7",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1886-08-26",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-08-12T13:56:23"
+  },
+  {
+    "provenance_id": "8c0195a5-f52c-47e3-878f-d0936ff6513d",
+    "artwork_id": "5716dfc7-b087-4c75-9a4d-904e8ba79766",
+    "owner": "University Collection",
+    "acquisition_date": "1998-05-02",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-07-14T20:41:15"
+  },
+  {
+    "provenance_id": "d8ab6cdc-4e91-4395-9437-248435d53039",
+    "artwork_id": "85f83d98-abb8-4153-8cea-52dce5ff0503",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1982-08-01",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-07-14T10:06:26"
+  },
+  {
+    "provenance_id": "0dda39a4-ab9c-4128-bfdf-e78dec03106f",
+    "artwork_id": "2d2b8f97-3863-4f89-92c0-639b0a84691a",
+    "owner": "National Gallery",
+    "acquisition_date": "1996-02-06",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-09-20T23:01:07"
+  },
+  {
+    "provenance_id": "c9e50ede-2d95-4674-90d0-a95d44e3c326",
+    "artwork_id": "839f2f0e-83a8-4cfc-bfb1-40b2ec320b22",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1987-06-04",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-07-24T07:18:43"
+  },
+  {
+    "provenance_id": "4fc2e3ed-dc43-4602-8382-64fe619d9575",
+    "artwork_id": "1fada628-9bdf-4579-9e69-b7e296f31265",
+    "owner": "Estate of Artist",
+    "acquisition_date": "2018-01-09",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-06-17T01:23:21"
+  },
+  {
+    "provenance_id": "968faf06-c33a-4c79-a1d9-8bc03cf96a76",
+    "artwork_id": "82e71170-e543-4df3-88a0-e6619bbd951d",
+    "owner": "Estate of Artist",
+    "acquisition_date": "2015-04-13",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-07-09T14:29:10"
+  },
+  {
+    "provenance_id": "c91d78b3-2c1d-4ba5-8005-bdd8a6846dce",
+    "artwork_id": "85f83d98-abb8-4153-8cea-52dce5ff0503",
+    "owner": "Regional Museum",
+    "acquisition_date": "1938-06-17",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-09T20:16:32"
+  },
+  {
+    "provenance_id": "f90f9a67-16c6-412c-8eaa-bf3a684259b4",
+    "artwork_id": "59885e08-9ba1-41c3-8c8d-f897e385c26b",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1960-09-11",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-08-07T19:01:38"
+  },
+  {
+    "provenance_id": "d62b1564-dbc6-4cff-94e3-264417169750",
+    "artwork_id": "51d5b51d-1e43-4415-a286-c00c7d4a3ccc",
+    "owner": "Art Dealer",
+    "acquisition_date": "1940-11-16",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-06-10T18:23:39"
+  },
+  {
+    "provenance_id": "63cb7896-3ddc-4c92-8bce-ae5911334f59",
+    "artwork_id": "59885e08-9ba1-41c3-8c8d-f897e385c26b",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "2001-11-10",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-07-08T16:50:30"
+  },
+  {
+    "provenance_id": "ce5d6399-3608-4bb1-87fc-abe0712498e2",
+    "artwork_id": "114639f3-5568-4f80-bdac-c13523ed608c",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1921-05-25",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-09-10T16:15:30"
+  },
+  {
+    "provenance_id": "d9db71f4-3253-4510-b40c-33116c1d999c",
+    "artwork_id": "1894ff5e-3a01-4666-bdbe-1c8ac4f8dcc9",
+    "owner": "Private Collector",
+    "acquisition_date": "1920-11-25",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-07-11T08:53:28"
+  },
+  {
+    "provenance_id": "75e3b024-ad14-43ee-b513-c51f8a66a307",
+    "artwork_id": "fe85dfe1-7987-4473-bc57-e2f24a2c7b25",
+    "owner": "National Gallery",
+    "acquisition_date": "1969-07-24",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-08-31T22:56:02"
+  },
+  {
+    "provenance_id": "37be0378-2ee3-4dbb-982e-0cecf4065c6d",
+    "artwork_id": "9d2894dd-3242-4740-a223-05321022eb76",
+    "owner": "Art Dealer",
+    "acquisition_date": "1854-11-18",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-07-06T22:42:13"
+  },
+  {
+    "provenance_id": "f1fd6c22-fd82-4c8a-af6c-0de570585bb3",
+    "artwork_id": "af6290f7-fc41-44fe-a780-a669508cf851",
+    "owner": "National Gallery",
+    "acquisition_date": "2005-02-14",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-06-27T14:39:15"
+  },
+  {
+    "provenance_id": "51b07259-b2e5-4d2f-848f-0dcabc60a6c1",
+    "artwork_id": "fe85dfe1-7987-4473-bc57-e2f24a2c7b25",
+    "owner": "Corporate Collection",
+    "acquisition_date": "1989-03-15",
+    "acquisition_method": "Donation",
+    "created_at": "2024-06-24T22:24:09"
+  },
+  {
+    "provenance_id": "58f8984b-f3b1-4a9f-9cb7-134055e40316",
+    "artwork_id": "668a6273-f3ee-4ac9-b704-c7d93ee64459",
+    "owner": "Art Dealer",
+    "acquisition_date": "1970-07-28",
+    "acquisition_method": "Gift",
+    "created_at": "2024-07-03T19:39:17"
+  },
+  {
+    "provenance_id": "fc5f3a86-695c-4435-8741-cb597bdd4c46",
+    "artwork_id": "245d519f-5971-4b54-8f27-d25c38d2ee65",
+    "owner": "National Gallery",
+    "acquisition_date": "1943-03-24",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-08-08T16:19:32"
+  },
+  {
+    "provenance_id": "7f2849e3-aa70-4b2d-8734-b19c4717a529",
+    "artwork_id": "f543c365-3847-4734-be90-27d44af67b9f",
+    "owner": "Private Collector",
+    "acquisition_date": "1878-08-10",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-07-10T03:14:23"
+  },
+  {
+    "provenance_id": "4ad8baee-4974-4459-9753-435e1dbc22aa",
+    "artwork_id": "ce8f609a-fdf7-4e29-91df-40ed7bedef0b",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1881-11-18",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-07-24T12:55:29"
+  },
+  {
+    "provenance_id": "ad8dfd93-1e71-4cda-aa54-1352e19b7300",
+    "artwork_id": "36ea5972-1e18-417a-a44c-bade814264be",
+    "owner": "Corporate Collection",
+    "acquisition_date": "2012-02-10",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-09-01T17:54:30"
+  },
+  {
+    "provenance_id": "34b86e28-0e75-4cdc-8f8a-735706a18e1b",
+    "artwork_id": "de7690d1-c075-4e90-ae2e-4cacb0710ae2",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1939-12-02",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-08-19T00:19:57"
+  },
+  {
+    "provenance_id": "d0dea10b-7a1f-47a4-8876-23da73ec5b4f",
+    "artwork_id": "d5b9b643-3559-40ea-9571-bfe9c7149c83",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1850-06-07",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-08-28T01:13:52"
+  },
+  {
+    "provenance_id": "0d1db6ba-3348-4cbb-9698-8042a9ec7311",
+    "artwork_id": "5cf8dbc8-8bad-4a6a-9e39-ce8b4fc4ffe4",
+    "owner": "Estate of Artist",
+    "acquisition_date": "1931-01-04",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-06-08T12:54:03"
+  },
+  {
+    "provenance_id": "2e9597f0-d293-4842-a2a1-6ef403c01d2f",
+    "artwork_id": "7a4fdfec-1673-4f49-8e33-45e0c36bb0cc",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1869-12-18",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-06-02T05:00:52"
+  },
+  {
+    "provenance_id": "593a1734-6f29-4ddc-814b-e8e91a65baa6",
+    "artwork_id": "b6920860-0039-4b4d-b80e-4ca8e667e5a5",
+    "owner": "Foundation Trust",
+    "acquisition_date": "2015-03-19",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-09-23T16:52:10"
+  },
+  {
+    "provenance_id": "1a0b380b-64b9-444a-85ef-6f5892b98e26",
+    "artwork_id": "b81f6563-5e33-45e2-928b-5e8022083f58",
+    "owner": "University Collection",
+    "acquisition_date": "1988-09-23",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-09-03T10:11:29"
+  },
+  {
+    "provenance_id": "47e619c6-d317-4042-ac02-26c14446bd6a",
+    "artwork_id": "e4a26841-3781-423a-b67b-1a2ce7f2f634",
+    "owner": "Art Dealer",
+    "acquisition_date": "1980-01-13",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-08-16T02:15:58"
+  },
+  {
+    "provenance_id": "9c779414-90e8-4e30-ba7b-65cc69a35a33",
+    "artwork_id": "5082176a-1828-42a9-bf3f-435c221cda88",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1949-11-04",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-06-10T00:07:00"
+  },
+  {
+    "provenance_id": "1c401993-1dd0-4074-8268-ce0dca49679d",
+    "artwork_id": "dbcc8da4-5636-45cd-ad36-8673f7070580",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1923-05-22",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-06-20T04:33:42"
+  },
+  {
+    "provenance_id": "030c7000-edf0-49e0-a6db-b15c4d63d462",
+    "artwork_id": "fe85dfe1-7987-4473-bc57-e2f24a2c7b25",
+    "owner": "National Gallery",
+    "acquisition_date": "2002-01-03",
+    "acquisition_method": "Purchased",
+    "created_at": "2024-07-01T21:15:14"
+  },
+  {
+    "provenance_id": "6f0f70e7-febe-45f9-aa43-1bb79d1d4a8a",
+    "artwork_id": "dbcc8da4-5636-45cd-ad36-8673f7070580",
+    "owner": "Art Dealer",
+    "acquisition_date": "1935-07-20",
+    "acquisition_method": "Donation",
+    "created_at": "2024-07-02T04:21:21"
+  },
+  {
+    "provenance_id": "fd48af16-a59c-42b8-a8c0-3c4a4b8e456d",
+    "artwork_id": "131b15eb-c7eb-423f-9ec9-90ae73461da8",
+    "owner": "Art Dealer",
+    "acquisition_date": "1897-07-06",
+    "acquisition_method": "Donation",
+    "created_at": "2024-08-18T06:10:56"
+  },
+  {
+    "provenance_id": "2bc67841-d596-41e6-8bf3-e623a54852ad",
+    "artwork_id": "ebc3e8f3-f865-4c4c-afec-a9044e03e4e3",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1976-06-14",
+    "acquisition_method": "Gift",
+    "created_at": "2024-06-07T03:27:01"
+  },
+  {
+    "provenance_id": "50e2afcc-9d83-4bb5-8c2a-7223fd410ff0",
+    "artwork_id": "5dde3640-2d0c-47b9-a8cb-3f7f3a831204",
+    "owner": "Art Dealer",
+    "acquisition_date": "1894-12-02",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-06-04T11:07:55"
+  },
+  {
+    "provenance_id": "52a2b73f-1efe-433c-a719-e28e391f4943",
+    "artwork_id": "4461ee3e-805d-4b3e-9168-681f84b66415",
+    "owner": "Foundation Trust",
+    "acquisition_date": "2014-06-10",
+    "acquisition_method": "Inheritance",
+    "created_at": "2024-08-04T22:17:55"
+  },
+  {
+    "provenance_id": "e35bd455-cade-4574-a6ea-da90428d03b1",
+    "artwork_id": "9c4fed92-9c51-4458-90e9-3c61d8d2c22f",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1925-10-10",
+    "acquisition_method": "Exchange",
+    "created_at": "2024-09-06T21:43:36"
+  },
+  {
+    "provenance_id": "ec18433e-a977-4788-a2a9-3865182d3140",
+    "artwork_id": "3d28f372-4349-47be-8111-1157bb8ad266",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1930-11-10",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-08-21T10:25:59"
+  },
+  {
+    "provenance_id": "838e001e-b8af-4138-a113-2d689fe6f132",
+    "artwork_id": "beeef052-aadb-4b3f-80ad-563c30a2e597",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1989-04-09",
+    "acquisition_method": "Donation",
+    "created_at": "2024-09-10T02:34:19"
+  },
+  {
+    "provenance_id": "a6a2e6ca-305c-4cf6-9625-56880c7549ac",
+    "artwork_id": "981b6365-037c-48ca-add2-1ce3ab9cad47",
+    "owner": "Foundation Trust",
+    "acquisition_date": "1987-06-27",
+    "acquisition_method": "Gift",
+    "created_at": "2024-09-13T15:04:21"
+  },
+  {
+    "provenance_id": "7e0b4869-6ccd-4deb-836f-6b5bd6f0534b",
+    "artwork_id": "28a20e80-bde7-4949-b3a3-072ea41296c0",
+    "owner": "Museum of Modern Art",
+    "acquisition_date": "1887-02-21",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-06-28T23:52:02"
+  },
+  {
+    "provenance_id": "edbf1014-2edf-4921-bb4f-27eade8e62e3",
+    "artwork_id": "d0877952-d1dd-440a-b424-5bb738a76053",
+    "owner": "Art Dealer",
+    "acquisition_date": "1945-04-04",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-06-02T19:20:09"
+  },
+  {
+    "provenance_id": "91d6c1c5-335c-4b41-b713-bc173119b30b",
+    "artwork_id": "570996e5-ca3a-43a3-b120-38120061e5f1",
+    "owner": "Auction House Consignment",
+    "acquisition_date": "1994-07-28",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-08-15T11:53:39"
+  },
+  {
+    "provenance_id": "6e85b76d-6328-44ec-a19f-ebd5f12bf3b2",
+    "artwork_id": "f1dbde55-6ccb-4d0b-97a3-47f0f5064efa",
+    "owner": "Private Collector",
+    "acquisition_date": "2007-10-07",
+    "acquisition_method": "Bequest",
+    "created_at": "2024-06-02T08:24:12"
+  },
+  {
+    "provenance_id": "5d98aae4-0bad-4478-a914-cc8236373b0c",
+    "artwork_id": "9c400a41-6423-4d29-a5d6-0da1e356b928",
+    "owner": "Regional Museum",
+    "acquisition_date": "1905-02-06",
+    "acquisition_method": "Commissioned",
+    "created_at": "2024-06-19T02:17:23"
+  },
+  {
+    "provenance_id": "38b72ed0-a8c8-4e70-9778-4ceec797e656",
+    "artwork_id": "aba663c2-f7f1-4138-9448-f97f795d34f9",
+    "owner": "University Collection",
+    "acquisition_date": "1924-06-15",
+    "acquisition_method": "Donation",
+    "created_at": "2024-09-27T21:42:33"
+  },
+  {
+    "provenance_id": "8716d35d-e4ca-4b64-84fa-9edd13740e0c",
+    "artwork_id": "c3425577-2d83-4117-ab1c-d0877fc48d82",
+    "owner": "Estate of Artist",
+    "acquisition_date": "2003-12-16",
+    "acquisition_method": "Gift",
+    "created_at": "2024-09-27T21:06:37"
+  }
+]

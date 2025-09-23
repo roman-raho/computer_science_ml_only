@@ -1,0 +1,172 @@
+[
+  {
+    "gallery_id": "GALLERY-001",
+    "name": "Galerie Forma 84",
+    "location": "Los Angeles"
+  },
+  {
+    "gallery_id": "GALLERY-003",
+    "name": "Galerie Aurora 47",
+    "location": "Rome"
+  },
+  {
+    "gallery_id": "GALLERY-004",
+    "name": "Galerie Atelier 36",
+    "location": "Dubai"
+  },
+  {
+    "gallery_id": "GALLERY-005",
+    "name": "Galerie Spectrum 96",
+    "location": "Shanghai"
+  },
+  {
+    "gallery_id": "GALLERY-006",
+    "name": "Galerie Vista 6",
+    "location": "London"
+  },
+  {
+    "gallery_id": "GALLERY-007",
+    "name": "Galerie Aria 19",
+    "location": "Dubai"
+  },
+  {
+    "gallery_id": "GALLERY-008",
+    "name": "Galerie Atelier 30",
+    "location": "Berlin"
+  },
+  {
+    "gallery_id": "GALLERY-009",
+    "name": "Galerie Echo 64",
+    "location": "London"
+  },
+  {
+    "gallery_id": "GALLERY-010",
+    "name": "Galerie Vista 80",
+    "location": "Mexico City"
+  },
+  {
+    "gallery_id": "GALLERY-011",
+    "name": "Galerie Terra 25",
+    "location": "Beijing"
+  },
+  {
+    "gallery_id": "GALLERY-012",
+    "name": "Galerie Lumière 89",
+    "location": "Paris"
+  },
+  {
+    "gallery_id": "GALLERY-015",
+    "name": "Galerie Aurora 66",
+    "location": "Sydney"
+  },
+  {
+    "gallery_id": "GALLERY-016",
+    "name": "Galerie Echo 62",
+    "location": "Sydney"
+  },
+  {
+    "gallery_id": "GALLERY-017",
+    "name": "Galerie Axis 38",
+    "location": "Tokyo"
+  },
+  {
+    "gallery_id": "GALLERY-018",
+    "name": "Galerie Orbis 51",
+    "location": "Tokyo"
+  },
+  {
+    "gallery_id": "GALLERY-019",
+    "name": "Galerie Echo 80",
+    "location": "Tokyo"
+  },
+  {
+    "gallery_id": "GALLERY-020",
+    "name": "Galerie Nova 5",
+    "location": "Hong Kong"
+  },
+  {
+    "gallery_id": "GALLERY-022",
+    "name": "Galerie Nova 81",
+    "location": "Los Angeles"
+  },
+  {
+    "gallery_id": "GALLERY-023",
+    "name": "Galerie Pulse 61",
+    "location": "Los Angeles"
+  },
+  {
+    "gallery_id": "GALLERY-024",
+    "name": "Galerie Terra 69",
+    "location": "São Paulo"
+  },
+  {
+    "gallery_id": "GALLERY-025",
+    "name": "Galerie Orbis 17",
+    "location": "Beijing"
+  },
+  {
+    "gallery_id": "GALLERY-026",
+    "name": "Galerie Terra 10",
+    "location": "Mexico City"
+  },
+  {
+    "gallery_id": "GALLERY-027",
+    "name": "Galerie Aria 47",
+    "location": "Berlin"
+  },
+  {
+    "gallery_id": "GALLERY-028",
+    "name": "Galerie Vista 57",
+    "location": "London"
+  },
+  {
+    "gallery_id": "GALLERY-030",
+    "name": "Galerie Lumière 48",
+    "location": "Mumbai"
+  },
+  {
+    "gallery_id": "GALLERY-031",
+    "name": "Galerie Momentum 6",
+    "location": "Mumbai"
+  },
+  {
+    "gallery_id": "GALLERY-032",
+    "name": "Galerie Vertex 93",
+    "location": "Chicago"
+  },
+  {
+    "gallery_id": "GALLERY-033",
+    "name": "Galerie Eclipse 22",
+    "location": "Tokyo"
+  },
+  {
+    "gallery_id": "GALLERY-034",
+    "name": "Galerie Prism 83",
+    "location": "Toronto"
+  },
+  {
+    "gallery_id": "GALLERY-035",
+    "name": "Galerie Aria 57",
+    "location": "Moscow"
+  },
+  {
+    "gallery_id": "GALLERY-036",
+    "name": "Galerie Prism 26",
+    "location": "Moscow"
+  },
+  {
+    "gallery_id": "GALLERY-037",
+    "name": "Galerie Orbis 37",
+    "location": "Shanghai"
+  },
+  {
+    "gallery_id": "GALLERY-038",
+    "name": "Galerie Momentum 90",
+    "location": "Seoul"
+  },
+  {
+    "gallery_id": "GALLERY-039",
+    "name": "Galerie Axis 48",
+    "location": "Hong Kong"
+  }
+]

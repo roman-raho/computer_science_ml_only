@@ -1,0 +1,218 @@
+[
+  {
+    "auction_house_id": "AH-001",
+    "auction_house_name": "Dorothea 70",
+    "location": "Chicago",
+    "auction_house_rating": 89
+  },
+  {
+    "auction_house_id": "AH-002",
+    "auction_house_name": "Sothelake 85",
+    "location": "Zurich",
+    "auction_house_rating": 98
+  },
+  {
+    "auction_house_id": "AH-003",
+    "auction_house_name": "PolyArts 37",
+    "location": "Sydney",
+    "auction_house_rating": 73
+  },
+  {
+    "auction_house_id": "AH-004",
+    "auction_house_name": "Tajan 57",
+    "location": "Paris",
+    "auction_house_rating": 76
+  },
+  {
+    "auction_house_id": "AH-005",
+    "auction_house_name": "Dorothea 21",
+    "location": "Paris",
+    "auction_house_rating": 88
+  },
+  {
+    "auction_house_id": "AH-006",
+    "auction_house_name": "Wright 25",
+    "location": "Sydney",
+    "auction_house_rating": 80
+  },
+  {
+    "auction_house_id": "AH-007",
+    "auction_house_name": "PolyArts 82",
+    "location": "Milan",
+    "auction_house_rating": 87
+  },
+  {
+    "auction_house_id": "AH-008",
+    "auction_house_name": "Dorothea 9",
+    "location": "Madrid",
+    "auction_house_rating": 89
+  },
+  {
+    "auction_house_id": "AH-009",
+    "auction_house_name": "Lempertz 28",
+    "location": "Hong Kong",
+    "auction_house_rating": 99
+  },
+  {
+    "auction_house_id": "AH-010",
+    "auction_house_name": "Tajan 86",
+    "location": "Dubai",
+    "auction_house_rating": 85
+  },
+  {
+    "auction_house_id": "AH-011",
+    "auction_house_name": "Ketterer 30",
+    "location": "Madrid",
+    "auction_house_rating": 64
+  },
+  {
+    "auction_house_id": "AH-012",
+    "auction_house_name": "Ketterer 96",
+    "location": "Madrid",
+    "auction_house_rating": 60
+  },
+  {
+    "auction_house_id": "AH-013",
+    "auction_house_name": "Bambino 28",
+    "location": "Hong Kong",
+    "auction_house_rating": 82
+  },
+  {
+    "auction_house_id": "AH-014",
+    "auction_house_name": "Christophers 48",
+    "location": "Chicago",
+    "auction_house_rating": 60
+  },
+  {
+    "auction_house_id": "AH-015",
+    "auction_house_name": "Guardian 73",
+    "location": "Shanghai",
+    "auction_house_rating": 62
+  },
+  {
+    "auction_house_id": "AH-016",
+    "auction_house_name": "Cambiaso 24",
+    "location": "Dubai",
+    "auction_house_rating": 64
+  },
+  {
+    "auction_house_id": "AH-017",
+    "auction_house_name": "Philhams 52",
+    "location": "Chicago",
+    "auction_house_rating": 96
+  },
+  {
+    "auction_house_id": "AH-018",
+    "auction_house_name": "ArtNow 22",
+    "location": "Sydney",
+    "auction_house_rating": 92
+  },
+  {
+    "auction_house_id": "AH-019",
+    "auction_house_name": "Lempertz 24",
+    "location": "New York",
+    "auction_house_rating": 65
+  },
+  {
+    "auction_house_id": "AH-020",
+    "auction_house_name": "Chrystalis 5",
+    "location": "Chicago",
+    "auction_house_rating": 94
+  },
+  {
+    "auction_house_id": "AH-021",
+    "auction_house_name": "Bambino 16",
+    "location": "Seoul",
+    "auction_house_rating": 100
+  },
+  {
+    "auction_house_id": "AH-022",
+    "auction_house_name": "Philhams 88",
+    "location": "Tokyo",
+    "auction_house_rating": 72
+  },
+  {
+    "auction_house_id": "AH-023",
+    "auction_house_name": "Bambino 18",
+    "location": "Paris",
+    "auction_house_rating": 69
+  },
+  {
+    "auction_house_id": "AH-024",
+    "auction_house_name": "Lempertz 44",
+    "location": "Milan",
+    "auction_house_rating": 64
+  },
+  {
+    "auction_house_id": "AH-025",
+    "auction_house_name": "Sothelake 71",
+    "location": "Chicago",
+    "auction_house_rating": 89
+  },
+  {
+    "auction_house_id": "AH-026",
+    "auction_house_name": "Sothelake 25",
+    "location": "Dubai",
+    "auction_house_rating": 80
+  },
+  {
+    "auction_house_id": "AH-027",
+    "auction_house_name": "Chrystalis 36",
+    "location": "Shanghai",
+    "auction_house_rating": 76
+  },
+  {
+    "auction_house_id": "AH-028",
+    "auction_house_name": "Bambino 27",
+    "location": "Madrid",
+    "auction_house_rating": 67
+  },
+  {
+    "auction_house_id": "AH-029",
+    "auction_house_name": "Tajan 32",
+    "location": "Hong Kong",
+    "auction_house_rating": 77
+  },
+  {
+    "auction_house_id": "AH-030",
+    "auction_house_name": "Heritagee 2",
+    "location": "New York",
+    "auction_house_rating": 100
+  },
+  {
+    "auction_house_id": "AH-031",
+    "auction_house_name": "Ketterer 79",
+    "location": "Seoul",
+    "auction_house_rating": 96
+  },
+  {
+    "auction_house_id": "AH-032",
+    "auction_house_name": "Sothelake 44",
+    "location": "Geneva",
+    "auction_house_rating": 77
+  },
+  {
+    "auction_house_id": "AH-033",
+    "auction_house_name": "ArtNow 85",
+    "location": "Zurich",
+    "auction_house_rating": 95
+  },
+  {
+    "auction_house_id": "AH-034",
+    "auction_house_name": "Tajan 43",
+    "location": "New York",
+    "auction_house_rating": 68
+  },
+  {
+    "auction_house_id": "AH-035",
+    "auction_house_name": "Lempertz 45",
+    "location": "Chicago",
+    "auction_house_rating": 85
+  },
+  {
+    "auction_house_id": "AH-036",
+    "auction_house_name": "Ketterer 82",
+    "location": "London",
+    "auction_house_rating": 74
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "museum_id": "MUSEUM-001",
+    "name": "Metropolitan Museum",
+    "location": "New York",
+    "age": 304,
+    "annual_visitors": 5665455
+  },
+  {
+    "museum_id": "MUSEUM-002",
+    "name": "Louvre",
+    "location": "Paris",
+    "age": 247,
+    "annual_visitors": 6144658
+  },
+  {
+    "museum_id": "MUSEUM-003",
+    "name": "Tate Modern",
+    "location": "London",
+    "age": 52,
+    "annual_visitors": 178359
+  },
+  {
+    "museum_id": "MUSEUM-004",
+    "name": "Prado",
+    "location": "Madrid",
+    "age": 247,
+    "annual_visitors": 7820217
+  },
+  {
+    "museum_id": "MUSEUM-005",
+    "name": "Uffizi",
+    "location": "Florence",
+    "age": 132,
+    "annual_visitors": 1383452
+  },
+  {
+    "museum_id": "MUSEUM-006",
+    "name": "MoMA",
+    "location": "Rome",
+    "age": 470,
+    "annual_visitors": 7638910
+  },
+  {
+    "museum_id": "MUSEUM-007",
+    "name": "National Gallery",
+    "location": "Vienna",
+    "age": 212,
+    "annual_visitors": 7592666
+  },
+  {
+    "museum_id": "MUSEUM-008",
+    "name": "Hermitage",
+    "location": "Amsterdam",
+    "age": 364,
+    "annual_visitors": 9109170
+  },
+  {
+    "museum_id": "MUSEUM-009",
+    "name": "Rijksmuseum",
+    "location": "Berlin",
+    "age": 269,
+    "annual_visitors": 8496621
+  },
+  {
+    "museum_id": "MUSEUM-010",
+    "name": "Guggenheim",
+    "location": "Moscow",
+    "age": 309,
+    "annual_visitors": 7345355
+  },
+  {
+    "museum_id": "MUSEUM-011",
+    "name": "Getty",
+    "location": "Los Angeles",
+    "age": 473,
+    "annual_visitors": 6691400
+  },
+  {
+    "museum_id": "MUSEUM-012",
+    "name": "Pompidou",
+    "location": "Chicago",
+    "age": 453,
+    "annual_visitors": 5808273
+  },
+  {
+    "museum_id": "MUSEUM-013",
+    "name": "V&A",
+    "location": "Tokyo",
+    "age": 159,
+    "annual_visitors": 502398
+  },
+  {
+    "museum_id": "MUSEUM-014",
+    "name": "Whitney",
+    "location": "Beijing",
+    "age": 133,
+    "annual_visitors": 4656396
+  },
+  {
+    "museum_id": "MUSEUM-015",
+    "name": "Ashmolean",
+    "location": "Shanghai",
+    "age": 218,
+    "annual_visitors": 4402082
+  },
+  {
+    "museum_id": "MUSEUM-016",
+    "name": "Kunsthistorisches",
+    "location": "Seoul",
+    "age": 222,
+    "annual_visitors": 171884
+  },
+  {
+    "museum_id": "MUSEUM-017",
+    "name": "Reina Sofia",
+    "location": "Dubai",
+    "age": 111,
+    "annual_visitors": 5296444
+  },
+  {
+    "museum_id": "MUSEUM-018",
+    "name": "National Palace",
+    "location": "Toronto",
+    "age": 493,
+    "annual_visitors": 2317182
+  },
+  {
+    "museum_id": "MUSEUM-019",
+    "name": "Pinakothek",
+    "location": "São Paulo",
+    "age": 345,
+    "annual_visitors": 3276536
+  },
+  {
+    "museum_id": "MUSEUM-020",
+    "name": "Albertina",
+    "location": "Mexico City",
+    "age": 298,
+    "annual_visitors": 7603058
+  }
+]

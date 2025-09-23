@@ -1,0 +1,3002 @@
+[
+  {
+    "artwork_id": "0180dd49-77f8-4246-b36d-3962c826d38e",
+    "provenance_score": 61,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1904,
+      "age_years": 121,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "02ead8b0-ba4a-4f58-933c-cfb43e0701b6",
+    "provenance_score": 30,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1916,
+      "age_years": 109,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "0407ba43-defe-4219-aa80-5e7005348b16",
+    "provenance_score": 62,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1851,
+      "age_years": 174,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "058ce8f8-3f97-4d22-8a16-fbd02eb24559",
+    "provenance_score": 18,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1986,
+      "age_years": 39,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "08da2e3c-9931-4c7f-82e3-c98c8a8752e0",
+    "provenance_score": 16,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1972,
+      "age_years": 53,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "08e8d554-d024-4f84-942c-4cda21877de9",
+    "provenance_score": 10,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1980,
+      "age_years": 45,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "09e255b8-3426-4acd-8d33-72c97bb23106",
+    "provenance_score": 38,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1857,
+      "age_years": 168,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "0b31f70a-f53a-44e6-b4f9-78edc1849b3e",
+    "provenance_score": 14,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1963,
+      "age_years": 62,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "0bb35264-f338-4897-bf8c-d976ad5353e3",
+    "provenance_score": 47,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1912,
+      "age_years": 113,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "0cefceab-c3e9-4340-9f9a-1d39b5c7c78a",
+    "provenance_score": 13,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1986,
+      "age_years": 39,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "0d644c2a-89e4-4760-84e3-22a5ad70803b",
+    "provenance_score": 62,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1903,
+      "age_years": 122,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "0d8fbadc-3e99-4572-8ab8-238c5c1aa03c",
+    "provenance_score": 31,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1911,
+      "age_years": 114,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "0e948e38-498f-4ce0-ad5d-645f6e783b07",
+    "provenance_score": 9,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 2006,
+      "age_years": 19,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "0ebce171-421d-4eab-b128-c42972079912",
+    "provenance_score": 34,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1897,
+      "age_years": 128,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "0ee9950b-59d0-4a85-a62d-7ab230f4c8c7",
+    "provenance_score": 51,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1855,
+      "age_years": 170,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "0fad92f8-37c7-4f48-b53a-cec310a8897f",
+    "provenance_score": 9,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 2002,
+      "age_years": 23,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "0fd06707-b829-4045-a976-f9b76776d07d",
+    "provenance_score": 21,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1975,
+      "age_years": 50,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "1017bd37-0850-4445-b6b8-a64340510a29",
+    "provenance_score": 26,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1983,
+      "age_years": 42,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "103e73d2-a7b5-4cc2-8ad9-6099bb6ec49a",
+    "provenance_score": 25,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1967,
+      "age_years": 58,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "10cba1b7-f52a-4fc5-be64-7c97913a01b8",
+    "provenance_score": 38,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1930,
+      "age_years": 95,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "114639f3-5568-4f80-bdac-c13523ed608c",
+    "provenance_score": 60,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1909,
+      "age_years": 116,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "12b976ba-f645-4163-8377-2c8a8d0a0524",
+    "provenance_score": 28,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1922,
+      "age_years": 103,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "12c3778f-7760-4c97-a395-cbaba12974ea",
+    "provenance_score": 19,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1983,
+      "age_years": 42,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "131b15eb-c7eb-423f-9ec9-90ae73461da8",
+    "provenance_score": 41,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1897,
+      "age_years": 128,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "1894ff5e-3a01-4666-bdbe-1c8ac4f8dcc9",
+    "provenance_score": 29,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1920,
+      "age_years": 105,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "192cacc2-2553-4f9e-910d-b22ac4e89aa0",
+    "provenance_score": 2,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 2014,
+      "age_years": 11,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "1ac9f556-ad5d-4cc1-91b1-de51e2ca7ac8",
+    "provenance_score": 52,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1892,
+      "age_years": 133,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "1b55418e-67ea-4413-b035-c2acccc1c7f3",
+    "provenance_score": 40,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1872,
+      "age_years": 153,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "1da912f7-1e76-490b-9de0-56671d28d8d2",
+    "provenance_score": 42,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1913,
+      "age_years": 112,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "1eb42592-5ee4-4190-844a-490b616b40ca",
+    "provenance_score": 3,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 2007,
+      "age_years": 18,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "1fada628-9bdf-4579-9e69-b7e296f31265",
+    "provenance_score": 19,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1990,
+      "age_years": 35,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "236d412a-904b-4b00-a732-2c2c12cf02fb",
+    "provenance_score": 37,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1936,
+      "age_years": 89,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "245d519f-5971-4b54-8f27-d25c38d2ee65",
+    "provenance_score": 65,
+    "drivers_json": {
+      "records_count": 4,
+      "earliest_year": 1917,
+      "age_years": 108,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "25b4622c-d410-4d47-902a-49d4c9d796d4",
+    "provenance_score": 1,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 2015,
+      "age_years": 10,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "2652051f-4b91-45f7-932a-f97a485288f7",
+    "provenance_score": 23,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1924,
+      "age_years": 101,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "286bcb63-a547-418a-9901-6e5b4cfb246d",
+    "provenance_score": 37,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1956,
+      "age_years": 69,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "28a20e80-bde7-4949-b3a3-072ea41296c0",
+    "provenance_score": 41,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1887,
+      "age_years": 138,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "29997320-cdee-44ad-93b4-885291ee12ac",
+    "provenance_score": 40,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1945,
+      "age_years": 80,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "2ad8b681-e27a-4373-addb-a9ee3b8d7a5f",
+    "provenance_score": 6,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 2015,
+      "age_years": 10,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "2c577f1b-79e3-4af2-ba65-392fb72b132f",
+    "provenance_score": 30,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1894,
+      "age_years": 131,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "2d2b8f97-3863-4f89-92c0-639b0a84691a",
+    "provenance_score": 28,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1996,
+      "age_years": 29,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "2e29c1d9-5a4a-4b6e-a8a0-511da024cac1",
+    "provenance_score": 15,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1998,
+      "age_years": 27,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "2ed77da9-226a-403f-bc9e-745d8536b866",
+    "provenance_score": 34,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1898,
+      "age_years": 127,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "307e0f42-57ca-4c9f-8f0a-3097fe1bd343",
+    "provenance_score": 41,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1940,
+      "age_years": 85,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "32138724-2901-4258-af37-89ec35553b74",
+    "provenance_score": 33,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1882,
+      "age_years": 143,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "326ea2bc-2f78-4d7f-bfe2-138cd91a47dd",
+    "provenance_score": 51,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1877,
+      "age_years": 148,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "32b86149-65d1-442e-b997-959af685b9da",
+    "provenance_score": 15,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1957,
+      "age_years": 68,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "32fbf9b4-1417-4584-8b61-1d56a2917b8e",
+    "provenance_score": 52,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1893,
+      "age_years": 132,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "332df28e-757b-498c-ab83-523c8f40f10b",
+    "provenance_score": 20,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1957,
+      "age_years": 68,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "3494e7e5-84cc-41c2-a43d-fd9832f62d55",
+    "provenance_score": 41,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1867,
+      "age_years": 158,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "35c6fd2b-ab8c-4f3a-a58b-577973620216",
+    "provenance_score": 27,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1927,
+      "age_years": 98,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "36ea5972-1e18-417a-a44c-bade814264be",
+    "provenance_score": 73,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1853,
+      "age_years": 172,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "37afa7d7-cd07-441e-8f4f-5e7cb6244d00",
+    "provenance_score": 31,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1910,
+      "age_years": 115,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "393a6a74-1365-49be-b056-9b50ee2d1f33",
+    "provenance_score": 58,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1918,
+      "age_years": 107,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "3a59a648-6979-46e7-83d7-46ae731cd8b1",
+    "provenance_score": 44,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1907,
+      "age_years": 118,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "3a907644-29a1-43c2-a553-98da5d45a872",
+    "provenance_score": 58,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1875,
+      "age_years": 150,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "3d28f372-4349-47be-8111-1157bb8ad266",
+    "provenance_score": 60,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1890,
+      "age_years": 135,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "3e26269d-d2ec-47d6-914f-e8307692946f",
+    "provenance_score": 32,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1886,
+      "age_years": 139,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "3e982d2c-2c48-4a21-b0c6-0a4b8dc4e840",
+    "provenance_score": 47,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1914,
+      "age_years": 111,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "4078af9e-c9a5-4296-bc9f-9f8b47c33421",
+    "provenance_score": 30,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1915,
+      "age_years": 110,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "40818a94-49c0-42e6-a578-60ee75aa0d70",
+    "provenance_score": 44,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1853,
+      "age_years": 172,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "412e360c-8c10-4dae-850c-b05b3e6a1f2d",
+    "provenance_score": 14,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1982,
+      "age_years": 43,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "4330dfb3-ccc5-4800-9e04-d4a760363b22",
+    "provenance_score": 36,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1865,
+      "age_years": 160,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "4461ee3e-805d-4b3e-9168-681f84b66415",
+    "provenance_score": 2,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 2014,
+      "age_years": 11,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "45e54b59-408b-4d68-8ad5-fdd506687330",
+    "provenance_score": 38,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1911,
+      "age_years": 114,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "492a766c-49e5-484f-8e95-398f99d196d8",
+    "provenance_score": 50,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1858,
+      "age_years": 167,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "4a9e697e-c146-44c6-ae1c-18941e2fb965",
+    "provenance_score": 42,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1861,
+      "age_years": 164,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "4ab9746d-edea-48f7-9f7e-e2e57bc77b79",
+    "provenance_score": 34,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1920,
+      "age_years": 105,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "4b023811-a322-4a02-bd92-54ec8a9ba18c",
+    "provenance_score": 17,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1991,
+      "age_years": 34,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "4c3e08ba-c136-4bf4-b237-52eb758e81be",
+    "provenance_score": 10,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 2001,
+      "age_years": 24,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "4fdabddb-4632-4827-a39f-d4505118a539",
+    "provenance_score": 33,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1921,
+      "age_years": 104,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "5082176a-1828-42a9-bf3f-435c221cda88",
+    "provenance_score": 22,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1949,
+      "age_years": 76,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "51d5b51d-1e43-4415-a286-c00c7d4a3ccc",
+    "provenance_score": 36,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1940,
+      "age_years": 85,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "529a64b3-5541-4582-862b-f331b9095e00",
+    "provenance_score": 11,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1974,
+      "age_years": 51,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "54ecdac7-26a6-4c07-8361-651dae27f4fe",
+    "provenance_score": 16,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1972,
+      "age_years": 53,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "552253f6-8083-42ce-bdcc-ea6b543b9a10",
+    "provenance_score": 20,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1955,
+      "age_years": 70,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "567181ea-01ce-4d9b-b328-2124b10387ec",
+    "provenance_score": 52,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1872,
+      "age_years": 153,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "570996e5-ca3a-43a3-b120-38120061e5f1",
+    "provenance_score": 11,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1994,
+      "age_years": 31,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "5716dfc7-b087-4c75-9a4d-904e8ba79766",
+    "provenance_score": 45,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1900,
+      "age_years": 125,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "57daf897-790f-4783-9cff-dfcb965a7d9f",
+    "provenance_score": 17,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1993,
+      "age_years": 32,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "59885e08-9ba1-41c3-8c8d-f897e385c26b",
+    "provenance_score": 48,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1960,
+      "age_years": 65,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "5b279384-9879-494b-91ae-2683ba7041ef",
+    "provenance_score": 57,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1850,
+      "age_years": 175,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "5c488f8a-bf1d-4024-a0fe-7b8ac5b793a6",
+    "provenance_score": 44,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1855,
+      "age_years": 170,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "5c57c6ef-3e10-47af-8260-4024501b3b2c",
+    "provenance_score": 40,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1852,
+      "age_years": 173,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "5c786a37-bafd-4786-ab15-49388dd4deba",
+    "provenance_score": 52,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1870,
+      "age_years": 155,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "5cf8dbc8-8bad-4a6a-9e39-ce8b4fc4ffe4",
+    "provenance_score": 21,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1931,
+      "age_years": 94,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "5dde3640-2d0c-47b9-a8cb-3f7f3a831204",
+    "provenance_score": 35,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1894,
+      "age_years": 131,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "5de06ef0-b018-4d23-be14-2a341ca7c19b",
+    "provenance_score": 39,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1904,
+      "age_years": 121,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "5e019849-6494-408b-87c7-3adfe0afe7b3",
+    "provenance_score": 50,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1852,
+      "age_years": 173,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "5e10269f-316e-4da2-9c76-935fe4b19097",
+    "provenance_score": 19,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1941,
+      "age_years": 84,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "5fd12638-89cd-4cde-a7b7-1a1a745b1655",
+    "provenance_score": 25,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1913,
+      "age_years": 112,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "60bd5402-5e6a-4040-bce3-b749f5dd216d",
+    "provenance_score": 30,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1934,
+      "age_years": 91,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "6232c663-4907-423b-ba70-a75eab21b117",
+    "provenance_score": 61,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1856,
+      "age_years": 169,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "62503fec-c6b8-48d4-a76a-0bc458f33284",
+    "provenance_score": 35,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1914,
+      "age_years": 111,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "629c5fd8-64d3-41f9-a8fb-6f9ea12e2703",
+    "provenance_score": 39,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1875,
+      "age_years": 150,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "62cf8b94-d372-4a10-b0aa-0c7d464c6dfb",
+    "provenance_score": 39,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1928,
+      "age_years": 97,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "654e80a2-67e6-4bd3-96ca-066592b8b046",
+    "provenance_score": 44,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1856,
+      "age_years": 169,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "668a6273-f3ee-4ac9-b704-c7d93ee64459",
+    "provenance_score": 17,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1970,
+      "age_years": 55,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "69fdc709-bb61-4fea-b9b9-5c7eb351b1ec",
+    "provenance_score": 2,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 2014,
+      "age_years": 11,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "6a89ded9-f715-425d-b798-7bce26667eaf",
+    "provenance_score": 26,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1933,
+      "age_years": 92,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "6b0d5420-660f-4961-9537-c97ca5e55833",
+    "provenance_score": 18,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1943,
+      "age_years": 82,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "6b68e2ba-83c7-4fa9-a7be-0e3eba51ec52",
+    "provenance_score": 35,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1892,
+      "age_years": 133,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "6dd46e62-62ca-4360-bc4f-5b65e015c2b0",
+    "provenance_score": 37,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1864,
+      "age_years": 161,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "6e783038-26b0-46a0-8efd-0403884f3c64",
+    "provenance_score": 18,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1946,
+      "age_years": 79,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "6e82b945-b0e0-48fd-86ff-e8f214c69c4e",
+    "provenance_score": 41,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1920,
+      "age_years": 105,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "6eaa39b1-1d0a-417a-a7bd-22e712e7d3fd",
+    "provenance_score": 16,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1952,
+      "age_years": 73,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "6f1b46d4-911e-4c08-8d1b-8b72e68cb09e",
+    "provenance_score": 50,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1878,
+      "age_years": 147,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "6fe3d6fa-f2d8-491a-a0ff-6b3753dfb934",
+    "provenance_score": 6,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 2016,
+      "age_years": 9,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "71e5d147-b8ad-42d4-a954-3161b4e3c625",
+    "provenance_score": 7,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1992,
+      "age_years": 33,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "724075d4-7a3b-4ad9-81fa-6529c021732e",
+    "provenance_score": 85,
+    "drivers_json": {
+      "records_count": 4,
+      "earliest_year": 1855,
+      "age_years": 170,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "737ee81c-5483-413c-9d02-e66901b5327d",
+    "provenance_score": 57,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1850,
+      "age_years": 175,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "7399401a-db1b-4f55-8be1-ae3af0d2e72f",
+    "provenance_score": 11,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1996,
+      "age_years": 29,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "7512db6c-e42f-4532-878b-fc4cd024f4f3",
+    "provenance_score": 38,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1954,
+      "age_years": 71,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "757eec15-4799-4253-a1a2-7b272519a3e0",
+    "provenance_score": 10,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1977,
+      "age_years": 48,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "7648740f-2bb0-4482-ad8d-994dccd270ec",
+    "provenance_score": 48,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1867,
+      "age_years": 158,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "769fa310-7a0b-422e-adcb-46ae35a8af68",
+    "provenance_score": 21,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1952,
+      "age_years": 73,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "775dff7f-02df-40ce-89f3-d6203560663e",
+    "provenance_score": 26,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1932,
+      "age_years": 93,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "77fda5b0-6ffa-48b0-83d8-ff2a5425ff13",
+    "provenance_score": 29,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1896,
+      "age_years": 129,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "7871a5a4-a3be-459a-9f4a-275012b7ec36",
+    "provenance_score": 44,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1883,
+      "age_years": 142,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "79370e4d-cdc1-4467-8607-4b5e42a20a41",
+    "provenance_score": 30,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1915,
+      "age_years": 110,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "7a4fdfec-1673-4f49-8e33-45e0c36bb0cc",
+    "provenance_score": 70,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1869,
+      "age_years": 156,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "7ba1c908-5622-43b5-9920-c93b17b100b0",
+    "provenance_score": 57,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1851,
+      "age_years": 174,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "7be0d537-ab52-4d0a-8796-9ed84c6b8340",
+    "provenance_score": 61,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1904,
+      "age_years": 121,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "7d0b0765-ba5c-45d7-88fb-300cfef2aa81",
+    "provenance_score": 8,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 2007,
+      "age_years": 18,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "7e983a97-e008-4cb8-8a13-68d79480af7f",
+    "provenance_score": 17,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1993,
+      "age_years": 32,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "7ef468b9-3570-40a1-aed6-a63da345eecd",
+    "provenance_score": 17,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1970,
+      "age_years": 55,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "7f5a32f0-84e2-4042-8916-2c2f8911e1d4",
+    "provenance_score": 15,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1979,
+      "age_years": 46,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "800cb128-e660-447a-8b80-9a50a73a748e",
+    "provenance_score": 20,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1980,
+      "age_years": 45,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "82e71170-e543-4df3-88a0-e6619bbd951d",
+    "provenance_score": 29,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1992,
+      "age_years": 33,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "836a893d-21bd-4463-95e5-996759457df6",
+    "provenance_score": 34,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1898,
+      "age_years": 127,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "839f2f0e-83a8-4cfc-bfb1-40b2ec320b22",
+    "provenance_score": 44,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1929,
+      "age_years": 96,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "84b6182e-6569-4852-985b-5b09d83f21be",
+    "provenance_score": 73,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1856,
+      "age_years": 169,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "85142630-95c0-4b5c-a516-16f023005441",
+    "provenance_score": 48,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1889,
+      "age_years": 136,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "85bf703c-59ff-429d-9fed-13202652893d",
+    "provenance_score": 34,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1899,
+      "age_years": 126,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "85f83d98-abb8-4153-8cea-52dce5ff0503",
+    "provenance_score": 41,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1938,
+      "age_years": 87,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "86ecd507-fd7f-4aa5-acfe-611737593ece",
+    "provenance_score": 28,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1921,
+      "age_years": 104,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "89f36af8-a8a6-400f-9ed7-f7e7f2e4c7d1",
+    "provenance_score": 12,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 2013,
+      "age_years": 12,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "8aa529dc-65fd-44a9-9853-1f93df3de80c",
+    "provenance_score": 30,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1914,
+      "age_years": 111,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "8f94b0cf-5416-4ec0-a4cc-8a82a07527f3",
+    "provenance_score": 26,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1933,
+      "age_years": 92,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "90ec5cca-a47a-4743-80e3-176049dd257d",
+    "provenance_score": 15,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1955,
+      "age_years": 70,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "914723db-9ed0-4070-83e8-593bfb450dff",
+    "provenance_score": 21,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1981,
+      "age_years": 44,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "917443e0-13aa-40da-84ed-0f7e1d6d63df",
+    "provenance_score": 43,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1857,
+      "age_years": 168,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "91adee3c-f864-4e89-8a7b-b6c5c3d44a00",
+    "provenance_score": 57,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1850,
+      "age_years": 175,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "9325e312-b7d6-44ed-9220-0cd0bf92a49f",
+    "provenance_score": 50,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1880,
+      "age_years": 145,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "95cece09-75a6-468d-91b0-1c2b0f5facf3",
+    "provenance_score": 19,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1963,
+      "age_years": 62,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "981b6365-037c-48ca-add2-1ce3ab9cad47",
+    "provenance_score": 43,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1930,
+      "age_years": 95,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "98fe623e-c440-46b0-9f24-73f970794653",
+    "provenance_score": 27,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1927,
+      "age_years": 98,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "99f9a27b-aea0-41a4-8165-c1136b40423b",
+    "provenance_score": 39,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1853,
+      "age_years": 172,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "9af58e0a-9fb5-479e-b501-6dab8647f96f",
+    "provenance_score": 15,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1979,
+      "age_years": 46,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "9c400a41-6423-4d29-a5d6-0da1e356b928",
+    "provenance_score": 37,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1905,
+      "age_years": 120,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "9c4fed92-9c51-4458-90e9-3c61d8d2c22f",
+    "provenance_score": 74,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1850,
+      "age_years": 175,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "9ca71553-edc4-465e-a57a-94d3347042f6",
+    "provenance_score": 26,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1931,
+      "age_years": 94,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "9d2894dd-3242-4740-a223-05321022eb76",
+    "provenance_score": 39,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1854,
+      "age_years": 171,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "9d591b58-39f5-45d0-a22c-445b4acd9c7e",
+    "provenance_score": 53,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1868,
+      "age_years": 157,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "9e75fb48-4731-4689-8002-0e617e7d82b4",
+    "provenance_score": 17,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1947,
+      "age_years": 78,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "a2575a75-128a-4740-9919-a1626460becc",
+    "provenance_score": 47,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1915,
+      "age_years": 110,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "a6453dfc-5e90-418a-ab3f-165ee7fb01ff",
+    "provenance_score": 50,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1852,
+      "age_years": 173,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "a65877d8-b99d-45e6-8893-76327a3a33ca",
+    "provenance_score": 27,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1904,
+      "age_years": 121,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "a6c58cc4-05c0-4160-a91a-2d52d168d216",
+    "provenance_score": 38,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1878,
+      "age_years": 147,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "a91a8de8-023a-4d64-b86e-62ebfc10eb81",
+    "provenance_score": 17,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1950,
+      "age_years": 75,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "a9d0a3fc-72e3-4e9a-bcd7-a6553c642608",
+    "provenance_score": 0,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 2021,
+      "age_years": 4,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "aba663c2-f7f1-4138-9448-f97f795d34f9",
+    "provenance_score": 51,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1897,
+      "age_years": 128,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "ac5c3e4e-9c39-4c61-835f-4a8a94b9258e",
+    "provenance_score": 30,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1912,
+      "age_years": 113,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "acb35728-6859-4410-b49a-c06029003793",
+    "provenance_score": 34,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1948,
+      "age_years": 77,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "ae058726-5133-4d05-9ac4-334212a43a36",
+    "provenance_score": 24,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1940,
+      "age_years": 85,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "af6290f7-fc41-44fe-a780-a669508cf851",
+    "provenance_score": 75,
+    "drivers_json": {
+      "records_count": 4,
+      "earliest_year": 1895,
+      "age_years": 130,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "afa1c6bf-b2bb-4d17-bec6-e4d7db1ed0bf",
+    "provenance_score": 24,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1919,
+      "age_years": 106,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "b05aed4d-951d-4793-b01b-05abff8c98b7",
+    "provenance_score": 9,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1984,
+      "age_years": 41,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "b3b55eb0-e0e4-4e74-8604-0cf1fa116288",
+    "provenance_score": 48,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1859,
+      "age_years": 166,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "b3f632aa-13bc-4fad-9b00-814f2d3af9d4",
+    "provenance_score": 10,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1977,
+      "age_years": 48,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "b58306f7-f77a-4497-abbd-aa8c739c3d97",
+    "provenance_score": 37,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1956,
+      "age_years": 69,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "b59c54da-9a99-46c2-94bd-41bd4639e37e",
+    "provenance_score": 53,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1868,
+      "age_years": 157,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "b5d9f1b8-dfa9-4874-891c-e38c02dc8ae0",
+    "provenance_score": 30,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1891,
+      "age_years": 134,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "b6790850-bfb1-4e18-994b-f6a791f95c2e",
+    "provenance_score": 10,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1998,
+      "age_years": 27,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "b6920860-0039-4b4d-b80e-4ca8e667e5a5",
+    "provenance_score": 37,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1934,
+      "age_years": 91,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "b77d9de1-6af9-4bdd-8095-7463bae23005",
+    "provenance_score": 34,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1875,
+      "age_years": 150,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "b81f6563-5e33-45e2-928b-5e8022083f58",
+    "provenance_score": 18,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1988,
+      "age_years": 37,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "b8288e35-0f42-49ce-bc36-fca83133e53b",
+    "provenance_score": 55,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1882,
+      "age_years": 143,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "b8ad6a30-24a8-4967-89d4-ab00dd7516c1",
+    "provenance_score": 60,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1858,
+      "age_years": 167,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "b94d9361-909c-4870-b2d2-36c0d123d377",
+    "provenance_score": 2,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 2011,
+      "age_years": 14,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "bd2ed69a-a363-4363-8226-81c5d5121b76",
+    "provenance_score": 37,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1937,
+      "age_years": 88,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "bd579628-7a67-420e-a13f-983dc4c905a6",
+    "provenance_score": 34,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1899,
+      "age_years": 126,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "bd737144-d03a-4119-8b56-fd9f5fbb174d",
+    "provenance_score": 27,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1907,
+      "age_years": 118,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "be290ac8-8259-4aa5-a89e-17f7ab7e7f46",
+    "provenance_score": 33,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1903,
+      "age_years": 122,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "be8f64a3-7423-497d-8167-437ab4d054a5",
+    "provenance_score": 51,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1949,
+      "age_years": 76,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "beeef052-aadb-4b3f-80ad-563c30a2e597",
+    "provenance_score": 61,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1907,
+      "age_years": 118,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "c155a7dd-ff9c-49a9-9bf8-e0afbdfd8748",
+    "provenance_score": 52,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1871,
+      "age_years": 154,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "c1809c9e-1aae-4d12-bda5-1f88ef679706",
+    "provenance_score": 50,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1882,
+      "age_years": 143,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "c27198e0-2fe8-4558-8253-913ef90ea07f",
+    "provenance_score": 67,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1879,
+      "age_years": 146,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "c2ba3d92-3f95-475f-a826-7c3f4c5447b5",
+    "provenance_score": 30,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1916,
+      "age_years": 109,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "c3425577-2d83-4117-ab1c-d0877fc48d82",
+    "provenance_score": 56,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1856,
+      "age_years": 169,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "c51d02f3-8f1f-4e3a-9256-7e1240891c17",
+    "provenance_score": 52,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1871,
+      "age_years": 154,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "c683f902-1423-4cb0-9f65-38bc95b68d8b",
+    "provenance_score": 38,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1860,
+      "age_years": 165,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "c75502c0-0c28-4eca-846c-0886d059d029",
+    "provenance_score": 83,
+    "drivers_json": {
+      "records_count": 4,
+      "earliest_year": 1861,
+      "age_years": 164,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "c8596794-5da7-4b31-ba74-efdc84e0d274",
+    "provenance_score": 20,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1957,
+      "age_years": 68,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "c963f1ba-b7f4-4cda-ad49-7fe7daaa2947",
+    "provenance_score": 55,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1880,
+      "age_years": 145,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "c9ab783d-38f3-4ad9-840b-8d5f12132202",
+    "provenance_score": 29,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1899,
+      "age_years": 126,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "cb6ccf94-bf02-40d4-97dd-4f695d1dd809",
+    "provenance_score": 31,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1888,
+      "age_years": 137,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "cbae6170-46d9-4ff8-ab7c-b1af7139e8a8",
+    "provenance_score": 13,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 2008,
+      "age_years": 17,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "cc1bf731-033f-4420-8f1c-e6bfad20b25e",
+    "provenance_score": 56,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1855,
+      "age_years": 170,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "ce8f609a-fdf7-4e29-91df-40ed7bedef0b",
+    "provenance_score": 38,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1881,
+      "age_years": 144,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "cfb6d379-83f5-4ef0-a4e4-d2b5f9b6fc81",
+    "provenance_score": 71,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1864,
+      "age_years": 161,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "d0877952-d1dd-440a-b424-5bb738a76053",
+    "provenance_score": 23,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1945,
+      "age_years": 80,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "d32d497c-7d30-4eb2-8f4c-5c5a04475cd5",
+    "provenance_score": 43,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1859,
+      "age_years": 166,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "d5b9b643-3559-40ea-9571-bfe9c7149c83",
+    "provenance_score": 50,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1850,
+      "age_years": 175,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "d7a69d83-8d8c-46ae-a995-b7972258f3a7",
+    "provenance_score": 37,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1886,
+      "age_years": 139,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "d7e938de-2a64-484a-a87f-97a29993b675",
+    "provenance_score": 71,
+    "drivers_json": {
+      "records_count": 4,
+      "earliest_year": 1913,
+      "age_years": 112,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "d82bf743-2bc9-4c91-8cd9-438fc653ea99",
+    "provenance_score": 25,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1937,
+      "age_years": 88,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "db975bad-a524-4a9d-a5de-d58cf31ee888",
+    "provenance_score": 27,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1927,
+      "age_years": 98,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "dbcc8da4-5636-45cd-ad36-8673f7070580",
+    "provenance_score": 35,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1923,
+      "age_years": 102,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "dbfc7596-858e-4f99-b698-986a6ada3c09",
+    "provenance_score": 86,
+    "drivers_json": {
+      "records_count": 4,
+      "earliest_year": 1852,
+      "age_years": 173,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "dce2292f-1aae-4eec-8620-606dda41abd4",
+    "provenance_score": 60,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1910,
+      "age_years": 115,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "dd739108-b98d-4dcb-b5c0-57ca1322e4dc",
+    "provenance_score": 6,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1994,
+      "age_years": 31,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "de7690d1-c075-4e90-ae2e-4cacb0710ae2",
+    "provenance_score": 36,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1939,
+      "age_years": 86,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "de79fe80-8009-42b0-8fea-2acc97eeed2d",
+    "provenance_score": 26,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1910,
+      "age_years": 115,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "df86e64d-5fc9-4771-a996-2f194c71082c",
+    "provenance_score": 54,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1862,
+      "age_years": 163,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "e13b783a-3ed9-4381-a571-7c8324c455c8",
+    "provenance_score": 38,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1860,
+      "age_years": 165,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "e1e74728-58d6-480e-b623-b3adc8b2fe5e",
+    "provenance_score": 12,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1992,
+      "age_years": 33,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "e30ad902-f282-4a30-bf99-a36ae116ea9f",
+    "provenance_score": 55,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1881,
+      "age_years": 144,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "e41deadc-937f-4abc-9a52-3b11d37e8e9e",
+    "provenance_score": 47,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1863,
+      "age_years": 162,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "e4a26841-3781-423a-b67b-1a2ce7f2f634",
+    "provenance_score": 56,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1929,
+      "age_years": 96,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "e4fc2ac5-e354-4b26-b25d-83795023d8af",
+    "provenance_score": 7,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1989,
+      "age_years": 36,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "e5ddf9d4-af8b-4c5b-879b-a2a3167d53ea",
+    "provenance_score": 57,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1851,
+      "age_years": 174,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "e6e7c9eb-127a-4ca3-8dbb-cc2ec34e1781",
+    "provenance_score": 49,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1883,
+      "age_years": 142,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "e7c4a6a2-7b7f-4879-ad59-3d77844ffca0",
+    "provenance_score": 54,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1864,
+      "age_years": 161,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "e814e616-6a5e-46b5-b16c-b8c127e3cc88",
+    "provenance_score": 29,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1968,
+      "age_years": 57,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "e8f32efd-9b15-49af-939d-46dcb47bcf34",
+    "provenance_score": 23,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1921,
+      "age_years": 104,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "e9b3158c-7fba-45a8-9eaf-fe4a5a5d733c",
+    "provenance_score": 27,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1955,
+      "age_years": 70,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "ea3d17bf-b068-4361-869b-693931f650a7",
+    "provenance_score": 51,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1897,
+      "age_years": 128,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "ea5e00a7-657f-4a04-8457-ac556c25c1f2",
+    "provenance_score": 37,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1861,
+      "age_years": 164,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "ebc3e8f3-f865-4c4c-afec-a9044e03e4e3",
+    "provenance_score": 21,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1976,
+      "age_years": 49,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "ec4265bd-082e-4909-9466-6d1f6cfeedcb",
+    "provenance_score": 11,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1996,
+      "age_years": 29,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "f13d4ca9-6372-41e3-9593-b77bc3445bd2",
+    "provenance_score": 10,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 2021,
+      "age_years": 4,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "f1c7be10-e0b8-407d-9525-8587163be2dc",
+    "provenance_score": 69,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1852,
+      "age_years": 173,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "f1dbde55-6ccb-4d0b-97a3-47f0f5064efa",
+    "provenance_score": 66,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1862,
+      "age_years": 163,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "f1f533f2-ec00-4d07-bf58-f2fd19b8ba44",
+    "provenance_score": 68,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1875,
+      "age_years": 150,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "f2128008-ebb6-416a-8639-c0619681f984",
+    "provenance_score": 76,
+    "drivers_json": {
+      "records_count": 4,
+      "earliest_year": 1892,
+      "age_years": 133,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "f254181b-89ec-4df1-a35a-33b224a98e53",
+    "provenance_score": 69,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1873,
+      "age_years": 152,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "f543c365-3847-4734-be90-27d44af67b9f",
+    "provenance_score": 52,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1872,
+      "age_years": 153,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "f5f35c71-d4ba-4eb1-b101-b257d3e48631",
+    "provenance_score": 40,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1942,
+      "age_years": 83,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "f7846c4c-49ea-4de7-ae3d-df86cc4558da",
+    "provenance_score": 34,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1876,
+      "age_years": 149,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "f8124fd2-062e-4c1d-9d69-9d2713349192",
+    "provenance_score": 38,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1930,
+      "age_years": 95,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "f87e6cbb-717a-4bb4-8e09-6cc4848a6ff3",
+    "provenance_score": 34,
+    "drivers_json": {
+      "records_count": 1,
+      "earliest_year": 1896,
+      "age_years": 129,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "f8a2f8ad-dfea-42ac-be5e-fd4fd490e14c",
+    "provenance_score": 39,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1947,
+      "age_years": 78,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "fa653a2a-2919-4998-938e-677f564a008e",
+    "provenance_score": 44,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1905,
+      "age_years": 120,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "fb283c3b-3ff5-443a-8da5-a69e778a77e0",
+    "provenance_score": 54,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1886,
+      "age_years": 139,
+      "institutional_flag": 1,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "fb7d0f4d-fe8b-4dc3-b425-239823f77d47",
+    "provenance_score": 62,
+    "drivers_json": {
+      "records_count": 3,
+      "earliest_year": 1857,
+      "age_years": 168,
+      "institutional_flag": 0,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "fb95ba83-3390-4bf5-95c7-160e82bb93a3",
+    "provenance_score": 35,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1944,
+      "age_years": 81,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "fe85dfe1-7987-4473-bc57-e2f24a2c7b25",
+    "provenance_score": 91,
+    "drivers_json": {
+      "records_count": 6,
+      "earliest_year": 1911,
+      "age_years": 114,
+      "institutional_flag": 0,
+      "method_bonus_flag": 1
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  },
+  {
+    "artwork_id": "fee739e3-a597-452a-9a63-792f3caa3454",
+    "provenance_score": 51,
+    "drivers_json": {
+      "records_count": 2,
+      "earliest_year": 1874,
+      "age_years": 151,
+      "institutional_flag": 1,
+      "method_bonus_flag": 0
+    },
+    "created_at": "2025-09-14T20:31:34.056310+00:00"
+  }
+]
