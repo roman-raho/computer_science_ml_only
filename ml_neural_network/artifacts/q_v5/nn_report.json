@@ -1,0 +1,24 @@
+{
+  "seed": 42,
+  "n_features": 28,
+  "n_train": 3600,
+  "n_val": 900,
+  "metrics": {
+    "val_mae_price": 62398.93359375,
+    "val_r2_price": -0.0730445384979248,
+    "pct_within_20pct_price": 0.19777777777777777
+  },
+  "feature_cols_sample": [
+    "num_press_index",
+    "num_institution_score",
+    "num_gallery_tier_max",
+    "num_exhibition_count",
+    "text_0",
+    "text_1",
+    "text_2",
+    "text_3",
+    "text_4",
+    "text_5"
+  ],
+  "model_hash_sha1": "0eb5b3e9380c73ef5878f1cb46582a504dc10d9d"
+}

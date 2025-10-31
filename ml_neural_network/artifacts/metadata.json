@@ -1,0 +1,9 @@
+{
+  "n_samples": 2257,
+  "n_features": 28,
+  "n_text_components": 24,
+  "n_structured": 4,
+  "structured_path": "data\\raw\\structured.json",
+  "text_path": "data\\raw\\text.json",
+  "output_path": "data\\processed\\features.parquet"
+}
