@@ -4,10 +4,6 @@ import numpy as np
 from datetime import datetime, timezone
 from pathlib import Path
 
-def _log(msg: str) -> None:
-  ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
-  print(f"[INFO {ts} UTC] {msg}")
-
 # convert series to numeric, replace errors with Nan
 def safe_num(s: pd.Series, *, clip_low: float | None = None) -> pd.Series:
   x = pd.to_numeric(s, errors="coerce")
@@ -15,14 +11,12 @@ def safe_num(s: pd.Series, *, clip_low: float | None = None) -> pd.Series:
       x = x.clip(lower=clip_low)
   return x
 
-# apply safe log
+# apply safe logs
 def safe_log1p(s: pd.Series) -> pd.Series:
     return np.log1p(safe_num(s, clip_low=0.0).fillna(0.0))
 
 def build_feature_mart_all(raw_path: str, current_year: int = 2024) -> pd.DataFrame:
-   
   base = Path(raw_path)
-
   artworks = pd.read_json(base / "artworks_v2_large.json")
   auctions = pd.read_json(base / "auctions_v2.json")
   biddata = pd.read_json(base / "bid_data_v2.json")
@@ -115,5 +109,5 @@ def build_feature_mart_all(raw_path: str, current_year: int = 2024) -> pd.DataFr
   prov_counts = provenance.groupby("artwork_id").size().reset_index(name="prov_count")
   df = df.merge(prov_counts, on="artwork_id", how="left")
 
-  _log(f"Feature mart built with shape {df.shape}, {len(df.columns)} columns.")
+  print(f"Feature mart built with shape {df.shape}, {len(df.columns)} columns.")
   return df

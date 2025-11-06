@@ -1,0 +1,16 @@
+{
+  "train_rows": 2992,
+  "test_rows": 1508,
+  "train_end_year": 2019,
+  "best_params": {
+    "model__alpha": 0.04328761281083059,
+    "model__l1_ratio": 0.5
+  },
+  "cv_best_mae": 0.6702440477162612,
+  "test_mae_log": 0.6612696390562902,
+  "test_r2_log": 0.001557821911140178,
+  "pct_within_20pct_price": 0.178,
+  "leakage_guard_r2": -0.0007872428123294473,
+  "sklearn_version": "1.6.1",
+  "created_at": "2025-11-04T16:17:37Z"
+}

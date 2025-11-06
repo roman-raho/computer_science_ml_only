@@ -21,12 +21,6 @@ from sklearn.impute import SimpleImputer
 from joblib import dump
 from feature_mart import build_feature_mart
 
-# used for the console to output messages
-def _log(msg: str) -> None:
-    ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
-    print(f"[INFO {ts} UTC] {msg}")
-
-
 # a helper function to read json files - with a try catch block
 def read_json(path: str) -> pd.DataFrame:
     try:
@@ -150,7 +144,7 @@ def nested_elasticnet_report(
     X_train = train_df[numeric_cols + cat_cols] # get the training data from the correct columns
     y_train = train_df["y_log_price"].values # NEW get the output
 
-    _log("Fitting GridSearchCV (time-aware)") # log to console
+    print("Fitting GridSearchCV (time-aware)") # log to console
     gscv.fit(X_train, y_train) # fit the data
 
     X_test = test_df[numeric_cols + cat_cols] # prepare testing data
@@ -164,6 +158,20 @@ def nested_elasticnet_report(
 
     mae = float(mean_absolute_error(y_test, yhat_test)) # calculate mae and r2
     r2 = float(r2_score(y_test, yhat_test))
+
+    # save predictions to csv
+    X_all = df[numeric_cols + cat_cols]
+    yhat_all = gscv.predict(X_all)
+    
+    predictions = pd.DataFrame({
+        "artwork_id": df["artwork_id"].astype(str),
+        "y_pred_log": yhat_all
+    })
+
+    predictions = predictions.groupby("artwork_id", as_index=False)["y_pred_log"].mean()
+
+    prediction_path = f"{output_prefix}_baseline_prediction.csv"
+    predictions.to_csv(prediction_path, index=False)
 
     rng = np.random.default_rng(42) # shuffle training targets - features an targets are mismatched
     y_shuf = y_train.copy()
@@ -253,9 +261,7 @@ def nested_elasticnet_report(
 
 
 def parse_args(argv: Optional[List[str]] = None):
-    p = argparse.ArgumentParser(
-        description="Feature mart + ElasticNet baseline for artwork price prediction."
-    )
+    p = argparse.ArgumentParser()
 
     # raw
     p.add_argument("--artworks", required=True, help="artworks_v2_large.json")
@@ -295,7 +301,6 @@ def parse_args(argv: Optional[List[str]] = None):
 def main(argv: Optional[List[str]] = None):
     args = parse_args(argv)
 
-    _log("Loading input tables…")
     artworks = read_json(args.artworks) # get data
     auctions = read_json(args.auctions)
     biddata = read_json(args.biddata)
@@ -309,16 +314,16 @@ def main(argv: Optional[List[str]] = None):
         "house_score": read_json(args.house_score),
     }
 
-    _log("Building feature mart") # log to console
+    print("Building feature mart") # log to console
     mart = build_feature_mart( 
         artworks, auctions, biddata, houses, scores, args.current_year
     )
 
     mart_out = f"{args.output_prefix}_feature_mart.csv"
     mart.to_csv(mart_out, index=False)
-    _log(f"Wrote feature mart -> {mart_out}")
+    print(f"Wrote feature mart -> {mart_out}")
 
-    _log("Training ElasticNet baseline") # train model
+    print("Training ElasticNet baseline") # train model
     report = nested_elasticnet_report(mart, args.train_end_year, args.output_prefix)
 
     print("Baseline report:")

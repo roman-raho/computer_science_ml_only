@@ -114,6 +114,19 @@ def main():
         "model_hash_sha1": hashlib.sha1(model_path.read_bytes()).hexdigest()
   }
 
+  # save to csv artist
+  y_pred_all_log = model.predict(X_mat, verbose=0).reshape(-1)
+
+  pred = pd.DataFrame({
+    "artwork_id": df["artwork_id"].astype(str),
+    "y_pred_log": y_pred_all_log
+  })
+
+  pred = pred.groupby("artwork_id", as_index=False)["y_pred_log"].mean()
+
+  pred_path = outdir / "qual_preds.csv"
+  pred.to_csv(pred_path, index=False)
+
   with open (outdir / "nn_report.json", "w") as f:
     json.dump(report, f, indent=2)
 

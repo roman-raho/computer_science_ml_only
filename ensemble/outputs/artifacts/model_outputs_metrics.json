@@ -1,0 +1,12 @@
+{
+  "best_params": {
+    "alpha": 0.001,
+    "l1_ratio": 0.05
+  },
+  "cv_best_mae_log": 0.6577863382636029,
+  "test_mae_log": 0.6726008857299258,
+  "test_r2_log": 0.021604733853581082,
+  "pct_within_20pct_price": 0.167420814479638,
+  "r2_shuffle_guard": -1.3695014844383735e-05,
+  "n_splits": 5
+}

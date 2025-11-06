@@ -22,10 +22,6 @@ from joblib import dump
 
 from feature_builder import build_feature_mart_all
 
-def _log(msg: str) -> None:
-  ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
-  print(f"[INFO {ts} UTC] {msg}")
-
 def sklearn_version_ge(v: str) -> bool:
   def as_tuple(ver: str) -> tuple:
     return tuple(int(p) for p in ver.split("+")[0].split(".")[:3])
@@ -100,7 +96,6 @@ def train_tree_models(
   inner = TimeSeriesSplit(n_splits=5)
 
   for name, model in models.items():
-    _log(f"training {name}")
     pipe = Pipeline([("pre", pre), ("model", model)])
     
     # full pipeline
@@ -135,6 +130,21 @@ def train_tree_models(
         "test_r2_log": r2,
         "pct_within_20pct_price": within_20,
     }
+
+    # Saving to CSV
+    X_all = df[numeric_cols + cat_cols]
+    yhat_all = gscv.predict(X_all)
+
+    prediction = pd.DataFrame({
+       "artwork_id": df["artwork_id"].astype(str),
+       "y_pred_log": yhat_all
+    })
+
+    prediction = prediction.groupby("artwork_id", as_index=False)["y_pred_log"].mean()
+
+    prediction_path = f"{output_prefix}_{name}_predictions.csv"
+    prediction.to_csv(prediction_path, index=False)
+
     # save model + report
     dump(gscv.best_estimator_, f"{output_prefix}_{name}.joblib")
     with open(f"{output_prefix}_{name}_report.json", "w") as f:
@@ -145,8 +155,6 @@ def train_tree_models(
 # main
 
 def main(argv: Optional[List[str]] = None):
-    _log("Starting main()")  # confirm entrypoint works
-
     parser = argparse.ArgumentParser(description="Tree models for artwork valuation")
     parser.add_argument("--raw-path", required=True, help="Path to quant_data/raw folder")
     parser.add_argument("--current-year", type=int, default=datetime.now().year)
@@ -155,35 +163,27 @@ def main(argv: Optional[List[str]] = None):
     args = parser.parse_args(argv)
 
     try:
-        _log("Building feature mart…")
         df = build_feature_mart_all(args.raw_path, args.current_year)
-        _log(f"Feature mart shape: {df.shape}")
-        _log(f"First few columns: {list(df.columns)[:10]}")
     except Exception as e:
-        print(f"[ERR] Failed to build feature mart: {e}", file=sys.stderr)
+        print(f"failed to build feature mart: {e}", file=sys.stderr)
         sys.exit(1)
 
     try:
         df.to_csv(f"{args.output_prefix}_feature_mart.csv", index=False)
-        _log("Saved feature mart")
     except Exception as e:
-        print(f"[ERR] Failed to save feature mart: {e}", file=sys.stderr)
+        print(f"failed to save feature mart: {e}", file=sys.stderr)
 
     try:
-        _log("Training tree models…")
         results = train_tree_models(df, args.train_end_year, args.output_prefix)
-        print("Results:")
         for name, metrics in results.items():
             print(f"{name}: {metrics}")
     except Exception as e:
-        print(f"[ERR] Training failed: {e}", file=sys.stderr)
         sys.exit(1)
 
 
 if __name__ == "__main__":
-    _log("Script entrypoint reached")
     try:
         main()
     except Exception as e:
-        print(f"[ERR] Unexpected failure: {e}", file=sys.stderr)
+        print(f"Failure: {e}", file=sys.stderr)
         sys.exit(1)

@@ -1,0 +1,8 @@
+{
+  "best_params": {
+    "model__max_depth": 5
+  },
+  "test_mae_log": 0.7007260380227753,
+  "test_r2_log": -0.20621608593366614,
+  "pct_within_20pct_price": 0.1806399351964358
+}
