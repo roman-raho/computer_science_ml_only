@@ -8,5 +8,9 @@
   "test_r2_log": 0.021604733853581082,
   "pct_within_20pct_price": 0.167420814479638,
   "r2_shuffle_guard": -1.3695014844383735e-05,
-  "n_splits": 5
+  "n_splits": 5,
+  "interval_alpha": 0.2,
+  "q_hat_log": 0.9241033597576334,
+  "abs_resid_log_p80": 0.9241033597576334,
+  "abs_resid_log_mean": 0.6726008857299258
 }

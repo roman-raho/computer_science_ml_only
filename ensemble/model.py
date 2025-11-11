@@ -56,6 +56,12 @@ def train_model(X_train: pd.DataFrame,
 
   price_true = np.expm1(y_test) # get the actual training data
   price_pred = np.expm1(yhat_test)
+
+  abs_resid_log = np.abs(y_test - yhat_test)
+
+  alpha = 0.2 # 80% intervals
+  q_hat_log = float(np.quantile(abs_resid_log, 1 - alpha))
+
   pct_err = np.abs(price_pred - price_true) / np.maximum(price_true, 1e-6)
   within_20 = float((pct_err <= 0.20).mean())
 
@@ -91,6 +97,9 @@ def train_model(X_train: pd.DataFrame,
     "y_test": y_test,
     "yhat_test": yhat_test,
     "X_test_cols": X_test.columns,
+    "alpha": alpha,
+    "q_hat_log": q_hat_log,
+    "abs_resid_log": abs_resid_log 
   }
 
 def save_model_artifacts(
@@ -102,6 +111,9 @@ def save_model_artifacts(
     within_20: float,
     mae_log: float,
     r2_log: float,
+    alpha: float,
+    q_hat_log: float,
+    abs_resid_log: float,
     r2_shuffle_guard: float,
   ):
   out_dir = os.path.dirname(output_prefix)
@@ -124,7 +136,11 @@ def save_model_artifacts(
     "test_r2_log": float(r2_log),
     "pct_within_20pct_price": float(within_20),
     "r2_shuffle_guard": float(r2_shuffle_guard),
-    "n_splits": getattr(search.cv, "n_splits", None)
+    "n_splits": getattr(search.cv, "n_splits", None),
+    "interval_alpha": float(alpha),
+    "q_hat_log": float(q_hat_log),
+    "abs_resid_log_p80": float(np.quantile(abs_resid_log, 0.80)),
+    "abs_resid_log_mean": float(np.mean(abs_resid_log)),
   }
 
   with open(f"{output_prefix}_metrics.json", "w", encoding="utf-8") as f:
@@ -158,6 +174,9 @@ def main(argv: Optional[List[str]] = None):
     within_20=out["pct_within_20pct_price"],
     mae_log=out["mae_log"],
     r2_log=out["r2_log"],
+    alpha = out["alpha"],
+    q_hat_log = out["q_hat_log"],
+    abs_resid_log=out["abs_resid_log"],
     r2_shuffle_guard=out["r2_shuffle_guard"],
   )
 
