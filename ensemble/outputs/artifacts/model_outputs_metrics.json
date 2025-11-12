@@ -3,14 +3,14 @@
     "alpha": 0.001,
     "l1_ratio": 0.05
   },
-  "cv_best_mae_log": 0.6577863382636029,
-  "test_mae_log": 0.6726008857299258,
-  "test_r2_log": 0.021604733853581082,
-  "pct_within_20pct_price": 0.167420814479638,
-  "r2_shuffle_guard": -1.3695014844383735e-05,
+  "cv_best_mae_log": 0.6606780270394712,
+  "test_mae_log": 0.6891283619439161,
+  "test_r2_log": 0.010773658406858622,
+  "pct_within_20pct_price": 0.18877551020408162,
+  "r2_shuffle_guard": -0.0001430655345782128,
   "n_splits": 5,
   "interval_alpha": 0.2,
-  "q_hat_log": 0.9241033597576334,
-  "abs_resid_log_p80": 0.9241033597576334,
-  "abs_resid_log_mean": 0.6726008857299258
+  "q_hat_log": 0.945651935156199,
+  "abs_resid_log_p80": 0.945651935156199,
+  "abs_resid_log_mean": 0.6891283619439161
 }

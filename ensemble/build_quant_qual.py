@@ -21,6 +21,7 @@ def main():
   true["artwork_id"] = true["artwork_id"].astype(str)
   true["y_true"] = np.log(true["final_price"].clip(lower=1e-9))
   true = true[["artwork_id", "y_true"]]
+  true = true.drop_duplicates(subset=["artwork_id"], keep="first")
 
   # load the split information
   split = pd.Series(json.load(open(args.split_json)), name="stage")
@@ -32,6 +33,7 @@ def main():
 
   q_qual = pd.read_csv(args.qual_path)
   q_qual = q_qual.rename(columns={"y_pred": "y_qual", "y_pred_log": "y_qual"})
+
 
   # ensure that the IDs are strings
   for df in (q_lin, q_tree, q_qual):
