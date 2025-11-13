@@ -1,9 +1,10 @@
-import os
 from typing import List, Optional
 from datetime import datetime
 from pydantic import BaseModel
 from fastapi import FastAPI, Depends, HTTPException, status
 from supabase import create_client, Client
+from fastapi.middleware.cors import CORSMiddleware
+
 
 url = "https://xotakuqckqcikadxnpsl.supabase.co"
 key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhvdGFrdXFja3FjaWthZHhucHNsIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1NzIzNjk0OSwiZXhwIjoyMDcyODEyOTQ5fQ.V6NsstER0GnVU7jUEhJ5QBBk8RaNrZM8580ygRoRW5o"
@@ -82,6 +83,14 @@ def get_service(db: ValuationDatabase = Depends(get_db)):
   return ValuationFetch(db)
 
 app = FastAPI(title="VALUATION API")
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 @app.get("/valuation/{artwork_id}", response_model=ValidationOut)
 def get_valuation(artwork_id: str, svc: ValuationFetch = Depends(get_service)):
