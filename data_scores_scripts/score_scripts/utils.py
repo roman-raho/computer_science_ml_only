@@ -1,6 +1,7 @@
 from datetime import datetime, timezone
 import pandas as pd
 
+# saw this on stack overflow and thought it would be cool to use it
 def iso_created_at() -> str:
   return datetime.now(timezone.utc).isoformat()
 

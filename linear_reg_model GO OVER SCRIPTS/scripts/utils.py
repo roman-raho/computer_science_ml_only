@@ -47,5 +47,4 @@ def load_json(path: str) -> pd.DataFrame: # load the json
   try:
     return pd.read_json(path)
   except ValueError as e:
-    print(f"[ERR] Failed reading {path}: {e}", file=sys.stderr)
     sys.exit(1)  

@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 def main():
-  p = argparse.ArgumentParser(description="Build X/y train and test sets for ensemble.")
+  p = argparse.ArgumentParser()
   p.add_argument("--structured_json", required=True)
   p.add_argument("--split_json", required=True)
   p.add_argument("--quant_linear_csv", required=True)

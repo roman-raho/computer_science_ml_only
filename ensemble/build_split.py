@@ -13,7 +13,7 @@ if __name__ == "__main__":
 
   df = pd.read_json(args.structured_json)
   if "artwork_id" not in df.columns:
-    raise ValueError("Structured JSON must have artwork ID in it")
+    raise ValueError("jSON must have artwork ID in it")
   
   rng = np.random.default_rng(args.seed)
 

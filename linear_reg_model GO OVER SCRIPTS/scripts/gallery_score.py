@@ -1,4 +1,3 @@
-from __future__ import annotations
 import argparse, json, sys
 from typing import List, Optional
 from datetime import datetime
@@ -7,14 +6,13 @@ import pandas as pd
 from utils import safe_ratio, to_quarter, coefvar, minmax_norm, recency_index, iso_created_at, load_json
 
 def parse_args(argv: Optional[List[str]] = None):
-    p = argparse.ArgumentParser(description="Compute gallery scores from raw JSON.")
-    p.add_argument("--galleries", required=True, help="Path to galleries JSON")
-    p.add_argument("--dealers",   required=True, help="Path to dealers JSON")
-    p.add_argument("--earnings",  required=True, help="Path to earnings JSON")
-    p.add_argument("--top_city",  required=True, help="Path to top-city JSON (list of strings)")
-    p.add_argument("--output",    required=True, help="Path to write processed JSON")
-    p.add_argument("--current-year", type=int, default=datetime.now().year,
-                   help="Current year used for 3y/5y windows (default: this year)")
+    p = argparse.ArgumentParser()
+    p.add_argument("--galleries", required=True)
+    p.add_argument("--dealers",   required=True)
+    p.add_argument("--earnings",  required=True)
+    p.add_argument("--top_city",  required=True)
+    p.add_argument("--output",    required=True)
+    p.add_argument("--current-year", type=int, default=datetime.now().year)
     return p.parse_args(argv)
 
 def dealer_cagr(g: pd.DataFrame, current_year: int, t: int = 3) -> float:
@@ -53,13 +51,12 @@ def compute_gallery_score(galleries: pd.DataFrame,
     # feature guards
     has_shows = "shows" in df.columns
 
-    # binary top-city by dealer (via gallery location)
+    # binary top city
     df["is_top_city"] = df["location"].isin(top_city).astype(int)
 
     # group by dealer
     grp = df.groupby("dealer_id", dropna=False)
 
-    # --- raw feature components (dealer level) ---
     roster_size = grp["number_of_artists"].sum().rename("roster_size")
 
     latest_year_earning = grp.apply(
@@ -74,16 +71,14 @@ def compute_gallery_score(galleries: pd.DataFrame,
 
     top_city_flag = df.groupby("dealer_id")["is_top_city"].max().rename("is_top_city")
 
-    # volatility over last 5y (per dealer), then 0–100 with inversion
+    # volatility over last 5y (per dealer)
     df5 = df[df["year"] >= current_year - 4]
     cv_per_dealer = df5.groupby("dealer_id")["earnings"].apply(coefvar)
     volatility_score = (100 * (1 - minmax_norm(cv_per_dealer))).rename("volatility_score")
 
-    # assemble feature table (dealer-indexed)
     feat = pd.DataFrame(index=grp.groups.keys())
     feat = feat.join([roster_size, latest_year_earning, earnings_growth, shows_n, top_city_flag, volatility_score], how="left")
 
-    # bring gallery metadata along for convenience
     meta = (df.drop_duplicates("dealer_id")
               .set_index("dealer_id")[["gallery_id", "name", "location"]])
     feat = feat.join(meta, how="left")
@@ -98,13 +93,13 @@ def compute_gallery_score(galleries: pd.DataFrame,
         "volatility_score": 0.0
     })
 
-    # --- normalisations for score formula ---
+    # normalisations for score formula
     roster_n = minmax_norm(feat["roster_size"]).rename("roster_n")
     earn_n   = minmax_norm(feat["latest_year_earning"]).rename("earn_n")
     cagr_n   = minmax_norm(feat["earnings_growth"].fillna(0.0)).rename("cagr_n")
     shows_nn = minmax_norm(feat["shows_n"]).rename("shows_n_norm")
 
-    # gallery_score per your weights
+    # gallery_score using weights
     gallery_score = (100.0 * (
         0.35 * earn_n +
         0.25 * cagr_n +
@@ -113,12 +108,9 @@ def compute_gallery_score(galleries: pd.DataFrame,
         0.15 * shows_nn
     )).rename("gallery_score")
 
-    # --- confidence ---
-    # Interpret "dealers" as dealer-count per gallery; map back to each dealer row.
     dealers_per_gallery = dealers.groupby("gallery_id").size().rename("dealer_count")
     feat = feat.join(dealers_per_gallery, on="gallery_id")
 
-    # years_with_earnings per dealer
     years_with_earnings = df.groupby("dealer_id")["year"].nunique().rename("years_with_earnings")
 
     # clamp(x/5, 0, 1)
@@ -126,7 +118,7 @@ def compute_gallery_score(galleries: pd.DataFrame,
     conf = (0.5 * clamp(feat["dealer_count"].fillna(0)) +
             0.5 * clamp(years_with_earnings.reindex(feat.index).fillna(0))).rename("confidence")
 
-    # final output table (dealer-indexed with gallery metadata)
+    # final output table
     out = pd.DataFrame({
         "dealer_id": feat.index.values,
         "gallery_id": feat["gallery_id"].values,
@@ -143,7 +135,7 @@ def compute_gallery_score(galleries: pd.DataFrame,
         "created_at": iso_created_at()
     })
 
-    # drivers blob (like your AH example)
+    # drivers
     out["drivers_json"] = out.apply(lambda r: {
         "roster_size": int(feat.loc[r["dealer_id"], "roster_size"]),
         "latest_year_earning": float(feat.loc[r["dealer_id"], "latest_year_earning"]),
@@ -161,21 +153,19 @@ def main(argv: Optional[List[str]] = None):
     galleries = load_json(args.galleries)
     dealers   = load_json(args.dealers)
     earnings  = load_json(args.earnings)
-    top_city  = load_json(args.top_city)  # expects a JSON array of strings OR a table with a single column
-    # ensure list[str]
+    top_city  = load_json(args.top_city)
+    
     if isinstance(top_city, pd.DataFrame):
         if top_city.shape[1] != 1:
-            print("[ERR] top_city JSON should be a list or single-column table.", file=sys.stderr)
+            print("isnt single column", file=sys.stderr)
             sys.exit(1)
         top_city = top_city.iloc[:, 0].dropna().astype(str).tolist()
     elif isinstance(top_city, pd.Series):
         top_city = top_city.dropna().astype(str).tolist()
     else:
-        # if read_json returned a scalar/list-like, coerce
         try:
             top_city = list(top_city)
         except Exception:
-            print("[ERR] Could not interpret top_city input.", file=sys.stderr)
             sys.exit(1)
 
     out = compute_gallery_score(galleries, dealers, earnings, top_city, args["current_year"] if isinstance(args, dict) else args.current_year)
@@ -183,20 +173,5 @@ def main(argv: Optional[List[str]] = None):
     with open(args.output, "w", encoding="utf-8") as f:
         json.dump(out.to_dict(orient="records"), f, ensure_ascii=False, indent=2)
 
-    print(f"Wrote {len(out)} dealer rows → {args.output}")
-    print("Score summary:",
-          f"min={out['gallery_score'].min():.1f},",
-          f"mean={out['gallery_score'].mean():.1f},",
-          f"max={out['gallery_score'].max():.1f}")
-    print("Volatility summary:",
-          f"min={out['volatility_score'].min():.1f},",
-          f"mean={out['volatility_score'].mean():.1f},",
-          f"max={out['volatility_score'].max():.1f}")
-
 if __name__ == "__main__":
-    try:
-        main()
-    except AssertionError as e:
-        print(f"[ERR] {e}", file=sys.stderr); sys.exit(1)
-    except Exception as e:
-        print(f"[ERR] Unexpected failure: {e}", file=sys.stderr); sys.exit(1)
+    main()

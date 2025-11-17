@@ -10,10 +10,10 @@ W_AV = 0.7
 W_LY = 0.3
 
 def parse_args(argv: List[str] = None): # setting up the cmd line interface the run the python file
-  p = argparse.ArgumentParser(description="Compute provenance_score from raw provenance JSON")
-  p.add_argument("--input", required=True, help="Path to raw auction house JSON (array of objects)")
-  p.add_argument("--output", required=True,help="Path to write processed auction_house_score JSON.")
-  p.add_argument("--current-year",type=int, default=2025,help="Fixed current year for age calculation (default: 2024).")
+  p = argparse.ArgumentParser()
+  p.add_argument("--input", required=True)
+  p.add_argument("--output", required=True)
+  p.add_argument("--current-year",type=int, default=2025)
   return p.parse_args(argv)
 
 def main(argv: List[str] = None):
@@ -22,13 +22,13 @@ def main(argv: List[str] = None):
   try:
     raw = pd.read_json(args.input)
   except ValueError as e:
-    print(f"Error: Failed to read JSON file from {args.input}: {e}", file=sys.stderr) # else print error to the console in format standard erro
+    print(f"couldnt read JSON file from {args.input}: {e}", file=sys.stderr) # else print error to the console in format standard erro
     sys.exit(1)
 
   required_cols = {"auction_house_id", "founded_year", "annual_auctions"}
   missing = required_cols - set(raw.columns)
   if missing:
-    print(f"Error: Missing required columns in input {sorted(missing)}", file=sys.stderr) 
+    print(f"missing required columns in input {sorted(missing)}", file=sys.stderr) 
     sys.exit(1) # end program if they are missing
 
   grp = raw.groupby("auction_house_id", dropna=False)
@@ -37,15 +37,18 @@ def main(argv: List[str] = None):
 
   age_years = (args.current_year - earliest_year).clip(lower=0).rename("age_years")
 
+  # build drivers
   drivers = pd.concat([
     earliest_year,
     age_years,
     annual_auctions
   ],axis=1).reset_index()
 
+  # normalise
   drivers["v_norm"] = minmax_norm(drivers["annual_auctions"])
   drivers["l_norm"] = minmax_norm(drivers["age_years"])
 
+  # use formula
   score = 100 * (W_AV * drivers["v_norm"] + W_LY * drivers["l_norm"])
 
   tier = np.where(
@@ -54,6 +57,8 @@ def main(argv: List[str] = None):
   )
 
   created_at = iso_created_at()
+  
+  # build output
   out = pd.DataFrame({
     "auction_house_id": drivers["auction_house_id"],
     "auction_house_score": score,
@@ -69,9 +74,7 @@ def main(argv: List[str] = None):
   out_records = out.to_dict(orient="records") # create a dic in type of records for each row
   with open(args.output, "w",encoding = "utf-8") as f:
     json.dump(out_records, f, ensure_ascii=False, indent=2) # store in file path provided
-  
-  print(f"Wrote {len(out_records)} rows -> {args.output}")
-  print(f"Score summary: min={int(score.min())}, mean={round(float(score.mean()),1)}, max={int(score.max())}")
+
 
 if __name__ == "__main__": # run code
   main()

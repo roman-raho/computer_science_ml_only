@@ -8,32 +8,22 @@ from utils import iso_created_at, minmax_norm
 W_TC = 0.4
 
 def parse_args(argv: List[str] = None):
-  p = argparse.ArgumentParser(description="Compute provenance_score from raw provenance JSON")
-  p.add_argument("--input", required=True, help="Path to raw gallery JSON (array of objects)")
-  p.add_argument("--output", required=True,help="Path to write processed gallery_score JSON.")
-  p.add_argument("--top_15_cities",required=True,help="Path to top 15 art market cities JSON.")
+  p = argparse.ArgumentParser()
+  p.add_argument("--input", required=True)
+  p.add_argument("--output", required=True)
+  p.add_argument("--top_15_cities",required=True)
   return p.parse_args(argv)
 
 def load_top_cities(path: str) -> Iterable[str]:
-  try:
-    data = pd.read_json(path)
-    if isinstance(data, pd.DataFrame):
-      if data.shape[1] == 1:
-        vals = data.iloc[:, 0].astype(str).tolist()
-      else:
-        vals = pd.unique(data.astype(str).values.ravel("K").tolist())
-    else:
-      vals = pd.Series(data).astype(str).tolist()
-  except ValueError:
+    
+    # read data
     with open(path, "r", encoding="utf-8") as f:
-        raw = json.load(f)
-    if isinstance(raw, dict):
-        vals = list(map(str, raw.values()))
-    else:
-        vals = list(map(str, raw))
-  return {v.strip().lower() for v in vals}
+        data = json.load(f)
+
+    return {city.strip().lower() for city in data}
 
 
+# function to compute if city is top 10
 def compute_flags(df: pd.DataFrame, top_cities: Iterable[str]) -> pd.DataFrame:
   location_norm = df["location"].fillna("").str.strip().str.lower()
 
@@ -46,10 +36,11 @@ def compute_flags(df: pd.DataFrame, top_cities: Iterable[str]) -> pd.DataFrame:
 def main(argv: List[str] = None):
   args = parse_args(argv)
 
+  # exception handling
   try:
     raw = pd.read_json(args.input)
   except ValueError as e:
-    print(f"Error: Failed to read JSON file from {args.input}: {e}", file=sys.stderr) # else print error to the console in format standard erro
+    print(f"couldnt to read JSON file from {args.input}: {e}", file=sys.stderr) # else print error to the console in format standard erro
     sys.exit(1)
 
   top_cities = load_top_cities(args.top_15_cities)
@@ -58,12 +49,14 @@ def main(argv: List[str] = None):
   missing = required_cols - set(raw.columns)
 
   if missing:
-    print(f"Error: Missing required columns in input {sorted(missing)}", file=sys.stderr) 
+    print(f"missing required columns in input {sorted(missing)}", file=sys.stderr) 
     sys.exit(1)
   
+  # use function defined earlier
   flags = compute_flags(raw, top_cities)
   raw = pd.concat([raw,flags], axis=1)
 
+  # data cleaning
   grp = raw.groupby("gallery_id", dropna=False)
 
   number_of_artists=grp["number_of_artists"].max().rename("number_of_artists")
@@ -78,6 +71,7 @@ def main(argv: List[str] = None):
   final = (base+bonus).clip(upper=1)
   score = (final*100).round().astype(int)
 
+  #prep output
   created_at = iso_created_at()
   out = pd.DataFrame({
     "gallery_id": drivers["gallery_id"],
@@ -92,9 +86,6 @@ def main(argv: List[str] = None):
   out_records = out.to_dict(orient="records")
   with open(args.output, "w", encoding="utf-8") as f:
     json.dump(out_records, f, ensure_ascii=False, indent=2)
-
-  print(f"Wrote {len(out_records)} rows -> {args.output}")
-  print(f"Score summary: min={int(score.min())}, mean={round(float(score.mean()),1)}, max={int(score.max())}")
 
 if __name__ == "__main__": # run code
   main()

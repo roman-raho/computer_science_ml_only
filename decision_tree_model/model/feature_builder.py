@@ -1,22 +1,16 @@
-from __future__ import annotations
 import pandas as pd
 import numpy as np
-from datetime import datetime, timezone
 from pathlib import Path
-
-# convert series to numeric, replace errors with Nan
-def safe_num(s: pd.Series, *, clip_low: float | None = None) -> pd.Series:
-  x = pd.to_numeric(s, errors="coerce")
-  if clip_low is not None:
-      x = x.clip(lower=clip_low)
-  return x
 
 # apply safe logs
 def safe_log1p(s: pd.Series) -> pd.Series:
-    return np.log1p(safe_num(s, clip_low=0.0).fillna(0.0))
+    s = pd.to_numeric(s, errors="coerce").clip(lower=0).fillna(0.0)
+    return np.log1p(s)
 
 def build_feature_mart_all(raw_path: str, current_year: int = 2024) -> pd.DataFrame:
   base = Path(raw_path)
+  
+  # get all the data
   artworks = pd.read_json(base / "artworks_v2_large.json")
   auctions = pd.read_json(base / "auctions_v2.json")
   biddata = pd.read_json(base / "bid_data_v2.json")
@@ -25,9 +19,7 @@ def build_feature_mart_all(raw_path: str, current_year: int = 2024) -> pd.DataFr
   artists_dealers = pd.read_json(base / "artists_dealers_v2.json")
   dealers = pd.read_json(base / "dealers_v2.json")
   earnings = pd.read_json(base / "earnings_v2.json")
-  collectors = pd.read_json(base / "collectors_v2.json")
   ownership = pd.read_json(base / "ownership_v2.json")
-  museums = pd.read_json(base / "museums_v2.json")
   loans = pd.read_json(base / "artwork_loans_v2.json")
   provenance = pd.read_json(base / "provenance_v2.json")
   top_cities = pd.read_json(base / "top_art_cities.json", typ='series').tolist()
@@ -37,7 +29,7 @@ def build_feature_mart_all(raw_path: str, current_year: int = 2024) -> pd.DataFr
 
   bid = biddata.copy()
   for col in ["reserve_price", "final_price", "number_of_bids"]:
-    bid[col] = safe_num(bid[col])
+    bid[col] = pd.to_numeric(bid[col], error="coerce").clip(lower=0)
   
   df = (
      auc.merge(bid, on="auction_id", how="left")
@@ -45,15 +37,17 @@ def build_feature_mart_all(raw_path: str, current_year: int = 2024) -> pd.DataFr
      .merge(houses, on="auction_house_id", how="left")
   )
 
+  # data cleaning
+
   # rows with target
-  df = df[safe_num(df["final_price"]).notna()].copy()
-  df["y_price"] = safe_num(df["final_price"])
+  df = df[pd.to_numeric(df["final_price"]).clip(lower=0).notna()].copy()
+  df["y_price"] = pd.to_numeric(df["final_price"]).clip(lower=0)
   df["y_log_price"] = safe_log1p(df["final_price"])
 
   # get artwork features
-  df["artwork_length"] = safe_num(df["artwork_length"])
-  df["artwork_width"] = safe_num(df["artwork_width"])
-  df["artwork_height"] = safe_num(df.get("artwork_height", np.nan))
+  df["artwork_length"] = pd.to_numeric(df["artwork_length"]).clip(lower=0)
+  df["artwork_width"] = pd.to_numeric(df["artwork_width"]).clip(lower=0)
+  df["artwork_height"] = pd.to_numeric(df.get("artwork_height", np.nan)).clip(lower=0)
 
   df["area"] = df["artwork_length"] * df["artwork_width"]
   df["log_area"] = safe_log1p(df["area"])
@@ -61,7 +55,7 @@ def build_feature_mart_all(raw_path: str, current_year: int = 2024) -> pd.DataFr
   df["volume"] = df["artwork_length"] * df["artwork_width"] * df["artwork_height"]
   df["log_volume"] = safe_log1p(df["volume"])
 
-  df["year_created"] = safe_num(df["year_created"]).fillna(current_year)
+  df["year_created"] = pd.to_numeric(df["year_created"]).fillna(current_year).clip(lower=0)
   df["artwork_age"] = (df["date_of_auction"].dt.year - df["year_created"]).clip(lower=0)
 
   df["signed_flag"] = df["signed"].astype(str).str.lower().isin(
@@ -73,7 +67,7 @@ def build_feature_mart_all(raw_path: str, current_year: int = 2024) -> pd.DataFr
   # Auction features
   df["season_q"] = df["date_of_auction"].dt.quarter.astype("Int64").astype(str)
   df["auction_year"] = df["date_of_auction"].dt.year
-  df["reserve_gt0"] = (safe_num(df["reserve_price"]).fillna(0) > 0).astype(int)
+  df["reserve_gt0"] = (pd.to_numeric(df["reserve_price"]).clip(lower=0).fillna(0) > 0).astype(int)
   
   with np.errstate(divide="ignore", invalid="ignore"):
     df["premium"] = np.where(
@@ -103,11 +97,8 @@ def build_feature_mart_all(raw_path: str, current_year: int = 2024) -> pd.DataFr
   loan_counts = loans.groupby("artwork_id").size().reset_index(name="loan_count")
   df = df.merge(loan_counts, on="artwork_id", how="left")
 
-  museum_agg = museums.groupby("museum_id")["annual_visitors"].mean().reset_index()
-
   # provenance
   prov_counts = provenance.groupby("artwork_id").size().reset_index(name="prov_count")
   df = df.merge(prov_counts, on="artwork_id", how="left")
 
-  print(f"Feature mart built with shape {df.shape}, {len(df.columns)} columns.")
   return df

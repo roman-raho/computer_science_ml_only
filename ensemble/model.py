@@ -29,7 +29,7 @@ def train_model(X_train: pd.DataFrame,
   y_test  = np.ravel(y_test.squeeze())  
 
   if any(len(obj) == 0 for obj in (X_train, X_test, y_train, y_test)): # check if empty
-    raise ValueError("You must provide non-empty datasets.")
+    raise ValueError("must provide datasets with data.")
   
   model = ElasticNet(max_iter=10000, fit_intercept=True, random_state=42) # use an ElasticNet model
 

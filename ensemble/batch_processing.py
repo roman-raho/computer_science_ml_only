@@ -1,4 +1,4 @@
-import os, json, time
+import json, time
 import numpy as np
 import pandas as pd
 from joblib import load
@@ -73,13 +73,10 @@ def main(argv: Optional[List[str]] = None):
     })
 
   # upload in batches
-  start = time.time()
   batch_size = 500
   for i in range(0, len(rows), batch_size):
     chunk = rows[i:i+batch_size]
-    data, count = supabase.table("validation_current").upsert(chunk).execute()
-
-  print("UPLOAD COMPELTE")
+    supabase.table("validation_current").upsert(chunk).execute()
 
 if __name__ == "__main__":
   main()

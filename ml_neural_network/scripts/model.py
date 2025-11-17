@@ -9,28 +9,27 @@ from tensorflow import keras
 from tensorflow.keras import layers, regularizers, callbacks
 
 def parse_args():
-  p = argparse.ArgumentParser(description="Train simple NN on qualitative+text features.")
-  p.add_argument("--features", required=True, help="Path to features.parquet")
-  p.add_argument("--structured", required=True, help="Path to structured.json (for target y)")
-  p.add_argument("--target", default="final_price", help="Name of target column in structured JSON")
-  p.add_argument("--outdir", required=True, help="Artifacts directory")
+  p = argparse.ArgumentParser()
+  p.add_argument("--features", required=True)
+  p.add_argument("--structured", required=True)
+  p.add_argument("--target", default="final_price")
+  p.add_argument("--outdir", required=True)
   p.add_argument("--seed", type=int, default=42)
   return p.parse_args()
 
 def pct_within_20(true, pred):
-  true = np.asarray(true); pred = np.asarray(pred) # convert to numpy array
-  denom = np.maximum(np.abs(true), 1e-6) # avoid zero division
+  true = np.asarray(true); pred = np.asarray(pred)
+  denom = np.maximum(np.abs(true), 1e-6)
   pct_err = np.abs(pred - true) / denom # compute the percentage error
-  return float((pct_err <= 0.20).mean()) # count how many are within +-20% (treats 1 as True)
+  return float((pct_err <= 0.20).mean())
 
 def main():
   args = parse_args()
-  rng = np.random.default_rng(args.seed)
   tf.random.set_seed(args.seed)
 
-  outdir = Path(args.outdir); outdir.mkdir(parents=True, exist_ok=True) # create the output directory
+  # create the output directory
+  outdir = Path(args.outdir); outdir.mkdir(parents=True, exist_ok=True)
 
-  # load feature matrix (already structured scaled and text PCA)
   X = pd.read_parquet(args.features)
 
   # bring in target from structured JSON
@@ -129,8 +128,6 @@ def main():
 
   with open (outdir / "nn_report.json", "w") as f:
     json.dump(report, f, indent=2)
-
-  print(json.dumps(report["metrics"], indent=2))
 
 if __name__ == "__main__":
   main()

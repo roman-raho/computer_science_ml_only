@@ -1,4 +1,3 @@
-from __future__ import annotations
 import argparse, json, sys
 from typing import List, Optional 
 from datetime import datetime
@@ -7,27 +6,26 @@ import pandas as pd
 from utils import safe_ratio, to_quarter, coefvar, minmax_norm, recency_index, iso_created_at, load_json
 
 def parse_args(argv: Optional[List[str]] = None):
-  p = argparse.ArgumentParser(description="Compute auction house scores from raw JSON.")
-  p.add_argument("--houses",   required=True, help="Path to auction_houses JSON")
-  p.add_argument("--auctions", required=True, help="Path to auctions JSON")
-  p.add_argument("--biddata",  required=True, help="Path to bid_data JSON")
-  p.add_argument("--bidders",  required=False, help="Path to bidders JSON (optional)")
-  p.add_argument("--output",   required=True, help="Path to write processed JSON")
-  p.add_argument("--current-year", type=int, default=datetime.now().year,
-                 help="Current year used for 3y windows & recency (default: this year)")
+  p = argparse.ArgumentParser()
+  p.add_argument("--houses",   required=True)
+  p.add_argument("--auctions", required=True)
+  p.add_argument("--biddata",  required=True)
+  p.add_argument("--bidders",  required=False)
+  p.add_argument("--output",   required=True)
+  p.add_argument("--current-year", type=int, default=datetime.now().year)
   return p.parse_args(argv)
 
-def compute_house_scores(houses: pd.DataFrame, # get each json dataset as arguemnets
+def compute_house_scores(houses: pd.DataFrame,
                          auctions: pd.DataFrame,
                          biddata: pd.DataFrame,
                          current_year: int) -> pd.DataFrame:
   
 
-  req_h = {"auction_house_id", "auction_house_name", "location", "auction_house_rating"} # lay out the required headers
+  req_h = {"auction_house_id", "auction_house_name", "location", "auction_house_rating"}
   req_a = {"auction_id", "auction_house_id", "artwork_id", "date_of_auction"}
   req_b = {"bid_data_id", "auction_id", "number_of_bids", "reserve_price", "final_price"}
  
-  miss = req_h - set(houses.columns);  assert not miss, f"houses missing: {miss}" # check if the required headers are missing
+  miss = req_h - set(houses.columns);  assert not miss, f"houses missing: {miss}"
   miss = req_a - set(auctions.columns); assert not miss, f"auctions missing: {miss}"
   miss = req_b - set(biddata.columns);  assert not miss, f"bid_data missing: {miss}"
 
@@ -36,7 +34,7 @@ def compute_house_scores(houses: pd.DataFrame, # get each json dataset as arguem
                       on="auction_id", how="left") # and filtered to only valid houses before i can compute any metrics
                       .merge(houses[["auction_house_id"]], on="auction_house_id", how="inner"))
   
-  df["date_of_auction"] = pd.to_datetime(df["date_of_auction"], errors="coerce") # convert the date in the dataframe
+  df["date_of_auction"] = pd.to_datetime(df["date_of_auction"], errors="coerce")
   df = df.dropna(subset=["date_of_auction"]) # drop any null
 
   # reserve mask (true only when numeric is greater than 0)
@@ -101,14 +99,14 @@ def compute_house_scores(houses: pd.DataFrame, # get each json dataset as arguem
   auction_house_score = 100.0 * (0.30*clr_n + 0.25*bids_n + 0.25*prem_n + 0.20*depth_n)
 
   def tier(x: float) -> str: # function to calculate the tier
-        if x >= 66.6667: return "Tier 1"
-        if x >= 33.3333: return "Tier 2"
-        return "Tier 3"
+    if x >= 66.6667: return "Tier 1"
+    if x >= 33.3333: return "Tier 2"
+    return "Tier 3"
 
   def vol_tier(x: float) -> str: # function to calculate volatily tier
-      if x >= 66.6667: return "Low Volatility"
-      if x >= 33.3333: return "Medium Volatility"
-      return "High Volatility"
+    if x >= 66.6667: return "Low Volatility"
+    if x >= 33.3333: return "Medium Volatility"
+    return "High Volatility"
   
   last_sale = df.groupby("auction_house_id")["date_of_auction"].max() # get last sale
   years_since = (pd.Timestamp(f"{current_year}-12-31") - last_sale).dt.days / 365.25 # get years since last sale
@@ -137,7 +135,7 @@ def compute_house_scores(houses: pd.DataFrame, # get each json dataset as arguem
   }, axis=1)
 
   out = out.merge(houses[["auction_house_id","auction_house_name","location"]], 
-                    on="auction_house_id", how="left")
+          on="auction_house_id", how="left")
   
   out = out.sort_values("auction_house_score", ascending=False).reset_index(drop=True)
   return out
@@ -151,7 +149,7 @@ def main(argv: Optional[List[str]] = None):
   if args.bidders:
     bidders = load_json(args.bidders)
     if not {"bid_data_id","bid_amount"}.issubset(bidders.columns):
-      print("[WARN] bidders JSON lacks required columns; ignoring", file=sys.stderr)
+      sys.exit(1)
     else:
       counts = (bidders.groupby("bid_data_id").size() # counts the number of bidders
                  .rename("number_of_bids_from_bidders"))
@@ -160,27 +158,11 @@ def main(argv: Optional[List[str]] = None):
       biddata["number_of_bids"] = biddata["number_of_bids"].fillna(biddata["number_of_bids_from_bidders"])
       biddata.drop(columns=["number_of_bids_from_bidders"], inplace=True, errors="ignore") 
 
-  out = compute_house_scores(houses, auctions, biddata, args.current_year) # compute the scores
+  out = compute_house_scores(houses, auctions, biddata, args.current_year)
 
-  with open(args.output, "w", encoding="utf-8") as f: # write file to data
+  with open(args.output, "w", encoding="utf-8") as f:
     json.dump(out.to_dict(orient="records"), f, ensure_ascii=False, indent=2)
 
-  print(f"Wrote {len(out)} auction-house rows → {args.output}") # summary outputs
-  print("Score summary:",
-        f"min={out['auction_house_score'].min():.1f},",
-        f"mean={out['auction_house_score'].mean():.1f},",
-        f"max={out['auction_house_score'].max():.1f}")
-  print("Volatility summary:",
-        f"min={out['volatility_score'].min():.1f},",
-        f"mean={out['volatility_score'].mean():.1f},",
-        f"max={out['volatility_score'].max():.1f}")
 
 if __name__ == "__main__":
-  try:
-    main()
-  except AssertionError as e:
-    print(f"[ERR] {e}", file=sys.stderr)
-    sys.exit(1)
-  except Exception as e:
-    print(f"[ERR] Unexpected failure: {e}", file=sys.stderr)
-    sys.exit(1)
+  main()

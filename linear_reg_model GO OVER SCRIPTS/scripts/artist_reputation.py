@@ -1,4 +1,3 @@
-from __future__ import annotations
 import argparse, json, sys
 from typing import Optional, List
 from datetime import datetime
@@ -7,20 +6,20 @@ import pandas as pd
 from utils import minmax_norm, coefvar, recency_index, iso_created_at, load_json, to_quarter
 
 def parse_args(argv: Optional[List[str]] = None):
-    p = argparse.ArgumentParser(description="Compute artist reputation scores from raw JSON.")
-    p.add_argument("--artists",        required=True, help="Path to artists JSON")
-    p.add_argument("--artist_dealers", required=True, help="Path to artists_dealers JSON")
-    p.add_argument("--dealers",        required=True, help="Path to dealers JSON")
-    p.add_argument("--earnings",       required=True, help="Path to earnings JSON (dealer_id, year, earnings)")
-    p.add_argument("--loans",          required=True, help="Path to artwork_loans JSON")
-    p.add_argument("--auctions",       required=True, help="Path to auctions JSON")
-    p.add_argument("--biddata",        required=True, help="Path to bid_data JSON")
-    p.add_argument("--artworks",       required=False, help="Path to artworks JSON (optional; artwork_id→artist_id)")
-    p.add_argument("--output",         required=True, help="Path to write processed JSON")
-    p.add_argument("--current-year",   type=int, default=datetime.now().year,
-                   help="Current year for 3y/8q windows (default: this year)")
+    p = argparse.ArgumentParser()
+    p.add_argument("--artists", required=True)
+    p.add_argument("--artist_dealers", required=True)
+    p.add_argument("--dealers", required=True)
+    p.add_argument("--earnings", required=True)
+    p.add_argument("--loans", required=True)
+    p.add_argument("--auctions", required=True)
+    p.add_argument("--biddata", required=True)
+    p.add_argument("--artworks", required=False)
+    p.add_argument("--output", required=True)
+    p.add_argument("--current-year", type=int, default=datetime.now().year,)
     return p.parse_args(argv)
 
+# makes sure that df has artist id -> more professional way of checking
 def _ensure_artist_id(df: pd.DataFrame, artworks: Optional[pd.DataFrame], key_col: str) -> pd.DataFrame:
     if "artist_id" in df.columns:
         return df
@@ -28,12 +27,14 @@ def _ensure_artist_id(df: pd.DataFrame, artworks: Optional[pd.DataFrame], key_co
         raise AssertionError("Missing artist_id and no artworks mapping available.")
     return df.merge(artworks[["artwork_id", "artist_id"]], on="artwork_id", how="left")
 
+# compute dealer earings for this current year
 def _dealer_latest_earnings(earn: pd.DataFrame, current_year: int) -> pd.Series:
     return (earn.loc[earn["year"] == current_year]
                 .groupby("dealer_id")["earnings"]
                 .sum()
                 .rename("latest_earnings"))
 
+# dealer growth over 3 years
 def _dealer_cagr(earn: pd.DataFrame, current_year: int, t: int = 3) -> pd.Series:
     w = range(current_year - t + 1, current_year + 1)
     e = earn[earn["year"].isin(w)].copy()
@@ -48,6 +49,7 @@ def _dealer_cagr(earn: pd.DataFrame, current_year: int, t: int = 3) -> pd.Series
               .apply(_cagr)
               .rename("dealer_cagr"))
 
+# compute the slope of a straight line to detect momentum
 def _simple_slope(series: pd.Series) -> float:
     y = series.dropna().astype(float)
     n = len(y)
@@ -89,6 +91,7 @@ def compute_artist_scores(artists: pd.DataFrame,
     biddata["final_price"]     = pd.to_numeric(biddata["final_price"], errors="coerce")
     biddata["number_of_bids"]  = pd.to_numeric(biddata["number_of_bids"], errors="coerce")
 
+    # data cleaning
     artworks_df = None
     if artworks is not None:
         assert {"artwork_id", "artist_id"}.issubset(artworks.columns), "artworks needs artwork_id, artist_id"
@@ -128,6 +131,7 @@ def compute_artist_scores(artists: pd.DataFrame,
         "dealer_cagr": cagr
     })
 
+    # data processing
     artist_dealer = (ad.merge(dealer_feat, left_on="dealer_id", right_index=True, how="left")
                        .groupby("artist_id", as_index=True)
                        .agg({"latest_earnings_log1p":"median", "dealer_cagr":"median"}))
@@ -170,6 +174,7 @@ def compute_artist_scores(artists: pd.DataFrame,
         "dealer_strength": 0.0, "mom_n": 0.0, "volatility_score": 0.0
     })
 
+    # using formula
     reputation_score = (100.0 * (
         0.25*feat["inst_n"] +
         0.20*feat["sales_n"] +
@@ -196,6 +201,8 @@ def compute_artist_scores(artists: pd.DataFrame,
     out = out.merge(artists[["artist_id","name","nationality"]], on="artist_id", how="left")
 
     feat_indexed = feat
+    
+    # prepare drivers
     out["drivers_json"] = out["artist_id"].apply(lambda aid: {
         "inst_n": float(feat_indexed.at[aid, "inst_n"]) if aid in feat_indexed.index else 0.0,
         "sales_n": float(feat_indexed.at[aid, "sales_n"]) if aid in feat_indexed.index else 0.0,
@@ -212,6 +219,7 @@ def compute_artist_scores(artists: pd.DataFrame,
 
 def main(argv: Optional[List[str]] = None):
     args = parse_args(argv)
+    # load jsons
     artists        = load_json(args.artists)
     artist_dealers = load_json(args.artist_dealers)
     dealers        = load_json(args.dealers)
@@ -227,20 +235,5 @@ def main(argv: Optional[List[str]] = None):
     with open(args.output, "w", encoding="utf-8") as f:
         json.dump(out.to_dict(orient="records"), f, ensure_ascii=False, indent=2)
 
-    print(f"Wrote {len(out)} artist rows → {args.output}")
-    print("Score summary:",
-          f"min={out['reputation_score'].min():.1f},",
-          f"mean={out['reputation_score'].mean():.1f},",
-          f"max={out['reputation_score'].max():.1f}")
-    print("Volatility summary:",
-          f"min={out['volatility_score'].min():.1f},",
-          f"mean={out['volatility_score'].mean():.1f},",
-          f"max={out['volatility_score'].max():.1f}")
-
 if __name__ == "__main__":
-    try:
-        main()
-    except AssertionError as e:
-        print(f"[ERR] {e}", file=sys.stderr); sys.exit(1)
-    except Exception as e:
-        print(f"[ERR] Unexpected failure: {e}", file=sys.stderr); sys.exit(1)
+    main()
