@@ -95,7 +95,3 @@ app.add_middleware(
 @app.get("/valuation/{artwork_id}", response_model=ValidationOut)
 def get_valuation(artwork_id: str, svc: ValuationFetch = Depends(get_service)):
   return svc.fetch(artwork_id)
-
-@app.get("valuations", response_model=List[ValidationOut])
-def list_valuations(limit: int = 100, svc: ValuationFetch = Depends(get_service)):
-  return svc.list(limit=limit)

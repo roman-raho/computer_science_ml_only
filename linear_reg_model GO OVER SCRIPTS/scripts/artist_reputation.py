@@ -24,7 +24,7 @@ def _ensure_artist_id(df: pd.DataFrame, artworks: Optional[pd.DataFrame], key_co
     if "artist_id" in df.columns:
         return df
     if artworks is None or key_col not in df.columns:
-        raise AssertionError("Missing artist_id and no artworks mapping available.")
+        raise AssertionError("Missing artist_id + no artwork left to map")
     return df.merge(artworks[["artwork_id", "artist_id"]], on="artwork_id", how="left")
 
 # compute dealer earings for this current year
