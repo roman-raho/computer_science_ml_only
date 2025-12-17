@@ -1,9 +1,9 @@
-import argparse, json, sys
+import argparse, json
 from typing import Optional, Dict
 from datetime import datetime
 import numpy as np
 import pandas as pd
-from utils import minmax_norm, coefvar, recency_index, iso_created_at, load_json
+from utils import minmax_norm, coefvar, recency_index,  load_json
 
 
 def parse_args(argv: Optional[list[str]] = None):
@@ -151,7 +151,6 @@ def compute_provenance_scores(ownership: pd.DataFrame,
         "prov_score": prov_score.round(2),
         "volatility_score": feat["volatility_score"].round(2),
         "confidence": conf.clip(0, 1).round(3),
-        "created_at": iso_created_at(),
     })
 
     out["drivers_json"] = out.apply(lambda r: {

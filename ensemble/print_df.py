@@ -13,7 +13,7 @@ print("LENGTH OF LINEAR: " + str(len(q_lin)))
 q_tree = pd.read_csv("quant_data/output-decision-tree/__decision_tree_predictions.csv").rename(columns={"y_pred_log": "y_quant_tree"})
 print("LENGTH OF DECISION TREE: " + str(len(q_tree)))
 
-q_qual = pd.read_csv("ml_neural_network/data/artifacts/qual_preds.csv")
+q_qual = pd.read_csv("ml_neural_network/data/outputs/qual_preds.csv")
 q_qual = q_qual.rename(columns={"y_pred": "y_qual", "y_pred_log": "y_qual"})
 print("LENGTH OF QUAL: " + str(len(q_qual)))
 

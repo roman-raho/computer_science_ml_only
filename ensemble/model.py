@@ -102,7 +102,7 @@ def train_model(X_train: pd.DataFrame,
     "abs_resid_log": abs_resid_log 
   }
 
-def save_model_artifacts(
+def save_model_outputs(
     output_prefix: str,
     search,
     X_test_cols,
@@ -165,7 +165,7 @@ def main(argv: Optional[List[str]] = None):
 
   out = train_model(X_train, X_test, y_train, y_test, argv.output_prefix)
 
-  save_model_artifacts(
+  save_model_outputs(
     output_prefix=argv.output_prefix,
     search=out["search"],
     X_test_cols=out["X_test_cols"],

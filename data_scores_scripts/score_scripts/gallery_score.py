@@ -3,7 +3,7 @@ import argparse
 import sys
 from typing import List, Iterable
 import pandas as pd
-from utils import iso_created_at, minmax_norm
+from utils import minmax_norm
 
 W_TC = 0.4
 
@@ -72,7 +72,6 @@ def main(argv: List[str] = None):
   score = (final*100).round().astype(int)
 
   #prep output
-  created_at = iso_created_at()
   out = pd.DataFrame({
     "gallery_id": drivers["gallery_id"],
     "gallery_score":score,
@@ -80,7 +79,6 @@ def main(argv: List[str] = None):
       "number_of_artist": int(r["number_of_artists"]),
       "cities_flag": int(r["cities_flag"]),
     }, axis=1),
-    "created_at": created_at
   })
 
   out_records = out.to_dict(orient="records")

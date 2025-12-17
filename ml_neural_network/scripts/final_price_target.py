@@ -1,6 +1,5 @@
 import pandas as pd
 from pathlib import Path
-import json
 
 RAW = Path("data/raw")
 

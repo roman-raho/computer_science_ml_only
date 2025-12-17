@@ -1,12 +1,8 @@
 from __future__ import annotations
-from datetime import datetime
 import numpy as np
 import pandas as pd
 import sys
 
-
-def iso_created_at() -> str:
-  return datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ") #format the time had to look it up
 
 def winsorize_series(s: pd.Series, lower=0.01, upper=0.99) -> pd.Series: # limit extreme percentiles
   if s.empty:

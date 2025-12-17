@@ -3,7 +3,7 @@ from typing import List, Optional
 from datetime import datetime
 import numpy as np
 import pandas as pd
-from utils import safe_ratio, to_quarter, coefvar, minmax_norm, recency_index, iso_created_at, load_json
+from utils import safe_ratio, to_quarter, coefvar, minmax_norm, recency_index,  load_json
 
 def parse_args(argv: Optional[List[str]] = None):
   p = argparse.ArgumentParser()
@@ -124,7 +124,6 @@ def compute_house_scores(houses: pd.DataFrame,
     "median_premium": feat["median_premium"].round(3),
     "depth_index": depth_n.round(3),
     "confidence": conf.clip(0,1).round(3),
-    "created_at": iso_created_at()
   })
 
   out["drivers_json"] = out.apply(lambda r: { # the drivers for the output

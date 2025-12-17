@@ -3,7 +3,7 @@ import argparse
 import sys
 from typing import List
 import pandas as pd
-from utils import iso_created_at, minmax_norm
+from utils import  minmax_norm
 import numpy as np
 
 W_AV = 0.7
@@ -55,8 +55,6 @@ def main(argv: List[str] = None):
     score >= 100*(2/3), "Tier 1",
     np.where(score >= 100*(1/3), "Tier 2", "Tier 3")
   )
-
-  created_at = iso_created_at()
   
   # build output
   out = pd.DataFrame({
@@ -68,7 +66,6 @@ def main(argv: List[str] = None):
       "age_years": int(r["age_years"]),
       "annual_auctions": int(r["annual_auctions"]),
     }, axis=1),
-    "created_at": created_at,
   })
 
   out_records = out.to_dict(orient="records") # create a dic in type of records for each row

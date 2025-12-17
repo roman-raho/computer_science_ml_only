@@ -1,10 +1,6 @@
 from datetime import datetime, timezone
 import pandas as pd
 
-# saw this on stack overflow and thought it would be cool to use it
-def iso_created_at() -> str:
-  return datetime.now(timezone.utc).isoformat()
-
 def minmax_norm(series: pd.Series) -> pd.Series:
   if series.empty:
     return series.astype(float) # if it is empty return series with 0s

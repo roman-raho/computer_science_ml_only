@@ -4,7 +4,7 @@ from typing import Optional
 from datetime import datetime
 import numpy as np
 import pandas as pd
-from utils import minmax_norm, coefvar, recency_index, iso_created_at, load_json, to_quarter
+from utils import minmax_norm, coefvar, recency_index,  load_json, to_quarter
 
 def parse_args(argv: Optional[list[str]] = None):
     p = argparse.ArgumentParser()
@@ -89,7 +89,6 @@ def compute_museum_scores(museums: pd.DataFrame,
         "museum_score": museum_score.round(2),
         "volatility_score": feat["volatility_score"].round(2),
         "confidence": conf.clip(0,1).round(3),
-        "created_at": iso_created_at(),
     })
 
     # drivers blob

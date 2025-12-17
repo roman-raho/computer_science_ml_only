@@ -1,9 +1,9 @@
-import argparse, json, sys
+import argparse, json
 from typing import Optional, List
 from datetime import datetime
 import numpy as np
 import pandas as pd
-from utils import minmax_norm, coefvar, recency_index, iso_created_at, load_json, to_quarter
+from utils import minmax_norm, coefvar, recency_index,  load_json, to_quarter
 
 def parse_args(argv: Optional[List[str]] = None):
     p = argparse.ArgumentParser()
@@ -74,11 +74,11 @@ def compute_artist_scores(artists: pd.DataFrame,
     req_d   = {"dealer_id", "gallery_id", "number_of_artists"}
     req_e   = {"dealer_id", "year", "earnings"}
     req_b   = {"bid_data_id", "auction_id", "number_of_bids", "reserve_price", "final_price"}
-    miss = req_art - set(artists.columns);        assert not miss, f"artists missing: {miss}"
-    miss = req_ad - set(artist_dealers.columns);  assert not miss, f"artist_dealers missing: {miss}"
-    miss = req_d - set(dealers.columns);          assert not miss, f"dealers missing: {miss}"
-    miss = req_e - set(earnings.columns);         assert not miss, f"earnings missing: {miss}"
-    miss = req_b - set(biddata.columns);          assert not miss, f"biddata missing: {miss}"
+    miss = req_art - set(artists.columns); assert not miss, f"artists missing: {miss}"
+    miss = req_ad - set(artist_dealers.columns); assert not miss, f"artist_dealers missing: {miss}"
+    miss = req_d - set(dealers.columns); assert not miss, f"dealers missing: {miss}"
+    miss = req_e - set(earnings.columns); assert not miss, f"earnings missing: {miss}"
+    miss = req_b - set(biddata.columns); assert not miss, f"biddata missing: {miss}"
     assert "loan_date" in loans.columns, "loans missing 'loan_date'"
     assert {"auction_id", "artwork_id"}.issubset(auctions.columns), "auctions missing 'auction_id' and/or 'artwork_id'"
 
@@ -86,10 +86,10 @@ def compute_artist_scores(artists: pd.DataFrame,
     auctions = auctions.copy()
     biddata = biddata.copy()
     loans["loan_date"] = pd.to_datetime(loans["loan_date"], errors="coerce")
-    auctions["date_of_auction"] = pd.to_datetime(auctions.get("date_of_auction", pd.NaT), errors="coerce")
-    biddata["reserve_price"]   = pd.to_numeric(biddata["reserve_price"], errors="coerce")
-    biddata["final_price"]     = pd.to_numeric(biddata["final_price"], errors="coerce")
-    biddata["number_of_bids"]  = pd.to_numeric(biddata["number_of_bids"], errors="coerce")
+    auctions["date_of_auction"] =pd.to_datetime(auctions.get("date_of_auction", pd.NaT), errors="coerce")
+    biddata["reserve_price"] = pd.to_numeric(biddata["reserve_price"], errors="coerce")
+    biddata["final_price"] = pd.to_numeric(biddata["final_price"], errors="coerce")
+    biddata["number_of_bids"]= pd.to_numeric(biddata["number_of_bids"], errors="coerce")
 
     # data cleaning
     artworks_df = None
@@ -195,7 +195,6 @@ def compute_artist_scores(artists: pd.DataFrame,
         "reputation_score": feat_with_scores["reputation_score"].round(2),
         "volatility_score": feat_with_scores["volatility_score"].round(2),
         "confidence": feat_with_scores["confidence"].round(3),
-        "created_at": iso_created_at()
     })
 
     out = out.merge(artists[["artist_id","name","nationality"]], on="artist_id", how="left")

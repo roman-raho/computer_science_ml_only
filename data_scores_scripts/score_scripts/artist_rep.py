@@ -3,7 +3,7 @@ import argparse
 import sys
 from typing import List
 import pandas as pd
-from utils import iso_created_at, minmax_norm
+from utils import  minmax_norm
 import numpy as np
 
 # define set weights at the top so that code is easier to read

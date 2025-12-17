@@ -1,11 +1,9 @@
 import json
 import argparse
-import math
 import sys
-from datetime import datetime, timezone
 from typing import List
 import pandas as pd
-from utils import iso_created_at, minmax_norm
+from utils import  minmax_norm
 import numpy as np
 
 W_AV = 0.7
@@ -59,7 +57,6 @@ def main(argv: List[str] = None):
   score = (base * 100).round().astype(int)
 
   # output
-  created_at = iso_created_at()
   out = pd.DataFrame({
     "museum_id": drivers["museum_id"],
     "museum_score": score,
@@ -68,7 +65,6 @@ def main(argv: List[str] = None):
       "annual_visitors": int(r["annual_visitors"]),
       "visitors_log": int(r["visitors_log"])
     }, axis=1),
-    "created_at": created_at
   })
 
   out_records = out.to_dict(orient="records")

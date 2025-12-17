@@ -3,7 +3,7 @@ from typing import List, Optional
 from datetime import datetime
 import numpy as np
 import pandas as pd
-from utils import safe_ratio, to_quarter, coefvar, minmax_norm, recency_index, iso_created_at, load_json
+from utils import coefvar, minmax_norm, load_json
 
 def parse_args(argv: Optional[List[str]] = None):
     p = argparse.ArgumentParser()
@@ -132,7 +132,6 @@ def compute_gallery_score(galleries: pd.DataFrame,
         "shows_n": feat["shows_n"].astype(int),
         "is_top_city": feat["is_top_city"].astype(int),
         "confidence": conf.clip(0, 1).round(3),
-        "created_at": iso_created_at()
     })
 
     # drivers

@@ -13,13 +13,13 @@ def parse_args():
   parser.add_argument("--structured", required=True)
   parser.add_argument("--text", required=True)
   parser.add_argument("--output", required=True)
-  parser.add_argument("--artifacts_dir", required=True)
+  parser.add_argument("--outputs_dir", required=True)
   return parser.parse_args()
 
 
-def build_feature_mart(structured_path, text_path, output_path, artifacts_dir):
+def build_feature_mart(structured_path, text_path, output_path, outputs_dir):
   np.random.seed(42)
-  artifacts_dir.mkdir(parents=True, exist_ok=True)
+  outputs_dir.mkdir(parents=True, exist_ok=True)
 
   # load the data
   structured = pd.read_json(structured_path)
@@ -70,9 +70,9 @@ def build_feature_mart(structured_path, text_path, output_path, artifacts_dir):
   # save outputs (with ids)
   output_path.parent.mkdir(parents=True, exist_ok=True)
   X.to_parquet(output_path, index=False)
-  joblib.dump(tfidf, artifacts_dir / "tfidf.pkl")
-  joblib.dump(pca, artifacts_dir / "pca.pkl")
-  joblib.dump(scaler, artifacts_dir / "scaler.pkl")
+  joblib.dump(tfidf, outputs_dir / "tfidf.pkl")
+  joblib.dump(pca, outputs_dir / "pca.pkl")
+  joblib.dump(scaler, outputs_dir / "scaler.pkl")
 
   metadata = {
     "n_samples": len(X),
@@ -84,7 +84,7 @@ def build_feature_mart(structured_path, text_path, output_path, artifacts_dir):
     "output_path": str(output_path),
   }
 
-  with open(artifacts_dir / "metadata.json", "w") as f:
+  with open(outputs_dir / "metadata.json", "w") as f:
     json.dump(metadata, f, indent=2)
 
 if __name__ == "__main__":
@@ -93,5 +93,5 @@ if __name__ == "__main__":
     structured_path=Path(args.structured),
     text_path=Path(args.text),
     output_path=Path(args.output),
-    artifacts_dir=Path(args.artifacts_dir)
+    outputs_dir=Path(args.outputs_dir)
   )

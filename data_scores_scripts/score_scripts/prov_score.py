@@ -3,7 +3,7 @@ import argparse
 import sys
 from typing import List
 import pandas as pd
-from utils import iso_created_at, minmax_norm
+from utils import  minmax_norm
 
 # scores for bonus 1/0
 INSTITUTION_KWRDS = ["museum", "institute", "university"] 
@@ -12,7 +12,7 @@ BONUS_METHODS = ["commissioned", "bequest", "gift"]
 W_RC = 0.6  
 W_AGE = 0.4
 BONUS_PER_FLAG = 0.05
-
+3
 def parse_args(argv: List[str] = None): # setting up the cmd line interface the run the python file
   p = argparse.ArgumentParser()
   p.add_argument("--input", required=True)
@@ -85,7 +85,6 @@ def main(argv: List[str] = None):
   score = (final * 100).round().astype(int)
 
   # create output
-  created_at = iso_created_at()
   out = pd.DataFrame({
     "artwork_id": drivers["artwork_id"],
     "provenance_score": score,
@@ -96,7 +95,6 @@ def main(argv: List[str] = None):
       "institutional_flag": int(r["institutional_flag"]),
       "method_bonus_flag": int(r["method_bonus_flag"]),
     }, axis=1),
-    "created_at": created_at
   })
 
   out_records = out.to_dict(orient="records")

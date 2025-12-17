@@ -1,14 +1,13 @@
 import argparse
 import json
 import sys
-from datetime import datetime, timezone
+from datetime import datetime 
 from typing import Dict, List, Optional
 
 import numpy as np
 import pandas as pd
 
 # sklearn imports
-from sklearn import __version__ as skl_version
 from sklearn.compose import ColumnTransformer
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.ensemble import RandomForestRegressor
